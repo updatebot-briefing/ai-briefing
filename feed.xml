@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Update Bot AI Briefing</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+    <description>Weekday morning AI briefing: Grok Bot, ChatGPT/Grok/Claude/Gemini releases, major AI news, Hermes, and GrokBot-like competitors.</description>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI briefing — Thursday, Aug 27, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-27</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Overnight Hermes Agent hit v0.20.6, and Google shipped a Gemini Live productivity pack plus Gemini 3.5 Transcribe. Grok Bot on more plans, Claude’s Cowork browser, and ChatGPT’s webhook tasks are still the big product moves from the last couple of days.</p>
+<h3>New overnight / yesterday</h3>
+<ul>
+<li><b>Hermes Agent</b> <a href="https://github.com/NousResearch/hermes-agent/releases">v0.20.6</a> (~5:06am PT): Chromium-profile browsing (consent-gated), desktop browser as an OS window, 50+ remote MCP servers, OS-keychain secrets. No new Hermes model this week.</li>
+<li><b>Gemini:</b> <a href="https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/">Live productivity</a> (Spark voice-to-tasks, Daily Brief from Gmail+Calendar) and <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/">Gemini 3.5 Transcribe</a>.</li>
+</ul>
+<h3>Still the week’s product news</h3>
+<ul>
+<li><b>Grok Bot:</b> <a href="https://x.ai/news/grok-bot-more-plans">now on</a> SuperGrok, Cursor Pro/Pro+/Ultra, Cursor Teams Standard and Premium. Enterprise waitlist.</li>
+<li><b>Claude (Aug 26):</b> <a href="https://claude.com/blog/cowork-built-in-browser">Cowork built-in browser</a> and <a href="https://claude.com/blog/claude-in-chrome-generally-available">Chrome generally available</a> on paid plans. <a href="https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it">Shared memory</a> across chat and Cowork on Aug 25.</li>
+<li><b>ChatGPT (Aug 25):</b> webhook-triggered scheduled tasks (Gmail/Slack/GitHub) and Work on signed-in sites. <a href="https://learn.chatgpt.com/docs/whats-new">What’s new</a>.</li>
+</ul>
+<h3>Major</h3>
+<p>OpenAI’s <a href="https://openai.com/index/hugging-face-incident-and-the-road-ahead/">Hugging Face incident report</a> (Aug 26). Grok 4.6 also landed on <a href="https://x.ai/news/grok-4-6-vertex-ai">Vertex</a> and <a href="https://x.ai/news/grok-4-6-amazon-bedrock">Bedrock</a> this week.</p>
+]]></description>
+    </item>
+  </channel>
+</rss>
