@@ -8,6 +8,19 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Tutti • VM opens Early Access — shared cloud Room for local agents</title>
+      <link>https://tutti.sh/en</link>
+      <guid isPermaLink="false">updatebot-breaking-tutti-vm-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 17:35:00 -0700</pubDate>
+      <description><![CDATA[
+<p><b>Tutti • VM</b> opened Early Access today (Aug 27 PT): multi-user, multi-agent real-time collaboration. Local Claude Code / Codex (and Cursor / OpenCode) stay on your machine; a managed local VM + cloud Room lets teammates' agents edit the same files in parallel, share localhost previews, and hand off context without re-briefing. Free during EA; creating a Room needs an invite code.</p>
+<ul>
+<li>Product: <a href="https://tutti.sh/en">tutti.sh</a></li>
+<li>Announcement: <a href="https://www.prnewswire.com/news-releases/tutti--vm-launches-in-early-access-the-google-docs-moment-for-cross-agent-collaboration-302857189.html">PR Newswire</a></li>
+</ul>
+]]></description>
+    </item>
+    <item>
       <title>AI briefing — Thursday, Aug 27, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-27</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-27</guid>
