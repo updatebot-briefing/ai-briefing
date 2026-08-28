@@ -8,6 +8,29 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI briefing — Friday, Aug 28, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-28</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Quiet on Grok Bot and Hermes. New ships: ChatGPT temporary-chat controls, Claude for Teachers for US K-12, and a court block on the Pentagon’s Anthropic blacklist.</p>
+<h3>Product</h3>
+<ul>
+<li><b>ChatGPT (Aug 27):</b> optional personalization in temporary chats (memory, plugins, custom instructions); can save a temp chat into history. Default stays non-personalized. <a href="https://help.openai.com/en/articles/6825453-release-notes">Release notes</a>.</li>
+<li><b>Claude (Aug 28):</b> <a href="https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts">Claude for Teachers</a> for US K-12 schools/districts. Free Enterprise year if you sign up by Jun 30, 2027. SSO, RBAC, FERPA-aligned terms, two Learning Commons skills.</li>
+<li><b>ChatGPT for Teachers (Aug 26):</b> <a href="https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts/">55 more US systems</a> across 20 states.</li>
+<li><b>Grok 4.6</b> on <a href="https://x.ai/news/grok-4-6-microsoft-foundry">Microsoft Foundry</a> (Aug 26).</li>
+</ul>
+<h3>Major</h3>
+<ul>
+<li>Judge Rita Lin blocked the Pentagon’s Anthropic supply-chain blacklist (First Amendment ruling). Separate FASCSA fight still in DC. <a href="https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html">CNBC</a>.</li>
+<li>Tencent <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">open-sourced Hy4 preview</a> (770B / 49B active, &gt;1M context).</li>
+<li>Nvidia–Hugging Face ~$12.9B remains unconfirmed rumor (The Information vs BI disagreement).</li>
+</ul>
+<p>Grok Bot: no new official move since the Aug 26 plan expansion. Hermes Agent still at v0.20.6.</p>
+]]></description>
+    </item>
+    <item>
       <title>Tutti • VM opens Early Access — shared cloud Room for local agents</title>
       <link>https://tutti.sh/en</link>
       <guid isPermaLink="false">updatebot-breaking-tutti-vm-2026-08-27</guid>
