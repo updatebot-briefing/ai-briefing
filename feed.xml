@@ -8,6 +8,16 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Grok Bot now works with X</title>
+      <link>https://x.ai/news/grok-bot-and-x</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-x-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 15:29:00 -0700</pubDate>
+      <description><![CDATA[
+<p>xAI shipped a first-version <b>X connector</b> for Grok Bot today (Aug 29). Connect your X account in Grok Bot (they create a developer account if you do not have one). Paid Grok Bot users get free X API credits to start. Then you can ask a Bot to search posts, read your timeline, check mentions, or pull together what is happening on X.</p>
+<p><a href="https://x.ai/news/grok-bot-and-x">x.ai/news/grok-bot-and-x</a></p>
+]]></description>
+    </item>
+    <item>
       <title>AI briefing — Weekday, Aug 29, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-29</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-29</guid>
