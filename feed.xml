@@ -8,6 +8,31 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI briefing — Weekday, Aug 29, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-29</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-08-29</guid>
+      <pubDate>Sat, 29 Aug 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p>OpenAI is pulling its models out of Cursor after SpaceX closed the Anysphere deal. Grok Bot also shipped two real product drops yesterday: shareable Bot templates, and in-browser buys via Stripe Link.</p>
+<h3>Grok Bot</h3>
+<ul>
+<li><b>Share templates</b> (Fri ~9:33am PT): public share link; recipient previews on x.ai and adds a copy. Does not include your computer, logins, or history. Strip secrets first. <a href="https://x.com/bot/status/2093376523919323618">@bot</a> · <a href="https://docs.x.ai/grok-bot/bots">docs</a></li>
+<li><b>Buy things</b> (Fri ~12:26pm PT): connect Stripe Link, you approve every spend, Bot gets a single-use card. US desktop now, mobile soon. <a href="https://x.com/bot/status/2093419921007108385">@bot</a></li>
+</ul>
+<h3>Product</h3>
+<ul>
+<li><b>ChatGPT (Aug 28):</b> multiple Gmail / Calendar / Contacts accounts in one conversation. Plus and up; admins can restrict. <a href="https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/">9to5Mac</a></li>
+<li><b>Gemini Notebook (Aug 28):</b> compute-based limits that refresh every 5 hours; you can defer Video Overviews / Slide Decks. Rolls out Sept 2. <a href="https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/">Google blog</a></li>
+<li><b>Claude Code v2.1.251</b> (~11:19am PT Fri): spend-limit bar, prompt-cache line in /cost, model-switch hooks. <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.251">GitHub</a></li>
+</ul>
+<h3>Major</h3>
+<ul>
+<li><b>OpenAI vs Cursor:</b> winds down model supply after SpaceX closed the Anysphere buy (~$60B all-stock). Proposed shutoff Nov 12, 2026; no future models (incl. Astra). Change-of-control clause; cites past X/xAI ToS issues. Truell: the sides are talking. Musk on X: “I couldn’t care less.” Anthropic’s Tom Brown: adding Claude compute for Cursor. <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">OpenAI</a> · <a href="https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/">Reuters</a></li>
+<li><b>Sony Music Publishing + Warner Chappell</b> sued Anthropic, Dario Amodei, and Benjamin Mann (filed Fri, N.D. Cal.). All three majors are now in court vs Anthropic over lyrics used to train Claude. Statutory damages up to $150k/work. <a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">MBW</a></li>
+</ul>
+]]></description>
+    </item>
+<item>
       <title>AI briefing — Weekday, Aug 28, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-28</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-28</guid>
@@ -49,7 +74,7 @@
 </ul>
 ]]></description>
     </item>
-    <item>
+<item>
       <title>AI briefing — Thursday, Aug 27, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-27</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-27</guid>
