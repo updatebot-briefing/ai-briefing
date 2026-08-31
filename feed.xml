@@ -7,7 +7,27 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+        <item>
+      <title>AI briefing — Weekday, Aug 31, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-31</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p><b>ChatGPT Ads</b> just hit a <b>$1B</b> annualized revenue run rate (under 200 days). Self-serve Ads Manager expands today across India, Europe, the Middle East, and North Africa. Also today: GPT-5.4 leaves ChatGPT-signed-in Codex.</p>
+<h3>Product</h3>
+<ul>
+<li><b>ChatGPT Ads (today):</b> $1B ARR; tens of thousands of advertisers; live in 40+ countries. Ads stay labeled and separate from answers. Self-serve buying opens later today in India, Europe, MENA, and North Africa. <a href="https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/">OpenAI</a> · <a href="https://ads.openai.com">ads.openai.com</a></li>
+<li><b>Codex (today):</b> GPT-5.4 and GPT-5.4 mini leave Codex for ChatGPT-signed-in users. Swap to <code>gpt-5.6-terra</code> / <code>gpt-5.6-luna</code> in defaults, agents, and scheduled tasks. API-key Codex is unaffected. <a href="https://learn.chatgpt.com/docs/whats-new">What’s new</a></li>
+<li><b>ChatGPT (Fri):</b> connect multiple Google accounts for Gmail, Calendar, and Contacts in one conversation (Plus/Pro/Business/Enterprise). <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">Release notes</a></li>
+</ul>
+<h3>Grok Bot</h3>
+<ul>
+<li>Quiet overnight. Latest ship is still Sat’s first-version <b>X connector</b> (auto developer account + starter API credits; search posts, timeline, mentions). <a href="https://x.ai/news/grok-bot-and-x">x.ai</a> · <a href="https://x.com/bot/status/2093822274067706170">@bot</a></li>
+</ul>
+]]></description>
+    </item>
+
+<item>
       <title>AI briefing — Weekday, Aug 30, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-30</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-30</guid>
