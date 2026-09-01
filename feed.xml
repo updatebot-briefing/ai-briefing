@@ -7,7 +7,39 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+      <item>
+    <title>AI briefing — Weekday, Sep 1, 2026</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/</link>
+    <guid isPermaLink="false">updatebot-briefing-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 08:09:00 -0700</pubDate>
+    <description><![CDATA[
+<p><b>Hermes Agent v0.21.0</b> (Pantheon) dropped yesterday ~12:29pm PT — Bot Mode is now default-on in the desktop app. Also overnight: the EU put ChatGPT under the DSA’s strictest search tier, and the Pentagon added ChatGPT Mil + Grok for Government to GenAI.mil.</p>
+
+<h3>Hermes</h3>
+<ul>
+<li><b>v0.21.0 / v2026.8.31:</b> named agents with faces, Discord-style group chats + @-mentions, <code>hermes peer</code> bot-to-bot DMs, cron with persistent memory/continuity, live subagent steering, agent-driven in-app browser. No newer tag overnight (main is fix/feat polish only). <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31">GitHub</a> · <a href="https://x.com/NousResearch/status/2094515104670715940">@NousResearch</a></li>
+</ul>
+
+<h3>Major</h3>
+<ul>
+<li><b>EU DSA (Mon):</b> Commission designated ChatGPT a Very Large Online Search Engine (VLOSE), plus Reddit and Roblox as VLOPs. ~4 months to meet extra risk/audit obligations. <a href="https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act">EC</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa">The Verge</a></li>
+<li><b>Pentagon GenAI.mil (Mon ~1:13pm PT):</b> ChatGPT Mil and Grok for Government join the secure portal (Gemini was already there); ~1.7M DoD users. Claude still absent amid the DoD dispute. <a href="https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/">TechCrunch</a></li>
+<li><b>Anthropic (Mon):</b> “Improving our alignment and security efforts” — containment/monitoring after the July eval incidents; external cyber tests resumed with a real-time escape classifier and partner sandbox rules. Companion reward-hacking research: <a href="https://alignment.anthropic.com/2026/reward-seeker/">Training a Misaligned Reward Seeker</a>. <a href="https://www.anthropic.com/news/improving-alignment-security-efforts">Anthropic</a></li>
+</ul>
+
+<h3>Product</h3>
+<ul>
+<li><b>ChatGPT (Mon notes):</b> personalized sticker packs (mobile); Live voice on iPhone Lock Screen / Dynamic Island; website tools (WebMCP) in the desktop browser for Work/Codex; extension now on Edge, Brave, Opera, Vivaldi; better pronunciation help. <a href="https://help.openai.com/en/articles/6825453-release-notes">Release notes</a></li>
+<li><b>Google (Mon):</b> TimesFM-3 multivariate time-series foundation model (GitHub/HF). Antigravity Teamwork + Gemini 3.7 Flash claims seven open math/TCS wins (incl. Knuth’s Cycles Conjecture in Lean) plus a RISC-V sim that boots xv6. Open-source Data Agent Kit for Airflow/MLOps pipelines. <a href="https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/">TimesFM-3</a> · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/">Antigravity</a> · <a href="https://cloud.google.com/blog/products/data-analytics/build-data-pipelines-in-less-time-with-data-agent-kit">Data Agent Kit</a></li>
+</ul>
+
+<h3>Grok Bot</h3>
+<ul>
+<li>Quiet overnight. Newest official ship still Sat’s <b>X connector</b> (and Aug 26 plan expansion). Cursor changelog newest Aug 27 start-from-scratch. status.cursor.com: Grok Bot Operational / 100% (brief Composer 2.5 blip Mon evening was not Grok Bot). Public X: @cursor_ai newest still Aug 27 Origin/Vercel; @SpaceXAI/@xai nothing newer than late Aug. <a href="https://x.ai/news/grok-bot-and-x">x.ai</a> · <a href="https://x.com/cursor_ai/status/2093077548649570777">@cursor_ai</a> · <a href="https://status.cursor.com">status</a></li>
+</ul>
+]]></description>
+  </item>
+  <item>
       <title>Hermes Agent v0.21.0 — Pantheon (Bot Mode default-on)</title>
       <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31</link>
       <guid isPermaLink="false">updatebot-breaking-hermes-v0.21.0-2026-08-31</guid>
