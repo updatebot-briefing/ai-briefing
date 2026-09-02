@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-      <item>
+          <item>
+      <title>Cursor Self-hosted Machines — agents on your infra + computer use</title>
+      <link>https://cursor.com/blog/self-hosted-machines</link>
+      <guid isPermaLink="false">updatebot-breaking-cursor-self-hosted-machines-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 14:33:55 -0700</pubDate>
+      <description>Cursor (Sep 2, 2026 PT): Self-hosted Machines lets cloud agents run tool execution on machines you manage — My Machines and Team Pools with dynamic scaling and hibernation. Computer use now on Linux and Mac (click/type/screenshots/browser); partners include AWS Lambda, Cloudflare, Coder, Daytona, E2B, Modal, Namespace, and Vercel. Changelog: https://cursor.com/changelog · Docs: https://cursor.com/docs/cloud-agent/self-hosted</description>
+    </item>
+<item>
       <title>Google Gemini 3.8 Flash + 3.8 Flash Cyber</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
       <guid isPermaLink="false">updatebot-breaking-gemini-3-8-flash-2026-09-02</guid>
