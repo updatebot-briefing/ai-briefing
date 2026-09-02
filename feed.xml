@@ -8,6 +8,19 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
       <item>
+      <title>Google Gemini 3.8 Flash + 3.8 Flash Cyber</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
+      <guid isPermaLink="false">updatebot-breaking-gemini-3-8-flash-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 12:40:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Google shipped <b>Gemini 3.8 Flash</b> today (Sep 2) — best Flash yet for long-horizon coding and autonomous agents, same intro price as 3.7 ($0.75 / $3.75 per M tokens). Also launches <b>3.8 Flash Cyber</b> for trusted defenders via the new Fairwind Program (vuln discovery + automated patching).</p>
+<p>Live now for developers (Gemini API / AI Studio / Antigravity), enterprises, and Google AI Pro/Ultra consumers.</p>
+<p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Google blog</a></p>
+]]>
+</description>
+    </item>
+
+      <item>
     <title>AI briefing — Weekday, Sep 1, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-01</guid>
