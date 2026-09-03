@@ -7,6 +7,18 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grok Bot outage resolved</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-outage-resolved-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 10:07:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Cursor marked this morning’s <b>Grok Bot major outage</b> resolved at 10:07am PT. Grok Bot, Review Agents, Automations, Cloud Agents, and the IDE all show Operational. Incident started 6:41am PT; identified 8:33am PT.</p>
+<p>Incident: <a href="https://stspg.io/my6v5jj14wyg">stspg.io/my6v5jj14wyg</a> · Status: <a href="https://status.cursor.com">status.cursor.com</a></p>
+]]>
+      </description>
+    </item>
+
               <item>
       <title>Grok Bot major outage (Cursor status, still open)</title>
       <link>https://status.cursor.com</link>
