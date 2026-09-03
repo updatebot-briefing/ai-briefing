@@ -7,7 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+
+<item>
+      <title>OpenAI GPT-6 Astra launches</title>
+      <link>https://openai.com/index/gpt-6-astra/</link>
+      <guid isPermaLink="false">updatebot-breaking-openai-gpt-6-astra-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 11:45:00 -0700</pubDate>
+      <description><![CDATA[
+<p>OpenAI launched <b>GPT-6 Astra</b> today (Sep 3) — official post live ~11:45am PT. Flagship model for computer use, browsing, software engineering, science, and professional work; first OpenAI model at <b>Critical</b> cybersecurity under the Preparedness Framework. Rolling out now to a limited Daybreak set; Plus/Pro/Business/Enterprise + API/AWS over coming days.</p>
+<p><a href="https://openai.com/index/gpt-6-astra/">Launch</a> · <a href="https://openai.com/index/safety-overview-gpt-6-astra/">Safety overview</a> · <a href="https://deploymentsafety.openai.com/gpt-6-astra">System card</a> · <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes</a></p>
+]]>
+      </description>
+    </item>
+<item>
       <title>Grok Bot outage resolved</title>
       <link>https://status.cursor.com</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-outage-resolved-2026-09-03</guid>
@@ -18,8 +30,7 @@
 ]]>
       </description>
     </item>
-
-              <item>
+<item>
       <title>Grok Bot major outage (Cursor status, still open)</title>
       <link>https://status.cursor.com</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-major-outage-2026-09-03</guid>
@@ -30,7 +41,7 @@
 ]]>
       </description>
     </item>
-    <item>
+<item>
       <title>Grok Bot is now on Android</title>
       <link>https://forum.cursor.com/t/grok-bot-is-now-live-on-android/170384</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-android-2026-09-02</guid>
@@ -59,8 +70,7 @@
 ]]>
 </description>
     </item>
-
-      <item>
+<item>
     <title>AI briefing — Weekday, Sep 1, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-01</guid>
@@ -92,7 +102,7 @@
 </ul>
 ]]></description>
   </item>
-  <item>
+<item>
       <title>Hermes Agent v0.21.0 — Pantheon (Bot Mode default-on)</title>
       <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31</link>
       <guid isPermaLink="false">updatebot-breaking-hermes-v0.21.0-2026-08-31</guid>
@@ -104,8 +114,7 @@
 <p><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31">GitHub release</a></p>
 ]]></description>
     </item>
-
-        <item>
+<item>
       <title>AI briefing — Weekday, Aug 31, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-31</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-31</guid>
@@ -124,7 +133,6 @@
 </ul>
 ]]></description>
     </item>
-
 <item>
       <title>AI briefing — Weekday, Aug 30, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-30</link>
@@ -143,7 +151,7 @@
 </ul>
 ]]></description>
     </item>
-    <item>
+<item>
       <title>Grok Bot now works with X</title>
       <link>https://x.ai/news/grok-bot-and-x</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-x-2026-08-29</guid>
@@ -153,7 +161,7 @@
 <p><a href="https://x.ai/news/grok-bot-and-x">x.ai/news/grok-bot-and-x</a></p>
 ]]></description>
     </item>
-    <item>
+<item>
       <title>AI briefing — Weekday, Aug 29, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-29</link>
       <guid isPermaLink="false">updatebot-briefing-2026-08-29</guid>
