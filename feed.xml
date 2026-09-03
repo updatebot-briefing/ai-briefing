@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-          <item>
+              <item>
+      <title>Grok Bot major outage (Cursor status, still open)</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-major-outage-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 09:36:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Cursor status: <b>Grok Bot major outage</b> (also Review Agents). Incident started 6:41am PT Sep 3, identified 8:33am PT, still not resolved. Impact critical; All Grok Models, Automations, Cloud Agents, Grok Bot, and Review Agents were named. Automations/Cloud Agents later recovered; Grok Bot and Review Agents remain major outage.</p>
+<p>Incident: <a href="https://stspg.io/my6v5jj14wyg">stspg.io/my6v5jj14wyg</a> · Status: <a href="https://status.cursor.com">status.cursor.com</a></p>
+]]>
+      </description>
+    </item>
+    <item>
+      <title>Grok Bot is now on Android</title>
+      <link>https://forum.cursor.com/t/grok-bot-is-now-live-on-android/170384</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-android-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 13:01:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Official Cursor staff post ~1:01pm PT Sep 2: <b>Grok Bot shipped on Android</b>. Same bots/threads as desktop and iOS; bots keep working on their cloud computer after you lock the phone. Google Play: <a href="https://play.google.com/store/apps/details?id=ai.x.grok.bot">ai.x.grok.bot</a>. Announcement: <a href="https://x.com/bot/status/2095168633559462197">@bot</a>.</p>
+]]>
+      </description>
+    </item>
+<item>
       <title>Cursor Self-hosted Machines — agents on your infra + computer use</title>
       <link>https://cursor.com/blog/self-hosted-machines</link>
       <guid isPermaLink="false">updatebot-breaking-cursor-self-hosted-machines-2026-09-02</guid>
