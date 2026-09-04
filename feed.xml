@@ -8,6 +8,47 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
 
+    <item>
+      <title>AI briefing — Weekday, Sep 4, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p><b>Catch-up briefing</b> — Tue Sep 1 was the last morning digest (Wed quiet; Thu morning run failed). Big ships Thu/Wed.</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li><b>Enterprise (Thu):</b> access, network, and audit controls for org rollout. Free for Grok/Cursor Enterprise for 2 weeks with whole-org invites (including people without a seat). <a href="https://x.ai/news/grok-bot-for-enterprise">x.ai</a></li>
+<li><b>Android (Wed):</b> Grok Bot app now on Android. <a href="https://x.com/bot/status/2095168633559462197">@bot</a></li>
+<li><b>Microsoft plugins (Mon Aug 31):</b> Outlook, Calendar, OneDrive connectors. <a href="https://x.com/bot/status/2094543253811183943">@bot</a></li>
+<li>Thu afternoon: brief Grok Bot routine-trigger / status blips resolved (already pinged in-chat).</li>
+</ul>
+
+<h3>Product</h3>
+<ul>
+<li><b>OpenAI GPT-6 Astra (Thu):</b> flagship for coding, research, computer use, and multi-step work. Rolling out to a limited set of orgs now; Plus/Pro/Business/Enterprise + API in the coming days. First model at Critical cyber under OpenAI’s Preparedness Framework; extra agent safety monitoring. <a href="https://openai.com/index/gpt-6-astra/">OpenAI</a> · <a href="https://developers.openai.com/api/docs/models/gpt-6-astra">API</a> · <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT notes</a></li>
+<li><b>Google Gemini 3.8 Flash + 3.8 Flash Cyber (Wed):</b> workhorse Flash at 3.7 prices; Flash Cyber + Fairwind Program for trusted defenders. <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Google</a></li>
+<li><b>Cursor Self-Hosted Machines (Wed):</b> Cloud Agent tool execution on machines you manage (My Machines / Team Pools); computer use on Linux/Mac workers. Related to Cursor agents, not a Grok Bot ship. <a href="https://cursor.com/blog/self-hosted-machines">Cursor</a> · <a href="https://cursor.com/changelog/self-hosted-machines">changelog</a></li>
+</ul>
+
+<h3>Major</h3>
+<ul>
+<li><b>NVIDIA agreed to acquire Hugging Face (~$12.93B):</b> definitive agreement Sep 2; Jensen’s blog Sep 3. ~$11.9B to stockholders + up to ~$1B employee retention equity. HF stays open / multi-cloud / multi-accelerator — NVIDIA compute not required. Close guided H1 2027 pending regs. <a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">NVIDIA blog</a> · <a href="https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm">8-K</a></li>
+<li><b>NVIDIA PAIR + local agents (Thu, IFA):</b> free open-source Personal AI Router routes local inference across home/network PCs (Ollama/LM Studio). Hermes Agent gets one-click local RTX setup on Windows; also Perplexity Portable Computer + OpenClaw Windows local setup. <a href="https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/">NVIDIA</a></li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <b>v0.21.0 / v2026.8.31</b> (Pantheon) — no newer tag. NVIDIA IFA: simplified one-click local GPU setup on Windows (Linux soon). <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31">GitHub</a></li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>Themes: product launches (Enterprise, Android, Microsoft, X connector). Newest: Enterprise Thu ~2:14pm PT. <a href="https://x.com/bot">@bot</a></li>
+<li><a href="https://x.com/bot/status/2095621571335655872">Enterprise free for 2 weeks</a> · <a href="https://x.com/bot/status/2095168633559462197">Android</a> · <a href="https://x.com/bot/status/2094543253811183943">Outlook/Calendar/OneDrive</a> · <a href="https://x.com/bot/status/2093822274067706170">X connector + auto credits</a></li>
+</ul>
+]]></description>
+    </item>
 <item>
       <title>NVIDIA to acquire Hugging Face (~$12.93B)</title>
       <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</link>
