@@ -9,6 +9,28 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
 
 <item>
+      <title>NVIDIA to acquire Hugging Face (~$12.93B)</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</link>
+      <guid isPermaLink="false">updatebot-breaking-nvidia-hugging-face-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 19:28:00 -0700</pubDate>
+      <description><![CDATA[
+<p>NVIDIA agreed to acquire <b>Hugging Face</b> for <b>$12,930,300,000</b> (announced Sep 3; definitive agreement dated Sep 2). HF stays an open multi-cloud / multi-accelerator platform — NVIDIA compute not required. ~18M developers, 3M+ models. Close guided H1 2027 pending regulatory approval. SEC 8-K: ~$11.9B to stockholders + up to ~$1B employee retention equity.</p>
+<p><a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">NVIDIA blog</a> · <a href="https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm">SEC 8-K</a></p>
+]]>
+      </description>
+    </item>
+<item>
+      <title>NVIDIA PAIR + Hermes one-click local RTX (IFA)</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</link>
+      <guid isPermaLink="false">updatebot-breaking-nvidia-pair-hermes-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 19:28:00 -0700</pubDate>
+      <description><![CDATA[
+<p>At IFA 2026 (Sep 3), NVIDIA shipped <b>PAIR</b> (Personal AI Router) — free open-source beta that routes local agent inference across idle home PCs (Ollama/LM Studio; Win/macOS/Linux; RTX 20+ / M4+). Demoed with <b>Hermes</b> subagents. Same post: <b>Hermes Agent</b> gets one-click local NVIDIA GPU model setup on Windows now (Linux soon); OpenClaw Windows app + Perplexity Portable Computer also in the local-agent push.</p>
+<p><a href="https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/">NVIDIA IFA blog</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook">The Verge</a></p>
+]]>
+      </description>
+    </item>
+<item>
       <title>Grok Bot for Enterprise</title>
       <link>https://x.ai/news/grok-bot-for-enterprise</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-for-enterprise-2026-09-03</guid>
