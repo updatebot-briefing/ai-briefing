@@ -9,6 +9,17 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
 
 <item>
+      <title>Grok Bot for Enterprise</title>
+      <link>https://x.ai/news/grok-bot-for-enterprise</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-for-enterprise-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 17:49:00 -0700</pubDate>
+      <description><![CDATA[
+<p>xAI launched <b>Grok Bot for Enterprise</b> (Sep 3) — enterprise access, plus access/network/audit controls to govern bots at scale. Each bot still runs on its own cloud computer. <b>Grok and Cursor Enterprise</b> customers get free usage for the next two weeks and can invite the whole org (including people without a seat).</p>
+<p><a href="https://x.ai/news/grok-bot-for-enterprise">x.ai/news/grok-bot-for-enterprise</a></p>
+]]>
+      </description>
+    </item>
+<item>
       <title>OpenAI GPT-6 Astra launches</title>
       <link>https://openai.com/index/gpt-6-astra/</link>
       <guid isPermaLink="false">updatebot-breaking-openai-gpt-6-astra-2026-09-03</guid>
