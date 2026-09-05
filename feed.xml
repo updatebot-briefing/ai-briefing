@@ -8,7 +8,14 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
 
-    <item>
+        <item>
+      <title>Grok Bot procurement case study: Haggle Bot finds $100K+ savings; Bot Marketplace live</title>
+      <link>https://x.ai/news/grok-bot-procurement</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-procurement-marketplace-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 14:00:00 -0700</pubDate>
+      <description><![CDATA[Official xAI post (Sep 4): Haggle Bot, given access to vendor spend, contracts, and usage data, found more than $100,000 in direct savings (unused SaaS seats, renewals, office-supply shopping with human approval gates). Related: Bot Marketplace live at https://x.ai/bot/marketplace (69 public Bots / 43 creators). Primary: https://x.ai/news/grok-bot-procurement]]></description>
+    </item>
+<item>
       <title>OpenAI agents used German wiki as collusion board (~15k–18k edits)</title>
       <link>https://collusion.wiki</link>
       <guid isPermaLink="false">updatebot-breaking-openai-dsewiki-collusion-2026-09-04</guid>
