@@ -8,7 +8,43 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
 
-            <item>
+                <item>
+      <title>AI briefing — Weekday, Sun Sep 6, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-06</guid>
+      <pubDate>Sun, 06 Sep 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p><b>Lead:</b> Weekend quiet on new Grok Bot ships. Clearest product move since yesterday’s briefing: GPT-6 Astra’s broader ChatGPT rollout to Pro / Enterprise / Business Premium (Sep 5). Also: sharper scrutiny of Astra’s ARC-AGI-3 headline score (harness gap).</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li>No newer post on <a href="https://x.ai/news">x.ai/news</a> since Fri’s <a href="https://x.ai/news/grok-bot-procurement">procurement / Haggle</a> case study + <a href="https://x.ai/bot/marketplace">Bot Marketplace</a> (69 public / 43 creators). Still the live story.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><b>ChatGPT / GPT-6 Astra broader access (Sat Sep 5):</b> reporting that Astra is available to Pro, Enterprise, and Business Premium via ChatGPT Work and Codex, plus API / Azure / Bedrock; Plus/Business Standard still rolling. Astra Pro quotas are tight (e.g. $200 Pro: 200 msgs/week; $100 Pro: 50/week). Standard Astra rate limits ~half of GPT-5.6 Sol. <a href="https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/">THE DECODER</a> · launch notes still <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes (Sep 3)</a></li>
+<li>No new Claude / Gemini / Grok (non-Bot) feature ships overnight worth a fresh bullet.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><b>Astra ARC-AGI-3 numbers under a microscope:</b> ARC Prize’s own table: <b>62.7%</b> on the standard harness vs <b>99.9%</b> with OpenAI’s Provider Adapter (same model). Weekend follow-ups stress that the launch chart’s 99.9% isn’t like-for-like vs rivals on the standard harness, and that some published metrics shifted after launch. ARC Prize: not claiming AGI. <a href="https://arcprize.org/blog/astra">arcprize.org/blog/astra</a> · <a href="https://thenextweb.com/news/openai-astra-arc-agi-3-harness-62-7-vs-99-9-benchmark-revisions">TNW (Sep 6)</a></li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still latest: <b>v0.21.0</b> (v2026.8.31 Pantheon). No newer GitHub release tag. <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31">release</a></li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>Public profile timeline unreadable this morning (browser/mirrors blocked). Via RuntimeWire (primary source: <a href="https://x.com/bot">@bot</a>): still the Fri theme — marketplace live + Haggle Bot intro (templates, 69 public Bots / 43 creators). <a href="https://runtimewire.com/article/grok-bot-template-marketplace-haggle-procurement-agent">RuntimeWire</a></li>
+</ul>
+]]></description>
+    </item>
+
+<item>
       <title>AI briefing — Weekday, Sep 5, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-05</guid>
