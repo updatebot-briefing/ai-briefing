@@ -7,6 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Grok Bot computers unreachable for some users (Cursor status)</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-unreachable-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 13:34:18 -0700</pubDate>
+      <description>Cursor status reports a major-impact incident (investigating as of ~1:32pm PT Mon Sep 7): Grok Bot is in partial outage — some users cannot reach their Grok Bot computer, and Recover/Reset may fail. Data is not affected; a fix is rolling out. Incident: https://stspg.io/2h04kqhqq9jw</description>
+    </item>
+
 
                     <item>
       <title>AI briefing — Weekday, Mon Sep 7, 2026</title>
