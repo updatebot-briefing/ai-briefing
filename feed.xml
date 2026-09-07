@@ -8,6 +8,15 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Grok Bot computers unreachable — resolved (Cursor status)</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-resolved-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 14:50:00 -0700</pubDate>
+      <description>Cursor status: the Grok Bot computers-unreachable incident is Resolved as of ~2:37pm PT Mon Sep 7 (All Systems Operational). Timeline PT: Investigating ~1:32pm → Identified ~1:33pm → Monitoring ~1:41pm → Resolved ~2:37pm. Some users could not reach their Grok Bot computer; Recover/Reset may have failed; data not affected. Incident: https://stspg.io/2h04kqhqq9jw</description>
+    </item>
+
+
+    <item>
       <title>Grok Bot computers unreachable for some users (Cursor status)</title>
       <link>https://status.cursor.com</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-unreachable-2026-09-07</guid>
