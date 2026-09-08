@@ -7,7 +7,18 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-        <item>
+            <item>
+      <title>Meta launches Muse — personal AI agent with its own Secure VM</title>
+      <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
+      <guid isPermaLink="false">updatebot-breaking-meta-muse-personal-agent-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 12:00:00 -0700</pubDate>
+      <description><![CDATA[Meta launched Muse (US): a personal AI agent that does work across email, calendar, payments, shopping, health, and more — not just chat. Each Muse runs on Muse Secure VM, a dedicated cloud computer with its own browser; a separate Sentinel agent gates network/sensitive actions. Available on muse.ai, iOS, Android, and WhatsApp; free tier plus $20/$100 plans. Powered by Muse Spark. Primary: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/ · Product: https://muse.ai · Coverage: https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/ · https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/]]></description>
+      <content:encoded><![CDATA[<p>Meta launched <strong>Muse</strong> (US rollout): a personal AI agent that takes on tasks across email, calendar, payments, shopping, health, and more — not just answers questions.</p>
+<p>Each Muse runs on <strong>Muse Secure VM</strong>, a dedicated cloud computer with its own browser; a separate Sentinel agent gates outbound network and sensitive actions (send email, purchase). Credentials stay in secure storage Muse cannot see.</p>
+<p>Available at <a href="https://muse.ai">muse.ai</a>, iOS, Android, and WhatsApp; free for most use, with Power ($20/mo) and Maximum ($100/mo) plans. Powered by Muse Spark. Glasses coming soon.</p>
+<p>Primary: <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Meta Newsroom</a> · Coverage: <a href="https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/">TechCrunch</a> · <a href="https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/">Reuters</a></p>]]></content:encoded>
+    </item>
+<item>
       <title>OpenAI claims Navier–Stokes Millennium Prize solution via multi-agent system</title>
       <link>https://openai.com/index/navier-stokes-solution/</link>
       <guid isPermaLink="false">updatebot-breaking-openai-navier-stokes-2026-09-08</guid>
@@ -26,18 +37,14 @@
       <pubDate>Mon, 07 Sep 2026 14:50:00 -0700</pubDate>
       <description>Cursor status: the Grok Bot computers-unreachable incident is Resolved as of ~2:37pm PT Mon Sep 7 (All Systems Operational). Timeline PT: Investigating ~1:32pm → Identified ~1:33pm → Monitoring ~1:41pm → Resolved ~2:37pm. Some users could not reach their Grok Bot computer; Recover/Reset may have failed; data not affected. Incident: https://stspg.io/2h04kqhqq9jw</description>
     </item>
-
-
-    <item>
+<item>
       <title>Grok Bot computers unreachable for some users (Cursor status)</title>
       <link>https://status.cursor.com</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-unreachable-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 13:34:18 -0700</pubDate>
       <description>Cursor status reports a major-impact incident (investigating as of ~1:32pm PT Mon Sep 7): Grok Bot is in partial outage — some users cannot reach their Grok Bot computer, and Recover/Reset may fail. Data is not affected; a fix is rolling out. Incident: https://stspg.io/2h04kqhqq9jw</description>
     </item>
-
-
-                    <item>
+<item>
       <title>AI briefing — Weekday, Mon Sep 7, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-07</guid>
@@ -73,7 +80,6 @@
 </ul>
 ]]></description>
     </item>
-
 <item>
       <title>AI briefing — Weekday, Sun Sep 6, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
@@ -109,7 +115,6 @@
 </ul>
 ]]></description>
     </item>
-
 <item>
       <title>AI briefing — Weekday, Sep 5, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
@@ -149,7 +154,6 @@
 ]]>
       </description>
     </item>
-
 <item>
       <title>Grok Bot procurement case study: Haggle Bot finds $100K+ savings; Bot Marketplace live</title>
       <link>https://x.ai/news/grok-bot-procurement</link>
@@ -168,7 +172,7 @@
 ]]>
       </description>
     </item>
-    <item>
+<item>
       <title>AI briefing — Weekday, Sep 4, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-04</guid>
