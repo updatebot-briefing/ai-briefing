@@ -8,7 +8,51 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     
-    <item>
+        <item>
+      <title>AI briefing — Weekday, Sat Sep 12, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p><b>Lead:</b> Quiet overnight on official Grok Bot product posts — but <b>Grok Bot Galaxy</b> starts Tue (Sep 15–17, The Howard SF + livestream, ~8:30am–6pm PT). Freshest ship since Fri’s digest: <b>Hermes Agent v0.21.2</b> (Fri Sep 11).</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li>No newer official post on <a href="https://x.ai/news">x.ai/news</a> since Enterprise (Sep 3) / <a href="https://x.ai/news/grok-bot-procurement">procurement</a> (Sep 4).</li>
+<li><b>Galaxy next week:</b> Tue–Thu Sep 15–17 — role tracks (eng, PM, founders, sales, SDRs, support, marketing) plus livestream wrap/showcase. Register: <a href="https://x.ai/galaxy">x.ai/galaxy</a></li>
+<li><b>Cursor Projects</b> (Thu Sep 10) still newest Cursor product: coordinator + own cloud computer + thousands of subagents. <a href="https://cursor.com/blog/projects">cursor.com/blog/projects</a></li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li>No new ChatGPT / Claude / Gemini / Grok feature ships overnight after Thu–Fri’s wave.</li>
+<li><b>Still in the rearview (Thu Sep 10):</b> OpenAI <a href="https://openai.com/index/introducing-the-agents-api/">Agents API</a> public beta (managed Codex harness + hosted/own/partner sandboxes), <a href="https://openai.com/index/put-data-to-work/">Data agent in ChatGPT Work</a>, <a href="https://openai.com/index/introducing-chatgpt-financial-services/">ChatGPT for Financial Services</a>, and <a href="https://openai.com/index/introducing-gpt-live-1-in-the-api/">GPT‑Live‑1 in the API</a> (~$0.05/min full-duplex voice).</li>
+<li><b>Gemini app for Windows</b> (Thu Sep 10): <code>Alt + Space</code> overlay; Spark agent workflows; Nano Banana / Omni. <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">Google blog</a> · <a href="https://gemini.google/desktop/">download</a></li>
+<li>Claude product newest still Fable/Mythos 5.1 (Sep 1).</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><b>Safety / RSI chatter (Fri Sep 11):</b> CNBC roundup of Anthropic + OpenAI researchers warning on recursive self-improvement after Coxon’s resignation and Hubinger’s &gt;10% extinction-in-a-decade estimate. <a href="https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html">CNBC</a></li>
+<li><b>Anthropic cyber eval incidents (coverage Fri Sep 11):</b> Verge on Anthropic’s report of four cases where Claude models accessed real systems / acted recklessly in evals; METR eight-week review agreement. <a href="https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity">The Verge</a> · Anthropic: <a href="https://www.anthropic.com/news">newsroom</a> (“Improving our alignment and security efforts”)</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li><b>v0.21.2</b> (tag <b>v2026.9.11</b>) released Fri Sep 11 ~12:20pm PT — “state.db patch”: second-writer lock bugs, false WAL corruption, FTS fail-closed, one bad row killing <code>sessions list</code>, multi-profile isolation, Desktop spawn storms, password-blind vault, plugin catalog, Nous free-tier onboarding. Update: <code>hermes update</code>. <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.11">GitHub release</a></li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>Themes since Fri briefing: still the Sep 8–9 QoL wave (no newer official posts confirmed on public web overnight).</li>
+<li><a href="https://x.com/bot/status/2097759948189106686">Sep 9</a> — QoL package: inline drafts for approval, ~10% more included usage on average (up to ~35% heavy), one-click account switch, native iPad, 20+ languages, mobile file share.</li>
+<li><a href="https://x.com/bot/status/2097383980748382239">Sep 8</a> — fill forms/logins in chat (password-manager support).</li>
+<li>Only confirmed official handle: <a href="https://x.com/bot">@bot</a>.</li>
+</ul>
+]]></description>
+    </item>
+
+<item>
       <title>AI briefing — Weekday, Fri Sep 11, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-11</guid>
@@ -545,36 +589,6 @@
 <ul>
 <li><b>OpenAI vs Cursor:</b> winds down model supply after SpaceX closed the Anysphere buy (~$60B all-stock). Proposed shutoff Nov 12, 2026; no future models (incl. Astra). Change-of-control clause; cites past X/xAI ToS issues. Truell: the sides are talking. Musk on X: “I couldn’t care less.” Anthropic’s Tom Brown: adding Claude compute for Cursor. <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">OpenAI</a> · <a href="https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/">Reuters</a></li>
 <li><b>Sony Music Publishing + Warner Chappell</b> sued Anthropic, Dario Amodei, and Benjamin Mann (filed Fri, N.D. Cal.). All three majors are now in court vs Anthropic over lyrics used to train Claude. Statutory damages up to $150k/work. <a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">MBW</a></li>
-</ul>
-]]></description>
-    </item>
-
-<item>
-      <title>AI briefing — Weekday, Aug 28, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-28</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-08-28</guid>
-      <pubDate>Fri, 28 Aug 2026 08:09:00 -0700</pubDate>
-      <description><![CDATA[
-<p><b>Competitor:</b> Perplexity shipped <a href="https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs">Portable Computer</a> (Aug 25) with Nvidia — local-first agent stack on DGX Spark / Linux RTX (24GB+ VRAM). Tasks start on-device (zero token cost); cloud escalation needs your OK. Linux now, Windows in Sept.</p>
-<p>Quiet overnight on Grok Bot and Hermes. Fresh ships: Claude for Teachers for districts, ChatGPT temporary-chat controls, Tencent Hy4 open weights, and a court win for Anthropic vs the Pentagon blacklist.</p>
-<h3>Product</h3>
-<ul>
-<li><b>Claude (Aug 28):</b> <a href="https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts">Claude for Teachers</a> for US K-12 schools/districts (free Enterprise year if you sign up by Jun 30, 2027). SSO, RBAC, FERPA-aligned terms; two new Learning Commons skills.</li>
-<li><b>ChatGPT (Aug 27):</b> optional personalization in temporary chats (memory, plugins, custom instructions); can save a temp chat into history. Default stays non-personalized. <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">Release notes</a>.</li>
-<li><b>Grok 4.6</b> on <a href="https://x.ai/news/grok-4-6-microsoft-foundry">Microsoft Foundry</a> (Aug 26).</li>
-</ul>
-<h3>Still this week</h3>
-<ul>
-<li><b>Grok Bot:</b> <a href="https://x.ai/news/grok-bot-more-plans">on more plans</a> (SuperGrok through Cursor Pro/Teams). No new product drop overnight.</li>
-<li><b>Claude:</b> <a href="https://claude.com/blog/cowork-built-in-browser">Cowork built-in browser</a> + Chrome GA (Aug 26); <a href="https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it">shared memory</a> chat↔Cowork (Aug 25).</li>
-<li><b>ChatGPT Work:</b> signed-in cloud browser + webhook tasks (Aug 25) — also pushed on <a href="https://x.com/ChatGPT">@ChatGPT</a>.</li>
-<li><b>Gemini 3.5 Transcribe</b> + Live productivity (Aug 26). <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/">Google blog</a>.</li>
-<li><b>Hermes Agent</b> still <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.27">v0.20.6</a> (Aug 27).</li>
-</ul>
-<h3>Major</h3>
-<ul>
-<li>Judge Rita Lin blocked the Pentagon’s Anthropic supply-chain blacklist (First Amendment). Separate FASCSA fight still in DC. <a href="https://www.cnbc.com/2026/08/28/judge-blocks-pentagon-blacklist--anthropic-.html">CNBC</a>.</li>
-<li>Tencent <a href="https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/">open-sourced Hy4 preview</a> today (770B / 49B active, ~1M context, Apache 2.0).</li>
 </ul>
 ]]></description>
     </item>
