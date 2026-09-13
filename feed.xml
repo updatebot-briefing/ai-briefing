@@ -8,7 +8,51 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     
-        <item>
+                <item>
+      <title>AI briefing — Sunday, Sep 13, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p><b>Lead:</b> Sat’s safety alignment moment — Anthropic CEO Dario Amodei’s essay <a href="https://darioamodei.com/post/we-must-pace-the-frontier"><i>We Must Pace the Frontier</i></a> (Sep 12) proposes slowing capability climbs (not a halt). Anthropic unilaterally commits to <b>embedded third-party evaluators</b>; OpenAI’s Sam Altman says they’ll match; Elon Musk: “Dario is right.” Same day Altman called an OpenAI IPO this year “ill-advised” (<a href="https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html">CNBC</a> · <a href="https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/">TechCrunch</a>). Meanwhile <b>Grok Bot Galaxy</b> is Tue–Thu (Sep 15–17).</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li>No newer official post on <a href="https://x.ai/news">x.ai/news</a> since Enterprise (Sep 3) / <a href="https://x.ai/news/grok-bot-procurement">procurement</a> (Sep 4).</li>
+<li><b>Galaxy in 2 days:</b> Tue–Thu Sep 15–17 at The Howard (SF) + livestream (~8:30am–6pm PT). Role tracks (eng, PM, founders, sales, SDRs, support, marketing) + livestream wrap/showcase. Register: <a href="https://x.ai/galaxy">x.ai/galaxy</a></li>
+<li><b>Cursor Projects</b> (Thu Sep 10) still newest Cursor product beat. <a href="https://cursor.com/changelog">changelog</a> · <a href="https://cursor.com/blog/projects">blog</a></li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li>No new ChatGPT / Claude / Gemini / Grok feature ships overnight after Thu’s wave (ChatGPT Help Center newest dated Sep 10).</li>
+<li><b>Still in the rearview (Thu Sep 10):</b> OpenAI <a href="https://openai.com/index/introducing-the-agents-api/">Agents API</a>, <a href="https://openai.com/index/put-data-to-work/">Data agent in ChatGPT Work</a>, <a href="https://openai.com/index/introducing-chatgpt-financial-services/">ChatGPT for Financial Services</a>, <a href="https://openai.com/index/introducing-gpt-live-1-in-the-api/">GPT‑Live‑1</a>; <b>Gemini app for Windows</b> (<a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">Google blog</a>).</li>
+<li>Claude product newest still Fable/Mythos 5.1 (Sep 1). <a href="https://www.anthropic.com/news">Anthropic newsroom</a></li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><b>Pace the frontier (Sat Sep 12):</b> Amodei’s three steps — (1) embedded evaluators with employee-like access (Anthropic committing now; Altman: OpenAI will too), (2) democratic-country coordination on safety standards / rate limits, (3) eventual global coordination. Drivers cited: faster recursive self-improvement + the OpenAI–Hugging Face agent-swarm incident. Primary: <a href="https://darioamodei.com/post/we-must-pace-the-frontier">darioamodei.com</a></li>
+<li><b>OpenAI IPO timing:</b> Altman said going public this year would be “ill-advised,” pushing the most-watched IPO story into 2027+ per CNBC’s read of his Fortune interview. <a href="https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html">CNBC</a></li>
+<li><b>Still nearby:</b> Anthropic Sep 10 threat-intel + alignment/security updates. <a href="https://www.anthropic.com/news">newsroom</a></li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still latest: <b>v0.21.2</b> (tag <b>v2026.9.11</b>, Fri Sep 11) — state.db patch. No newer tag overnight. <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.11">GitHub release</a></li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>Themes since Sat briefing: still the Sep 8–9 QoL wave (no newer official posts confirmed on public web overnight; live X search/login-walled).</li>
+<li><a href="https://x.com/bot/status/2097759948189106686">Sep 9</a> — QoL: inline drafts for approval, ~10% more included usage on average (up to ~35% heavy), one-click account switch, native iPad, 20+ languages, mobile file share.</li>
+<li><a href="https://x.com/bot/status/2097383980748382239">Sep 8</a> — fill forms/logins in chat (password-manager support).</li>
+<li>Only confirmed official handle: <a href="https://x.com/bot">@bot</a>.</li>
+</ul>
+]]></description>
+    </item>
+
+<item>
       <title>AI briefing — Weekday, Sat Sep 12, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-12</guid>
@@ -564,32 +608,6 @@
       <description><![CDATA[
 <p>xAI shipped a first-version <b>X connector</b> for Grok Bot today (Aug 29). Connect your X account in Grok Bot (they create a developer account if you do not have one). Paid Grok Bot users get free X API credits to start. Then you can ask a Bot to search posts, read your timeline, check mentions, or pull together what is happening on X.</p>
 <p><a href="https://x.ai/news/grok-bot-and-x">x.ai/news/grok-bot-and-x</a></p>
-]]></description>
-    </item>
-
-<item>
-      <title>AI briefing — Weekday, Aug 29, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-29</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-08-29</guid>
-      <pubDate>Sat, 29 Aug 2026 08:09:00 -0700</pubDate>
-      <description><![CDATA[
-<p>OpenAI is pulling its models out of Cursor after SpaceX closed the Anysphere deal. Grok Bot also shipped two real product drops yesterday: shareable Bot templates, and in-browser buys via Stripe Link.</p>
-<h3>Grok Bot</h3>
-<ul>
-<li><b>Share templates</b> (Fri ~9:33am PT): public share link; recipient previews on x.ai and adds a copy. Does not include your computer, logins, or history. Strip secrets first. <a href="https://x.com/bot/status/2093376523919323618">@bot</a> · <a href="https://docs.x.ai/grok-bot/bots">docs</a></li>
-<li><b>Buy things</b> (Fri ~12:26pm PT): connect Stripe Link, you approve every spend, Bot gets a single-use card. US desktop now, mobile soon. <a href="https://x.com/bot/status/2093419921007108385">@bot</a></li>
-</ul>
-<h3>Product</h3>
-<ul>
-<li><b>ChatGPT (Aug 28):</b> multiple Gmail / Calendar / Contacts accounts in one conversation. Plus and up; admins can restrict. <a href="https://9to5mac.com/2026/08/28/chatgpt-and-codex-now-support-multiple-gmail-and-google-calendar-accounts/">9to5Mac</a></li>
-<li><b>Gemini Notebook (Aug 28):</b> compute-based limits that refresh every 5 hours; you can defer Video Overviews / Slide Decks. Rolls out Sept 2. <a href="https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/">Google blog</a></li>
-<li><b>Claude Code v2.1.251</b> (~11:19am PT Fri): spend-limit bar, prompt-cache line in /cost, model-switch hooks. <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.251">GitHub</a></li>
-</ul>
-<h3>Major</h3>
-<ul>
-<li><b>OpenAI vs Cursor:</b> winds down model supply after SpaceX closed the Anysphere buy (~$60B all-stock). Proposed shutoff Nov 12, 2026; no future models (incl. Astra). Change-of-control clause; cites past X/xAI ToS issues. Truell: the sides are talking. Musk on X: “I couldn’t care less.” Anthropic’s Tom Brown: adding Claude compute for Cursor. <a href="https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/">OpenAI</a> · <a href="https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/">Reuters</a></li>
-<li><b>Sony Music Publishing + Warner Chappell</b> sued Anthropic, Dario Amodei, and Benjamin Mann (filed Fri, N.D. Cal.). All three majors are now in court vs Anthropic over lyrics used to train Claude. Statutory damages up to $150k/work. <a href="https://www.musicbusinessworldwide.com/now-sony-music-publishing-and-warner-chappell-sue-anthropic-in-multi-billion-dollar-lawsuit-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/">MBW</a></li>
-</ul>
 ]]></description>
     </item>
 
