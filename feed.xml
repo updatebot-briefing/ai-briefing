@@ -7,6 +7,44 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+                <item>
+      <title>AI briefing — Weekday, Sep 15, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-15</guid>
+      <pubDate>Tue, 15 Sep 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+
+<p><strong>Lead:</strong> Grok Bot Galaxy Day 1 is live — @bot is streaming three SpaceXAI employees building a company from scratch with Grok Bot. Overnight, Microsoft opened a six-week public consult on its Humanist AI Code of Conduct, and Hermes shipped a small but useful cloud-session patch.</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li><strong>Galaxy Day 1 (today):</strong> In-person at The Howard (661 Howard St, SF) + livestream ~8:30am–6:00pm PT. Day 1 sessions: Grok Bot 101, Engineering, Product Managers, Founders. Hub: <a href="https://x.ai/galaxy">x.ai/galaxy</a>.</li>
+<li><a href="https://x.ai/news">x.ai/news</a> still quiet on new posts — newest remain <em>Grok Bot for Enterprise</em> (Sep 3) and procurement/Haggle (Sep 4).</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Microsoft (Sep 14):</strong> Published a draft <a href="https://microsoft.ai/code-of-conduct/">Humanist AI Code of Conduct</a> for MAI models (<a href="https://microsoft.ai/news/mai-code-of-conduct/">announcement</a>) — absolute constraints (e.g. offensive cyber, CBRNE, loss of human control), human-control requirements, and a six-week public consultation. TechCrunch ~9:27am PT Sep 14: <a href="https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/">write-up</a>.</li>
+<li>OpenAI <a href="https://status.openai.com/incidents/01M2H3J1D6Y7RHAP49GRWGJAY0">Agents API degraded performance</a> on Sep 14 was reported resolved ~7:39pm PT (ops note, not a product ship).</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li><strong>New since Mon briefing:</strong> <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.14">v0.21.3 (v2026.9.14)</a> — patch rollup (~338 PRs since 0.21.2). Headline fixes: remote Desktop/Cloud refresh bursts no longer revoke sessions; long-lived processes stop leaking duplicate <code>state.db</code> writer handles. Update via <code>hermes update</code> / Docker tag <code>v2026.9.14</code>.</li>
+</ul>
+
+<h3>Grok Bot on X (<a href="https://x.com/bot">@bot</a>)</h3>
+<p>Themes since last week: <strong>Galaxy live build</strong>, workplace connectors (Teams + sales GTM), and QoL (inline draft-before-send).</p>
+<ul>
+<li><strong>Today (LIVE Day 1):</strong> <a href="https://x.com/bot/status/2099883726444610030">x.com/bot/status/2099883726444610030</a> — “LIVE: Watch 3 SpaceXAI employees attempt to build a company in 3 days with Grok Bot…” (Palmer / Tan / Sadanani + Eng/PM/Founders sessions).</li>
+<li><strong>Sep 11:</strong> Teams search &amp; act — <a href="https://x.com/bot/status/2098481256417866145">x.com/bot/status/2098481256417866145</a>.</li>
+<li><strong>Sep 10:</strong> Sales connectors (Salesforce, HubSpot, Gong, Clay, Granola) — <a href="https://x.com/bot/status/2098183353665261979">x.com/bot/status/2098183353665261979</a>.</li>
+<li><strong>Sep 9:</strong> Inline message drafts for approval + usage/QoL — <a href="https://x.com/bot/status/2097759948189106686">x.com/bot/status/2097759948189106686</a>.</li>
+</ul>
+
+]]></description>
+    </item>
+
     
                 
                 <item>
@@ -626,27 +664,6 @@
 </ul>
 ]]></description>
     </item>
-<item>
-      <title>AI briefing — Weekday, Aug 30, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/#2026-08-30</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-08-30</guid>
-      <pubDate>Sun, 30 Aug 2026 08:09:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Grok Bot got a first-version <b>X connector</b> yesterday afternoon. Quiet overnight otherwise. ChatGPT’s official DALL·E GPT is retired today.</p>
-<h3>Grok Bot</h3>
-<ul>
-<li><b>Works with X</b> (Sat, first version): connect your X account in Grok Bot (they create a developer account if you don’t have one). Paid users get free X API credits to start. Then ask a Bot to search posts, read your timeline, check mentions, or pull together what’s happening on X. <a href="https://x.ai/news/grok-bot-and-x">x.ai</a> · <a href="https://x.com/bot/status/2093822274067706170">@bot</a></li>
-</ul>
-<h3>Product</h3>
-<ul>
-<li><b>ChatGPT (today):</b> official DALL·E GPT is retired. Image gen continues in ChatGPT Images. Download anything you still want from the old GPT. User-created GPTs with image gen are unaffected. <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">Release notes</a></li>
-<li><b>Codex (tomorrow):</b> GPT-5.4 and GPT-5.4 mini leave ChatGPT-signed-in Codex on Aug 31. Swap to <code>gpt-5.6-terra</code> / <code>gpt-5.6-luna</code>. API-key Codex is unaffected. <a href="https://learn.chatgpt.com/docs/whats-new">What’s new</a></li>
-</ul>
-]]></description>
-    </item>
-
-
-
 
 </channel>
 </rss>
