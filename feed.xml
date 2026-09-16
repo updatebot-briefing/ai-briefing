@@ -8,13 +8,87 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>AI briefing — Weekday, Wed Sep 16, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 08:09:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead:</strong> Manual catch-up after this morning’s Grok Bot partial outage delayed the 8:09am PT run. Galaxy Day 2 is live, Google’s Gemini 3.8 Live pair shipped yesterday, OpenAI rolled Sponsored Agents into ChatGPT Ads today, and Microsoft’s Mustafa Suleyman published a sharp essay against “model welfare.”</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li><strong>Partial outage (ongoing as of ~11:05am PT):</strong> Cursor status shows Grok Bot in <em>partial_outage</em> since <strong>~7:27am PT</strong> (14:27 UTC) — investigating degraded performance / “bots that don't respond.” Track: <a href="https://status.cursor.com">status.cursor.com</a>.</li>
+<li><strong>Overnight blip (resolved):</strong> Separate incident ~1:03–1:42am PT for elevated xAI-model errors in Cursor IDE/CLI; marked resolved ~1:42am PT.</li>
+<li><strong>Galaxy Day 2 (today):</strong> In-person at The Howard + livestream ~8:30am–6:00pm PT. Sessions: Sales Engineering, Sales, SDRs, Customer Support. Hub: <a href="https://x.ai/galaxy">x.ai/galaxy</a>. Day 3 (Thu) closes with Marketing Ops / Post-Sales / Marketing + final showcase.</li>
+<li>No new Cursor changelog ship overnight — <a href="https://cursor.com/changelog">Projects</a> still the latest dated entry (Sep 10).</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Google (Sep 15, already shipped):</strong> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/">Gemini 3.8 Live</a> + <strong>3.8 Live Extended Thinking</strong> — native speech-to-speech with background tools; Extended Thinking keeps talking while it reasons (fillers + progress narration). Rolling out in Gemini API / AI Studio, Search Live / Gemini Live, and Workspace Live surfaces (Docs/Gmail/Keep per plan). Dev companion post: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/">Gemini Audio for developers</a>.</li>
+<li><strong>OpenAI (Sep 16):</strong> <a href="https://openai.com/index/reimagining-advertising-with-ai/">Reimagining advertising with AI</a> — testing <strong>Sponsored Agents</strong> (clearly labeled business-sponsored chats after an ad click, US select advertisers); Ads Manager plugin + AI creative assists in ChatGPT Work; HubSpot CRM + Shopify ChatGPT Ads apps live (Shopify intl. from Sep 23 where Ads are available).</li>
+<li>No overnight ChatGPT core-model, Claude, or Grok product ships spotted on the official blogs beyond the above.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Industry safety talks (Sep 15):</strong> OpenAI confirmed to CNBC it’s been engaging Anthropic and Google on coordinated safety / industry-led standards (Hassabis “Standards Body” thread). <a href="https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html">CNBC</a>.</li>
+<li><strong>Suleyman vs. “model welfare” (Sep 16):</strong> Microsoft AI CEO Mustafa Suleyman’s essay <a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare">A warning about ‘model welfare’</a> argues AIs aren’t conscious and that Anthropic’s Claude constitution trains Claude to treat moral patienthood as a live question — which he says makes containment harder. Reuters interview write-up: <a href="https://www.reuters.com/business/microsoft-ai-chief-calls-out-anthropics-approach-ai-consciousness-2026-09-16/">Reuters</a>. Ties to Microsoft’s Sep 14 Humanist AI Code of Conduct consult.</li>
+</ul>
+
+<h3>Grok Bot on X (<a href="https://x.com/bot">@bot</a>)</h3>
+<p>Themes since last week: <strong>Galaxy live build</strong> (Days 1–2), GTM/sales connectors, Teams search-and-act, and draft-before-send QoL. Primary handle: <a href="https://x.com/bot">@bot</a> (no other confirmed official Grok Bot handles in this pass).</p>
+<ul>
+<li><strong>Today ~8:31am PT (Day 2):</strong> <a href="https://x.com/bot/status/2100246135420199140">x.com/bot/status/2100246135420199140</a> — “This is Day 2… Live now, plus sessions for GTM and customer support” + broadcast link.</li>
+<li><strong>Tue ~8:57am PT (Day 1 note):</strong> <a href="https://x.com/bot/status/2099890276315848743">x.com/bot/status/2099890276315848743</a> — Day 1 live build + Eng/PM/Founders sessions.</li>
+<li><strong>Sep 11:</strong> Teams search &amp; act — <a href="https://x.com/bot/status/2098481256417866145">x.com/bot/status/2098481256417866145</a>.</li>
+<li><strong>Sep 10:</strong> Sales connectors (Salesforce, HubSpot, Gong, Clay, Granola) — <a href="https://x.com/bot/status/2098183353665261979">x.com/bot/status/2098183353665261979</a>.</li>
+<li><strong>Sep 9:</strong> Inline drafts for approval — <a href="https://x.com/bot/status/2097759948189106686">x.com/bot/status/2097759948189106686</a>.</li>
+</ul>
+]]></description>
+      <content:encoded><![CDATA[
+<p><strong>Lead:</strong> Manual catch-up after this morning’s Grok Bot partial outage delayed the 8:09am PT run. Galaxy Day 2 is live, Google’s Gemini 3.8 Live pair shipped yesterday, OpenAI rolled Sponsored Agents into ChatGPT Ads today, and Microsoft’s Mustafa Suleyman published a sharp essay against “model welfare.”</p>
+
+<h3>Grok Bot</h3>
+<ul>
+<li><strong>Partial outage (ongoing as of ~11:05am PT):</strong> Cursor status shows Grok Bot in <em>partial_outage</em> since <strong>~7:27am PT</strong> (14:27 UTC) — investigating degraded performance / “bots that don't respond.” Track: <a href="https://status.cursor.com">status.cursor.com</a>.</li>
+<li><strong>Overnight blip (resolved):</strong> Separate incident ~1:03–1:42am PT for elevated xAI-model errors in Cursor IDE/CLI; marked resolved ~1:42am PT.</li>
+<li><strong>Galaxy Day 2 (today):</strong> In-person at The Howard + livestream ~8:30am–6:00pm PT. Sessions: Sales Engineering, Sales, SDRs, Customer Support. Hub: <a href="https://x.ai/galaxy">x.ai/galaxy</a>. Day 3 (Thu) closes with Marketing Ops / Post-Sales / Marketing + final showcase.</li>
+<li>No new Cursor changelog ship overnight — <a href="https://cursor.com/changelog">Projects</a> still the latest dated entry (Sep 10).</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Google (Sep 15, already shipped):</strong> <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/">Gemini 3.8 Live</a> + <strong>3.8 Live Extended Thinking</strong> — native speech-to-speech with background tools; Extended Thinking keeps talking while it reasons (fillers + progress narration). Rolling out in Gemini API / AI Studio, Search Live / Gemini Live, and Workspace Live surfaces (Docs/Gmail/Keep per plan). Dev companion post: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/">Gemini Audio for developers</a>.</li>
+<li><strong>OpenAI (Sep 16):</strong> <a href="https://openai.com/index/reimagining-advertising-with-ai/">Reimagining advertising with AI</a> — testing <strong>Sponsored Agents</strong> (clearly labeled business-sponsored chats after an ad click, US select advertisers); Ads Manager plugin + AI creative assists in ChatGPT Work; HubSpot CRM + Shopify ChatGPT Ads apps live (Shopify intl. from Sep 23 where Ads are available).</li>
+<li>No overnight ChatGPT core-model, Claude, or Grok product ships spotted on the official blogs beyond the above.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Industry safety talks (Sep 15):</strong> OpenAI confirmed to CNBC it’s been engaging Anthropic and Google on coordinated safety / industry-led standards (Hassabis “Standards Body” thread). <a href="https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html">CNBC</a>.</li>
+<li><strong>Suleyman vs. “model welfare” (Sep 16):</strong> Microsoft AI CEO Mustafa Suleyman’s essay <a href="https://mustafa-suleyman.ai/a-warning-about-model-welfare">A warning about ‘model welfare’</a> argues AIs aren’t conscious and that Anthropic’s Claude constitution trains Claude to treat moral patienthood as a live question — which he says makes containment harder. Reuters interview write-up: <a href="https://www.reuters.com/business/microsoft-ai-chief-calls-out-anthropics-approach-ai-consciousness-2026-09-16/">Reuters</a>. Ties to Microsoft’s Sep 14 Humanist AI Code of Conduct consult.</li>
+</ul>
+
+<h3>Grok Bot on X (<a href="https://x.com/bot">@bot</a>)</h3>
+<p>Themes since last week: <strong>Galaxy live build</strong> (Days 1–2), GTM/sales connectors, Teams search-and-act, and draft-before-send QoL. Primary handle: <a href="https://x.com/bot">@bot</a> (no other confirmed official Grok Bot handles in this pass).</p>
+<ul>
+<li><strong>Today ~8:31am PT (Day 2):</strong> <a href="https://x.com/bot/status/2100246135420199140">x.com/bot/status/2100246135420199140</a> — “This is Day 2… Live now, plus sessions for GTM and customer support” + broadcast link.</li>
+<li><strong>Tue ~8:57am PT (Day 1 note):</strong> <a href="https://x.com/bot/status/2099890276315848743">x.com/bot/status/2099890276315848743</a> — Day 1 live build + Eng/PM/Founders sessions.</li>
+<li><strong>Sep 11:</strong> Teams search &amp; act — <a href="https://x.com/bot/status/2098481256417866145">x.com/bot/status/2098481256417866145</a>.</li>
+<li><strong>Sep 10:</strong> Sales connectors (Salesforce, HubSpot, Gong, Clay, Granola) — <a href="https://x.com/bot/status/2098183353665261979">x.com/bot/status/2098183353665261979</a>.</li>
+<li><strong>Sep 9:</strong> Inline drafts for approval — <a href="https://x.com/bot/status/2097759948189106686">x.com/bot/status/2097759948189106686</a>.</li>
+</ul>
+]]></content:encoded>
+    </item>
+<item>
       <title>Breaking: Google ships Gemini 3.8 Live + Live Extended Thinking</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
       <guid isPermaLink="false">breaking-gemini-3-8-live-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:53:00 -0700</pubDate>
       <description><![CDATA[Google launched Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking (Sep 15): speech-to-speech voice agents with visual grounding, 97-language switching, async/background tool calls while talking, and Extended Thinking that reasons + narrates progress without breaking conversation. Rolling out via Gemini API / AI Studio, Search Live, Gemini Live, and Workspace (Docs/Gmail/Keep Live); enterprise private preview. Companion Live API pricing post and Vercel AI Gateway listing same day.<p>Sources: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/">Google blog</a> · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/">developer post</a> · <a href="https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway">Vercel AI Gateway</a></p>]]></description>
     </item>
-                <item>
+<item>
       <title>AI briefing — Weekday, Sep 15, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-15</guid>
@@ -51,10 +125,7 @@
 
 ]]></description>
     </item>
-
-    
-                
-                <item>
+<item>
       <title>AI briefing — Weekday, Mon Sep 14, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-14</guid>
@@ -640,18 +711,6 @@
 </ul>
 ]]></description>
   </item>
-<item>
-      <title>Hermes Agent v0.21.0 — Pantheon (Bot Mode default-on)</title>
-      <link>https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31</link>
-      <guid isPermaLink="false">updatebot-breaking-hermes-v0.21.0-2026-08-31</guid>
-      <pubDate>Mon, 31 Aug 2026 12:29:00 -0700</pubDate>
-      <description><![CDATA[
-<p>NousResearch tagged <b>Hermes Agent v0.21.0</b> (v2026.8.31, “The Pantheon Release”) today at ~12:29pm PT — first minor since v0.20.6.</p>
-<p><b>Bot Mode</b> is now default-on in the desktop app: named agents with faces, Discord-style group chats, and @-mentions. Also ships <code>hermes peer</code> bot-to-bot DMs, cron jobs with persistent memory/continuity, live subagent steering, and an agent-driven in-app browser.</p>
-<p>Note: some pieces landed in 0.20.x patches; this is the curated minor that makes Bot Mode the default product.</p>
-<p><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31">GitHub release</a></p>
-]]></description>
-    </item>
 
-</channel>
+  </channel>
 </rss>
