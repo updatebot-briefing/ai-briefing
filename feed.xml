@@ -8,6 +8,13 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Breaking: Grok Build memory is generally available</title>
+      <link>https://x.ai/news/grok-build-memory</link>
+      <guid isPermaLink="false">breaking-grok-build-memory-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 12:14:00 -0700</pubDate>
+      <description><![CDATA[xAI shipped Memory in Grok Build (Sep 16): persistent cross-session notes on conventions, decisions, and project facts. Capture runs in the background after each turn as markdown topic files (per-project + global preferences); later sessions read relevant topics before related work. New /memory browser and /dream consolidation; live in Grok Build 1.0.34 for new sessions (/new or fresh grok). Not in this morning’s briefing.<p>Sources: <a href="https://x.ai/news/grok-build-memory">x.ai news</a> · <a href="https://x.ai/build/changelog">Grok Build changelog</a></p>]]></description>
+    </item>
+    <item>
       <title>AI briefing — Weekday, Wed Sep 16, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-16</guid>
