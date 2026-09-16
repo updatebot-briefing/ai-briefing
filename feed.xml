@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+        <item>
+      <title>Grok Bot partial outage resolved (Cursor status)</title>
+      <link>https://status.cursor.com/</link>
+      <guid isPermaLink="false">breaking-grok-bot-outage-resolved-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 13:57:00 -0700</pubDate>
+      <description><![CDATA[Cursor status: Grok Bot partial outage resolved at ~1:57pm PT (20:57 UTC). Incident began ~7:27am PT (Investigating), Identified ~12:51pm PT; users may have seen degraded performance or bots that didn't respond. All systems operational now, including Grok Bot. Source: <a href="https://status.cursor.com/">status.cursor.com</a>]]></description>
+    </item>
+<item>
       <title>Breaking: Grok Build memory is generally available</title>
       <link>https://x.ai/news/grok-build-memory</link>
       <guid isPermaLink="false">breaking-grok-build-memory-2026-09-16</guid>
@@ -674,19 +681,5 @@
       <pubDate>Wed, 02 Sep 2026 14:33:55 -0700</pubDate>
       <description>Cursor (Sep 2, 2026 PT): Self-hosted Machines lets cloud agents run tool execution on machines you manage — My Machines and Team Pools with dynamic scaling and hibernation. Computer use now on Linux and Mac (click/type/screenshots/browser); partners include AWS Lambda, Cloudflare, Coder, Daytona, E2B, Modal, Namespace, and Vercel. Changelog: https://cursor.com/changelog · Docs: https://cursor.com/docs/cloud-agent/self-hosted</description>
     </item>
-<item>
-      <title>Google Gemini 3.8 Flash + 3.8 Flash Cyber</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
-      <guid isPermaLink="false">updatebot-breaking-gemini-3-8-flash-2026-09-02</guid>
-      <pubDate>Wed, 02 Sep 2026 12:40:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Google shipped <b>Gemini 3.8 Flash</b> today (Sep 2) — best Flash yet for long-horizon coding and autonomous agents, same intro price as 3.7 ($0.75 / $3.75 per M tokens). Also launches <b>3.8 Flash Cyber</b> for trusted defenders via the new Fairwind Program (vuln discovery + automated patching).</p>
-<p>Live now for developers (Gemini API / AI Studio / Antigravity), enterprises, and Google AI Pro/Ultra consumers.</p>
-<p><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/">Google blog</a></p>
-]]>
-</description>
-    </item>
-
-
-  </channel>
+</channel>
 </rss>
