@@ -8,7 +8,15 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
         
-    <item>
+        <item>
+      <title>Grok Bot can talk now — voice mode rolling out on desktop and mobile</title>
+      <link>https://x.com/bot/status/2100659463569170779</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-09-17-grok-bot-voice</guid>
+      <pubDate>Thu, 17 Sep 2026 11:53:39 -0700</pubDate>
+      <description><![CDATA[Official @bot (Grok Bot) announced voice mode: "Grok Bot can talk now." Spoken call-style conversations with persistent agents that have their own cloud computer; demo shows waveform UI + approval prompts. Rolling out to desktop and mobile over several days. Posted Sep 17 ~11:53am PT.<p>Sources: <a href="https://x.com/bot/status/2100659463569170779">@bot on X</a> · <a href="https://runtimewire.com/article/grok-bot-adds-voice-desktop-mobile">RuntimeWire</a> · <a href="https://x.ai/bot">x.ai/bot</a></p>]]></description>
+    </item>
+
+<item>
       <title>Breaking: Claude Projects redesigned — coordinator + parallel cloud threads</title>
       <link>https://www.claude.com/blog/projects-redesigned</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-17-claude-projects</guid>
@@ -22,8 +30,7 @@
 <p><em>Also watched:</em> status.cursor.com still Investigating — Cloud Agents + Automations major outage (last update 15:50 UTC / ~8:50am PT; already briefed). Grok Bot Operational. Hermes still v0.21.3. No newer x.ai / Cursor changelog ships.</p>
 ]]></content:encoded>
     </item>
-
-    <item>
+<item>
       <title>AI briefing — Weekday, Thu Sep 17, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-17</guid>
@@ -119,7 +126,7 @@
       <pubDate>Wed, 16 Sep 2026 12:14:00 -0700</pubDate>
       <description><![CDATA[xAI shipped Memory in Grok Build (Sep 16): persistent cross-session notes on conventions, decisions, and project facts. Capture runs in the background after each turn as markdown topic files (per-project + global preferences); later sessions read relevant topics before related work. New /memory browser and /dream consolidation; live in Grok Build 1.0.34 for new sessions (/new or fresh grok). Not in this morning’s briefing.<p>Sources: <a href="https://x.ai/news/grok-build-memory">x.ai news</a> · <a href="https://x.ai/build/changelog">Grok Build changelog</a></p>]]></description>
     </item>
-    <item>
+<item>
       <title>AI briefing — Weekday, Wed Sep 16, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-16</guid>
@@ -748,27 +755,6 @@
       <description><![CDATA[
 <p>Cursor marked this morning’s <b>Grok Bot major outage</b> resolved at 10:07am PT. Grok Bot, Review Agents, Automations, Cloud Agents, and the IDE all show Operational. Incident started 6:41am PT; identified 8:33am PT.</p>
 <p>Incident: <a href="https://stspg.io/my6v5jj14wyg">stspg.io/my6v5jj14wyg</a> · Status: <a href="https://status.cursor.com">status.cursor.com</a></p>
-]]>
-      </description>
-    </item>
-<item>
-      <title>Grok Bot major outage (Cursor status, still open)</title>
-      <link>https://status.cursor.com</link>
-      <guid isPermaLink="false">updatebot-breaking-grok-bot-major-outage-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 09:36:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Cursor status: <b>Grok Bot major outage</b> (also Review Agents). Incident started 6:41am PT Sep 3, identified 8:33am PT, still not resolved. Impact critical; All Grok Models, Automations, Cloud Agents, Grok Bot, and Review Agents were named. Automations/Cloud Agents later recovered; Grok Bot and Review Agents remain major outage.</p>
-<p>Incident: <a href="https://stspg.io/my6v5jj14wyg">stspg.io/my6v5jj14wyg</a> · Status: <a href="https://status.cursor.com">status.cursor.com</a></p>
-]]>
-      </description>
-    </item>
-<item>
-      <title>Grok Bot is now on Android</title>
-      <link>https://forum.cursor.com/t/grok-bot-is-now-live-on-android/170384</link>
-      <guid isPermaLink="false">updatebot-breaking-grok-bot-android-2026-09-02</guid>
-      <pubDate>Wed, 02 Sep 2026 13:01:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Official Cursor staff post ~1:01pm PT Sep 2: <b>Grok Bot shipped on Android</b>. Same bots/threads as desktop and iOS; bots keep working on their cloud computer after you lock the phone. Google Play: <a href="https://play.google.com/store/apps/details?id=ai.x.grok.bot">ai.x.grok.bot</a>. Announcement: <a href="https://x.com/bot/status/2095168633559462197">@bot</a>.</p>
 ]]>
       </description>
     </item>
