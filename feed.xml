@@ -7,15 +7,99 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 18 Sep 2026 08:45:00 -0700</lastBuildDate>
         
-        <item>
+            <item>
+      <title>AI briefing — Weekday, Sep 18, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-18</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 08:45:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead:</strong> Quiet product day on the Grok Bot side (status blip then clean), but a busy overnight for everyone else — ChatGPT shipped a big Sep 17 release-notes wave, Anthropic published R&amp;D-automation metrics + a biomolecular uplift, Google Labs relaunched <strong>CC</strong> for families, and TechCrunch says researchers used Claude to chain into OpenAI in a bug bounty.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Status:</strong> <a href="https://status.cursor.com">All Systems Operational</a> as of this morning. <strong>New overnight blip:</strong> Grok Bot degradation investigated <strong>~4:37am PT</strong>, resolved <strong>~7:33am PT</strong> (Sep 18, 11:37→14:33 UTC). Yesterday’s Cloud Agents + Automations outage stays in the rearview (resolved Sep 17 ~1:04pm PT).</li>
+<li><strong>No new product posts:</strong> <a href="https://x.ai/news">x.ai/news</a> still tops out at Memory in Grok Build (Sep 16). Cursor changelog/blog still <a href="https://cursor.com/changelog">Projects</a> (Sep 10).</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>ChatGPT (Sep 17 release notes):</strong> <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT for Microsoft Word</a> (all plans, including Free); multi-account plugin connections expanded; Box/Dropbox/SharePoint in Library; Deep Research in Work/Codex; Data plugin; Voice can use GPT-5.6 / GPT-6 Astra for harder turns; Plus/Pro auto Instant→Thinking switching retired. Also: custom GPT retirement path toward plugins (planned).</li>
+<li><strong>Google Labs — CC for families (Sep 17):</strong> Shared household agent for up to six adults (18+), selective email sharing, shared “Your Day Ahead,” calendar/chat/tasks, PDF pre-fill. Waitlist at <a href="https://labs.google/cc">labs.google/cc</a>. Coverage: <a href="https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/">Ars</a>, <a href="https://www.theverge.com/ai-artificial-intelligence/997281/googles-revamping-its-cc-ai-as-an-organizing-agent-for-families">Verge</a>.</li>
+<li><strong>Anthropic science (Sep 17):</strong> <a href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling">Claude uplifted biomolecular modeling</a> — ~4× speedups across 30+ open-source bio models, low-memory “Big” mode, open-sourced optimizations + Adaptyv protein-design competition.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Anthropic R&amp;D automation metrics (Sep 17):</strong> <a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development">Measurements for the pace of AI development</a> — as of Aug 2026, Claude <strong>leads 26%</strong> of Anthropic AI R&amp;D (AL4), &gt;90% at least collaborative, <strong>none fully autonomous</strong>; ~<strong>30,000</strong> internal research/engineering agents monitored; ~6% of R&amp;D compute to safety in a July snapshot. (<a href="https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html">CNBC</a>)</li>
+<li><strong>Claude used in OpenAI bug-bounty breach (reported Sep 18):</strong> Hacktron AI used Claude (Opus 5 after Opus 4.8 stalled) to exploit Discourse/libheif → employee ChatGPT/Codex accounts; OpenAI paid <strong>$6,500</strong> bounty; issues fixed. (<a href="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/">TechCrunch</a>, citing WSJ)</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.3 (v2026.9.14)</strong> — no newer tag on <a href="https://github.com/NousResearch/hermes-agent/releases">NousResearch/hermes-agent releases</a>.</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>Confirmed official handle: <a href="https://x.com/bot">@bot</a>.</li>
+<li><strong>Headline since yesterday morning:</strong> <a href="https://x.com/bot/status/2100659463569170779">“Grok Bot can talk now.”</a> — voice rolling out desktop + mobile (~11:53am PT Thu Sep 17). <strong>Already HIGH_BAR / RSS’d yesterday afternoon</strong> — not new this morning.</li>
+<li>Full logged-out timeline scrape blocked today (x.com 403; nitter mirrors down). No newer official @bot post surfaced in public web index or overnight breaking watches after voice.</li>
+</ul>
+
+<h3>Already covered (not new)</h3>
+<ul>
+<li>Galaxy Day 3; Anthropic one-Claude / Docs / Slides (Sep 16); OpenAI misalignment framework (Sep 16); Tembo Computer (Sep 15); Grok Build Memory (Sep 16); Cursor Projects (Sep 10); @bot voice HIGH_BAR.</li>
+</ul>
+]]></description>
+      <content:encoded><![CDATA[
+<p><strong>Lead:</strong> Quiet product day on the Grok Bot side (status blip then clean), but a busy overnight for everyone else — ChatGPT shipped a big Sep 17 release-notes wave, Anthropic published R&amp;D-automation metrics + a biomolecular uplift, Google Labs relaunched <strong>CC</strong> for families, and TechCrunch says researchers used Claude to chain into OpenAI in a bug bounty.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Status:</strong> <a href="https://status.cursor.com">All Systems Operational</a> as of this morning. <strong>New overnight blip:</strong> Grok Bot degradation investigated <strong>~4:37am PT</strong>, resolved <strong>~7:33am PT</strong> (Sep 18, 11:37→14:33 UTC). Yesterday’s Cloud Agents + Automations outage stays in the rearview (resolved Sep 17 ~1:04pm PT).</li>
+<li><strong>No new product posts:</strong> <a href="https://x.ai/news">x.ai/news</a> still tops out at Memory in Grok Build (Sep 16). Cursor changelog/blog still <a href="https://cursor.com/changelog">Projects</a> (Sep 10).</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>ChatGPT (Sep 17 release notes):</strong> <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT for Microsoft Word</a> (all plans, including Free); multi-account plugin connections expanded; Box/Dropbox/SharePoint in Library; Deep Research in Work/Codex; Data plugin; Voice can use GPT-5.6 / GPT-6 Astra for harder turns; Plus/Pro auto Instant→Thinking switching retired. Also: custom GPT retirement path toward plugins (planned).</li>
+<li><strong>Google Labs — CC for families (Sep 17):</strong> Shared household agent for up to six adults (18+), selective email sharing, shared “Your Day Ahead,” calendar/chat/tasks, PDF pre-fill. Waitlist at <a href="https://labs.google/cc">labs.google/cc</a>. Coverage: <a href="https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/">Ars</a>, <a href="https://www.theverge.com/ai-artificial-intelligence/997281/googles-revamping-its-cc-ai-as-an-organizing-agent-for-families">Verge</a>.</li>
+<li><strong>Anthropic science (Sep 17):</strong> <a href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling">Claude uplifted biomolecular modeling</a> — ~4× speedups across 30+ open-source bio models, low-memory “Big” mode, open-sourced optimizations + Adaptyv protein-design competition.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Anthropic R&amp;D automation metrics (Sep 17):</strong> <a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development">Measurements for the pace of AI development</a> — as of Aug 2026, Claude <strong>leads 26%</strong> of Anthropic AI R&amp;D (AL4), &gt;90% at least collaborative, <strong>none fully autonomous</strong>; ~<strong>30,000</strong> internal research/engineering agents monitored; ~6% of R&amp;D compute to safety in a July snapshot. (<a href="https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html">CNBC</a>)</li>
+<li><strong>Claude used in OpenAI bug-bounty breach (reported Sep 18):</strong> Hacktron AI used Claude (Opus 5 after Opus 4.8 stalled) to exploit Discourse/libheif → employee ChatGPT/Codex accounts; OpenAI paid <strong>$6,500</strong> bounty; issues fixed. (<a href="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/">TechCrunch</a>, citing WSJ)</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.3 (v2026.9.14)</strong> — no newer tag on <a href="https://github.com/NousResearch/hermes-agent/releases">NousResearch/hermes-agent releases</a>.</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>Confirmed official handle: <a href="https://x.com/bot">@bot</a>.</li>
+<li><strong>Headline since yesterday morning:</strong> <a href="https://x.com/bot/status/2100659463569170779">“Grok Bot can talk now.”</a> — voice rolling out desktop + mobile (~11:53am PT Thu Sep 17). <strong>Already HIGH_BAR / RSS’d yesterday afternoon</strong> — not new this morning.</li>
+<li>Full logged-out timeline scrape blocked today (x.com 403; nitter mirrors down). No newer official @bot post surfaced in public web index or overnight breaking watches after voice.</li>
+</ul>
+
+<h3>Already covered (not new)</h3>
+<ul>
+<li>Galaxy Day 3; Anthropic one-Claude / Docs / Slides (Sep 16); OpenAI misalignment framework (Sep 16); Tembo Computer (Sep 15); Grok Build Memory (Sep 16); Cursor Projects (Sep 10); @bot voice HIGH_BAR.</li>
+</ul>
+]]></content:encoded>
+    </item>
+<item>
       <title>Grok Bot can talk now — voice mode rolling out on desktop and mobile</title>
       <link>https://x.com/bot/status/2100659463569170779</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-17-grok-bot-voice</guid>
       <pubDate>Thu, 17 Sep 2026 11:53:39 -0700</pubDate>
       <description><![CDATA[Official @bot (Grok Bot) announced voice mode: "Grok Bot can talk now." Spoken call-style conversations with persistent agents that have their own cloud computer; demo shows waveform UI + approval prompts. Rolling out to desktop and mobile over several days. Posted Sep 17 ~11:53am PT.<p>Sources: <a href="https://x.com/bot/status/2100659463569170779">@bot on X</a> · <a href="https://runtimewire.com/article/grok-bot-adds-voice-desktop-mobile">RuntimeWire</a> · <a href="https://x.ai/bot">x.ai/bot</a></p>]]></description>
     </item>
-
 <item>
       <title>Breaking: Claude Projects redesigned — coordinator + parallel cloud threads</title>
       <link>https://www.claude.com/blog/projects-redesigned</link>
@@ -747,17 +831,5 @@
 ]]>
       </description>
     </item>
-<item>
-      <title>Grok Bot outage resolved</title>
-      <link>https://status.cursor.com</link>
-      <guid isPermaLink="false">updatebot-breaking-grok-bot-outage-resolved-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 10:07:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Cursor marked this morning’s <b>Grok Bot major outage</b> resolved at 10:07am PT. Grok Bot, Review Agents, Automations, Cloud Agents, and the IDE all show Operational. Incident started 6:41am PT; identified 8:33am PT.</p>
-<p>Incident: <a href="https://stspg.io/my6v5jj14wyg">stspg.io/my6v5jj14wyg</a> · Status: <a href="https://status.cursor.com">status.cursor.com</a></p>
-]]>
-      </description>
-    </item>
-
-</channel>
+  </channel>
 </rss>
