@@ -9,7 +9,44 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sun, 20 Sep 2026 08:18:00 -0700</lastBuildDate>
         
-                    <item>
+                        <item>
+      <title>AI briefing — Weekday, Mon Sep 21, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-21</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 08:55:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead:</strong> SpaceXAI shipped <a href="https://x.ai/news/grok-4-7">Grok 4.7</a> today — most capable model yet for coding and knowledge work, trained to natively understand the Grok Bot harness, at the same $2 / $6 per M token price as Grok 4.6. Available now in Cursor, Grok Build, and the Grok API. Overnight (~11:39pm–12:00am PT), a short Grok 4.6 degradation hit Automations / Cloud Agents / CLI / IDE; resolved by midnight PT. <a href="https://status.cursor.com">All Systems Operational</a> this morning.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Grok 4.7 (Sep 21):</strong> Larger base + longer RL on multi-hour tasks; better self-verification and long context; native Grok Bot harness understanding. CursorBench 4.0: 46.3% (xhigh) vs Grok 4.6’s 40.4%. Fast variant = 2× output speed at 2× price. (<a href="https://x.ai/news/grok-4-7">x.ai/news/grok-4-7</a>)</li>
+<li><strong>Status:</strong> Brief Grok 4.6 blip overnight (investigating 6:39 UTC → resolved 7:00 UTC Sep 21). Grok Bot component stayed Operational. Now <a href="https://status.cursor.com">All Systems Operational</a>.</li>
+<li><strong>Product:</strong> Cursor changelog still tops at <a href="https://cursor.com/changelog">Projects (Sep 10)</a>.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Grok 4.7</strong> is the day’s ship (above). No fresh overnight ChatGPT / Claude / Gemini feature drops beyond what’s already briefed — Anthropic newsroom still measurements (Sep 17) / Fable 5.1; OpenAI Zendesk/OneNote plugins already in the Sep 3 release notes wave.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Antitrust catch-up (filed Fri Sep 18; CBS Sat Sep 19):</strong> Proposed N.D. Cal. class action alleges Anthropic, OpenAI, SpaceXAI, and Google illegally agreed to slow AI development after Amodei’s Sep 12 “pacing the frontier” essay. Named plaintiffs are paid ChatGPT / Claude / Grok / Gemini subscribers. Labs had not commented as of Saturday. (<a href="https://www.cbsnews.com/news/ai-slowdown-lawsuit-openai-anthropic-google/">CBS</a>)</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.3 (v2026.9.14)</strong> — no newer release tag overnight. (<a href="https://github.com/NousResearch/hermes-agent/releases">releases</a>)</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>No newer public posts found since the Fri Sep 18 voice / voice-notes wave (same as Sun’s briefing). Themes still: voice calls on desktop/mobile + asynchronous voice notes. Concrete mirror: <a href="https://www.unrollnow.com/status/2101014478255247544">voice-notes status</a>. Logged-out <a href="https://x.com/bot">x.com/bot</a> timeline unreadable this morning (403 / login wall).</li>
+</ul>
+]]></description>
+    </item>
+
+<item>
       <title>AI briefing — Weekday, Sun Sep 20, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-20</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-20</guid>
@@ -875,16 +912,6 @@
 ]]>
       </description>
     </item>
-<item>
-      <title>NVIDIA PAIR + Hermes one-click local RTX (IFA)</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</link>
-      <guid isPermaLink="false">updatebot-breaking-nvidia-pair-hermes-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 19:28:00 -0700</pubDate>
-      <description><![CDATA[
-<p>At IFA 2026 (Sep 3), NVIDIA shipped <b>PAIR</b> (Personal AI Router) — free open-source beta that routes local agent inference across idle home PCs (Ollama/LM Studio; Win/macOS/Linux; RTX 20+ / M4+). Demoed with <b>Hermes</b> subagents. Same post: <b>Hermes Agent</b> gets one-click local NVIDIA GPU model setup on Windows now (Linux soon); OpenClaw Windows app + Perplexity Portable Computer also in the local-agent push.</p>
-<p><a href="https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/">NVIDIA IFA blog</a> · <a href="https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook">The Verge</a></p>
-]]>
-      </description>
-    </item>
-</channel>
+
+  </channel>
 </rss>
