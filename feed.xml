@@ -7,9 +7,48 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 20 Sep 2026 08:18:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:49:00 -0700</lastBuildDate>
         
-                        <item>
+                            <item>
+      <title>AI briefing — Weekday, Tue Sep 22, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-22</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 08:49:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead:</strong> After yesterday’s <a href="https://x.ai/news/grok-4-7">Grok 4.7</a> ship, a quieter product morning — but Cursor had two short Grok-model blips overnight and early today, both already resolved. <a href="https://status.cursor.com">All Systems Operational</a> now. Catch-up ships: Grok 4.7 is rolling into <a href="https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/">GitHub Copilot</a>, Hermes tagged <strong>v0.21.4</strong>, and Google opened preorders for <a href="https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/">Googlebook</a> with on-device Gemini.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Status (Sep 22 morning):</strong> ~6:02–6:45am PT — Automations / Cloud Agents couldn’t select Grok 4.7; identified then resolved. Overnight ~6:07–6:42pm PT Mon — broader Grok-model degraded performance (Automations / Cloud Agents / CLI / IDE); resolved same evening. Grok Bot component stayed green. Now <a href="https://status.cursor.com">All Systems Operational</a>.</li>
+<li><strong>Product:</strong> No new Grok Bot feature post overnight. Cursor changelog still tops at <a href="https://cursor.com/changelog">Projects (Sep 10)</a>. <a href="https://x.ai/news">x.ai/news</a> newest remains Grok 4.7 (Sep 21), then Voice Transcribe 2.0 (Sep 18).</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Grok 4.7 → GitHub Copilot (Sep 21):</strong> Gradual rollout for Copilot Pro / Pro+ / Max / Business / Enterprise across VS Code, Visual Studio, Copilot CLI, cloud agent, app, JetBrains, Xcode, Eclipse. Provider list pricing under usage-based billing; admins can gate via model policy. (<a href="https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/">GitHub Changelog</a>)</li>
+<li><strong>Googlebook + on-device Gemini (Sep 21):</strong> Magic Pointer, Rambler voice cleanup, Create My Widget, Antigravity + Linux terminal for agentic coding, Gemini Spark background tasks. Preorders from $899; ships Oct 4 US. (<a href="https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/">Google blog</a>)</li>
+<li>No verified net-new ChatGPT / Claude feature drop overnight (emoji-reaction chatter remains unofficial / partial rollout).</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li>No fresh high-bar major story overnight beyond the product/status items above. Yesterday’s antitrust catch-up and Grok 4.7 launch stay in the rearview.</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li><strong>v0.21.4 (v2026.9.21)</strong> tagged Sep 21 afternoon — patch rollup of ~1,800 PRs since v0.21.3 for Docker / Hermes Cloud / hosted; curated notes deferred to v0.22.0. Notable in the window (undocumented-on-purpose list): host-wide gateway singleton, Desktop attaching to running host backend, stream-json CLI output, skills.auto_load, Desktop font picker / one-click local engine updates, plus many profile/multiplex/cron/Desktop/state.db fixes. (<a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.21">release</a>)</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>No newer official posts since Fri Sep 18. Timeline readable this morning via public status pages. Still the voice wave: <a href="https://x.com/bot/status/2101014478255247544">voice notes (Sep 18)</a>, <a href="https://x.com/bot/status/2100659463569170779">“can talk now” (Sep 17)</a>, plus earlier Galaxy Day 3 and 1Password posts. Primary: <a href="https://x.com/bot">@bot</a>.</li>
+</ul>
+
+]]></description>
+    </item>
+
+<item>
       <title>AI briefing — Weekday, Mon Sep 21, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-21</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-21</guid>
@@ -901,17 +940,5 @@
 </ul>
 ]]></description>
     </item>
-<item>
-      <title>NVIDIA to acquire Hugging Face (~$12.93B)</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</link>
-      <guid isPermaLink="false">updatebot-breaking-nvidia-hugging-face-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 19:28:00 -0700</pubDate>
-      <description><![CDATA[
-<p>NVIDIA agreed to acquire <b>Hugging Face</b> for <b>$12,930,300,000</b> (announced Sep 3; definitive agreement dated Sep 2). HF stays an open multi-cloud / multi-accelerator platform — NVIDIA compute not required. ~18M developers, 3M+ models. Close guided H1 2027 pending regulatory approval. SEC 8-K: ~$11.9B to stockholders + up to ~$1B employee retention equity.</p>
-<p><a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">NVIDIA blog</a> · <a href="https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm">SEC 8-K</a></p>
-]]>
-      </description>
-    </item>
-
-  </channel>
+</channel>
 </rss>
