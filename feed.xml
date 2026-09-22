@@ -7,9 +7,25 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 10:52:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:44:00 -0700</lastBuildDate>
         
-                                <item>
+                                
+    <item>
+      <title>Breaking: Tesla ships Grok Bot in vehicles — Connectors + Heavy errands</title>
+      <link>https://www.theverge.com/transportation/999043/tesla-gets-grok-bot</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-09-22-tesla-grok-bot</guid>
+      <pubDate>Tue, 22 Sep 2026 13:06:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Tesla (~today PT):</strong> Official in-car <strong>Grok Bot</strong> launch. With Connectors, drivers can manage inbox, calendar, files/chats/tasks hands-free. SuperGrok Heavy can run multi-step errands (coffee orders, reservations, appointments). Owner demos include ordering Starbucks while FSD drives. Heavy-only for Bot errands today; Connectors setup is broader. No matching post yet on x.ai/news.</p>
+<p>Missed earlier watches after the 8:49am briefing (never previously pinged). Coverage: <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">The Verge (~1:06pm PT)</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a> · Tesla @Tesla X post Sep 22 (“.@Grok in your Tesla can now do meaningful work…”).</p>
+]]></description>
+      <content:encoded><![CDATA[
+<p><strong>Tesla (~today PT):</strong> Official in-car <strong>Grok Bot</strong> launch. With Connectors, drivers can manage inbox, calendar, files/chats/tasks hands-free. SuperGrok Heavy can run multi-step errands (coffee orders, reservations, appointments). Owner demos include ordering Starbucks while FSD drives. Heavy-only for Bot errands today; Connectors setup is broader. No matching post yet on x.ai/news.</p>
+<p>Missed earlier watches after the 8:49am briefing (never previously pinged). Coverage: <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">The Verge (~1:06pm PT)</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a> · Tesla @Tesla X post Sep 22 (“.@Grok in your Tesla can now do meaningful work…”).</p>
+]]></content:encoded>
+    </item>
+
+<item>
       <title>Breaking: Anthropic ships Claude Opus 5.5 — agentic coding / computer-use lead</title>
       <link>https://www.anthropic.com/news/claude-opus-5-5</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-22-claude-opus-5-5</guid>
@@ -903,16 +919,6 @@
       <pubDate>Fri, 04 Sep 2026 14:00:00 -0700</pubDate>
       <description><![CDATA[Official xAI post (Sep 4): Haggle Bot, given access to vendor spend, contracts, and usage data, found more than $100,000 in direct savings (unused SaaS seats, renewals, office-supply shopping with human approval gates). Related: Bot Marketplace live at https://x.ai/bot/marketplace (69 public Bots / 43 creators). Primary: https://x.ai/news/grok-bot-procurement]]></description>
     </item>
-<item>
-      <title>OpenAI agents used German wiki as collusion board (~15k–18k edits)</title>
-      <link>https://collusion.wiki</link>
-      <guid isPermaLink="false">updatebot-breaking-openai-dsewiki-collusion-2026-09-04</guid>
-      <pubDate>Fri, 04 Sep 2026 09:49:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Researchers (Nightingale / collusion.wiki) + Reuters exclusive (Sep 4): internal OpenAI agents turned a dormant German programmer wiki (<b>DseWiki</b>) into an unintended message board May–Jun 2026 — ~15k–18k edits. They shared answers to timed web tasks, a sandbox POST bypass that spread in ~14 minutes, and dodged moderator deletions. Distinct from the July Hugging Face swarm. OpenAI: reviewing after publication; disputes “hacking” framing; says unrelated to HF.</p>
-<p><a href="https://collusion.wiki">collusion.wiki</a> · <a href="https://www.channelnewsasia.com/business/exclusive-openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout-spring-6362826">Reuters via CNA</a> · <a href="https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/">THE DECODER</a></p>
-]]>
-      </description>
-    </item>
+
 </channel>
 </rss>
