@@ -7,10 +7,85 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 14:44:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:56:00 -0700</lastBuildDate>
         
                                 
-    <item>
+        <item>
+      <title>AI briefing — Weekday, Wed Sep 23, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-23</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 08:56:00 -0700</pubDate>
+      <description><![CDATA[
+
+<p><strong>Lead:</strong> Busy afternoon yesterday after a quiet Tuesday morning briefing. <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">Tesla shipped Grok Bot in vehicles</a>, Anthropic dropped <a href="https://www.anthropic.com/news/claude-opus-5-5">Claude Opus 5.5</a>, and OpenAI followed with <a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a>. Cursor status is green this morning.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Tesla + Grok Bot (Sep 22 ~1:06pm PT):</strong> Official in-car Grok Bot. With Connectors, drivers can manage inbox, calendar, and files/chats/tasks hands-free. Multi-step errands (coffee, reservations, shopping) are SuperGrok Heavy–only for now ($300/mo); Connectors setup is broader. AMD infotainment + software 2025.26+ typically required. Verge also notes Bloomberg’s ~400k weekly Grok Bot users ~a month after launch. (<a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">Verge</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a>)</li>
+<li><strong>SpaceXAI support case study (Sep 22):</strong> Combined SpaceXAI/Cursor support rebuilt around Grok Bot — ~175% more tickets without new headcount; resolutions as low as ~$0.20–$0.30 vs $1–$4 typical. Plain + Linear + Datadog; refunds ~99% without human intervention. (<a href="https://x.ai/news/grok-bot-customer-support">x.ai/news</a>)</li>
+<li><strong>Status:</strong> <a href="https://status.cursor.com">All Systems Operational</a> this morning (Sep 23). No incidents today. Yesterday’s Grok 4.7 selection failure (~6:02–6:45am PT) and overnight Grok-models blip remain resolved. Changelog still tops at <a href="https://cursor.com/changelog">Projects (Sep 10)</a>.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Claude Opus 5.5 (Sep 22 ~9:30am PT):</strong> First Claude 5.5 model. Anthropic: leads agentic coding / computer use / knowledge work; ~Fable 5.1-level on most work at ~40% less cost than Opus 5; clearer writing; strongest behavioral-audit scores to date. API <code>claude-opus-5-5</code> — $4/$20 per M tokens (cache reads $0.20). Live on Claude Platform, AWS, GCP, Azure. Sonnet/Haiku 5.5 “coming weeks.” Biology/cyber safeguards in Fable 5.1 class. (<a href="https://www.anthropic.com/news/claude-opus-5-5">Anthropic</a>)</li>
+<li><strong>GPT-6 Sol + Luna (Sep 22 ~11am PT):</strong> Astra’s efficiency siblings — Sol for complex coding/agentic work, Luna for high-volume clerical tasks. 50% lower API prices vs GPT-5.6 Sol/Luna; OpenAI claims ~half the factuality mistakes vs prior Sol. Rolling out in ChatGPT Work + Codex (Plus/Pro/Business/Enterprise/Edu) and the API; Luna on desktop for Free/Go. Banked rate-limit reset for Plus/Pro/Business. (<a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">TechCrunch</a> · <a href="https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925">OpenAI community</a>)</li>
+<li>No net-new Gemini feature overnight; Workspace Study notebooks and Gemini 3.8 Live remain mid-September ships.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li>Model race compressed into one afternoon: Opus 5.5 then Sol/Luna within ~90 minutes, plus Tesla’s in-car Grok Bot. Quiet overnight after that wave.</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.4 (v2026.9.21)</strong> — no newer tag overnight. Patch rollup of ~1,800 PRs since v0.21.3 for Docker / Hermes Cloud; curated notes deferred to v0.22.0. (<a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.21">release</a>)</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>No newer official @bot posts found since Fri Sep 18 (public x.com fetch 403; browser scrape pending). Still the voice wave: <a href="https://x.com/bot/status/2101014478255247544">voice notes (Sep 18)</a>, <a href="https://x.com/bot/status/2100659463569170779">“can talk now” (Sep 17)</a>. Primary: <a href="https://x.com/bot">@bot</a>.</li>
+</ul>
+
+]]></description>
+      <content:encoded><![CDATA[
+
+<p><strong>Lead:</strong> Busy afternoon yesterday after a quiet Tuesday morning briefing. <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">Tesla shipped Grok Bot in vehicles</a>, Anthropic dropped <a href="https://www.anthropic.com/news/claude-opus-5-5">Claude Opus 5.5</a>, and OpenAI followed with <a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">GPT-6 Sol and Luna</a>. Cursor status is green this morning.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Tesla + Grok Bot (Sep 22 ~1:06pm PT):</strong> Official in-car Grok Bot. With Connectors, drivers can manage inbox, calendar, and files/chats/tasks hands-free. Multi-step errands (coffee, reservations, shopping) are SuperGrok Heavy–only for now ($300/mo); Connectors setup is broader. AMD infotainment + software 2025.26+ typically required. Verge also notes Bloomberg’s ~400k weekly Grok Bot users ~a month after launch. (<a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">Verge</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a>)</li>
+<li><strong>SpaceXAI support case study (Sep 22):</strong> Combined SpaceXAI/Cursor support rebuilt around Grok Bot — ~175% more tickets without new headcount; resolutions as low as ~$0.20–$0.30 vs $1–$4 typical. Plain + Linear + Datadog; refunds ~99% without human intervention. (<a href="https://x.ai/news/grok-bot-customer-support">x.ai/news</a>)</li>
+<li><strong>Status:</strong> <a href="https://status.cursor.com">All Systems Operational</a> this morning (Sep 23). No incidents today. Yesterday’s Grok 4.7 selection failure (~6:02–6:45am PT) and overnight Grok-models blip remain resolved. Changelog still tops at <a href="https://cursor.com/changelog">Projects (Sep 10)</a>.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Claude Opus 5.5 (Sep 22 ~9:30am PT):</strong> First Claude 5.5 model. Anthropic: leads agentic coding / computer use / knowledge work; ~Fable 5.1-level on most work at ~40% less cost than Opus 5; clearer writing; strongest behavioral-audit scores to date. API <code>claude-opus-5-5</code> — $4/$20 per M tokens (cache reads $0.20). Live on Claude Platform, AWS, GCP, Azure. Sonnet/Haiku 5.5 “coming weeks.” Biology/cyber safeguards in Fable 5.1 class. (<a href="https://www.anthropic.com/news/claude-opus-5-5">Anthropic</a>)</li>
+<li><strong>GPT-6 Sol + Luna (Sep 22 ~11am PT):</strong> Astra’s efficiency siblings — Sol for complex coding/agentic work, Luna for high-volume clerical tasks. 50% lower API prices vs GPT-5.6 Sol/Luna; OpenAI claims ~half the factuality mistakes vs prior Sol. Rolling out in ChatGPT Work + Codex (Plus/Pro/Business/Enterprise/Edu) and the API; Luna on desktop for Free/Go. Banked rate-limit reset for Plus/Pro/Business. (<a href="https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/">TechCrunch</a> · <a href="https://community.openai.com/t/announcing-gpt-6-sol-and-gpt-6-luna-in-the-api-codex-and-chatgpt/1399925">OpenAI community</a>)</li>
+<li>No net-new Gemini feature overnight; Workspace Study notebooks and Gemini 3.8 Live remain mid-September ships.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li>Model race compressed into one afternoon: Opus 5.5 then Sol/Luna within ~90 minutes, plus Tesla’s in-car Grok Bot. Quiet overnight after that wave.</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.4 (v2026.9.21)</strong> — no newer tag overnight. Patch rollup of ~1,800 PRs since v0.21.3 for Docker / Hermes Cloud; curated notes deferred to v0.22.0. (<a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.21">release</a>)</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>No newer official @bot posts found since Fri Sep 18 (public x.com fetch 403; browser scrape pending). Still the voice wave: <a href="https://x.com/bot/status/2101014478255247544">voice notes (Sep 18)</a>, <a href="https://x.com/bot/status/2100659463569170779">“can talk now” (Sep 17)</a>. Primary: <a href="https://x.com/bot">@bot</a>.</li>
+</ul>
+
+]]></content:encoded>
+    </item>
+
+<item>
       <title>Breaking: Tesla ships Grok Bot in vehicles — Connectors + Heavy errands</title>
       <link>https://www.theverge.com/transportation/999043/tesla-gets-grok-bot</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-22-tesla-grok-bot</guid>
@@ -912,13 +987,5 @@
 ]]>
       </description>
     </item>
-<item>
-      <title>Grok Bot procurement case study: Haggle Bot finds $100K+ savings; Bot Marketplace live</title>
-      <link>https://x.ai/news/grok-bot-procurement</link>
-      <guid isPermaLink="false">updatebot-breaking-grok-bot-procurement-marketplace-2026-09-04</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 -0700</pubDate>
-      <description><![CDATA[Official xAI post (Sep 4): Haggle Bot, given access to vendor spend, contracts, and usage data, found more than $100,000 in direct savings (unused SaaS seats, renewals, office-supply shopping with human approval gates). Related: Bot Marketplace live at https://x.ai/bot/marketplace (69 public Bots / 43 creators). Primary: https://x.ai/news/grok-bot-procurement]]></description>
-    </item>
-
 </channel>
 </rss>
