@@ -7,7 +7,23 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 08:33:49 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:34:00 -0700</lastBuildDate>
+      <item>
+      <title>Breaking: Docker Cloud Sandboxes — agent microVMs in the cloud (local↔cloud move)</title>
+      <link>https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-09-24-docker-cloud-sandboxes</guid>
+      <pubDate>Thu, 24 Sep 2026 09:34:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Docker</strong> launched <a href="https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/">Cloud Sandboxes</a> today (Sep 24): the same microVM agent sandbox that already ran on your laptop, now on Docker-managed always-on compute, with one command to move either way (<code>sbx move my-project --to cloud</code>).</p>
+<ul>
+<li>Each agent gets its own microVM (kernel + Docker daemon), secrets proxy (agents never see raw keys), network policies, and MCP gateway.</li>
+<li>Kits ready today for Claude Code, Codex, Copilot, Antigravity, Open Code, and <strong>Hermes</strong>.</li>
+<li>Pay-as-you-go by the second (Small default ~$0.14/hr); paused sandboxes free; sessions up to 24h.</li>
+</ul>
+<p>Primary: <a href="https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/">docker.com/blog</a>. Fits the “agent gets its own VM” watch.</p>
+]]></description>
+    </item>
+
         
                                 
                 
@@ -930,13 +946,6 @@
       <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-resolved-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 14:50:00 -0700</pubDate>
       <description>Cursor status: the Grok Bot computers-unreachable incident is Resolved as of ~2:37pm PT Mon Sep 7 (All Systems Operational). Timeline PT: Investigating ~1:32pm → Identified ~1:33pm → Monitoring ~1:41pm → Resolved ~2:37pm. Some users could not reach their Grok Bot computer; Recover/Reset may have failed; data not affected. Incident: https://stspg.io/2h04kqhqq9jw</description>
-    </item>
-    <item>
-      <title>Grok Bot computers unreachable for some users (Cursor status)</title>
-      <link>https://status.cursor.com</link>
-      <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-unreachable-2026-09-07</guid>
-      <pubDate>Mon, 07 Sep 2026 13:34:18 -0700</pubDate>
-      <description>Cursor status reports a major-impact incident (investigating as of ~1:32pm PT Mon Sep 7): Grok Bot is in partial outage — some users cannot reach their Grok Bot computer, and Recover/Reset may fail. Data is not affected; a fix is rolling out. Incident: https://stspg.io/2h04kqhqq9jw</description>
     </item>
   </channel>
 </rss>
