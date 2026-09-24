@@ -7,8 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 09:34:00 -0700</lastBuildDate>
-    <item>
+    <lastBuildDate>Thu, 24 Sep 2026 12:31:12 -0700</lastBuildDate>
+        <item>
+      <title>Dropbox MCP for Grok Bot + Cursor Marketplace (SpaceXAI partnership)</title>
+      <link>https://blog.dropbox.com/topics/company/dropbox-spacexai-project-context-cursor-marketplace-grok-bot</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-09-24-dropbox-grok-bot-mcp</guid>
+      <pubDate>Thu, 24 Sep 2026 12:31:12 -0700</pubDate>
+      <description>Dropbox and SpaceXAI launched two integrations on Sep 24, 2026: Dropbox in the Cursor Marketplace and the Dropbox MCP for Grok Bot. Grok Bot can use project files, research, decisions, and assets already organized in Dropbox (existing permissions apply), and write results back. Marketplace plugin: 19 tools + 6 workflow skills. Grok Bot MCP available on eligible Cursor Pro/Pro+/Ultra, Teams, and Enterprise plans. Primary: https://blog.dropbox.com/topics/company/dropbox-spacexai-project-context-cursor-marketplace-grok-bot</description>
+    </item>
+<item>
       <title>Google ships Gemini 3.8 Live with Live Avatar (Enterprise GA)</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-24-gemini-3-8-live-avatar</guid>
@@ -931,17 +938,5 @@
 <p>Available at <a href="https://muse.ai">muse.ai</a>, iOS, Android, and WhatsApp; free for most use, with Power ($20/mo) and Maximum ($100/mo) plans. Powered by Muse Spark. Glasses coming soon.</p>
 <p>Primary: <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Meta Newsroom</a> · Coverage: <a href="https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/">TechCrunch</a> · <a href="https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/">Reuters</a></p>]]></content:encoded>
     </item>
-<item>
-      <title>OpenAI claims Navier–Stokes Millennium Prize solution via multi-agent system</title>
-      <link>https://openai.com/index/navier-stokes-solution/</link>
-      <guid isPermaLink="false">updatebot-breaking-openai-navier-stokes-2026-09-08</guid>
-      <pubDate>Tue, 08 Sep 2026 10:41:00 -0700</pubDate>
-      <description><![CDATA[OpenAI published a claimed solution to the Navier–Stokes existence and smoothness Millennium Prize problem (finite-time singularity; Clay statements C and D). An internal multi-agent system (~10,000 concurrent agents on a model OpenAI says is significantly more capable than GPT-6 Astra) produced an analytical proof; Lean formalization ran via GPT-6 Astra. Agents found the resolution ~88 hours after launch (Sat Sep 5); Lean verification +17 hours. Paper + Lean: https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf · https://github.com/openai/NavierStokesAndEuler. OpenAI says it will not claim the Millennium Prize; recognizes concurrent Euler priority of Tristan Buckmaster (NYU) and Levent Alpöge (Anthropic). Primary: https://openai.com/index/navier-stokes-solution/]]></description>
-      <content:encoded><![CDATA[<p>OpenAI published a claimed solution to the Navier–Stokes existence and smoothness Millennium Prize problem (finite-time singularity; Clay statements C and D).</p>
-<p>An internal multi-agent system (~10,000 concurrent agents on a model OpenAI says is significantly more capable than GPT-6 Astra) produced an analytical proof; Lean formalization ran via GPT-6 Astra. Agents found the resolution ~88 hours after launch (Sat Sep 5); Lean verification +17 hours.</p>
-<p>Paper: <a href="https://cdn.openai.com/pdf/32d9f210-8b73-45e0-91bc-82a30aef8a9a/navier-stokes.pdf">PDF</a> · Lean: <a href="https://github.com/openai/NavierStokesAndEuler">github.com/openai/NavierStokesAndEuler</a></p>
-<p>OpenAI says it will not claim the Millennium Prize; recognizes concurrent Euler priority of Tristan Buckmaster (NYU) and Levent Alpöge (Anthropic).</p>
-<p>Primary: <a href="https://openai.com/index/navier-stokes-solution/">openai.com/index/navier-stokes-solution/</a></p>]]></content:encoded>
-    </item>
-    </channel>
+</channel>
 </rss>
