@@ -7,17 +7,62 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 16:52:45 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:33:49 -0700</lastBuildDate>
         
                                 
                 
+      <item>
+      <title>AI briefing — Weekday, Sep 24, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 08:33:49 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead:</strong> Quiet overnight on Cursor, but the day’s big add is <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.24">Hermes v0.21.5</a> (tagged this morning). Yesterday after the Wed briefing: Meta Connect put Muse on Mac computer use + glasses, Google shipped a Gemini audio/apps wave, and Anthropic shared a Claude-driven enzyme discovery.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Status:</strong> <a href="https://status.cursor.com">All Systems Operational</a> this morning (Thu Sep 24). Grok Bot Operational. No incidents today.</li>
+<li><strong>Yesterday’s blips (resolved):</strong> Cloud Agent Dockerfile builds (~10:14–11:43am PT) and a short Grok 4.7 degradation (~1:28–1:36pm PT). Both cleared before evening.</li>
+<li><strong>Changelog:</strong> Still tops at <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a> — already covered in yesterday’s breaking ping. No newer Cursor changelog entry overnight.</li>
+<li><strong>x.ai/news:</strong> Unchanged — <a href="https://x.ai/news">Grok 4.7 (Sep 21)</a> and the <a href="https://x.ai/news/grok-bot-customer-support">Grok Bot customer-support case study (Sep 22)</a>.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Gemini 3.8 Flash TTS + Flash-Lite TTS (Sep 23):</strong> Google’s most expressive speech models yet — generative voice design from prompts, 2,000+ library voices, voice replication with consent checks, line-by-line performance direction, dual-speaker scenes. Rolling out in Gemini API, AI Studio, Gemini Enterprise, Notebook, and Google Vids. (<a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/">Google blog</a>)</li>
+<li><strong>Gemini Connected Apps wave (Sep 23):</strong> New connectors rolling out — productivity (Airtable, Linear, monday.com, PandaDoc, Wispr, Zoho), creativity (Adobe, Picsart, Squarespace, Webflow), lifestyle (apartments.com, Experian, Peloton, SeatGeek). (<a href="https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/">Google blog</a>)</li>
+<li><strong>Gemini Omni 1.1 Flash in Google Vids (Sep 23):</strong> Better scene extension, exact clip durations, generate/upscale to 1080p. (<a href="https://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html">Workspace Updates</a>)</li>
+<li>Claude Opus 5.5 and GPT-6 Sol/Luna remain the Sep 22 model drops already in Wednesday’s briefing — no net-new ChatGPT/Claude product ships overnight beyond the research note below.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Meta Connect (~4pm PT Wed):</strong> Muse gains Mac computer use (drive Mac apps; keeps working after walk-away) + own email; Muse coming to Meta AI glasses hands-free; Meta VR Glasses Spring 2027 ($1,299) with agent in the OS. Already RSS’d as breaking. (<a href="https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/">Meta Muse/glasses</a> · <a href="https://about.fb.com/news/2026/09/introducing-meta-vr-glasses/">VR Glasses</a>)</li>
+<li><strong>Claude discovers a novel enzyme system (Sep 23):</strong> Anthropic’s new life-sciences lab reports Claude agents autonomously found “array-associated reverse transcriptases” (ART) — CRISPR-like DNA repeat arrays next to an unusual reverse transcriptase — after ~21 hours / ~950 agents. Function still under study; preprint shared. Feng Zhang called it an exciting example of AI-driven discovery. (<a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system">Anthropic</a>)</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li><strong>New:</strong> <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.24">v0.21.5 (v2026.9.24)</a> — patch rollup of ~460 PRs / ~1,610 commits since v0.21.4 for Docker / Hermes Cloud. Window highlights called out (full notes deferred to v0.22.0): Desktop plugin SDK wave, Simple/Advanced UI mode, Connectors page replacing the MCP tab, FR/DE/ES Desktop catalogs + RTL/LTR, Bot Screen on hosted <code>-desktop</code> images, GPT-6 Sol/Terra/Luna and Claude Opus 5.5 in catalogs, Blender Lab + NVIDIA plugins, and more. Update with <code>hermes update</code> or image tag <code>nousresearch/hermes-agent:v2026.9.24</code>.</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li>No brand-new posts since Tue Sep 22 afternoon (public timeline via Nitter RSS; x.com fetch is login-walled). Themes since last briefing window: UI polish + desktop speed, plus the support rebuild.</li>
+<li><a href="https://x.com/bot/status/2102532697960956074">QoL: cleaner Bots interface</a> (Tue Sep 22 ~3:57pm PT), with a follow-up that the <a href="https://x.com/bot/status/2102532704797610313">desktop app is faster</a> (reconnecting after flaky net 60s→0.7s, wake 23s→1s, Computer view switch 868ms→27ms — citing @poteto’s perf dump).</li>
+<li><a href="https://x.com/bot/status/2102460785649959362">Customer-support rebuild around Grok Bot</a> (Tue Sep 22 ~11:11am PT) → <a href="https://x.ai/news/grok-bot-customer-support">x.ai/news</a>.</li>
+<li>Earlier still visible: voice notes (Sep 18), “can talk now” (Sep 17). Primary handle: <a href="https://x.com/bot">@bot</a>.</li>
+</ul>
+]]></description>
+    </item>
+    <item>
       <title>Breaking: Meta Connect — Muse gets Mac computer use + comes to AI glasses</title>
       <link>https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio/</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-23-meta-muse-computer-use-glasses</guid>
       <pubDate>Wed, 23 Sep 2026 16:52:45 -0700</pubDate>
       <description>At Meta Connect (~4:00pm PT Wed Sep 23), Muse gained computer use on Mac — it can drive apps on your Mac and keep working after you walk away — and is getting its own email address (Engadget / Tom&#x27;s Guide live keynote coverage). Officially, Meta is bringing Muse to Meta AI glasses hands-free alongside Ray-Ban Meta Audio and Gen 3 expansions. Also announced: Meta VR Glasses (Spring 2027, $1,299) with the AI agent built into the OS. Links: https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio/ · https://about.fb.com/news/2026/09/introducing-meta-vr-glasses/ · https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/ · https://www.tomsguide.com/news/live/meta-connect-2026-live</description>
     </item>
-<item>
+    <item>
       <title>Breaking: Cursor ships Rollouts + Security Review bots (Teams/Enterprise)</title>
       <link>https://cursor.com/changelog</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-23-cursor-rollouts-security-review</guid>
@@ -31,7 +76,7 @@
 <p>Primary: <a href="https://cursor.com/changelog">cursor.com/changelog</a> (Sep 23). Status: All Systems Operational after a brief Grok 4.7 degradation ~1:28–1:36pm PT (resolved).</p>
 ]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Wed Sep 23, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-23</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-23</guid>
@@ -105,8 +150,7 @@
 
 ]]></content:encoded>
     </item>
-
-<item>
+    <item>
       <title>Breaking: Tesla ships Grok Bot in vehicles — Connectors + Heavy errands</title>
       <link>https://www.theverge.com/transportation/999043/tesla-gets-grok-bot</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-22-tesla-grok-bot</guid>
@@ -120,8 +164,7 @@
 <p>Missed earlier watches after the 8:49am briefing (never previously pinged). Coverage: <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">The Verge (~1:06pm PT)</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a> · Tesla @Tesla X post Sep 22 (“.@Grok in your Tesla can now do meaningful work…”).</p>
 ]]></content:encoded>
     </item>
-
-<item>
+    <item>
       <title>Breaking: Anthropic ships Claude Opus 5.5 — agentic coding / computer-use lead</title>
       <link>https://www.anthropic.com/news/claude-opus-5-5</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-22-claude-opus-5-5</guid>
@@ -135,8 +178,7 @@
 <p>Missed the 8:49am PT weekday briefing (launched after). Primary: <a href="https://www.anthropic.com/news/claude-opus-5-5">anthropic.com/news/claude-opus-5-5</a> · <a href="https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/">TechCrunch 9:30am PDT</a>.</p>
 ]]></content:encoded>
     </item>
-
-<item>
+    <item>
       <title>AI briefing — Weekday, Tue Sep 22, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-22</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-22</guid>
@@ -174,8 +216,7 @@
 
 ]]></description>
     </item>
-
-<item>
+    <item>
       <title>AI briefing — Weekday, Mon Sep 21, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-21</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-21</guid>
@@ -211,8 +252,7 @@
 </ul>
 ]]></description>
     </item>
-
-<item>
+    <item>
       <title>AI briefing — Weekday, Sun Sep 20, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-20</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-20</guid>
@@ -249,7 +289,7 @@
 </ul>
 ]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Sat Sep 19, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-19</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-19</guid>
@@ -289,7 +329,7 @@
 </ul>
 ]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Sep 18, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-18</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-18</guid>
@@ -373,14 +413,14 @@
 </ul>
 ]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>Grok Bot can talk now — voice mode rolling out on desktop and mobile</title>
       <link>https://x.com/bot/status/2100659463569170779</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-17-grok-bot-voice</guid>
       <pubDate>Thu, 17 Sep 2026 11:53:39 -0700</pubDate>
       <description><![CDATA[Official @bot (Grok Bot) announced voice mode: "Grok Bot can talk now." Spoken call-style conversations with persistent agents that have their own cloud computer; demo shows waveform UI + approval prompts. Rolling out to desktop and mobile over several days. Posted Sep 17 ~11:53am PT.<p>Sources: <a href="https://x.com/bot/status/2100659463569170779">@bot on X</a> · <a href="https://runtimewire.com/article/grok-bot-adds-voice-desktop-mobile">RuntimeWire</a> · <a href="https://x.ai/bot">x.ai/bot</a></p>]]></description>
     </item>
-<item>
+    <item>
       <title>Breaking: Claude Projects redesigned — coordinator + parallel cloud threads</title>
       <link>https://www.claude.com/blog/projects-redesigned</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-17-claude-projects</guid>
@@ -394,7 +434,7 @@
 <p><em>Also watched:</em> status.cursor.com still Investigating — Cloud Agents + Automations major outage (last update 15:50 UTC / ~8:50am PT; already briefed). Grok Bot Operational. Hermes still v0.21.3. No newer x.ai / Cursor changelog ships.</p>
 ]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Thu Sep 17, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-17</guid>
@@ -476,21 +516,21 @@
 </ul>
 ]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>Grok Bot partial outage resolved (Cursor status)</title>
       <link>https://status.cursor.com/</link>
       <guid isPermaLink="false">breaking-grok-bot-outage-resolved-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 13:57:00 -0700</pubDate>
       <description><![CDATA[Cursor status: Grok Bot partial outage resolved at ~1:57pm PT (20:57 UTC). Incident began ~7:27am PT (Investigating), Identified ~12:51pm PT; users may have seen degraded performance or bots that didn't respond. All systems operational now, including Grok Bot. Source: <a href="https://status.cursor.com/">status.cursor.com</a>]]></description>
     </item>
-<item>
+    <item>
       <title>Breaking: Grok Build memory is generally available</title>
       <link>https://x.ai/news/grok-build-memory</link>
       <guid isPermaLink="false">breaking-grok-build-memory-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 12:14:00 -0700</pubDate>
       <description><![CDATA[xAI shipped Memory in Grok Build (Sep 16): persistent cross-session notes on conventions, decisions, and project facts. Capture runs in the background after each turn as markdown topic files (per-project + global preferences); later sessions read relevant topics before related work. New /memory browser and /dream consolidation; live in Grok Build 1.0.34 for new sessions (/new or fresh grok). Not in this morning’s briefing.<p>Sources: <a href="https://x.ai/news/grok-build-memory">x.ai news</a> · <a href="https://x.ai/build/changelog">Grok Build changelog</a></p>]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Wed Sep 16, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-16</guid>
@@ -564,14 +604,14 @@
 </ul>
 ]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>Breaking: Google ships Gemini 3.8 Live + Live Extended Thinking</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
       <guid isPermaLink="false">breaking-gemini-3-8-live-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:53:00 -0700</pubDate>
       <description><![CDATA[Google launched Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking (Sep 15): speech-to-speech voice agents with visual grounding, 97-language switching, async/background tool calls while talking, and Extended Thinking that reasons + narrates progress without breaking conversation. Rolling out via Gemini API / AI Studio, Search Live, Gemini Live, and Workspace (Docs/Gmail/Keep Live); enterprise private preview. Companion Live API pricing post and Vercel AI Gateway listing same day.<p>Sources: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/">Google blog</a> · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/">developer post</a> · <a href="https://vercel.com/changelog/gemini-3-8-live-models-now-available-on-ai-gateway">Vercel AI Gateway</a></p>]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Sep 15, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-15</guid>
@@ -608,7 +648,7 @@
 
 ]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Mon Sep 14, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-14</guid>
@@ -680,7 +720,7 @@
 </ul>
 ]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>AI briefing — Sunday, Sep 13, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-13</guid>
@@ -723,7 +763,7 @@
 </ul>
 ]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Sat Sep 12, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-12</guid>
@@ -766,7 +806,7 @@
 </ul>
 ]]></description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Fri Sep 11, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-11</guid>
@@ -802,21 +842,21 @@
 </ul>
 ]]></description>
     </item>
-<item>
+    <item>
       <title>Cursor Projects: coordinator + thousands of subagents on their own cloud computer</title>
       <link>https://cursor.com/blog/projects</link>
       <guid isPermaLink="false">updatebot-breaking-cursor-projects-2026-09-10</guid>
       <pubDate>Thu, 10 Sep 2026 14:47:29 -0700</pubDate>
       <description>Cursor launched Projects (beta, rolling out to all users Sep 10, 2026 PT). A Project runs on its own cloud computer; a coordinator agent delegates to thousands of subagents, maintains shared syncing context over months, and supports subscriptions (Slack, schedule, PRs). Changelog: https://cursor.com/changelog/projects</description>
     </item>
-<item>
+    <item>
       <title>OpenAI Agents API public beta — Codex harness + hosted sandboxes</title>
       <link>https://openai.com/index/introducing-the-agents-api/</link>
       <guid isPermaLink="false">updatebot-breaking-openai-agents-api-2026-09-10</guid>
       <pubDate>Thu, 10 Sep 2026 12:41:43 -0700</pubDate>
       <description>OpenAI launched the Agents API in public beta (Sep 10, 2026): developers get the managed Codex harness plus compute environments — OpenAI-hosted sandbox, own infra, or partners (E2B, Modal, Vercel, Daytona, etc.). Supports long-running sessions, MCP tools, and parallel subagents. Same infrastructure behind Codex/ChatGPT Work.</description>
     </item>
-<item>
+    <item>
       <title>AI briefing — Weekday, Thu Sep 10, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-10</guid>
@@ -861,7 +901,7 @@
 </ul>
 ]]></description>
     </item>
-<item>
+    <item>
       <title>Meta launches Muse — personal AI agent with its own Secure VM</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
       <guid isPermaLink="false">updatebot-breaking-meta-muse-personal-agent-2026-09-08</guid>
@@ -872,7 +912,7 @@
 <p>Available at <a href="https://muse.ai">muse.ai</a>, iOS, Android, and WhatsApp; free for most use, with Power ($20/mo) and Maximum ($100/mo) plans. Powered by Muse Spark. Glasses coming soon.</p>
 <p>Primary: <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Meta Newsroom</a> · Coverage: <a href="https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/">TechCrunch</a> · <a href="https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/">Reuters</a></p>]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>OpenAI claims Navier–Stokes Millennium Prize solution via multi-agent system</title>
       <link>https://openai.com/index/navier-stokes-solution/</link>
       <guid isPermaLink="false">updatebot-breaking-openai-navier-stokes-2026-09-08</guid>
@@ -884,55 +924,19 @@
 <p>OpenAI says it will not claim the Millennium Prize; recognizes concurrent Euler priority of Tristan Buckmaster (NYU) and Levent Alpöge (Anthropic).</p>
 <p>Primary: <a href="https://openai.com/index/navier-stokes-solution/">openai.com/index/navier-stokes-solution/</a></p>]]></content:encoded>
     </item>
-<item>
+    <item>
       <title>Grok Bot computers unreachable — resolved (Cursor status)</title>
       <link>https://status.cursor.com</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-resolved-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 14:50:00 -0700</pubDate>
       <description>Cursor status: the Grok Bot computers-unreachable incident is Resolved as of ~2:37pm PT Mon Sep 7 (All Systems Operational). Timeline PT: Investigating ~1:32pm → Identified ~1:33pm → Monitoring ~1:41pm → Resolved ~2:37pm. Some users could not reach their Grok Bot computer; Recover/Reset may have failed; data not affected. Incident: https://stspg.io/2h04kqhqq9jw</description>
     </item>
-<item>
+    <item>
       <title>Grok Bot computers unreachable for some users (Cursor status)</title>
       <link>https://status.cursor.com</link>
       <guid isPermaLink="false">updatebot-breaking-grok-bot-computers-unreachable-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 13:34:18 -0700</pubDate>
       <description>Cursor status reports a major-impact incident (investigating as of ~1:32pm PT Mon Sep 7): Grok Bot is in partial outage — some users cannot reach their Grok Bot computer, and Recover/Reset may fail. Data is not affected; a fix is rolling out. Incident: https://stspg.io/2h04kqhqq9jw</description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Mon Sep 7, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-09-07</guid>
-      <pubDate>Mon, 07 Sep 2026 08:09:00 -0700</pubDate>
-      <description><![CDATA[
-<p><b>Lead:</b> Sunday’s OpenAI double-drop is the real overnight news — chief scientist Jakub Pachocki calls for labs to slow max-speed scaling (<i>An Alien Mind</i>), and OpenAI says it hit the “automated research intern” milestone (3.1 agent-workdays per human day). Grok Bot product side is quiet; procurement / marketplace still newest on x.ai/news.</p>
-
-<h3>Grok Bot</h3>
-<ul>
-<li>No newer official post on <a href="https://x.ai/news">x.ai/news</a> since Fri’s <a href="https://x.ai/news/grok-bot-procurement">procurement / Haggle</a> case study. <a href="https://x.ai/bot/marketplace">Bot Marketplace</a> still shows <b>69</b> public Bots · <b>43</b> creators.</li>
-<li>Early Mon (5:12–6:08am PT): brief Cursor login/account blip (CLI / Cloud Agents / IDE) — resolved; status now <b>All Systems Operational</b>, Grok Bot included. <a href="https://status.cursor.com">status.cursor.com</a></li>
-</ul>
-
-<h3>Product releases</h3>
-<ul>
-<li><b>OpenAI research transparency (Sun Sep 6):</b> <a href="https://openai.com/index/research-acceleration-view-inside-openai/">Research acceleration: The view inside OpenAI</a> — claims the automated research intern goal (well-defined multi-day research tasks under human direction). Mid-Aug: <b>3.1</b> agent-workdays per human workday; median researcher &gt;$600/day inference (API prices); 90th percentile &gt;$7,000/day. Next target: fully automated AI researcher by <b>Mar 2028</b>. Still notes &gt;half of successful 4–8h tasks needed human intervention.</li>
-<li>No brand-new ChatGPT / Claude / Gemini / Grok feature ships overnight after Sat’s Astra broader-rollout coverage. Claude newsroom newest still Fable/Mythos 5.1 (Sep 1); Cursor product newest still Self-Hosted Machines (Sep 2).</li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li><b>Pachocki — An Alien Mind (Sun Sep 6):</b> “no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer”; wants Preparedness / RSP-style bars mandated and audited; chain-of-thought monitoring getting harder. Altman reportedly flagged it as important. <a href="https://openai.com/index/an-alien-mind/">openai.com/index/an-alien-mind</a> · coverage <a href="https://thenextweb.com/news/openai-slowdown-pachocki-alien-mind-research-intern-compute">TNW</a></li>
-</ul>
-
-<h3>Hermes</h3>
-<ul>
-<li>Still latest: <b>v0.21.0</b> (v2026.8.31 Pantheon). No newer GitHub release tag. <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.8.31">release</a></li>
-</ul>
-
-<h3>Grok Bot on X (@bot)</h3>
-<ul>
-<li>Public profile timeline still hard to read directly this morning. Via RuntimeWire (primary source: <a href="https://x.com/bot">@bot</a>): Fri theme still dominant — marketplace live + Haggle Bot “&gt;$100K” savings pitch (69 public / 43 creators). <a href="https://runtimewire.com/article/grok-bot-template-marketplace-haggle-procurement-agent">RuntimeWire</a> · <a href="https://x.ai/bot/marketplace">marketplace</a></li>
-</ul>
-]]></description>
     </item>
   </channel>
 </rss>
