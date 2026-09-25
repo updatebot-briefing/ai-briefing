@@ -7,8 +7,42 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Sep 2026 12:31:12 -0700</lastBuildDate>
-        <item>
+    <lastBuildDate>Fri, 25 Sep 2026 08:18:00 -0700</lastBuildDate>
+            <item>
+      <title>AI briefing — Weekday, Sep 25, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 08:18:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead:</strong> After yesterday’s quiet morning briefing, Thursday got busy: Dropbox shipped an MCP for Grok Bot (and a Cursor Marketplace plugin), Google put a face on Gemini Live for Enterprise, Docker took agent sandboxes to the cloud, and Adobe landed in Gemini while expanding Claude. Overnight, Grok Bot had a short computer blip (resolved). Hermes is still on v0.21.5.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Dropbox MCP for Grok Bot (Sep 24):</strong> Dropbox + SpaceXAI launched Dropbox in the Cursor Marketplace (19 tools + 6 workflow skills) and a Dropbox MCP for Grok Bot so bots can pull project briefs, research, and decisions from Dropbox and write results back — existing Dropbox permissions apply. Eligible Cursor Pro/Pro+/Ultra, Teams, and Enterprise. (<a href="https://blog.dropbox.com/topics/company/dropbox-spacexai-project-context-cursor-marketplace-grok-bot">Dropbox blog</a>)</li>
+<li><strong>Overnight blip (resolved):</strong> Grok Bot computers briefly couldn’t be created, reached, or reset ~10:17–11:51pm PT Thu (Sep 25 05:17–06:51 UTC). Status page says resolved; this morning <a href="https://status.cursor.com">All Systems Operational</a>, Grok Bot Operational.</li>
+<li><strong>Changelog / x.ai:</strong> Still tops at <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <a href="https://x.ai/news">x.ai/news</a> unchanged — Grok 4.7 (Sep 21).</li>
+<li><strong>Weekly feature walkthrough (Sep 23, amplified Wed):</strong> Voice calls + voice memos, 1Password vault fills, inline forms, inline email/Slack drafts, account switching, and routing traffic through your desktop — covered in secondary reports of a SpaceXAI team video Musk quote-posted. (See X beat.)</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Adobe → Gemini + deeper Claude (Sep 24):</strong> Adobe creative tools (Photoshop, Lightroom, Express, Firefly) now connect in Gemini (all plans). Claude’s Adobe plugin adds Acrobat PDF tools for the first time and interactive editors for PDFs and Express designs — 80+ tools in one plugin. (<a href="https://blog.adobe.com/en/publish/2026/09/24/adobe-comes-to-gemini-expands-what-you-can-do-in-claude">Adobe blog</a>)</li>
+<li><strong>Gemini 3.8 Live with Live Avatar (Sep 24):</strong> Near–real-time generated video persona with lip-sync, expressions, 97-language speech-to-speech sync, and async tool calls while talk continues. GA in Gemini Enterprise. Distinct from Wed’s Flash TTS / Connected Apps wave. (<a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/">Google blog</a>)</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Docker Cloud Sandboxes (Sep 24):</strong> Same microVM agent sandbox as local Docker Sandboxes, now on Docker-managed cloud compute — close your laptop and keep going; <code>sbx move … --to cloud</code>; parallel kits for Claude Code, Codex, Copilot, Hermes, and more; MCP gateway + secrets proxy. Pay-as-you-go from ~$0.07/hr. Infra for long-horizon coding agents, not a Grok Bot–style teammate product. (<a href="https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/">Docker blog</a>)</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<ul>
+<li><strong>Themes since last briefing:</strong> Official <a href="https://x.com/bot">@bot</a> timeline is hard to scrape from the web (403 / login walls). Secondary coverage of Wed’s weekly walkthrough (Musk quote-post of a SpaceXAI team video) highlights voice calls/memos, 1Password vault, inline forms, inline email/Slack drafts, account switching, and desktop traffic routing.</li>
+<li>Earlier official note still in the window of public mirrors: <a href="https://www.unrollnow.com/status/2100335532597502311">@bot on 1Password</a> (Sep 17) — share vault items, approve each fill, secrets stay in the password manager.</li>
+</ul>
+]]></description>
+    </item>
+<item>
       <title>Dropbox MCP for Grok Bot + Cursor Marketplace (SpaceXAI partnership)</title>
       <link>https://blog.dropbox.com/topics/company/dropbox-spacexai-project-context-cursor-marketplace-grok-bot</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-24-dropbox-grok-bot-mcp</guid>
@@ -926,17 +960,6 @@
 <li>Only confirmed official Grok Bot handle: <a href="https://x.com/bot">@bot</a> (profile also links SpaceXAI / x.ai/bot).</li>
 </ul>
 ]]></description>
-    </item>
-<item>
-      <title>Meta launches Muse — personal AI agent with its own Secure VM</title>
-      <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
-      <guid isPermaLink="false">updatebot-breaking-meta-muse-personal-agent-2026-09-08</guid>
-      <pubDate>Tue, 08 Sep 2026 12:00:00 -0700</pubDate>
-      <description><![CDATA[Meta launched Muse (US): a personal AI agent that does work across email, calendar, payments, shopping, health, and more — not just chat. Each Muse runs on Muse Secure VM, a dedicated cloud computer with its own browser; a separate Sentinel agent gates network/sensitive actions. Available on muse.ai, iOS, Android, and WhatsApp; free tier plus $20/$100 plans. Powered by Muse Spark. Primary: https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/ · Product: https://muse.ai · Coverage: https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/ · https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/]]></description>
-      <content:encoded><![CDATA[<p>Meta launched <strong>Muse</strong> (US rollout): a personal AI agent that takes on tasks across email, calendar, payments, shopping, health, and more — not just answers questions.</p>
-<p>Each Muse runs on <strong>Muse Secure VM</strong>, a dedicated cloud computer with its own browser; a separate Sentinel agent gates outbound network and sensitive actions (send email, purchase). Credentials stay in secure storage Muse cannot see.</p>
-<p>Available at <a href="https://muse.ai">muse.ai</a>, iOS, Android, and WhatsApp; free for most use, with Power ($20/mo) and Maximum ($100/mo) plans. Powered by Muse Spark. Glasses coming soon.</p>
-<p>Primary: <a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Meta Newsroom</a> · Coverage: <a href="https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/">TechCrunch</a> · <a href="https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/">Reuters</a></p>]]></content:encoded>
     </item>
 </channel>
 </rss>
