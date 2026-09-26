@@ -7,8 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 25 Sep 2026 08:18:00 -0700</lastBuildDate>
-            <item>
+    <lastBuildDate>Fri, 25 Sep 2026 17:30:52 -0700</lastBuildDate>
+                <item>
+      <title>Breaking: Grok Bot degraded performance (Cursor status, evening Sep 25)</title>
+      <link>https://status.cursor.com/incidents/bfcck6qks18q</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-09-25-grok-bot-degradation-evening</guid>
+      <pubDate>Fri, 25 Sep 2026 17:30:52 -0700</pubDate>
+      <description><![CDATA[Cursor status opened a new unresolved incident for Grok Bot: Investigating service degradation starting ~4:47pm PT Fri Sep 25 (23:47 UTC). Status moved to Monitoring ~5:22pm PT (00:22 UTC Sep 26) with a fix implemented and monitoring for restoration. Grok Bot component still shows Degraded Performance; overall Partially Degraded Service. Distinct from the earlier Sep 25 morning incident (05:17–06:51 UTC) already resolved. Sources: <a href="https://status.cursor.com/">status.cursor.com</a> · <a href="https://status.cursor.com/incidents/bfcck6qks18q">incident bfcck6qks18q</a> · <a href="https://stspg.io/m3kgdhh3lx5l">shortlink</a>]]></description>
+    </item>
+<item>
       <title>AI briefing — Weekday, Sep 25, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-25</guid>
