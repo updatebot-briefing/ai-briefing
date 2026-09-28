@@ -8,7 +8,48 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sun, 27 Sep 2026 08:18:00 -0700</lastBuildDate>
-                                <item>
+                                  <item>
+    <title>AI briefing — Weekday, Sep 28, 2026</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+    <guid isPermaLink="false">updatebot-briefing-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 08:28:00 -0700</pubDate>
+    <description><![CDATA[
+<p><strong>Lead:</strong> ChatGPT Health can now give personalized summaries when you tap a chart, metric, or record in the Health tab (shipped today). Quiet weekend for Grok Bot itself — status still green, and @bot hasn’t posted anything newer than Saturday’s Finance launch.</p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Status:</strong> <a href="https://status.cursor.com/">All Systems Operational</a> / Grok Bot Operational. No incidents Sep 27–28. Last Grok Bot blip was Friday evening (resolved ~5:32pm PT Fri).</li>
+<li><strong>Changelog / x.ai:</strong> Still tops at <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <a href="https://x.ai/news">x.ai/news</a> tip still <a href="https://x.ai/news/grok-4-7">Grok 4.7 (Sep 21)</a>.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>ChatGPT Health summaries (today):</strong> Tap a chart, metric, or record in the Health tab for personalized explanations grounded in your connected health data. (<a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes</a>)</li>
+<li><strong>Gemini Gems → Skills (noticed Sun):</strong> In-app notice that Gems migrate to skills starting Nov 17, 2026; skills live under Gemini Spark (Pro/Ultra for creating). Google’s public Gems help page doesn’t spell the migration out yet. (<a href="https://9to5google.com/2026/09/27/gemini-gems-skills/">9to5Google</a>)</li>
+<li><strong>Claude / Grok product blogs:</strong> No newer official ship than what’s already in recent briefings (Claude tip still Opus 5.5 Sep 22; x.ai tip still Grok 4.7).</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>OpenAI rogue-agent / training-pause thread:</strong> Still the weekend’s big story from Sunday’s brief — no fresher primary development this morning worth restating in full. (<a href="https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue">Guardian Sep 27</a>)</li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.5</strong> (<code>v2026.9.24</code>, Sep 24). No newer GitHub release overnight. (<a href="https://github.com/NousResearch/hermes-agent/releases">Releases</a>)</li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<p>Themes since last week: Finance integration is still the tip of the timeline; before that, desktop QoL/perf and the SpaceXAI support rebuild.</p>
+<ul>
+<li><strong>Sep 26 (~12:54pm PT):</strong> “Grok Bot now connects to your finances” + Plaid read-only follow-up. (<a href="https://x.com/bot/status/2103936247995752705">post</a>, <a href="https://x.com/bot/status/2103936249832903074">follow-up</a>)</li>
+<li><strong>Sep 22:</strong> QoL / faster desktop app (<a href="https://x.com/bot/status/2102532697960956074">thread</a>); support case study (<a href="https://x.ai/news/grok-bot-customer-support">x.ai</a>).</li>
+<li>No newer public @bot posts visible for Sep 27–28 (scraped via public Nitter mirror of <a href="https://x.com/bot">x.com/bot</a>; not the X API).</li>
+</ul>
+]]></description>
+  </item>
+
+<item>
     <title>AI briefing — Weekday, Sep 27, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-27</guid>
@@ -953,42 +994,6 @@
 <li>Themes since Fri briefing: still the Sep 8–9 QoL wave (no newer official posts confirmed on public web overnight).</li>
 <li><a href="https://x.com/bot/status/2097759948189106686">Sep 9</a> — QoL package: inline drafts for approval, ~10% more included usage on average (up to ~35% heavy), one-click account switch, native iPad, 20+ languages, mobile file share.</li>
 <li><a href="https://x.com/bot/status/2097383980748382239">Sep 8</a> — fill forms/logins in chat (password-manager support).</li>
-<li>Only confirmed official handle: <a href="https://x.com/bot">@bot</a>.</li>
-</ul>
-]]></description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Fri Sep 11, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-09-11</guid>
-      <pubDate>Fri, 11 Sep 2026 08:09:00 -0700</pubDate>
-      <description><![CDATA[
-<p><b>Lead:</b> SpaceXAI’s <b>Grok Bot Galaxy</b> is next week — Tue–Thu Sep 15–17 at The Howard (SF) plus livestream (~8:30am–6pm PT). Role tracks for eng, PM, founders, sales, support, and marketing, plus a live build-a-company-with-Grok-Bot showcase. Register: <a href="https://x.ai/galaxy">x.ai/galaxy</a></p>
-
-<h3>Grok Bot</h3>
-<ul>
-<li>No newer official post on <a href="https://x.ai/news">x.ai/news</a> since Enterprise (Sep 3) / <a href="https://x.ai/news/grok-bot-procurement">procurement</a> (Sep 4).</li>
-<li><b>Sep 9 QoL package</b> from <a href="https://x.com/bot">@bot</a> (Musk amplified Sep 10): inline message drafts for approval before send; ~10% more included usage on average (up to ~35% for heavy users) via a more efficient harness; one-click account switching; native iPad; 20+ languages; share a file with a Bot on mobile. Thread: <a href="https://x.com/bot/status/2097759948189106686">x.com/bot/status/2097759948189106686</a> · writeup: <a href="https://teslanorth.com/2026/09/10/grok-bot-inline-drafts-usage/">TeslaNorth</a></li>
-<li><b>Cursor Projects</b> (Thu Sep 10) already pinged: coordinator agent, own cloud computer, thousands of subagents, shared context, Slack/schedule/PR subscriptions. <a href="https://cursor.com/changelog">cursor.com/changelog</a></li>
-</ul>
-
-<h3>Product releases</h3>
-<ul>
-<li><b>Gemini app for Windows (Thu Sep 10):</b> native Win10/11 client; <code>Alt + Space</code> overlay; Gemini Spark multi-step agent workflows; Nano Banana images + Gemini Omni video; Gmail/Drive pull-in. Download: <a href="https://gemini.google/desktop/">gemini.google/desktop</a> · <a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/">Google blog</a></li>
-<li>Still digesting yesterday: OpenAI <a href="https://openai.com/index/put-data-to-work/">Data agent in ChatGPT Work</a>, <a href="https://openai.com/index/introducing-chatgpt-financial-services/">ChatGPT for Financial Services</a>, and <a href="https://openai.com/index/introducing-the-agents-api/">Agents API</a> public beta.</li>
-<li>Claude product newest still Fable/Mythos 5.1 (Sep 1). Hermes still <b>v0.21.1</b> (v2026.9.7 patch).</li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li><b>Anthropic threat intel (Thu Sep 10):</b> <a href="https://www.anthropic.com/threat-intelligence-report-september-2026">Detecting and countering misuse of AI</a> — disrupted Dec 2025–Aug 2026 ops across cyber, influence, surveillance, scams, biological misuse, conventional weapons, and illicit distillation. Distillation campaigns (nearly ~200M exchanges) attributed in part to Alibaba (~151M), Moonshot, and DeepSeek; TechCrunch: <a href="https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/">coverage</a>. Haiku/Sonnet/Opus involved; Fable/Mythos largely not (one distillation exception).</li>
-</ul>
-
-<h3>Grok Bot on X (@bot)</h3>
-<ul>
-<li>Themes since last briefing: QoL polish — inline drafts, usage-efficiency bump, iPad/languages/mobile file share; Musk amplify Sep 10; earlier form/login fill (Sep 8).</li>
-<li><a href="https://x.com/bot/status/2097759948189106686">Sep 9</a> — QoL package (drafts + usage + iPad + languages + mobile files).</li>
-<li><a href="https://x.com/bot/status/2097383980748382239">Sep 8</a> — fill forms/logins within chat (password-manager support).</li>
 <li>Only confirmed official handle: <a href="https://x.com/bot">@bot</a>.</li>
 </ul>
 ]]></description>
