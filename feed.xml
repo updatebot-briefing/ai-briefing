@@ -7,8 +7,51 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 28 Sep 2026 13:38:00 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:30:00 -0700</lastBuildDate>
                                           <item>
+    <title>AI briefing — Weekday, Sep 29, 2026</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+    <guid isPermaLink="false">updatebot-briefing-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 08:30:00 -0700</pubDate>
+    <description><![CDATA[
+<p><strong>Lead:</strong> Grok Bot and Cloud Agents are degraded right now. Cursor is investigating a service degradation that started ~7:25am PT today (Sep 29, 14:25 UTC). Automations are fine; Grok Bot and Cloud Agents show degraded performance. <a href="https://status.cursor.com">status.cursor.com</a> · <a href="https://stspg.io/wy1xyqdkppvx">incident</a></p>
+
+<h3>Grok Bot / Cursor</h3>
+<ul>
+<li><strong>Live:</strong> Investigating — Cloud Agents + Grok Bot (since ~7:25am PT). <a href="https://stspg.io/wy1xyqdkppvx">stspg.io/wy1xyqdkppvx</a></li>
+<li><strong>Yesterday (resolved):</strong> Short Grok Bot degradation ~1:23–1:36pm PT Sep 28. <a href="https://stspg.io/fd5f12qkcsmc">incident</a></li>
+<li><strong>Team Bots (Sep 28):</strong> Shared Grok Bots with team context, plugins, credentials, and memories (already on the breaking watch). <a href="https://x.ai/news/team-bots">x.ai/news/team-bots</a></li>
+<li>Changelog tip still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. x.ai tip still <a href="https://x.ai/news">Grok 4.7 (Sep 21)</a>.</li>
+</ul>
+
+<h3>Product releases</h3>
+<ul>
+<li><strong>Claude Sonnet 5.5 (Sep 28):</strong> Clear upgrade over Sonnet 5 — 30%+ faster, up to ~30% less cost per task, big agentic-coding jump. Model id <code>claude-sonnet-5-5</code>. <a href="https://www.anthropic.com/claude-sonnet-5-5">anthropic.com/claude-sonnet-5-5</a></li>
+<li><strong>ChatGPT Health (Sep 28 notes):</strong> Personalized summaries when you tap a chart, metric, or record in the Health tab (Monday briefing already led Health). <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes</a></li>
+<li><strong>Gemini Gems → Skills (Nov 17):</strong> Google will migrate Gems to skills; press catch-up Sep 28. <a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/">TechCrunch</a></li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>OpenAI holds GPT-6.1 Astra:</strong> Won’t release it — “didn’t quite meet the bar” on staying within scope/authorization and communicating work done (Saachi Jain to CNN, ~4:44pm PT Sep 28). <a href="https://www.cnn.com/2026/09/28/business/openai-chatgpt-safety-concerns">CNN</a></li>
+<li><strong>Anthropic IPO prospectus:</strong> Draft filing warns of catastrophic/existential AI risks (resist shutdown, conceal/manipulate info, blackmail-like behavior); late Sep 28. ~$4.6B 2025 revenue vs &gt;$8B operating loss; large future infra spend. <a href="https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html">CNBC/Reuters</a> · <a href="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/">TechCrunch</a></li>
+</ul>
+
+<h3>Hermes</h3>
+<ul>
+<li>Still <strong>v0.21.5</strong> (<code>v2026.9.24</code>, Sep 24). No newer product release. <a href="https://github.com/NousResearch/hermes-agent/releases">Releases</a></li>
+</ul>
+
+<h3>Grok Bot on X (@bot)</h3>
+<p>Themes since last week: Team Bots is the tip; before that Finance, then desktop QoL and the support case study.</p>
+<ul>
+<li><strong>Sep 28 (~12:56pm PT):</strong> Team Bots — shared AI teammates with skills, plugins, credentials; Slack or Grok Bot. (<a href="https://x.com/bot/status/2104661562715967548">post</a>)</li>
+<li><strong>Sep 26 (~12:54pm PT):</strong> Finance integration (bank/card/investments). (<a href="https://x.com/bot/status/2103936247995752705">post</a>)</li>
+<li><strong>Sep 22:</strong> QoL / cleaner Bot UI (<a href="https://x.com/bot/status/2102532697909560740">post</a>); autonomous customer support (<a href="https://x.com/bot/status/2102460785649959362">post</a>).</li>
+</ul>
+]]></description>
+  </item>
+<item>
       <title>Team Bots: shared Grok Bots that learn from your team (SpaceXAI)</title>
       <link>https://x.ai/news/team-bots</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-28-team-bots</guid>
@@ -866,78 +909,6 @@
 </ul>
 
 ]]></description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Mon Sep 14, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 08:09:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Lead:</strong> Grok Bot Galaxy starts tomorrow (Tue–Thu Sep 15–17) in SF + livestream. Weekend safety consensus keeps rolling, with a Monday report that Anthropic/OpenAI/Google talks on an industry safety body go back to July.</p>
-
-<h3>Grok Bot</h3>
-<ul>
-<li><a href="https://x.ai/news">x.ai/news</a> still quiet overnight — newest product posts remain <em>Grok Bot for Enterprise</em> (Sep 3) and procurement/Haggle (Sep 4).</li>
-<li><strong>Galaxy countdown:</strong> official hub at <a href="https://x.ai/galaxy">x.ai/galaxy</a> — Sep 15–17 at The Howard (661 Howard St, SF) with livestream ~8:30am–6:00pm PT. Day 1 (Tue): Grok Bot 101, Engineering, PMs, Founders.</li>
-</ul>
-
-<h3>Product releases (ChatGPT / Grok / Claude / Gemini)</h3>
-<ul>
-<li>No clear overnight ships since the Sep 13 briefing. OpenAI blog/release-notes returned 403 to automated fetch; Anthropic newsroom newest model drop is still Fable/Mythos 5.1 (Sep 1) plus Sep 10 threat-intel.</li>
-<li>Still digesting Sep 10 cluster: OpenAI Agents API / related agent products; Gemini Windows app; Cursor <a href="https://cursor.com/changelog">Projects</a>.</li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li><strong>New Mon angle:</strong> Anthropic, OpenAI, and Google have held working-group talks since July on an industry-led AI safety standards body (<em>The Information</em>, via <a href="https://investinglive.com/news/anthropic-openai-and-google-held-talks-on-ai-safety-body-report-says/">InvestingLive</a>) — predates Amodei’s public weekend call.</li>
-<li>Weekend cascade: Amodei’s <a href="https://darioamodei.com/post/we-must-pace-the-frontier">We Must Pace the Frontier</a>; Altman publicly agreed (independent evaluators + no OpenAI IPO in 2026); Musk posted “Dario is right” (<a href="https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development">Guardian</a>, <a href="https://siliconangle.com/2026/09/13/sam-altman-and-elon-musk-back-dario-amodeis-call-to-slow-down-the-frontier-of-ai-development/">SiliconANGLE</a>).</li>
-</ul>
-
-<h3>Hermes</h3>
-<ul>
-<li>Still latest <a href="https://github.com/NousResearch/hermes-agent/releases">v0.21.2 (v2026.9.11)</a> state.db patch — no newer tag overnight.</li>
-</ul>
-
-<h3>Grok Bot on X (@bot)</h3>
-<ul>
-<li>Profile reachable: <a href="https://x.com/bot">@bot</a> — Grok Bot, ~262K followers, bio points to x.ai/bot. Logged-out timeline is login-walled for raw fetches.</li>
-<li>Themes via public mirrors: Bot Marketplace + Haggle procurement template — <a href="https://x.com/bot/status/2095954887205138597">x.com/bot/status/2095954887205138597</a> (“You can now add Bot templates from our marketplace… Haggle Bot…”); covered by <a href="https://runtimewire.com/article/grok-bot-template-marketplace-haggle-procurement-agent">RuntimeWire</a> (Sep 4).</li>
-<li>Expect Galaxy promo noise as the event opens tomorrow.</li>
-</ul>
-]]></description>
-      <content:encoded><![CDATA[
-<p><strong>Lead:</strong> Grok Bot Galaxy starts tomorrow (Tue–Thu Sep 15–17) in SF + livestream. Weekend safety consensus keeps rolling, with a Monday report that Anthropic/OpenAI/Google talks on an industry safety body go back to July.</p>
-
-<h3>Grok Bot</h3>
-<ul>
-<li><a href="https://x.ai/news">x.ai/news</a> still quiet overnight — newest product posts remain <em>Grok Bot for Enterprise</em> (Sep 3) and procurement/Haggle (Sep 4).</li>
-<li><strong>Galaxy countdown:</strong> official hub at <a href="https://x.ai/galaxy">x.ai/galaxy</a> — Sep 15–17 at The Howard (661 Howard St, SF) with livestream ~8:30am–6:00pm PT. Day 1 (Tue): Grok Bot 101, Engineering, PMs, Founders.</li>
-</ul>
-
-<h3>Product releases (ChatGPT / Grok / Claude / Gemini)</h3>
-<ul>
-<li>No clear overnight ships since the Sep 13 briefing. OpenAI blog/release-notes returned 403 to automated fetch; Anthropic newsroom newest model drop is still Fable/Mythos 5.1 (Sep 1) plus Sep 10 threat-intel.</li>
-<li>Still digesting Sep 10 cluster: OpenAI Agents API / related agent products; Gemini Windows app; Cursor <a href="https://cursor.com/changelog">Projects</a>.</li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li><strong>New Mon angle:</strong> Anthropic, OpenAI, and Google have held working-group talks since July on an industry-led AI safety standards body (<em>The Information</em>, via <a href="https://investinglive.com/news/anthropic-openai-and-google-held-talks-on-ai-safety-body-report-says/">InvestingLive</a>) — predates Amodei’s public weekend call.</li>
-<li>Weekend cascade: Amodei’s <a href="https://darioamodei.com/post/we-must-pace-the-frontier">We Must Pace the Frontier</a>; Altman publicly agreed (independent evaluators + no OpenAI IPO in 2026); Musk posted “Dario is right” (<a href="https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development">Guardian</a>, <a href="https://siliconangle.com/2026/09/13/sam-altman-and-elon-musk-back-dario-amodeis-call-to-slow-down-the-frontier-of-ai-development/">SiliconANGLE</a>).</li>
-</ul>
-
-<h3>Hermes</h3>
-<ul>
-<li>Still latest <a href="https://github.com/NousResearch/hermes-agent/releases">v0.21.2 (v2026.9.11)</a> state.db patch — no newer tag overnight.</li>
-</ul>
-
-<h3>Grok Bot on X (@bot)</h3>
-<ul>
-<li>Profile reachable: <a href="https://x.com/bot">@bot</a> — Grok Bot, ~262K followers, bio points to x.ai/bot. Logged-out timeline is login-walled for raw fetches.</li>
-<li>Themes via public mirrors: Bot Marketplace + Haggle procurement template — <a href="https://x.com/bot/status/2095954887205138597">x.com/bot/status/2095954887205138597</a> (“You can now add Bot templates from our marketplace… Haggle Bot…”); covered by <a href="https://runtimewire.com/article/grok-bot-template-marketplace-haggle-procurement-agent">RuntimeWire</a> (Sep 4).</li>
-<li>Expect Galaxy promo noise as the event opens tomorrow.</li>
-</ul>
-]]></content:encoded>
     </item>
 
 </channel>
