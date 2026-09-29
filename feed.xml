@@ -8,14 +8,6 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Tue, 29 Sep 2026 11:32:10 -0700</lastBuildDate>
-    <item>
-      <title>OpenAI launches Dots — always-on Astra agents with their own cloud computers</title>
-      <link>https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/</link>
-      <guid isPermaLink="false">updatebot-breaking-openai-dots-2026-09-29</guid>
-      <pubDate>Tue, 29 Sep 2026 10:17:00 -0700</pubDate>
-      <description><![CDATA[Catch-up: OpenAI launched Dots at DevDay Tue Sep 29 ~10:17am PT. Always-on GPT-6 Astra agents with their own cloud computer/browser; keep working after you log off; Slack/Teams messaging; first Dot included in ChatGPT Pro and Business Premium (no extra cost); Enterprise/Edu/Healthcare admin-gated beta. Direct Grok Bot competitor. Coverage: TechCrunch + The New Stack (https://thenewstack.io/openai-dots-gpt6-agents/). Product surface: https://chatgpt.com/dots. Also: Cursor status incident Cloud Agents + Grok Bot Resolved ~11:05am PT (https://stspg.io/wy1xyqdkppvx); All Systems Operational.]]></description>
-    </item>
-
                                           <item>
       <title>OpenAI launches Dots: always-on agents with their own computer</title>
       <link>https://openai.com/index/introducing-dots/</link>
