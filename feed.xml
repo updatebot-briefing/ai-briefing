@@ -7,7 +7,47 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 11:32:10 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 08:20:00 -0700</lastBuildDate>
+    <item>
+      <title>AI briefing — Weekday, Sep 30, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 08:20:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead — competitor with its own computer:</strong> OpenAI <strong>Dots</strong> launched yesterday at DevDay (~10am PT Tue Sep 29). Always-on GPT-6 Astra agents, each with its <strong>own cloud computer + browser</strong>, connect to 4,000+ apps, work 24/7, and do read-only “proactive research” in the background. Message/call them in ChatGPT; Slack/Teams too; texting is a limited US Pro beta. First Dot is included on <strong>Pro</strong> (100/200/500) and <strong>Business Premium</strong> (no extra cost); Enterprise/Edu/Healthcare get an admin-gated beta (off by default). <strong>Plus not yet.</strong> First-month Dots usage doesn’t count toward plan allowances — OpenAI will share per-plan terms after (~Oct 29). Codex/ChatGPT Work tasks a Dot starts still count as usual.</p>
+<p>Primary: <a href="https://openai.com/index/introducing-dots/">openai.com/index/introducing-dots</a> · DevDay recap: <a href="https://openai.com/index/devday-2026-recap/">devday-2026-recap</a> · Getting started: <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Help Center</a> · Safety/privacy FAQs: <a href="https://help.openai.com/en/articles/20001529-dots-privacy-security-and-safety-faqs">FAQs</a></p>
+<p><em>(Yesterday’s 8:30am PT weekday briefing was before the launch; a breaking RSS item went up at ~10am PT. This is the first full morning brief with Dots as the lead.)</em></p>
+<p><strong>Grok Bot / Cursor</strong></p>
+<ul>
+<li><strong>Status:</strong> <a href="https://status.cursor.com/">All Systems Operational</a> — Grok Bot + Cloud Agents green. No incidents today (Wed Sep 30).</li>
+<li><strong>Yesterday’s blips (all resolved):</strong> Cloud Agents/Grok Bot degradation ~7:25am–11:05am PT Sep 29; xAI-models degradation ~12:43–1:18pm PT Sep 29.</li>
+<li><strong>Changelog tip</strong> still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <strong>x.ai tip</strong> still <a href="https://x.ai/news/team-bots">Team Bots (Sep 28)</a>. No new Cursor/x.ai ship overnight.</li>
+</ul>
+<p><strong>Product releases (DevDay + overnight)</strong></p>
+<ul>
+<li><strong>GPT-6.1 Sol (Sep 29):</strong> Near-Astra on coding/computer-use/pro work at ~1/5 Astra token prices; API + ChatGPT Work/Codex. <a href="https://openai.com/index/introducing-gpt-6-1-sol/">introducing-gpt-6-1-sol</a> · <a href="https://openai.com/index/devday-2026-recap/">DevDay recap</a></li>
+<li><strong>Also at DevDay:</strong> ChatGPT Space + Pages; Codex Cloud; Agents API computer use; Pro 500 ($500/mo) with Astra Ultrafast; Sign in with ChatGPT + Marketplace.</li>
+<li><strong>Claude / Gemini / Grok models:</strong> No newer official ship than what’s already briefed — tip still Sonnet 5.5 (Sep 28), Grok 4.7 (Sep 21). Gemini Gems→Skills still Nov 17 (already covered).</li>
+</ul>
+<p><strong>Major AI news</strong></p>
+<ul>
+<li>DevDay itself is the story — Dots as OpenAI’s direct answer to Grok Bot / Meta Muse–style always-on agents with a computer. Secondary: <a href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/">WIRED</a>, <a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/">TechCrunch</a>.</li>
+<li>No fresh Claude/Anthropic or Google Gemini product posts overnight beyond what’s already in recent briefs.</li>
+</ul>
+<p><strong>Hermes</strong></p>
+<ul>
+<li>Still <strong>v0.21.5</strong> (<code>v2026.9.24</code>, Sep 24). No newer GitHub release. <a href="https://github.com/NousResearch/hermes-agent/releases">Releases</a></li>
+</ul>
+<p><strong>Grok Bot on X (@bot)</strong></p>
+<p>Public timeline hard to scrape this morning (x.com/nitter mirrors blocked or empty; no X API/MCP used). From known public posts since last week / prior brief:</p>
+<ul>
+<li><strong>Sep 28 ~12:56pm PT:</strong> Team Bots — <a href="https://x.com/bot/status/2104661562715967548">status/2104661562715967548</a></li>
+<li><strong>Sep 26:</strong> Finance connect — <a href="https://x.com/bot/status/2103936247995752705">status/2103936247995752705</a></li>
+<li>Profile: <a href="https://x.com/bot">x.com/bot</a> — could not confirm newer posts since ~Sep 29 8:30am PT.</li>
+</ul>
+]]></description>
+    </item>
+
                                           <item>
       <title>OpenAI launches Dots: always-on agents with their own computer</title>
       <link>https://openai.com/index/introducing-dots/</link>
