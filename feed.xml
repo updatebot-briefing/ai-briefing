@@ -7,8 +7,50 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 01 Oct 2026 12:36:11 -0700</lastBuildDate>
-    <item>
+    <lastBuildDate>Fri, 02 Oct 2026 08:20:00 -0700</lastBuildDate>
+        <item>
+      <title>AI briefing — Weekday, Oct 2, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 08:20:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead — Grok Bot proactive suggestions (Thu Oct 1 ~10:35am PT):</strong> Official <a href="https://x.com/bot">@bot</a> shipped a capability where Grok Bot can <em>suggest ways to help without you needing to ask</em>. Your primary Bot spots work it can take off your plate and offers to handle it; rolled out over the following hours; suggestions don’t count against usage.<br>
+<a href="https://x.com/bot/status/2105713240701538538">announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a> · <a href="https://x.ai/bot">x.ai/bot</a></p>
+
+<p><strong>Grok Bot / Cursor</strong></p>
+<ul>
+<li><strong>Status:</strong> <a href="https://status.cursor.com/">All Systems Operational</a> — Grok Bot + Cloud Agents green. No incidents Fri Oct 2 or Thu Oct 1.</li>
+<li><strong>Changelog tip</strong> still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <strong>x.ai tip</strong> still <a href="https://x.ai/news/team-bots">Team Bots (Sep 28)</a>. No newer Cursor/x.ai blog ship overnight.</li>
+<li>Sep 30 coding tools (Cursor handoffs, GitHub/Origin PR plugins, video demos) remain the latest feature pack before yesterday’s proactive suggestions.</li>
+</ul>
+
+<p><strong>Product releases</strong></p>
+<ul>
+<li><strong>OpenAI (ChatGPT Learn, Sep 28–Oct 2 window):</strong> Dots still rolling out (always-on agents with their own cloud computer + browser); GPT-6.1 Sol for complex work at lower cost than Astra; GPT-6 Astra Ultrafast on Pro $500 / eligible Enterprise; Codex reusable Cloud environments + Codex Security Cloud (research preview); ChatGPT Space/Pages collaboration; Work across devices; MCP Events; Plugin Extensions. <a href="https://learn.chatgpt.com/docs/whats-new/september-28-october-2-2026">ChatGPT Learn</a> · <a href="https://openai.com/index/introducing-dots/">Dots launch</a></li>
+<li><strong>Anthropic — Claude for Government GA:</strong> FedRAMP High environment for U.S. federal/state/local agencies; prepaid usage with hard spend caps, SCIM, audit logs; Claude Code + Microsoft 365 early access in that boundary. Help center notes org migration to updated Claude for Government (Desktop) by Oct 4. <a href="https://support.claude.com/en/articles/14503590-get-started-with-claude-for-government">Anthropic Help</a> · <a href="https://claude.com/solutions/government">claude.com/solutions/government</a> · <a href="https://www.techrepublic.com/article/news-anthropic-claude-government-general-availability/">TechRepublic</a></li>
+<li><strong>Gemini</strong> (covered yesterday): <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">Gemini 4 Argon</a> (Fairwind-first, Sep 30) + <a href="https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/">Skills replacing Gems</a> (Sep 30). No newer Google product post overnight.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li><strong>Broadcom ↔ Anthropic (Thu Oct 1):</strong> Reuters/CNBC on Anthropic’s IPO filing — Broadcom agreed to lend Anthropic up to <strong>$42B</strong> (convertible notes) toward TPU compute lease capacity (~1/3 of a $125.2B five-year commitment); Anthropic expected to become Broadcom’s largest compute customer in 2027. <a href="https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html">CNBC</a> · <a href="https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/">Reuters</a></li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li>Still <strong>v0.21.5 (v2026.9.24)</strong> — no newer tag overnight. <a href="https://github.com/NousResearch/hermes-agent/releases">GitHub releases</a></li>
+</ul>
+
+<p><strong>@bot on X</strong> (since last weekday briefing)</p>
+<ul>
+<li><strong>Themes:</strong> proactive help offers; coding/PR tooling; Team Bots.</li>
+<li><a href="https://x.com/bot/status/2105713240701538538">Oct 1 ~10:35am PT</a> — suggest ways to help without asking (primary Bot offers work).</li>
+<li><a href="https://x.com/bot/status/2105713241745977618">Oct 1 follow-up</a> — primary Bot framing / rollout notes.</li>
+<li><a href="https://x.com/bot/status/2104661563928170818">Sep 28</a> — Team Bots launch (shared teammates in Slack / Grok Bot).</li>
+</ul>
+]]></description>
+    </item>
+<item>
       <title>Grok Bot can now suggest ways to help without you asking</title>
       <link>https://x.com/bot/status/2105713240701538538</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-01-grok-bot-proactive-suggestions</guid>
@@ -18,7 +60,7 @@
 <p>Missed the 8:25am PT weekday briefing (noticed on this watch). Primary: <a href="https://x.com/bot/status/2105713240701538538">@bot announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a> · <a href="https://x.ai/bot">x.ai/bot</a>.</p>
 ]]></description>
     </item>
-        <item>
+<item>
       <title>AI briefing — Weekday, Oct 1, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-01</guid>
@@ -93,8 +135,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-
-                                          <item>
+<item>
       <title>OpenAI launches Dots: always-on agents with their own computer</title>
       <link>https://openai.com/index/introducing-dots/</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-29-openai-dots</guid>
@@ -879,13 +920,5 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></content:encoded>
     </item>
-<item>
-      <title>Grok Bot partial outage resolved (Cursor status)</title>
-      <link>https://status.cursor.com/</link>
-      <guid isPermaLink="false">breaking-grok-bot-outage-resolved-2026-09-16</guid>
-      <pubDate>Wed, 16 Sep 2026 13:57:00 -0700</pubDate>
-      <description><![CDATA[Cursor status: Grok Bot partial outage resolved at ~1:57pm PT (20:57 UTC). Incident began ~7:27am PT (Investigating), Identified ~12:51pm PT; users may have seen degraded performance or bots that didn't respond. All systems operational now, including Grok Bot. Source: <a href="https://status.cursor.com/">status.cursor.com</a>]]></description>
-    </item>
-
-</channel>
+  </channel>
 </rss>
