@@ -7,8 +7,50 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 02 Oct 2026 16:35:19 -0700</lastBuildDate>
-    <item>
+    <lastBuildDate>Sat, 03 Oct 2026 08:12:00 -0700</lastBuildDate>
+        <item>
+      <title>AI briefing — Weekday, Oct 3, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 08:12:00 -0700</pubDate>
+      <description><![CDATA[
+<p><strong>Lead — Competitor: Cua Spaces (Fri Oct 2):</strong> Cua launched <em>Spaces</em>, a free macOS app where each AI agent gets its own desktop Space you can watch and take over (shared cursors). Run Spaces on your Mac, machines you own, or your own cloud; <strong>app teleportation</strong> moves a signed-in app session into a Space after you approve (Touch ID for sensitive items). Built on Cua Driver; source-available FSL-1.1-MIT; Pro/Teams planned.<br>
+<a href="https://cua.ai/docs/spaces">docs</a> · <a href="https://x.com/trycua/status/2106057192285548763">@trycua launch</a> · <a href="https://runtimewire.com/article/cua-spaces-desktop-agents-launch">RuntimeWire</a></p>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li><strong>v0.66.0 (Oct 2):</strong> Star a <strong>Main Bot</strong> that checks in proactively and coordinates your other Bots (needs 0.59+). Slack status stays up on long steps; resumable update downloads; hung Bot self-stops and resumes on next message; phone notifies once per reply. Also newly listed since Sep 29 tip: <strong>v0.64.0 / v0.65.0 (Sep 30)</strong> — Team Bot voice, Disable drafts, Team Bot Managers, auto-updates default on. <a href="https://x.ai/changelog/bot">changelog</a></li>
+<li><strong>Status:</strong> Overnight blip Fri night / Sat early — Grok Bot + Review Agents degraded ~11:50pm–12:26am PT Oct 2–3 (UTC Oct 3 06:50–07:26), now <a href="https://status.cursor.com/">All Systems Operational</a>.</li>
+<li>Cursor changelog tip still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>.</li>
+</ul>
+
+<p><strong>Product releases</strong></p>
+<ul>
+<li><strong>OpenAI / ChatGPT:</strong> Learn docs for Sep 28–Oct 2 still highlight Dots (own cloud computer + browser), GPT-6.1 Sol, Astra Ultrafast (Pro $500 / eligible Enterprise), Codex Cloud environments + Security Cloud preview, ChatGPT Space, MCP Events, Plugin Extensions. No newer OpenAI ship overnight beyond that window. <a href="https://learn.chatgpt.com/docs/whats-new/september-28-october-2-2026">ChatGPT Learn</a></li>
+<li><strong>Anthropic — Claude Frontier Academy (Oct 2):</strong> $100M commitment to train 10,000 Frontier Deployed Engineers by end of 2027; 12-week residency model; first cohorts from Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk, and others. <a href="https://www.anthropic.com/news/claude-frontier-academy">Anthropic</a> · <a href="https://claude.com/programs/frontier-academy">program page</a></li>
+<li><strong>Gemini:</strong> No newer product post overnight; Argon / Skills still Sep 30.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li>Claude Frontier Academy (above) is the clearest lab headline since yesterday’s briefing.</li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li>Still <strong>v0.21.5 (v2026.9.24)</strong> — no newer tag. <a href="https://github.com/NousResearch/hermes-agent/releases">GitHub releases</a></li>
+</ul>
+
+<p><strong>Grok Bot on X (@bot)</strong></p>
+<ul>
+<li><strong>Themes:</strong> Primary/Main Bot proactive help; one-time usage-limit goodwill refill.</li>
+<li>Oct 1 ~10:35am PT: “Grok Bot can now suggest ways to help without you needing to ask” + follow-up (suggestions don’t count against usage). <a href="https://x.com/bot/status/2105713240701538538">announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a></li>
+<li>Oct 2 ~11:05am PT: “We've reset usage limits for all Grok Bot users. Enjoy!” (one-time refill, not a product feature). <a href="https://x.com/bot/status/2106083136002310193">post</a></li>
+</ul>
+]]></description>
+    </item>
+
+<item>
       <title>Grok Bot v0.66.0: Primary/Main Bot checks in proactively</title>
       <link>https://x.ai/changelog/bot</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-02-grok-bot-v0-66-primary-main-bot</guid>
