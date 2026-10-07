@@ -7,9 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 09:41:17 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:40:17 -0700</lastBuildDate>
         
     <item>
+<title>Grok Bot 0.68.1 notes: slide decks, bigger 1920x1200 Bot computer, formatted emails</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-0-68-1-changelog</guid>
+<pubDate>Wed, 07 Oct 2026 10:40:17 -0700</pubDate>
+<description><![CDATA[<p>SpaceXAI published Grok Bot 0.68.1 release notes on the official changelog (Oct 7), plus the previously missing 0.68.0 notes (Oct 5). Earlier today the build was out without notes.</p><ul><li>Bots can build slide decks with you, showing sample slides to pick from, and deliver PowerPoint files or Google Slides.</li><li>The Bot's computer screen is now 1920 x 1200, up from 1280 x 800, and computer actions, screenshots, and new windows are faster.</li><li>Formatted emails from draft cards, Gmail Spam search and restore, and Team Bots can mention Slack user groups.</li><li>1:1 Bot chats take the Bot's color (Settings, General, Accent set to Black turns it off).</li><li>Fixes: fewer Gmail send/reply failures, browser recovers from crashed tabs, stuck steps end within about 30 seconds, reconnect cards for X and Vercel sign-in.</li><li>0.68.0 (Oct 5) added Remove for other computers in Settings, Computer; send-as Gmail addresses; and more languages.</li></ul><p>Separately, status.cursor.com logged a Grok Bot computer degradation in certain regions from 8:59 to 10:25am PT today; it's resolved.</p><p>Sources: <a href="https://x.ai/changelog/bot">Grok Bot changelog</a>, <a href="https://stspg.io/rh45hf9t61t5">Cursor status incident</a></p>]]></description>
+</item>
+<item>
 <title>Breaking: Musk says Grok Bot will use the best backend per task, including Claude Opus 5.5, Midjourney, Suno</title>
 <link>https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-best-backend</guid>
@@ -787,20 +794,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 <li>No newer official @bot posts found since Fri Sep 18 (public x.com fetch 403; browser scrape pending). Still the voice wave: <a href="https://x.com/bot/status/2101014478255247544">voice notes (Sep 18)</a>, <a href="https://x.com/bot/status/2100659463569170779">“can talk now” (Sep 17)</a>. Primary: <a href="https://x.com/bot">@bot</a>.</li>
 </ul>
 
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Breaking: Tesla ships Grok Bot in vehicles — Connectors + Heavy errands</title>
-      <link>https://www.theverge.com/transportation/999043/tesla-gets-grok-bot</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-22-tesla-grok-bot</guid>
-      <pubDate>Tue, 22 Sep 2026 13:06:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Tesla (~today PT):</strong> Official in-car <strong>Grok Bot</strong> launch. With Connectors, drivers can manage inbox, calendar, files/chats/tasks hands-free. SuperGrok Heavy can run multi-step errands (coffee orders, reservations, appointments). Owner demos include ordering Starbucks while FSD drives. Heavy-only for Bot errands today; Connectors setup is broader. No matching post yet on x.ai/news.</p>
-<p>Missed earlier watches after the 8:49am briefing (never previously pinged). Coverage: <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">The Verge (~1:06pm PT)</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a> · Tesla @Tesla X post Sep 22 (“.@Grok in your Tesla can now do meaningful work…”).</p>
-]]></description>
-      <content:encoded><![CDATA[
-<p><strong>Tesla (~today PT):</strong> Official in-car <strong>Grok Bot</strong> launch. With Connectors, drivers can manage inbox, calendar, files/chats/tasks hands-free. SuperGrok Heavy can run multi-step errands (coffee orders, reservations, appointments). Owner demos include ordering Starbucks while FSD drives. Heavy-only for Bot errands today; Connectors setup is broader. No matching post yet on x.ai/news.</p>
-<p>Missed earlier watches after the 8:49am briefing (never previously pinged). Coverage: <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">The Verge (~1:06pm PT)</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a> · Tesla @Tesla X post Sep 22 (“.@Grok in your Tesla can now do meaningful work…”).</p>
 ]]></content:encoded>
     </item>
     </channel>
