@@ -7,9 +7,50 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 06 Oct 2026 08:24:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:21:28 -0700</lastBuildDate>
         
     <item>
+      <title>AI briefing — Weekday, Oct 7, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-07</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 08:21:28 -0700</pubDate>
+      <description><![CDATA[<p>Wednesday, Oct 7. Hermes maker Nous Research raised a big round, Claude now works inside Google Docs, Sheets, and Slides, and today's free Grok Bot workshop covers marketing at 10am PT.</p>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li>Today's free Zoom workshop is <a href="https://luma.com/yjve9qo3">Grok Bot for Marketing</a>, 10 to 11am PT, going from idea to launch with a team of Bots. "What's New in Grok Bot" is tomorrow at the same time, and Grok Bot 201 is Friday.</li>
+<li>Version 0.68.1 is now the stable desktop build, replacing 0.66.0, but no release notes came with it (<a href="https://techdevnotes.com/releases/grok-bot/20261006-180909Z-4d2b9b0e22fa">Tech Dev Notes</a>). The official <a href="https://x.ai/changelog/bot">changelog</a> still tops out at v0.66.0 from Oct 2.</li>
+<li>Yesterday's outages are over. Grok Bot and Cloud Agents were degraded from about 12:27 to 3:06pm PT, with a shorter Cloud Agents blip from 3:48 to 4:04pm PT. <a href="https://status.cursor.com">Cursor status</a> shows everything operational this morning.</li>
+<li>Cursor's newest <a href="https://cursor.com/changelog">changelog</a> entry, Remote control for local agents, lets the Cursor iOS app steer agents running on your own computer.</li>
+</ul>
+
+<p><strong>Models and features</strong></p>
+<ul>
+<li>Claude: <a href="https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides">Claude for Google Workspace</a> is in public beta on all paid plans as of Oct 6. It's a sidebar in Docs, Sheets, and Slides that edits your open file, with "Ask before edits" on by default, and new beta connectors let Claude create and edit Google files straight from chat.</li>
+<li>ChatGPT: paid plans can now upload audio files for transcription, summaries, and meeting notes. It rolled out Oct 6 and isn't on Free (<a href="https://www.cravingtech.com/chatgpt-can-now-import-and-transcribe-audio-files.html">CravingTech</a>).</li>
+<li>Gemini: Google launched <a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/">Playground</a> today, a free experiment for building playable games from prompts, open to US users 18 and up, with Unity Spark tools coming later. Google also opened its <a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">SynthID checker</a> to everyone for spotting AI-made images, video, and audio, and Gemini can now search your Google Chat history once you turn it on in Chat settings.</li>
+<li>Grok: nothing new shipped since the last briefing.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li>More detail on OpenAI's math drop from yesterday: it's 722 manuscripts covering 372 open problems, including a claimed solution to the four-dimensional Kakeya conjecture, all from an unnamed internal model. Mathematicians are still sorting through it (<a href="https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/">New Scientist</a>, <a href="https://www.engadget.com/2279815/openai-just-posted-hundreds-more-results-on-major-math-problems/">Engadget</a>).</li>
+<li>Biohub, the Department of Energy, NIH, Google DeepMind, Isomorphic, and Meta are putting about $1.8B toward AI-ready biology data (<a href="https://techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push/">Tech Startups</a>).</li>
+<li>The personal-agent race keeps filling up. Khosla-backed <a href="https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/">Wajo</a> pitches its Fo agent on trust: it has its own email and virtual cards, makes phone calls for you, and can hire a human when it's stuck. It runs errands over iMessage and WhatsApp rather than on a computer of its own.</li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li>Nous Research raised a $90M Series B at a $1.5B valuation to take Hermes Agent into enterprises (<a href="https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208">WSJ</a>). Robot Ventures led, with NVIDIA, Microsoft's M12, Samsung, and USV joining. Hermes stays free and MIT-licensed, and Nous is adding SSO, permissions, workspace isolation, and audit logs on top. A <a href="https://www.kucoin.com/news/flash/nous-research-raises-90m-in-b-round-to-expand-hermes-agent-to-enterprise-market">secondary summary</a> also cites 22.7M downloads and about $36M in annualized revenue as of mid-September.</li>
+<li>The latest stable release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.21.5</a> from Sep 24.</li>
+</ul>
+
+<p><strong>Grok Bot on X</strong></p>
+<ul>
+<li><a href="https://x.com/bot">@bot</a> has been quiet since Oct 2, when it reset usage limits for all Grok Bot users. Before that, on Oct 1, it announced that Grok Bot can now suggest ways to help without being asked.</li>
+</ul>]]></description>
+    </item>
+<item>
 <title>Breaking: OpenAI releases hundreds of AI-generated math results from an unreleased model</title>
 <link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-06-openai-math-results</guid>
@@ -765,44 +806,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 <p><strong>Anthropic (~9:30am PT today):</strong> <a href="https://www.anthropic.com/news/claude-opus-5-5">Claude Opus 5.5</a> — first model in the Claude 5.5 family. Official post: leads on agentic coding, computer use, and knowledge work; ~Fable 5.1-level on most work at ~40% less cost than Opus 5; clearer writing; stronger alignment audit scores. Available now on Claude Platform, AWS, GCP, and Azure as <code>claude-opus-5-5</code>. Sonnet 5.5 and Haiku 5.5 “in the coming weeks.” Same class of biology/cyber safeguards as Fable 5.1.</p>
 <p>Missed the 8:49am PT weekday briefing (launched after). Primary: <a href="https://www.anthropic.com/news/claude-opus-5-5">anthropic.com/news/claude-opus-5-5</a> · <a href="https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/">TechCrunch 9:30am PDT</a>.</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>AI briefing — Weekday, Tue Sep 22, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-09-22</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 08:49:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Lead:</strong> After yesterday’s <a href="https://x.ai/news/grok-4-7">Grok 4.7</a> ship, a quieter product morning — but Cursor had two short Grok-model blips overnight and early today, both already resolved. <a href="https://status.cursor.com">All Systems Operational</a> now. Catch-up ships: Grok 4.7 is rolling into <a href="https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/">GitHub Copilot</a>, Hermes tagged <strong>v0.21.4</strong>, and Google opened preorders for <a href="https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/">Googlebook</a> with on-device Gemini.</p>
-
-<h3>Grok Bot / Cursor</h3>
-<ul>
-<li><strong>Status (Sep 22 morning):</strong> ~6:02–6:45am PT — Automations / Cloud Agents couldn’t select Grok 4.7; identified then resolved. Overnight ~6:07–6:42pm PT Mon — broader Grok-model degraded performance (Automations / Cloud Agents / CLI / IDE); resolved same evening. Grok Bot component stayed green. Now <a href="https://status.cursor.com">All Systems Operational</a>.</li>
-<li><strong>Product:</strong> No new Grok Bot feature post overnight. Cursor changelog still tops at <a href="https://cursor.com/changelog">Projects (Sep 10)</a>. <a href="https://x.ai/news">x.ai/news</a> newest remains Grok 4.7 (Sep 21), then Voice Transcribe 2.0 (Sep 18).</li>
-</ul>
-
-<h3>Product releases</h3>
-<ul>
-<li><strong>Grok 4.7 → GitHub Copilot (Sep 21):</strong> Gradual rollout for Copilot Pro / Pro+ / Max / Business / Enterprise across VS Code, Visual Studio, Copilot CLI, cloud agent, app, JetBrains, Xcode, Eclipse. Provider list pricing under usage-based billing; admins can gate via model policy. (<a href="https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot/">GitHub Changelog</a>)</li>
-<li><strong>Googlebook + on-device Gemini (Sep 21):</strong> Magic Pointer, Rambler voice cleanup, Create My Widget, Antigravity + Linux terminal for agentic coding, Gemini Spark background tasks. Preorders from $899; ships Oct 4 US. (<a href="https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/">Google blog</a>)</li>
-<li>No verified net-new ChatGPT / Claude feature drop overnight (emoji-reaction chatter remains unofficial / partial rollout).</li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li>No fresh high-bar major story overnight beyond the product/status items above. Yesterday’s antitrust catch-up and Grok 4.7 launch stay in the rearview.</li>
-</ul>
-
-<h3>Hermes</h3>
-<ul>
-<li><strong>v0.21.4 (v2026.9.21)</strong> tagged Sep 21 afternoon — patch rollup of ~1,800 PRs since v0.21.3 for Docker / Hermes Cloud / hosted; curated notes deferred to v0.22.0. Notable in the window (undocumented-on-purpose list): host-wide gateway singleton, Desktop attaching to running host backend, stream-json CLI output, skills.auto_load, Desktop font picker / one-click local engine updates, plus many profile/multiplex/cron/Desktop/state.db fixes. (<a href="https://github.com/NousResearch/hermes-agent/releases/tag/v2026.9.21">release</a>)</li>
-</ul>
-
-<h3>Grok Bot on X (@bot)</h3>
-<ul>
-<li>No newer official posts since Fri Sep 18. Timeline readable this morning via public status pages. Still the voice wave: <a href="https://x.com/bot/status/2101014478255247544">voice notes (Sep 18)</a>, <a href="https://x.com/bot/status/2100659463569170779">“can talk now” (Sep 17)</a>, plus earlier Galaxy Day 3 and 1Password posts. Primary: <a href="https://x.com/bot">@bot</a>.</li>
-</ul>
-
-]]></description>
     </item>
     </channel>
 </rss>
