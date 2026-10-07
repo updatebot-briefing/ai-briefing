@@ -7,9 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 08:21:28 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:41:17 -0700</lastBuildDate>
         
     <item>
+<title>Breaking: Musk says Grok Bot will use the best backend per task, including Claude Opus 5.5, Midjourney, Suno</title>
+<link>https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-best-backend</guid>
+<pubDate>Wed, 07 Oct 2026 09:41:17 -0700</pubDate>
+<description><![CDATA[<p><strong>Grok Bot is going model-agnostic.</strong> Elon Musk posted on X Wednesday (Oct 7) an "important note regarding Grok @Bot": going forward SpaceX will use "the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome."</p>
+<p>Per follow-up reporting (<a href="https://www.tao.media/spacexai-opens-grok-bot-backend-to-claude-opus-5-5-and-rival-ai-apis/">TAO</a>), Grok Bot engineer @poteto said all Bots will run on Opus 5.5 and be able to spawn cloud agents using available Cursor models. No official SpaceXAI post, timeline, pricing, or per-task routing details yet; x.ai/news and the Grok Bot changelog (still v0.66.0) haven't been updated.</p>
+<p>Coverage: <a href="https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk">The Next Web</a>, <a href="https://digg.com/ai/c52r1epm">Digg thread with the post</a>.</p>
+<p>Also: status.cursor.com shows an open minor incident since 8:59am PT, "service degradation affecting Grok Bot's computers in certain regions" (<a href="https://stspg.io/rh45hf9t61t5">incident</a>).</p>]]></description>
+</item>
+<item>
       <title>AI briefing — Weekday, Oct 7, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-07</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-07</guid>
@@ -791,20 +801,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
       <content:encoded><![CDATA[
 <p><strong>Tesla (~today PT):</strong> Official in-car <strong>Grok Bot</strong> launch. With Connectors, drivers can manage inbox, calendar, files/chats/tasks hands-free. SuperGrok Heavy can run multi-step errands (coffee orders, reservations, appointments). Owner demos include ordering Starbucks while FSD drives. Heavy-only for Bot errands today; Connectors setup is broader. No matching post yet on x.ai/news.</p>
 <p>Missed earlier watches after the 8:49am briefing (never previously pinged). Coverage: <a href="https://www.theverge.com/transportation/999043/tesla-gets-grok-bot">The Verge (~1:06pm PT)</a> · <a href="https://www.notateslaapp.com/news/4724/tesla-adds-grok-bot-to-vehicles-for-hands-free-errands-and-tasks">Not a Tesla App</a> · Tesla @Tesla X post Sep 22 (“.@Grok in your Tesla can now do meaningful work…”).</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Breaking: Anthropic ships Claude Opus 5.5 — agentic coding / computer-use lead</title>
-      <link>https://www.anthropic.com/news/claude-opus-5-5</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-22-claude-opus-5-5</guid>
-      <pubDate>Tue, 22 Sep 2026 09:30:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Anthropic (~9:30am PT today):</strong> <a href="https://www.anthropic.com/news/claude-opus-5-5">Claude Opus 5.5</a> — first model in the Claude 5.5 family. Official post: leads on agentic coding, computer use, and knowledge work; ~Fable 5.1-level on most work at ~40% less cost than Opus 5; clearer writing; stronger alignment audit scores. Available now on Claude Platform, AWS, GCP, and Azure as <code>claude-opus-5-5</code>. Sonnet 5.5 and Haiku 5.5 “in the coming weeks.” Same class of biology/cyber safeguards as Fable 5.1.</p>
-<p>Missed the 8:49am PT weekday briefing (launched after). Primary: <a href="https://www.anthropic.com/news/claude-opus-5-5">anthropic.com/news/claude-opus-5-5</a> · <a href="https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/">TechCrunch 9:30am PDT</a>.</p>
-]]></description>
-      <content:encoded><![CDATA[
-<p><strong>Anthropic (~9:30am PT today):</strong> <a href="https://www.anthropic.com/news/claude-opus-5-5">Claude Opus 5.5</a> — first model in the Claude 5.5 family. Official post: leads on agentic coding, computer use, and knowledge work; ~Fable 5.1-level on most work at ~40% less cost than Opus 5; clearer writing; stronger alignment audit scores. Available now on Claude Platform, AWS, GCP, and Azure as <code>claude-opus-5-5</code>. Sonnet 5.5 and Haiku 5.5 “in the coming weeks.” Same class of biology/cyber safeguards as Fable 5.1.</p>
-<p>Missed the 8:49am PT weekday briefing (launched after). Primary: <a href="https://www.anthropic.com/news/claude-opus-5-5">anthropic.com/news/claude-opus-5-5</a> · <a href="https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/">TechCrunch 9:30am PDT</a>.</p>
 ]]></content:encoded>
     </item>
     </channel>
