@@ -7,9 +7,17 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 07 Oct 2026 14:31:41 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:44:44 -0700</lastBuildDate>
         
+    
     <item>
+<title>Google Cloud launches Gemini agent: universal enterprise work agent with coworker identity and cloud persistence</title>
+<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-08-google-gemini-agent</guid>
+<pubDate>Thu, 08 Oct 2026 12:44:44 -0700</pubDate>
+<description><![CDATA[<p>At Gemini at Work 2026 on Thursday, Oct 8, Google Cloud announced the Gemini agent — a single universal agent for enterprise work that plans tasks, uses tools and skills, connects to business systems, and returns finished work in docs, email, and developer environments.</p><ul><li>Runs persistently in the cloud across web, iOS/Android, Windows/Mac, Slack, Workspace, and Microsoft 365, keeping one memory and personalization graph.</li><li>Coworker mode: agents get their own @agents.company.com email, calendar, Drive, and directory presence, acting under their own identity with only shared context.</li><li>Can spawn temporary sub-agents for multi-step jobs that run hours to days; execution inside an Agent Sandbox behind Agent Gateway.</li><li>Orchestrates across Gemini models and Anthropic Claude (more models planned); Financial Services and Legal specializations in preview.</li><li>Enterprise private preview now; Gemini Enterprise Plus has a 30-day trial path.</li></ul><p>Sources: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">Google Keyword</a>, <a href="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise">The Verge</a>, <a href="https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html">CNBC</a></p>]]></description>
+</item>
+<item>
 <title>Microsoft ships Execution Containers (MXC) GA on Windows 11: OS-level sandboxing for always-on agents, Hermes and Claude Code support coming</title>
 <link>https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-07-microsoft-mxc-ga</guid>
@@ -714,20 +722,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
       <guid isPermaLink="false">updatebot-breaking-2026-09-23-meta-muse-computer-use-glasses</guid>
       <pubDate>Wed, 23 Sep 2026 16:52:45 -0700</pubDate>
       <description>At Meta Connect (~4:00pm PT Wed Sep 23), Muse gained computer use on Mac — it can drive apps on your Mac and keep working after you walk away — and is getting its own email address (Engadget / Tom&#x27;s Guide live keynote coverage). Officially, Meta is bringing Muse to Meta AI glasses hands-free alongside Ray-Ban Meta Audio and Gen 3 expansions. Also announced: Meta VR Glasses (Spring 2027, $1,299) with the AI agent built into the OS. Links: https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio/ · https://about.fb.com/news/2026/09/introducing-meta-vr-glasses/ · https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/ · https://www.tomsguide.com/news/live/meta-connect-2026-live</description>
-    </item>
-    <item>
-      <title>Breaking: Cursor ships Rollouts + Security Review bots (Teams/Enterprise)</title>
-      <link>https://cursor.com/changelog</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-23-cursor-rollouts-security-review</guid>
-      <pubDate>Wed, 23 Sep 2026 13:48:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Cursor (~today PT):</strong> Official changelog launch of two shipping bots. <strong>Rollouts</strong> watches each PR as it deploys and reports change health per environment (verified / regression / inconclusive); built with the Bot Development Kit (Cursor’s take on Firetiger Change Monitors). On regression it can notify, open a revert PR, or hand off to a cloud agent — it does not auto-merge or roll back. <strong>Security Review</strong> posts one PR comment on exploitable bugs (injection, authz bypass, secrets, SSRF, unsafe deserialization, vuln deps); style/quality stays with Bugbot. Both on Teams and Enterprise; enable from Automations. ~10 days of Rollouts trial credits (~50 Teams / ~500 Enterprise changes).</p>
-<p>Primary: <a href="https://cursor.com/changelog">cursor.com/changelog</a> (Sep 23). Status: All Systems Operational after a brief Grok 4.7 degradation ~1:28–1:36pm PT (resolved).</p>
-]]></description>
-      <content:encoded><![CDATA[
-<p><strong>Cursor (~today PT):</strong> Official changelog launch of two shipping bots. <strong>Rollouts</strong> watches each PR as it deploys and reports change health per environment (verified / regression / inconclusive); built with the Bot Development Kit (Cursor’s take on Firetiger Change Monitors). On regression it can notify, open a revert PR, or hand off to a cloud agent — it does not auto-merge or roll back. <strong>Security Review</strong> posts one PR comment on exploitable bugs (injection, authz bypass, secrets, SSRF, unsafe deserialization, vuln deps); style/quality stays with Bugbot. Both on Teams and Enterprise; enable from Automations. ~10 days of Rollouts trial credits (~50 Teams / ~500 Enterprise changes).</p>
-<p>Primary: <a href="https://cursor.com/changelog">cursor.com/changelog</a> (Sep 23). Status: All Systems Operational after a brief Grok 4.7 degradation ~1:28–1:36pm PT (resolved).</p>
-]]></content:encoded>
     </item>
     </channel>
 </rss>
