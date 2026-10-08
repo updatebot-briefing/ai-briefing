@@ -7,10 +7,70 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 08 Oct 2026 12:44:44 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:49:15 -0700</lastBuildDate>
         
     
     <item>
+      <title>AI briefing — Thu Oct 8, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-08</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 12:49:15 -0700</pubDate>
+      <description><![CDATA[<p><em>Late edition: this morning's scheduled briefing didn't go out, so this covers everything since yesterday's 8:20am PT briefing.</em></p>
+
+<p>Thursday, Oct 8. ChatGPT's GPT-6, with new interactive "Intelligent UI" answers, is now reaching everyone, including Free users starting today. Closer to home, Grok Bot can now search and watch X without a connector, Elon confirmed Bots can get their own email addresses, and Anthropic shipped a much cheaper Claude Haiku 5.5.</p>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li><strong>X search is built in now.</strong> <a href="https://x.com/bot">@bot</a> posted on Oct 7 that "Grok Bot can now search, read, and monitor X," and a reply said it's for all users with no X connector needed. You still connect your own X account for your timeline and mentions. Limits weren't published, and CryptoBriefing's "100+ posts per prompt" figure is still unconfirmed by SpaceXAI (<a href="https://teslanorth.com/2026/10/08/grok-bot-search-read-monitor-x/">TeslaNorth</a>, <a href="https://aicoder.com/news/news-20261007-grok-bot-native-x-search-read-monitor">AICoder</a>).</li>
+<li><strong>Bots can have their own email address.</strong> Asked on Oct 7 whether Grok Bot really has its own email now, Elon replied "Yes," and some users report Bots claiming name@mail.grokbot.com inboxes (<a href="https://www.techcityauthority.com/2026/10/grok-bot-email-inbox-mail-grokbot.html">Tech City Authority</a>). RuntimeWire had found code for it in the 0.68.1 Windows app, including a view for up to 10 inboxes (<a href="https://runtimewire.com/article/grok-bot-s-windows-app-also-contains-a-gated-email-address-workflow">RuntimeWire</a>). There's no official page, changelog entry, or limits yet, so who gets it and how it works are still unconfirmed.</li>
+<li>Still no official x.ai post on Elon's Oct 7 comment that Grok Bot will use the best backend model for each job, including Claude Opus 5.5. <a href="https://x.ai/news">x.ai/news</a> still tops out at Team Bots (Sep 28).</li>
+<li>The <a href="https://x.ai/changelog/bot">changelog</a> is still at v0.68.1 (slide decks, the bigger 1920x1200 screen, Gmail fixes), which you already have.</li>
+<li>Two incidents, both resolved (<a href="https://status.cursor.com">Cursor status</a>). Grok Bot computers in some regions were degraded yesterday from about 8:59 to 10:25am PT. This morning, Opus 5.5 hit rate-limit errors across every Cursor product, Grok Bot included, from about 6:55 to 8:31am PT.</li>
+<li>Cursor's newest <a href="https://cursor.com/changelog">changelog</a> entry is still Remote control for local agents: the Cursor iOS app can watch and message agents running on your own computer.</li>
+</ul>
+
+<p><strong>Models and features</strong></p>
+<ul>
+<li><strong>ChatGPT:</strong> <a href="https://openai.com/index/gpt-6-for-everyone/">GPT-6 and Intelligent UI</a> are rolling out to everyone. Answers can now include charts, diagrams, buttons, forms, and small tools like a calculator or bill splitter, right in the chat. Paid plans got GPT-6 Sol on Oct 7, and Free and Go get the lighter GPT-6 Luna starting today. The rollout is staged, so some accounts won't see it yet. It's only in the Chat tab (Work and Codex aren't changing), there's no separate usage quota, and the older Mac and Windows desktop apps don't support it, so use the web.</li>
+<li><strong>Claude:</strong> <a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a> came out Oct 7. It's Anthropic's fastest and cheapest model: $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 100K tokens ($0.50/$2.50 above that). Anthropic says that's about 75% cheaper than Haiku 4.5 for typical work. It's in the Claude apps on every plan including Free, in Claude Code, and on AWS, Google Cloud, and Microsoft Foundry. Sonnet 5.5 cache reads also got 50% cheaper.</li>
+<li><strong>Gemini:</strong> as pinged earlier, Google launched the <a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">Gemini agent</a> at Gemini at Work today. It's one agent with its own Workspace account and email address that plans and finishes work, for businesses first and consumers later. Google's Oct 7 <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/">SynthID post</a> also opened its AI-content checker to everyone. It checks images, video, and audio for watermarks from Google, OpenAI, NVIDIA, and Kakao, with Apple coming soon.</li>
+<li><strong>Grok:</strong> nothing new shipped on x.ai or in the API release notes.</li>
+</ul>
+
+<p><strong>OpenAI Dots</strong></p>
+<ul>
+<li>No new official features, pricing, or limits since launch. As it stands, your first dot comes with Pro ($100, $200, or $500 a month) and Business Premium, and it's not on Plus, Go, or Free. There's still no per-dot price, and no price yet for extra dots or more speed. Chatting with a dot doesn't count against your limits, but Codex and Work tasks it starts do. Limits are extended for the launch month, and permanent terms still aren't out (expected around Oct 29) (<a href="https://openai.com/index/introducing-dots/">OpenAI</a>).</li>
+<li>Unconfirmed: RuntimeWire found code in ChatGPT's Windows app for dots to claim their own email addresses (personal handles, plus fixed work addresses under chatgpt.email). OpenAI's guide still says dots can't get their own address at launch (<a href="https://theclarity.today/story/chatgpt-code-gives-work-dots-fixed-chatgpt-email-addresses-a40a48d8">summary</a>).</li>
+</ul>
+
+<p><strong>Grok Bot-style competitors</strong></p>
+<ul>
+<li><strong>Tab</strong> came out of stealth at a $300M valuation (<a href="https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/">TechCrunch</a>). You text it on iMessage or WhatsApp, and it has its own phone number, computer, and wallet to book, call, and pay for things. Nothing is paid without your OK. It's waitlist-only for now, and it didn't say how much it raised.</li>
+<li><strong>Hark Pro</strong>, from Brett Adcock's Hark, went to wide release on Oct 6 (<a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">TechCrunch</a>). It's free, with a paid tier for heavy users. It's a full-screen assistant that uses a computer for you and shows its browsing in a small window. Hardware is planned for 2027.</li>
+<li><strong>Underdog</strong> is in invite-only beta: a free assistant that runs entirely on your own Mac or PC rather than in the cloud (<a href="https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/">TechCrunch</a>).</li>
+<li><strong>Herald OS</strong>, an independent open-source desktop built around Hermes Agent by @iamlukethedev, came out Oct 7. You can install it as a Linux system or run it full screen on a Mac. It's an early alpha from a single developer and isn't affiliated with Nous (<a href="https://www.techcityauthority.com/2026/10/herald-os-hermes-agent-linux.html">Tech City Authority</a>).</li>
+<li><strong>Sierra</strong> launched <a href="https://sierra.ai/blog/caller-id-in-the-age-of-agents">fleming-1</a>, which tells businesses when the caller on a phone line is an AI agent. A day earlier it proposed a Personal Agent Protocol so agents can identify themselves to businesses. Both matter as personal agents start making calls.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li>Anthropic launched a cyber push today: a Critical Infrastructure Defense Program with partners like CrowdStrike, Palo Alto Networks, and Accenture, plus OSS Scanner, a free Claude-powered vulnerability scanner for open-source projects. Its reports aren't checked by a human first (<a href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity">Axios</a>).</li>
+<li>OpenAI shut down Russian and Iranian influence operations that used ChatGPT to run fake journalists and a fake think tank that got stories into real outlets. It's the first time OpenAI has rated campaigns as high-impact (<a href="https://cyberscoop.com/openai-disrupts-russia-iran-ai-influence-operations/">CyberScoop</a>).</li>
+<li>SpaceX is reportedly looking to raise $40B in debt to buy Nvidia AI chips, with Apollo expected to lead (FT via Reuters, <a href="https://qz.com/spacex-raise-40-billion-nvidia-ai-chips-100726">Quartz</a>).</li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.21.6">v0.21.6</a> went stable at 4:51am PT today. It's a patch rollup of about 2,100 merged PRs for Docker, Hermes Cloud, and CLI installs (<code>hermes update</code>). The desktop app and Termux stay on their current build for now. It includes security fixes worth taking if you self-host: dashboard sign-in hardening, including a redirect bug that could allow session takeover; untrusted repos that could run git filter programs during automatic git calls; and an email allowlist bypass using a spoofed sender name. Full notes come with v0.22.0.</li>
+<li>Nous confirmed its $90M Series B at a $1.5B valuation and launched "Hermes for Businesses." Total funding is now $158M, and Nous says Hermes has been cloned more than 24M times (<a href="https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/">TechCrunch</a>).</li>
+</ul>
+
+<p><strong>Grok Bot on X</strong></p>
+<ul>
+<li>I couldn't read <a href="https://x.com/bot">@bot</a> directly today because the public mirrors were down or rate-limited. According to news coverage, its one new post since Oct 2 is the Oct 7 X search announcement with a demo video, and it has been replying to people who tag it with "sending that to your Grok Bot now."</li>
+</ul>]]></description>
+    </item>
+<item>
 <title>Google Cloud launches Gemini agent: universal enterprise work agent with coworker identity and cloud persistence</title>
 <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-08-google-gemini-agent</guid>
@@ -715,13 +775,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 <li>Earlier still visible: voice notes (Sep 18), “can talk now” (Sep 17). Primary handle: <a href="https://x.com/bot">@bot</a>.</li>
 </ul>
 ]]></description>
-    </item>
-    <item>
-      <title>Breaking: Meta Connect — Muse gets Mac computer use + comes to AI glasses</title>
-      <link>https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio/</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-23-meta-muse-computer-use-glasses</guid>
-      <pubDate>Wed, 23 Sep 2026 16:52:45 -0700</pubDate>
-      <description>At Meta Connect (~4:00pm PT Wed Sep 23), Muse gained computer use on Mac — it can drive apps on your Mac and keep working after you walk away — and is getting its own email address (Engadget / Tom&#x27;s Guide live keynote coverage). Officially, Meta is bringing Muse to Meta AI glasses hands-free alongside Ray-Ban Meta Audio and Gen 3 expansions. Also announced: Meta VR Glasses (Spring 2027, $1,299) with the AI agent built into the OS. Links: https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio/ · https://about.fb.com/news/2026/09/introducing-meta-vr-glasses/ · https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/ · https://www.tomsguide.com/news/live/meta-connect-2026-live</description>
     </item>
     </channel>
 </rss>
