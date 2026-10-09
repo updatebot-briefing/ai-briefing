@@ -7,10 +7,17 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 09 Oct 2026 08:55:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:45:00 -0700</lastBuildDate>
         
     
     <item>
+<title>Breaking: Grok Bot gets its own email inboxes (rolling out today)</title>
+<link>https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-09-grok-bot-email-inboxes</guid>
+<pubDate>Fri, 09 Oct 2026 12:45:00 -0700</pubDate>
+<description><![CDATA[<p>The official @bot account posted at 10:16am PT Oct 9 that Grok Bot email inboxes are rolling out to users today. Ask your Bot (or tag @bot on X) to claim an address on mail.grokbot.com; Bots can use it to sign up for services, contact businesses, or schedule time. Team admins must enable it for their team. Not yet in the Grok Bot changelog (tip still v0.68.1); plan limits, send caps, and approval behavior not announced.</p><p><a href="https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/">TeslaNorth</a> · <a href="https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/">9to5Mac</a></p>]]></description>
+</item>
+<item>
       <title>AI briefing — Fri Oct 9, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-09</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-09</guid>
@@ -755,21 +762,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
       <guid isPermaLink="false">updatebot-breaking-2026-09-24-gemini-3-8-live-avatar</guid>
       <pubDate>Thu, 24 Sep 2026 11:36:32 -0700</pubDate>
       <description>Google launched Gemini 3.8 Live with Live Avatar on Sep 24, 2026: near–real-time visual presence for Gemini live dialogue — generated video persona with lip-sync, expressions, 97-language speech-to-speech sync, and async tool calls while conversation continues. Generally available in Gemini Enterprise starting today. Distinct from Sep 23 Gemini 3.8 Flash TTS / Connected Apps / Omni 1.1 Vids. Source: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</description>
-    </item>
-    <item>
-      <title>Breaking: Docker Cloud Sandboxes — agent microVMs in the cloud (local↔cloud move)</title>
-      <link>https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-24-docker-cloud-sandboxes</guid>
-      <pubDate>Thu, 24 Sep 2026 09:34:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Docker</strong> launched <a href="https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/">Cloud Sandboxes</a> today (Sep 24): the same microVM agent sandbox that already ran on your laptop, now on Docker-managed always-on compute, with one command to move either way (<code>sbx move my-project --to cloud</code>).</p>
-<ul>
-<li>Each agent gets its own microVM (kernel + Docker daemon), secrets proxy (agents never see raw keys), network policies, and MCP gateway.</li>
-<li>Kits ready today for Claude Code, Codex, Copilot, Antigravity, Open Code, and <strong>Hermes</strong>.</li>
-<li>Pay-as-you-go by the second (Small default ~$0.14/hr); paused sandboxes free; sessions up to 24h.</li>
-</ul>
-<p>Primary: <a href="https://www.docker.com/blog/introducing-cloud-sandboxes-start-on-your-laptop-finish-in-the-cloud/">docker.com/blog</a>. Fits the “agent gets its own VM” watch.</p>
-]]></description>
     </item>
     </channel>
 </rss>
