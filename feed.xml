@@ -11,6 +11,38 @@
         
     
     <item>
+      <title>AI briefing — Sunday, Oct 11, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-11</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 08:13:15 -0700</pubDate>
+      <description><![CDATA[<h3>Grok Bot</h3>
+<ul>
+<li><b>Musk says Grok Bot will shop for you.</b> In a Saturday afternoon X post he said you can "take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it." Replying to someone who said Amazon blocks it, he said it had just bought LEGO straight from the LEGO website. SpaceXSI hasn't published anything official, and the documented flow still has you approve each payment through Link, so treat this as a demo, not a feature. <a href="https://teslanorth.com/2026/10/10/elon-grok-bot-shopping/">TeslaNorth</a>, <a href="https://www.tokenpost.com/news/technology/29785">TokenPost</a></li>
+<li>It drew pushback: OpenAI's Tibo Sottiaux replied with an AI-made fake card in his own name, and Rich Eisen called the idea "absolutely positively insane." <a href="https://toolnavs.com/article/2481-oct-11-ai-briefing-grok-bot-shops-for-users-as-huaweis-qiyao-tops-time-series-ch">Toolnavs recap</a>, <a href="https://www.primetimer.com/news/this-sounds-absolutely-positively-insane-nfls-rich-eisen-stunned-after-elon-musk-urges-users-to-drop-credit-card-info-for-grok-enabled-shopping">Primetimer</a></li>
+<li>Quiet otherwise. Cursor status is all green this morning, and x.ai/news still leads with Team Bots (Sep 28).</li>
+</ul>
+<h3>Major AI news</h3>
+<ul>
+<li><b>Satya Nadella wants an "emergency brake" for AI.</b> In a Saturday X post, Microsoft's CEO called for separating the model from the harness that runs it, logging every meaningful model action as tamper-proof evidence, and always letting an authorized person pause or shut a model down mid-task. "We must assume a model is compromised and contain it from the start." <a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/">TechCrunch</a>, <a href="https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai">Bloomberg</a></li>
+<li><b>Nvidia is in early talks to buy or deepen its stake in Reflection AI</b>, the US open-weight model lab it already committed $800M to. Options include an acquihire or a bigger compute deal; nothing is agreed. <a href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a">FT</a>, <a href="https://www.straitstimes.com/business/nvidia-discusses-boosting-reflection-investment-computing-deal">Straits Times</a></li>
+</ul>
+<h3>ChatGPT, Claude, Gemini, Grok</h3>
+<ul>
+<li>Claude Code Projects, the coordinator that splits a goal into parallel cloud coding sessions, is now open to everyone on Pro or Max who applied for the beta (@ClaudeDevs, Oct 10). <a href="https://mlllm.io/articles/3482-anthropic-opens-claude-code-projects-beta-to-all-applicants/">mlllm.io</a></li>
+<li>Codex's Composer predictions, which guess your next prompt from the conversation and project, are now available to all Pro users, per OpenAI's Vaibhav Srivastav (Oct 10). <a href="https://toolnavs.com/article/2481-oct-11-ai-briefing-grok-bot-shops-for-users-as-huaweis-qiyao-tops-time-series-ch">Toolnavs recap</a></li>
+</ul>
+<h3>Hermes Agent</h3>
+<ul>
+<li>Nous Research published <code>hermes-official-plugins</code>, an MIT-licensed repo of first-party plugins like Home Assistant and Spotify that update separately from the core agent (Oct 10). The stable release is still v0.21.6. <a href="https://oossa.com/en/nous-research-adds-official-hermes-plugins-repo-on-github">Oossa</a>, <a href="https://github.com/NousResearch/hermes-agent/releases">releases</a></li>
+</ul>
+<h3>Grok Bot on X</h3>
+<ul>
+<li>The weekend story is Elon's shopping posts tagging @bot, plus a Sunday "Try Grok @Bot" quote of Brian Roemmele saying he's using it with clients in printing, packaging, and manufacturing. <a href="https://elonmuskarchive.org/posts/2109132465784930785">post</a></li>
+<li>The last @bot post we could confirm is still Friday's inbox rollout. The @bot timeline stays blocked to logged-out readers, so this comes from reposts and coverage.</li>
+</ul>
+]]></description>
+    </item>
+    <item>
       <title>AI briefing — Saturday, Oct 10, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-10</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-10</guid>
@@ -784,13 +816,6 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 <li>Earlier official note still in the window of public mirrors: <a href="https://www.unrollnow.com/status/2100335532597502311">@bot on 1Password</a> (Sep 17) — share vault items, approve each fill, secrets stay in the password manager.</li>
 </ul>
 ]]></description>
-    </item>
-    <item>
-      <title>Dropbox MCP for Grok Bot + Cursor Marketplace (SpaceXAI partnership)</title>
-      <link>https://blog.dropbox.com/topics/company/dropbox-spacexai-project-context-cursor-marketplace-grok-bot</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-24-dropbox-grok-bot-mcp</guid>
-      <pubDate>Thu, 24 Sep 2026 12:31:12 -0700</pubDate>
-      <description>Dropbox and SpaceXAI launched two integrations on Sep 24, 2026: Dropbox in the Cursor Marketplace and the Dropbox MCP for Grok Bot. Grok Bot can use project files, research, decisions, and assets already organized in Dropbox (existing permissions apply), and write results back. Marketplace plugin: 19 tools + 6 workflow skills. Grok Bot MCP available on eligible Cursor Pro/Pro+/Ultra, Teams, and Enterprise plans. Primary: https://blog.dropbox.com/topics/company/dropbox-spacexai-project-context-cursor-marketplace-grok-bot</description>
     </item>
     </channel>
 </rss>
