@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 08:43:41 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 08:44:08 -0700</lastBuildDate>
         
     
     <item>
@@ -50,14 +50,46 @@
 
 ]]></description>
   </item>
-  <item>
+<item>
 <title>Breaking: Tesla turns on Grok Bot in every Cybercab and the Model Y fleet</title>
 <link>https://teslanorth.com/2026/10/11/grok-bot-cybercab-model-y/</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-11-tesla-grokbot</guid>
 <pubDate>Sun, 11 Oct 2026 12:36:28 -0700</pubDate>
 <description>Tesla AI senior staff engineer Yun-Ta Tsai posted on X Saturday night (Oct 10, PT) that Grok @bot is now enabled on all Cybercabs and the rest of the Model Y fleet, so riders and drivers can reach and manage their own Grok Bots from the in-car Grok. It came two days after he told Dirty Tesla that Cybercab riders couldn't reach their Bots and a fix was coming. No Tesla release notes or software version yet; unclear whether Model 3/S/X and Cybertruck are next. Source: https://x.com/yunta_tsai ; coverage: https://teslanorth.com/2026/10/11/grok-bot-cybercab-model-y/</description>
 </item>
-  <item>
+<item>
+      <title>AI briefing — Sunday, Oct 11, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-11</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 08:13:15 -0700</pubDate>
+      <description><![CDATA[<h3>Grok Bot</h3>
+<ul>
+<li><b>Musk says Grok Bot will shop for you.</b> In a Saturday afternoon X post he said you can "take a picture of your credit card, drop it in the chat and Grok @Bot will scour the Internet for the best deal on the item you want and order it." Replying to someone who said Amazon blocks it, he said it had just bought LEGO straight from the LEGO website. SpaceXSI hasn't published anything official, and the documented flow still has you approve each payment through Link, so treat this as a demo, not a feature. <a href="https://teslanorth.com/2026/10/10/elon-grok-bot-shopping/">TeslaNorth</a>, <a href="https://www.tokenpost.com/news/technology/29785">TokenPost</a></li>
+<li>It drew pushback: OpenAI's Tibo Sottiaux replied with an AI-made fake card in his own name, and Rich Eisen called the idea "absolutely positively insane." <a href="https://toolnavs.com/article/2481-oct-11-ai-briefing-grok-bot-shops-for-users-as-huaweis-qiyao-tops-time-series-ch">Toolnavs recap</a>, <a href="https://www.primetimer.com/news/this-sounds-absolutely-positively-insane-nfls-rich-eisen-stunned-after-elon-musk-urges-users-to-drop-credit-card-info-for-grok-enabled-shopping">Primetimer</a></li>
+<li>Quiet otherwise. Cursor status is all green this morning, and x.ai/news still leads with Team Bots (Sep 28).</li>
+</ul>
+<h3>Major AI news</h3>
+<ul>
+<li><b>Satya Nadella wants an "emergency brake" for AI.</b> In a Saturday X post, Microsoft's CEO called for separating the model from the harness that runs it, logging every meaningful model action as tamper-proof evidence, and always letting an authorized person pause or shut a model down mid-task. "We must assume a model is compromised and contain it from the start." <a href="https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/">TechCrunch</a>, <a href="https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai">Bloomberg</a></li>
+<li><b>Nvidia is in early talks to buy or deepen its stake in Reflection AI</b>, the US open-weight model lab it already committed $800M to. Options include an acquihire or a bigger compute deal; nothing is agreed. <a href="https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a">FT</a>, <a href="https://www.straitstimes.com/business/nvidia-discusses-boosting-reflection-investment-computing-deal">Straits Times</a></li>
+</ul>
+<h3>ChatGPT, Claude, Gemini, Grok</h3>
+<ul>
+<li>Claude Code Projects, the coordinator that splits a goal into parallel cloud coding sessions, is now open to everyone on Pro or Max who applied for the beta (@ClaudeDevs, Oct 10). <a href="https://mlllm.io/articles/3482-anthropic-opens-claude-code-projects-beta-to-all-applicants/">mlllm.io</a></li>
+<li>Codex's Composer predictions, which guess your next prompt from the conversation and project, are now available to all Pro users, per OpenAI's Vaibhav Srivastav (Oct 10). <a href="https://toolnavs.com/article/2481-oct-11-ai-briefing-grok-bot-shops-for-users-as-huaweis-qiyao-tops-time-series-ch">Toolnavs recap</a></li>
+</ul>
+<h3>Hermes Agent</h3>
+<ul>
+<li>Nous Research published <code>hermes-official-plugins</code>, an MIT-licensed repo of first-party plugins like Home Assistant and Spotify that update separately from the core agent (Oct 10). The stable release is still v0.21.6. <a href="https://oossa.com/en/nous-research-adds-official-hermes-plugins-repo-on-github">Oossa</a>, <a href="https://github.com/NousResearch/hermes-agent/releases">releases</a></li>
+</ul>
+<h3>Grok Bot on X</h3>
+<ul>
+<li>The weekend story is Elon's shopping posts tagging @bot, plus a Sunday "Try Grok @Bot" quote of Brian Roemmele saying he's using it with clients in printing, packaging, and manufacturing. <a href="https://elonmuskarchive.org/posts/2109132465784930785">post</a></li>
+<li>The last @bot post we could confirm is still Friday's inbox rollout. The @bot timeline stays blocked to logged-out readers, so this comes from reposts and coverage.</li>
+</ul>
+]]></description>
+    </item>
+<item>
       <title>AI briefing — Saturday, Oct 10, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-10</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-10</guid>
@@ -93,7 +125,53 @@
 <li>The @bot timeline itself was blocked to logged-out readers (403/451), so this section comes from reposts and coverage.</li>
 </ul>]]></description>
     </item>
-  <item>
+<item>
+<title>Breaking: Grok Bot gets its own email inboxes (rolling out today)</title>
+<link>https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-09-grok-bot-email-inboxes</guid>
+<pubDate>Fri, 09 Oct 2026 12:45:00 -0700</pubDate>
+<description><![CDATA[<p>The official @bot account posted at 10:16am PT Oct 9 that Grok Bot email inboxes are rolling out to users today. Ask your Bot (or tag @bot on X) to claim an address on mail.grokbot.com; Bots can use it to sign up for services, contact businesses, or schedule time. Team admins must enable it for their team. Not yet in the Grok Bot changelog (tip still v0.68.1); plan limits, send caps, and approval behavior not announced.</p><p><a href="https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/">TeslaNorth</a> · <a href="https://9to5mac.com/2026/10/09/grok-bot-just-got-its-own-email-address-heres-how-to-claim-yours/">9to5Mac</a></p>]]></description>
+</item>
+<item>
+      <title>AI briefing — Fri Oct 9, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-09</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 08:55:00 -0700</pubDate>
+      <description><![CDATA[<p>Friday, Oct 9. A quieter morning. Grok Bot picked up a Shopify connector, Claude can now build live dashboards and animated explainers, and Elon says Grok Bots will run Grokipedia.</p>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li><strong>Shopify connector.</strong> <a href="https://x.com/bot">@bot</a> announced on Oct 8 that Grok Bot can connect to Shopify to check orders, track inventory, and keep product listings up to date. Shopify posted matching connectors the same day for @grok (questions about your business) and @bot (agent teams that help run a store). It's a real connector, so it avoids the "verify you're human" checks that used to block Bots in the Shopify admin. Permission scopes and write actions like refunds aren't documented yet, and it isn't in the changelog (<a href="https://aicoder.com/news/news-20261008-grok-bot-shopify-connector">AICoder</a>).</li>
+<li><strong>Grok Bots to run Grokipedia.</strong> At 8:19pm PT last night, Elon posted "We're just going to have @Grok Bots manage Grokipedia." He gave no timeline and didn't say whether he means the Grok Bot product or Grok more broadly. Grokipedia says Grok already makes 2,200+ edits a day (<a href="https://teslanorth.com/2026/10/09/grok-bots-grokipedia/">TeslaNorth</a>).</li>
+<li><strong>More on the Opus 5.5 switch.</strong> Following Elon's Oct 7 post about using the best backend model for each job, a Grok Bot team member (@poteto) reportedly said every Bot will run on Claude Opus 5.5 and can start cloud agents on any Cursor model. There's still no official x.ai post or changelog entry about it (<a href="https://www.techcityauthority.com/2026/10/grok-bot-best-model-claude-midjourney-suno.html">Tech City Authority</a>).</li>
+<li>No new release: the changelog is still at v0.68.1 (Oct 7), and x.ai/news still tops out at Team Bots (Sep 28). <a href="https://status.cursor.com">Cursor status</a> shows nothing today. Yesterday's second Opus 5.5 error spike, from 12:52 to 1:51pm PT, is resolved.</li>
+</ul>
+
+<p><strong>Models and features</strong></p>
+<ul>
+<li><strong>Claude Dashboards and Claude Motion (beta, Oct 8).</strong> Dashboards connects to your data platforms and business apps and builds live, auto-refreshing dashboards from a plain-English question, showing the query behind each chart. It's on Pro, Max, Team, and Enterprise. Motion turns text, charts, and images into editable animated explainers you can export as MP4, for Team and Enterprise. Claude Docs, Slides, and Design also left beta and are now on every plan, Free included. The standalone claude.ai/design site closes Dec 14 (<a href="https://claude.com/resources/articles/dashboards-and-motion">Claude</a>, <a href="https://www.technology.org/2026/10/09/claude-dashboards-motion-beta-launch/">Technology.org</a>).</li>
+<li>ChatGPT's GPT-6 Intelligent UI rollout to Free and Go users is continuing. Nothing new shipped for Grok or the Gemini app since yesterday's Gemini agent news.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li><strong>OpenAI safety firings go public.</strong> Researchers Mikita Balesni, Tomek Korbak, and Jasmine Wang published an open letter Thursday saying they were fired last week for putting safety first. Korbak says he'd raised concerns that OpenAI was losing the ability to monitor what agents think. OpenAI says they were fired for a "significant breach of trust" around company information, not for raising concerns (<a href="https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns">Al Jazeera</a>).</li>
+<li>Anthropic also published a 2026 Usage Policy update and a post on American scientific discovery yesterday, alongside the cyber push already covered (<a href="https://www.anthropic.com/news">Anthropic</a>).</li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li>No new stable release since v0.21.6 yesterday; full notes are still expected with v0.22.0 (<a href="https://github.com/NousResearch/hermes-agent/releases">GitHub</a>).</li>
+</ul>
+
+<p><strong>Grok Bot on X</strong></p>
+<ul>
+<li>I couldn't load @bot directly again (x.com and the public mirror both blocked). From coverage, the one new post since yesterday's briefing is the Oct 8 Shopify connector announcement, which Elon amplified with "If you have a Grok Bot account, you can just add your @Shopify connector by asking @bot!" (<a href="https://stockbabie.com/news/20261008-elon-musk-posts-on-x-if-you-have-a-grok-bot-account-you-can-just-add-y">Stockbabie</a>).</li>
+<li>Elon kept promoting it last night, saying using Grok Bot "is like hiring a super smart, hard-working person for peanuts" (<a href="https://teslanorth.com/2026/10/09/grok-bots-grokipedia/">TeslaNorth</a>).</li>
+</ul>
+]]></description>
+    </item>
+<item>
       <title>AI briefing — Thu Oct 8, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-08</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-08</guid>
@@ -153,7 +231,176 @@
 <li>I couldn't read <a href="https://x.com/bot">@bot</a> directly today because the public mirrors were down or rate-limited. According to news coverage, its one new post since Oct 2 is the Oct 7 X search announcement with a demo video, and it has been replying to people who tag it with "sending that to your Grok Bot now."</li>
 </ul>]]></description>
     </item>
-  <item>
+<item>
+<title>Google Cloud launches Gemini agent: universal enterprise work agent with coworker identity and cloud persistence</title>
+<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-08-google-gemini-agent</guid>
+<pubDate>Thu, 08 Oct 2026 12:44:44 -0700</pubDate>
+<description><![CDATA[<p>At Gemini at Work 2026 on Thursday, Oct 8, Google Cloud announced the Gemini agent — a single universal agent for enterprise work that plans tasks, uses tools and skills, connects to business systems, and returns finished work in docs, email, and developer environments.</p><ul><li>Runs persistently in the cloud across web, iOS/Android, Windows/Mac, Slack, Workspace, and Microsoft 365, keeping one memory and personalization graph.</li><li>Coworker mode: agents get their own @agents.company.com email, calendar, Drive, and directory presence, acting under their own identity with only shared context.</li><li>Can spawn temporary sub-agents for multi-step jobs that run hours to days; execution inside an Agent Sandbox behind Agent Gateway.</li><li>Orchestrates across Gemini models and Anthropic Claude (more models planned); Financial Services and Legal specializations in preview.</li><li>Enterprise private preview now; Gemini Enterprise Plus has a 30-day trial path.</li></ul><p>Sources: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">Google Keyword</a>, <a href="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise">The Verge</a>, <a href="https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html">CNBC</a></p>]]></description>
+</item>
+<item>
+<title>Microsoft ships Execution Containers (MXC) GA on Windows 11: OS-level sandboxing for always-on agents, Hermes and Claude Code support coming</title>
+<link>https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-07-microsoft-mxc-ga</guid>
+<pubDate>Wed, 07 Oct 2026 14:31:41 -0700</pubDate>
+<description><![CDATA[<p>At a Microsoft and NVIDIA event in San Francisco on Wednesday, Oct 7, Microsoft made Microsoft Execution Containers (MXC) generally available on Windows 11. MXC lets agents run persistently in the background under OS control, with file and network access policies enforced at runtime and containment options from process isolation to WSL, VMs, and Windows 365 for Agents, tied into Agent 365 and Intune for governance.</p><ul><li>Already supported by OpenAI Codex, GitHub Copilot, OpenClaw, Replit, LM Studio, NVIDIA OpenShell, and Unsloth. Coming: Claude Code, Hermes Agent by Nous Research, Manus, Perplexity, Raycast, Simular, and more.</li><li>Meta's Muse for Windows is coming soon as a native app with MXC integration.</li><li>Microsoft announced few-click out-of-box setup for always-on agents on mini desktop PCs, starting with a native Windows gateway for OpenClaw.</li><li>Copilot on Copilot+ PCs (including the Autopilot persistent agent) gets local context, local actions, and local models over the coming months.</li><li>NVIDIA RTX Spark Windows PCs (Surface Laptop Ultra, Dell, HP, Lenovo, ASUS, MSI) are up for pre-order today, shipping Oct 16; DGX Station for Windows later this year.</li></ul><p>Sources: <a href="https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/">Windows Experience Blog</a>, <a href="https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/">NVIDIA Blog</a></p>]]></description>
+</item>
+<item>
+<title>Grok Bot 0.68.1 notes: slide decks, bigger 1920x1200 Bot computer, formatted emails</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-0-68-1-changelog</guid>
+<pubDate>Wed, 07 Oct 2026 10:40:17 -0700</pubDate>
+<description><![CDATA[<p>SpaceXAI published Grok Bot 0.68.1 release notes on the official changelog (Oct 7), plus the previously missing 0.68.0 notes (Oct 5). Earlier today the build was out without notes.</p><ul><li>Bots can build slide decks with you, showing sample slides to pick from, and deliver PowerPoint files or Google Slides.</li><li>The Bot's computer screen is now 1920 x 1200, up from 1280 x 800, and computer actions, screenshots, and new windows are faster.</li><li>Formatted emails from draft cards, Gmail Spam search and restore, and Team Bots can mention Slack user groups.</li><li>1:1 Bot chats take the Bot's color (Settings, General, Accent set to Black turns it off).</li><li>Fixes: fewer Gmail send/reply failures, browser recovers from crashed tabs, stuck steps end within about 30 seconds, reconnect cards for X and Vercel sign-in.</li><li>0.68.0 (Oct 5) added Remove for other computers in Settings, Computer; send-as Gmail addresses; and more languages.</li></ul><p>Separately, status.cursor.com logged a Grok Bot computer degradation in certain regions from 8:59 to 10:25am PT today; it's resolved.</p><p>Sources: <a href="https://x.ai/changelog/bot">Grok Bot changelog</a>, <a href="https://stspg.io/rh45hf9t61t5">Cursor status incident</a></p>]]></description>
+</item>
+<item>
+<title>Breaking: Musk says Grok Bot will use the best backend per task, including Claude Opus 5.5, Midjourney, Suno</title>
+<link>https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-best-backend</guid>
+<pubDate>Wed, 07 Oct 2026 09:41:17 -0700</pubDate>
+<description><![CDATA[<p><strong>Grok Bot is going model-agnostic.</strong> Elon Musk posted on X Wednesday (Oct 7) an "important note regarding Grok @Bot": going forward SpaceX will use "the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome."</p>
+<p>Per follow-up reporting (<a href="https://www.tao.media/spacexai-opens-grok-bot-backend-to-claude-opus-5-5-and-rival-ai-apis/">TAO</a>), Grok Bot engineer @poteto said all Bots will run on Opus 5.5 and be able to spawn cloud agents using available Cursor models. No official SpaceXAI post, timeline, pricing, or per-task routing details yet; x.ai/news and the Grok Bot changelog (still v0.66.0) haven't been updated.</p>
+<p>Coverage: <a href="https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk">The Next Web</a>, <a href="https://digg.com/ai/c52r1epm">Digg thread with the post</a>.</p>
+<p>Also: status.cursor.com shows an open minor incident since 8:59am PT, "service degradation affecting Grok Bot's computers in certain regions" (<a href="https://stspg.io/rh45hf9t61t5">incident</a>).</p>]]></description>
+</item>
+<item>
+      <title>AI briefing — Weekday, Oct 7, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-07</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 08:21:28 -0700</pubDate>
+      <description><![CDATA[<p>Wednesday, Oct 7. Hermes maker Nous Research raised a big round, Claude now works inside Google Docs, Sheets, and Slides, and today's free Grok Bot workshop covers marketing at 10am PT.</p>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li>Today's free Zoom workshop is <a href="https://luma.com/yjve9qo3">Grok Bot for Marketing</a>, 10 to 11am PT, going from idea to launch with a team of Bots. "What's New in Grok Bot" is tomorrow at the same time, and Grok Bot 201 is Friday.</li>
+<li>Version 0.68.1 is now the stable desktop build, replacing 0.66.0, but no release notes came with it (<a href="https://techdevnotes.com/releases/grok-bot/20261006-180909Z-4d2b9b0e22fa">Tech Dev Notes</a>). The official <a href="https://x.ai/changelog/bot">changelog</a> still tops out at v0.66.0 from Oct 2.</li>
+<li>Yesterday's outages are over. Grok Bot and Cloud Agents were degraded from about 12:27 to 3:06pm PT, with a shorter Cloud Agents blip from 3:48 to 4:04pm PT. <a href="https://status.cursor.com">Cursor status</a> shows everything operational this morning.</li>
+<li>Cursor's newest <a href="https://cursor.com/changelog">changelog</a> entry, Remote control for local agents, lets the Cursor iOS app steer agents running on your own computer.</li>
+</ul>
+
+<p><strong>Models and features</strong></p>
+<ul>
+<li>Claude: <a href="https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides">Claude for Google Workspace</a> is in public beta on all paid plans as of Oct 6. It's a sidebar in Docs, Sheets, and Slides that edits your open file, with "Ask before edits" on by default, and new beta connectors let Claude create and edit Google files straight from chat.</li>
+<li>ChatGPT: paid plans can now upload audio files for transcription, summaries, and meeting notes. It rolled out Oct 6 and isn't on Free (<a href="https://www.cravingtech.com/chatgpt-can-now-import-and-transcribe-audio-files.html">CravingTech</a>).</li>
+<li>Gemini: Google launched <a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/">Playground</a> today, a free experiment for building playable games from prompts, open to US users 18 and up, with Unity Spark tools coming later. Google also opened its <a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">SynthID checker</a> to everyone for spotting AI-made images, video, and audio, and Gemini can now search your Google Chat history once you turn it on in Chat settings.</li>
+<li>Grok: nothing new shipped since the last briefing.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li>More detail on OpenAI's math drop from yesterday: it's 722 manuscripts covering 372 open problems, including a claimed solution to the four-dimensional Kakeya conjecture, all from an unnamed internal model. Mathematicians are still sorting through it (<a href="https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/">New Scientist</a>, <a href="https://www.engadget.com/2279815/openai-just-posted-hundreds-more-results-on-major-math-problems/">Engadget</a>).</li>
+<li>Biohub, the Department of Energy, NIH, Google DeepMind, Isomorphic, and Meta are putting about $1.8B toward AI-ready biology data (<a href="https://techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push/">Tech Startups</a>).</li>
+<li>The personal-agent race keeps filling up. Khosla-backed <a href="https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/">Wajo</a> pitches its Fo agent on trust: it has its own email and virtual cards, makes phone calls for you, and can hire a human when it's stuck. It runs errands over iMessage and WhatsApp rather than on a computer of its own.</li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li>Nous Research raised a $90M Series B at a $1.5B valuation to take Hermes Agent into enterprises (<a href="https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208">WSJ</a>). Robot Ventures led, with NVIDIA, Microsoft's M12, Samsung, and USV joining. Hermes stays free and MIT-licensed, and Nous is adding SSO, permissions, workspace isolation, and audit logs on top. A <a href="https://www.kucoin.com/news/flash/nous-research-raises-90m-in-b-round-to-expand-hermes-agent-to-enterprise-market">secondary summary</a> also cites 22.7M downloads and about $36M in annualized revenue as of mid-September.</li>
+<li>The latest stable release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.21.5</a> from Sep 24.</li>
+</ul>
+
+<p><strong>Grok Bot on X</strong></p>
+<ul>
+<li><a href="https://x.com/bot">@bot</a> has been quiet since Oct 2, when it reset usage limits for all Grok Bot users. Before that, on Oct 1, it announced that Grok Bot can now suggest ways to help without being asked.</li>
+</ul>]]></description>
+    </item>
+<item>
+<title>Breaking: OpenAI releases hundreds of AI-generated math results from an unreleased model</title>
+<link>https://openai.com/index/sharing-ai-progress-in-mathematics/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-06-openai-math-results</guid>
+<pubDate>Tue, 06 Oct 2026 15:37:20 -0700</pubDate>
+<description>OpenAI published hundreds of new mathematics and theoretical computer science results from an unreleased internal model in a public GitHub repo (github.com/openai/math) around 3pm PT Oct 6. Each result resolves or makes substantial progress on an open problem, per OpenAI; many are formalized in Lean. OpenAI told Scientific American almost every result came from a single prompt to a single AI agent, unlike the earlier Navier-Stokes claim produced by a 10,000-agent swarm. OpenAI says the average result used about three hours of ChatGPT Pro-equivalent thinking and that it is working to release the model responsibly. Mathematicians are skeptical pending review. Sources: https://openai.com/index/sharing-ai-progress-in-mathematics/ and https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/</description>
+</item>
+<item>
+      <title>AI briefing — Weekday, Oct 6, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-06</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 08:24:00 -0700</pubDate>
+      <description><![CDATA[<p>Tuesday, Oct 6. Mistral's 1-trillion-parameter model is the big headline, and Grok Bot's free workshop series starts at 10am PT today.</p>
+
+<p><strong>Competitor watch</strong></p>
+<ul>
+<li>In case you missed yesterday's ping: <a href="https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/">Ghost launched Core</a>, a $3,499 dedicated computer that runs your personal AI agents on-device around the clock (a16z-led $11M seed). Pre-orders are open, and it ships the last week of October.</li>
+</ul>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li>Stable is still v0.66.0 from Oct 2 (Main Bot), per the <a href="https://x.ai/changelog/bot">changelog</a>, and Grok Bot shows Operational on <a href="https://status.cursor.com">Cursor status</a>.</li>
+<li>SpaceXAI is running four free Zoom workshops this week, each 10 to 11am PT: Grok Bot 101 today (<a href="https://luma.com/cduktxci">register</a>), Marketing on Wednesday, What's New on Thursday, and Grok Bot 201 on Friday. Registrants get the recording. XFreeze on X also lists Sales (Oct 13) and Ship Code at Scale with Cursor (Oct 15).</li>
+<li>Heads-up: Cursor's status page still shows Cloud Agents, Automations, CLI, and IDE as degraded over Opus 5.5 errors (posted 5:40am PT), even though <a href="https://status.claude.com/incidents/ch27pb90bn85">Anthropic marked it resolved</a> at 5:43am PT.</li>
+<li><a href="https://runtimewire.com/article/grok-bot-team-bot-managers-voice-calls">RuntimeWire</a> points out that the "v0.68.1" feature list going around X comes from app strings, not release notes.</li>
+</ul>
+
+<p><strong>Models and features</strong></p>
+<ul>
+<li>Gemini Skills are now rolling out in Gemini chat for 18+ users and will replace Gems, which migrate automatically (<a href="https://www.androidauthority.com/how-to-use-gemini-skills-google-upgraded-gems-feature-3718807/">Android Authority how-to</a>). Reminder: free Gemini drops to Flash-Lite on Oct 9.</li>
+<li>OpenAI announced textGrain, an invisible watermark that will be added to ChatGPT and Codex text in the EU over the coming weeks and is opt-in for some API models. Detection falls to 17% once a quarter of the words are changed (<a href="https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/">Unite.AI</a>).</li>
+<li>Claude: nothing new shipped. Opus 5.5 had a short error spike from 5:24 to 5:43am PT.</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li>Mistral released a public preview of Mistral Large 4, nicknamed "Le Chonk": 1T parameters with 49B active, natively multimodal, on the Mistral Studio API now, with open weights planned for Oct 27 (<a href="https://mistral.ai/news/mistral-large-4/">Mistral</a>, <a href="https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/">TechCrunch</a>).</li>
+<li>From Monday: Reflection debuted Beam, an open-weight model pitched against Chinese rivals, and Instinct brought its AI agent into group chats (<a href="https://techcrunch.com/category/artificial-intelligence/">TechCrunch AI</a>).</li>
+</ul>
+
+<p><strong>Hermes</strong></p>
+<ul>
+<li>There's no new release (still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.21.5</a>), but Teknium says the plugin catalog is close to 500 community plugins. He also shared a top-10 thread that includes done-bell, needs-you, Ledgerline cost tracking, hermes-ssh, and hermes-cron (<a href="https://agihunt.info/en/p/1a108c20110faf3bc3e8b4c960a">recap</a>).</li>
+</ul>
+
+<p><strong>Grok Bot on X</strong></p>
+<ul>
+<li><a href="https://x.com/bot">@bot</a> hasn't posted since Oct 2 ("We've reset usage limits for all Grok Bot users"). Before that it posted about proactive suggestions (Oct 1), handing coding to Cursor with GitHub and Origin plugins (Sep 30), and Team Bots (Sep 28). The workshop promo is coming from community accounts like tetsuo and XFreeze, not @bot.</li>
+</ul>
+]]></description>
+    </item>
+<item>
+<title>Breaking: Ghost launches Core, a $3,499 dedicated computer for your personal AI agents</title>
+<link>https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-05-ghost-core</guid>
+<pubDate>Mon, 05 Oct 2026 11:33:46 -0700</pubDate>
+<description>Ghost, an a16z-led startup ($11M seed), came out of stealth Mon Oct 5 with Core: a $3,499 dedicated personal AI computer built to run agents continuously and on-device (RTX PRO 4000 Blackwell 24GB, Ryzen 5 7600, 64GB RAM, 1TB; ships Qwen 3.8, Gemma 4-31B, Muse-Glimmer-30B). It has its own browser, software layer and filing system, connects to your apps, files and smart-home devices, and works without prompting. No subscription; pre-orders open now, shipping last week of October. TechCrunch 11:07am PT: https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/ Product: https://tryghost.ai</description>
+</item>
+<item>
+      <title>AI briefing — Weekday, Oct 5, 2026</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-05</link>
+      <guid isPermaLink="false">updatebot-briefing-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 08:28:00 -0700</pubDate>
+      <description><![CDATA[<p>Monday, Oct 5 — a fairly quiet weekend for Grok Bot, with most of the action in AI policy and Gemini.</p>
+
+<p><strong>Grok Bot</strong></p>
+<ul>
+<li>The stable app is still on <a href="https://x.ai/changelog/bot">v0.66.0</a> from Oct 2, the release that added the starred Main Bot. <a href="https://status.cursor.com">Cursor Status</a> shows everything working, with no incidents since the short Grok Bot and Review Agents slowdown overnight Oct 2–3.</li>
+<li>A test build only for staff, <a href="https://techdevnotes.com/releases/grok-bot-desktop-extra/20261004-001804Z-11f24d742fb6">0.68.0-pre.6</a>, went out Sat Oct 3 at about 5:18pm PT. It adds a selector for Auto-review, lets admins create meeting-avatar links, and removes the automatic quick-action suggestions for skills. It isn't on the stable channel yet.</li>
+</ul>
+
+<p><strong>Similar product to watch (close, but not quite a Grok Bot clone)</strong></p>
+<ul>
+<li><a href="https://www.pivra.ai/blog/introducing-pivra-desk">Pivra Desk</a> launched today. It gives you “AI teammates” on Mac and Windows with job templates, scheduled routines, a morning brief, memory, and approval cards before anything gets sent, paid for, or published. The key difference is that the agents use <em>your</em> computer, not one of their own, and they pause when the laptop is closed; a cloud version is “coming.” It’s free for one agent, and Plus is $6 a month for unlimited agents.</li>
+</ul>
+
+<p><strong>Product releases</strong></p>
+<ul>
+<li><strong>Gemini:</strong> A new Map tool is rolling out in the mobile app. You drop a pin, choose “Explore this area,” and ask about the spot. A beta is also replacing “/” shortcuts with “@” for Skills and Connectors (<a href="https://www.androidheadlines.com/2026/10/google-gemini-app-map-tool-slash-commands-update.html">Android Headlines</a>, Oct 3). Starting <strong>Oct 9</strong>, free users get only Flash-Lite and AI Plus loses Pro, while AI Pro gets Deep Think (<a href="https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/">9to5Google</a>).</li>
+<li><strong>ChatGPT:</strong> OpenAI announced a visual ad format that shows up during image generation, with US testing later this month, along with expanded ad measurement and brand-safety pilots with DoubleVerify and IAS (<a href="https://openai.com/index/new-chatgpt-ads-format-and-measurement/">OpenAI</a>, Oct 5). It also posted <a href="https://openai.com/news/">its approach to the EU’s text-provenance rules</a> today.</li>
+<li><strong>Grok:</strong> Catching up on an item from Oct 2: Grok can now join XChat group chats, and SpaceXAI released an experimental TypeScript SDK (<a href="https://thegoldstandard.news/article/grok-joins-xchat-group-chats">The Gold Standard</a>).</li>
+<li><strong>Claude:</strong> Nothing new shipped. Haiku 5.5 is still described as coming “in the coming weeks.”</li>
+</ul>
+
+<p><strong>Major AI news</strong></p>
+<ul>
+<li><strong>The NYC Council hearing is happening now</strong> (11am ET, which is 8am PT). Anthropic, OpenAI, Google, and Meta are testifying under oath about AI risks, and <strong>SpaceXAI was subpoenaed</strong> after it didn’t respond. The bills on the agenda include requiring third-party validation or a shutdown capability for models, plus a bounty for people who report AI violations (<a href="https://www.unite.ai/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/">Unite.AI</a>).</li>
+<li><strong>The White House created a “Super Intelligence Force”</strong> chaired by DNI Jay Clayton, who is effectively the new AI czar. It has 120 days to map out AI risks and what the federal government should do about them (<a href="https://qz.com/trump-super-intelligence-force-ai-task-force-jay-clayton-100526">Quartz, via WSJ</a>).</li>
+<li>Researchers are tracking a Chinese <strong>“agent fleet”</strong> running on Tencent infrastructure. It’s mass-querying Alibaba’s Amap map service through URLquery (<a href="https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/">TechCrunch</a>, 7:35am PT).</li>
+</ul>
+
+<p><strong>Grok Bot on X (<a href="https://x.com/bot">@bot</a>)</strong></p>
+<ul>
+<li>I didn’t find any new official posts after the Fri Oct 2 usage-limit reset (<a href="https://x.com/bot/status/2106083136002310193">post</a>). Over the past week, the posts have been about proactive Main Bot suggestions and that one-time usage refill. Note that when you’re logged out, the timeline only shows the pinned post, so I checked through search instead.</li>
+</ul>
+]]></description>
+    </item>
+<item>
       <title>AI briefing — Weekday, Oct 4, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-04</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-04</guid>
@@ -189,7 +436,7 @@
 </ul>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>AI briefing — Weekday, Oct 3, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-03</guid>
@@ -230,7 +477,7 @@
 </ul>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>Grok Bot v0.66.0: Primary/Main Bot checks in proactively</title>
       <link>https://x.ai/changelog/bot</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-02-grok-bot-v0-66-primary-main-bot</guid>
@@ -239,7 +486,7 @@
 <p><strong>Breaking — Grok Bot v0.66.0 (Oct 2):</strong> SpaceXAI’s <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> tipped to <strong>v0.66.0</strong>. You can choose a <strong>primary Bot (Main Bot, starred)</strong> that <em>checks in proactively and coordinates work with your other Bots</em> (requires Grok Bot 0.59.0+). Also newly listed since the prior tip (v0.63.0 Sep 29): <strong>v0.65.0 / v0.64.0 (Sep 30)</strong> — Team Bot voice chats, Disable drafts, Team Bot Managers, Automatic Updates default on.</p>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>AI briefing — Weekday, Oct 2, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-02</guid>
@@ -281,7 +528,7 @@
 </ul>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>Grok Bot can now suggest ways to help without you asking</title>
       <link>https://x.com/bot/status/2105713240701538538</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-01-grok-bot-proactive-suggestions</guid>
@@ -291,7 +538,7 @@
 <p>Missed the 8:25am PT weekday briefing (noticed on this watch). Primary: <a href="https://x.com/bot/status/2105713240701538538">@bot announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a> · <a href="https://x.ai/bot">x.ai/bot</a>.</p>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>AI briefing — Weekday, Oct 1, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-10-01</guid>
@@ -327,7 +574,7 @@
 Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>AI briefing — Weekday, Sep 30, 2026</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
       <guid isPermaLink="false">updatebot-briefing-2026-09-30</guid>
@@ -366,7 +613,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>OpenAI launches Dots: always-on agents with their own computer</title>
       <link>https://openai.com/index/introducing-dots/</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-29-openai-dots</guid>
@@ -381,7 +628,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-  <item>
+<item>
     <title>AI briefing — Weekday, Sep 29, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-29</guid>
@@ -424,7 +671,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
   </item>
-  <item>
+<item>
       <title>Team Bots: shared Grok Bots that learn from your team (SpaceXAI)</title>
       <link>https://x.ai/news/team-bots</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-28-team-bots</guid>
@@ -438,7 +685,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-  <item>
+<item>
       <title>Breaking: Anthropic ships Claude Sonnet 5.5 — faster / cheaper Sonnet with agentic coding jump</title>
       <link>https://www.anthropic.com/claude-sonnet-5-5</link>
       <guid isPermaLink="false">updatebot-breaking-2026-09-28-claude-sonnet-5-5</guid>
@@ -452,7 +699,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 <p>Missed the 8:28am PT weekday briefing (noticed on this watch). Primary: <a href="https://www.anthropic.com/claude-sonnet-5-5">anthropic.com/claude-sonnet-5-5</a> · <a href="https://docs.anthropic.com/en/release-notes/api">API release notes Sep 28</a>.</p>
 ]]></content:encoded>
     </item>
-  <item>
+<item>
     <title>AI briefing — Weekday, Sep 28, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-28</guid>
@@ -492,7 +739,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
   </item>
-  <item>
+<item>
     <title>AI briefing — Weekday, Sep 27, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-27</guid>
@@ -538,7 +785,7 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 
 ]]></description>
   </item>
-  <item>
+<item>
     <title>AI briefing — Weekday, Sep 26, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
     <guid isPermaLink="false">updatebot-briefing-2026-09-26</guid>
@@ -576,12 +823,5 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 
 ]]></description>
   </item>
-  <item>
-      <title>Breaking: Grok Bot degraded performance (Cursor status, evening Sep 25)</title>
-      <link>https://status.cursor.com/incidents/bfcck6qks18q</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-25-grok-bot-degradation-evening</guid>
-      <pubDate>Fri, 25 Sep 2026 17:30:52 -0700</pubDate>
-      <description><![CDATA[Cursor status opened a new unresolved incident for Grok Bot: Investigating service degradation starting ~4:47pm PT Fri Sep 25 (23:47 UTC). Status moved to Monitoring ~5:22pm PT (00:22 UTC Sep 26) with a fix implemented and monitoring for restoration. Grok Bot component still shows Degraded Performance; overall Partially Degraded Service. Distinct from the earlier Sep 25 morning incident (05:17–06:51 UTC) already resolved. Sources: <a href="https://status.cursor.com/">status.cursor.com</a> · <a href="https://status.cursor.com/incidents/bfcck6qks18q">incident bfcck6qks18q</a> · <a href="https://stspg.io/m3kgdhh3lx5l">shortlink</a>]]></description>
-    </item>
 </channel>
 </rss>
