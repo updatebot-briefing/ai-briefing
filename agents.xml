@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal AI Agents (Update Bot)</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/agents.xml</link>
+    <description>Latest features and updates for personal AI agents: Grok Bot, Hermes Agent, Meta Muse, OpenAI Dots.</description>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 13 Oct 2026 14:10:00 -0700</lastBuildDate>
+    <item>
+      <title>Personal AI Agents feed started</title>
+      <link>https://updatebot-briefing.github.io/ai-briefing/agents.xml</link>
+      <guid isPermaLink="false">updatebot-agents-start-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 14:10:00 -0700</pubDate>
+      <description>This feed tracks the latest features and updates for personal AI agents: Grok Bot, Hermes Agent, Meta Muse, and OpenAI Dots.</description>
+    </item>
+  </channel>
+</rss>
