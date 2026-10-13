@@ -10,6 +10,23 @@
     <lastBuildDate>Tue, 13 Oct 2026 08:23:17 -0700</lastBuildDate>
     
 <item>
+    <title>Breaking: Grok Bot v0.70.2 ships Bot email addresses, built-in X search, in-chat app cards and X Money payments</title>
+    <link>https://x.ai/changelog/bot</link>
+    <guid isPermaLink="false">updatebot-breaking-2026-10-13-grok-bot-v0-70-2</guid>
+    <pubDate>Tue, 13 Oct 2026 10:44:19 -0700</pubDate>
+    <description><![CDATA[
+<p>The official <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> jumped from v0.68.1 to <strong>v0.70.2</strong> (dated Oct 11, which also rolls up 0.69.0 through 0.70.1). It showed up after this morning's briefing, which still had v0.68.1 as the latest.</p>
+<ul>
+<li>Bots can claim their own email address and receive mail there. Anything they send from it waits for your approval on a draft card.</li>
+<li>Bots can search X and read posts and profiles without you connecting an X account.</li>
+<li>Connectors that come with an app, such as Figma, Notion and Canva, can show it as an interactive card in the chat.</li>
+<li>Bots can pay with X Money or Stripe Link.</li>
+<li>Bots check your own messages for approval before anything they can't undo (sending, posting, buying, deleting), and they ask before sharing bank or brokerage data anywhere else.</li>
+<li>Also new: finding and linking Bot templates, a Wake button for a sleeping computer, saving web pages as PDFs, Glean and QuickBooks Online connectors, and Team Bot approvals from a teammate's DM.</li>
+</ul>
+]]></description>
+</item>
+    <item>
     <title>AI briefing — Weekday, Tue Oct 13, 2026</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
     <guid isPermaLink="false">updatebot-briefing-2026-10-13</guid>
@@ -689,20 +706,5 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-<item>
-      <title>OpenAI launches Dots: always-on agents with their own computer</title>
-      <link>https://openai.com/index/introducing-dots/</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-29-openai-dots</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>OpenAI announced dots at DevDay 2026</strong> — always-on agents in ChatGPT, powered by GPT-6 Astra, each with its own cloud computer and browser. Dots work 24/7 on your goals, connect to 4,000+ apps via plugins, learn from feedback, do proactive (read-only) background research, and can optionally use your own computer. Message or call your dot in ChatGPT (desktop, web, mobile), or message it in Slack and Teams; texting is a limited US Pro beta. Custom Rules, auto-review, and hand-offs for sensitive steps (e.g. password changes) keep you in control. You start with one primary dot; teams of dots and enterprise “specialist dots” (pilots, Microsoft Agent 365 integration) are coming.</p>
-<ul>
-<li><strong>Plans:</strong> included in all Pro plans (Pro 100, Pro 200, and the new $500/mo Pro 500) and Business Premium; your first dot costs nothing extra. Enterprise, Edu and Healthcare get a beta that’s off by default until a workspace admin enables it. Plus isn’t included yet (OpenAI says it plans to expand access soon).</li>
-<li><strong>Usage:</strong> for the first month, dots usage won’t count toward Pro, Business or Enterprise plan allowances; OpenAI will share per-plan usage terms after that. No per-dot price yet (more dots and higher speed/capacity per dot are planned). Chatting with your dot doesn’t count toward ChatGPT limits; Codex and ChatGPT Work tasks it starts count as usual.</li>
-<li><strong>Availability:</strong> rolling out gradually (it may take several days to reach your account). Pro excludes the EEA, UK and Switzerland at launch; Business Premium is available in all supported regions. Users must be 18+. Create your dot in the ChatGPT desktop app or on desktop web. There’s no Dots API; OpenAI says the Agents API (now with computer use) runs on the same technology.</li>
-<li>Primary: <a href="https://openai.com/index/introducing-dots/">openai.com/index/introducing-dots</a> · <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started (Help Center)</a> · <a href="https://openai.com/index/how-we-build-safety-security-and-privacy-into-dots/">Safety post</a> · <a href="https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers">Pro tiers</a> · <a href="https://x.com/thsottiaux/status/2104989161774322009">@thsottiaux on Pro 100</a></li>
-</ul>
-]]></description>
-    </item>
-</channel>
+  </channel>
 </rss>
