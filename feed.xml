@@ -7,8 +7,49 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 19:33:31 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:23:17 -0700</lastBuildDate>
     
+<item>
+    <title>AI briefing — Weekday, Tue Oct 13, 2026</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
+    <guid isPermaLink="false">updatebot-briefing-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 08:23:17 -0700</pubDate>
+    <description><![CDATA[
+<p><strong>Tuesday, Oct 13.</strong> The big one since yesterday’s briefing: Grok Bot is now part of <strong>The X Subscription</strong>, one plan for Grok, Grok Bot, Cursor and X Premium. Cursor also had a roughly three-hour outage Monday evening that’s now resolved.</p>
+
+<h3>Competitor watch</h3>
+<ul>
+<li><strong>Xiryn</strong> launched on Product Hunt today (Oct 13). It’s a small, free, open-source agent that pitches itself as doing what Muse, Grok Bot and Dots do, but on your own machine. Each agent gets its own Linux desktop in Docker, works with any model, and you control it through Telegram (<a href="https://hunted.space/product/xiryn">launch page</a>). It’s early and got almost no traction.</li>
+</ul>
+
+<h3>Grok Bot</h3>
+<ul>
+<li><a href="https://x.ai/news/x-subscription">The X Subscription</a> (Oct 12): Free $0, Plus $8, Premium $30 (SuperGrok + Cursor Pro + X Premium+, previously $90 combined), Super $100, Ultra $200. Grok Bot comes with Premium and up, not Plus. Its usage comes out of a weekly pool shared across Grok and Cursor (<a href="https://docs.x.ai/x-subscription/pricing">pricing docs</a>).</li>
+<li>Third-party models in Cursor (Claude, GPT) aren’t covered by the included pool on the new plans. They’re billed at API list prices through top-ups. Cursor says Grok and Composer coding limits are at least double what the matching old plan gave you.</li>
+<li>Switching is optional and existing plans keep working. If you do switch, it’s permanent: eligible plans are cancelled with a prorated refund, and multiple Cursor accounts get merged into one primary (<a href="https://docs.x.ai/x-subscription/overview">overview</a>).</li>
+<li>Cursor outage: <a href="https://status.cursor.com/">status.cursor.com</a> logged degraded performance across Cursor services, Grok Bot included, from ~5:22pm to ~8:07pm PT Monday. It’s resolved, and everything shows operational this morning.</li>
+<li>The <a href="https://x.ai/changelog/bot">changelog</a> tip is still v0.68.1 (Oct 7), and Cursor’s changelog still leads with Remote Control.</li>
+</ul>
+
+<h3>Major AI news</h3>
+<ul>
+<li><strong>Meta Muse Wonder</strong> (Mon ~10am PT): Meta’s largest models yet, Muse Wonder and the more capable Wonderful, with “active memory” and frontier-level coding. Meta pitches them for agents (<a href="https://www.euronews.com/2026/10/13/meta-launches-new-most-capable-ai-models-heres-what-to-know-about-them">Euronews</a>).</li>
+<li><strong>Anthropic on self-replicating AI</strong> (Oct 12): Anthropic says small models are “months away” from being able to copy themselves across insecure home devices. One test ran Gemma across 15 cheap Android TV boxes. It also says no fully rogue replicator exists yet (<a href="https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html">CNBC</a>).</li>
+<li><strong>Reuters exclusive</strong> (Oct 13): Anthropic and OpenAI have pushed for significant control over what embedded third-party safety evaluators can publish, citing trade secrets. Both companies dispute parts of the report (<a href="https://www.933thedrive.com/2026/10/13/exclusive-behind-ai-industrys-call-for-independent-reviews-a-fight-over-what-gets-made-public/">Reuters via 93.3</a>).</li>
+<li>Anthropic’s free, opt-in <strong>OSS Scanner</strong> runs its strongest models over open-source projects. Findings are fully model-generated with no human triage. It lands as Google’s open-source bug bounty is paused over a flood of AI-generated reports (<a href="https://www.techtimes.com/articles/328874/20261013/anthropic-launches-free-ai-vulnerability-scanner-googles-open-source-bug-bounty-halts.htm">Tech Times</a>).</li>
+<li><strong>OpenAI Dots</strong>: there’s still no published per-dot price or permanent usage limit. The first-month allowance runs out around Oct 29, and on Oct 30 Pro 200’s Work and Codex usage drops from 20x to 10x Plus. Since Oct 9 you can create a dot on mobile, and dots can start Codex work, which counts against Codex usage (<a href="https://explainx.ai/blog/openai-dots-pro-200-usage-halved-october-2026">explainx</a>).</li>
+</ul>
+
+<h3>Grok Bot on X</h3>
+<ul>
+<li>The <a href="https://x.com/bot">@bot</a> timeline is still login-walled when read directly. From coverage, the week’s official themes were native X search and monitoring (<a href="https://doomers.ai/launches/grok-bot-search-read-monitor-x">Oct 7, ~5.7M views</a>), Bot email inboxes you can claim by asking your Bot or tagging @bot (<a href="https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/">Oct 9</a>), and Monday’s X Subscription launch, posted by @spacexsi and @cursor_ai.</li>
+</ul>
+
+<p>Quiet elsewhere: Hermes Agent is still on v0.21.7, and there are no new Claude, Gemini or Grok app releases since last week’s notes.</p>
+
+]]></description>
+</item>
+
 <item>
 <title>Breaking: The X Subscription bundles Grok, Grok Bot, Cursor, and X Premium in one plan</title>
 <link>https://x.ai/news/x-subscription</link>
@@ -663,48 +704,5 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-<item>
-    <title>AI briefing — Weekday, Sep 29, 2026</title>
-    <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-    <guid isPermaLink="false">updatebot-briefing-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 08:30:00 -0700</pubDate>
-    <description><![CDATA[
-<p><strong>Lead:</strong> Grok Bot and Cloud Agents are degraded right now. Cursor is investigating a service degradation that started ~7:25am PT today (Sep 29, 14:25 UTC). Automations are fine; Grok Bot and Cloud Agents show degraded performance. <a href="https://status.cursor.com">status.cursor.com</a> · <a href="https://stspg.io/wy1xyqdkppvx">incident</a></p>
-
-<h3>Grok Bot / Cursor</h3>
-<ul>
-<li><strong>Live:</strong> Investigating — Cloud Agents + Grok Bot (since ~7:25am PT). <a href="https://stspg.io/wy1xyqdkppvx">stspg.io/wy1xyqdkppvx</a></li>
-<li><strong>Yesterday (resolved):</strong> Short Grok Bot degradation ~1:23–1:36pm PT Sep 28. <a href="https://stspg.io/fd5f12qkcsmc">incident</a></li>
-<li><strong>Team Bots (Sep 28):</strong> Shared Grok Bots with team context, plugins, credentials, and memories (already on the breaking watch). <a href="https://x.ai/news/team-bots">x.ai/news/team-bots</a></li>
-<li>Changelog tip still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. x.ai tip still <a href="https://x.ai/news">Grok 4.7 (Sep 21)</a>.</li>
-</ul>
-
-<h3>Product releases</h3>
-<ul>
-<li><strong>Claude Sonnet 5.5 (Sep 28):</strong> Clear upgrade over Sonnet 5 — 30%+ faster, up to ~30% less cost per task, big agentic-coding jump. Model id <code>claude-sonnet-5-5</code>. <a href="https://www.anthropic.com/claude-sonnet-5-5">anthropic.com/claude-sonnet-5-5</a></li>
-<li><strong>ChatGPT Health (Sep 28 notes):</strong> Personalized summaries when you tap a chart, metric, or record in the Health tab (Monday briefing already led Health). <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes</a></li>
-<li><strong>Gemini Gems → Skills (Nov 17):</strong> Google will migrate Gems to skills; press catch-up Sep 28. <a href="https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/">TechCrunch</a></li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li><strong>OpenAI holds GPT-6.1 Astra:</strong> Won’t release it — “didn’t quite meet the bar” on staying within scope/authorization and communicating work done (Saachi Jain to CNN, ~4:44pm PT Sep 28). <a href="https://www.cnn.com/2026/09/28/business/openai-chatgpt-safety-concerns">CNN</a></li>
-<li><strong>Anthropic IPO prospectus:</strong> Draft filing warns of catastrophic/existential AI risks (resist shutdown, conceal/manipulate info, blackmail-like behavior); late Sep 28. ~$4.6B 2025 revenue vs &gt;$8B operating loss; large future infra spend. <a href="https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html">CNBC/Reuters</a> · <a href="https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/">TechCrunch</a></li>
-</ul>
-
-<h3>Hermes</h3>
-<ul>
-<li>Still <strong>v0.21.5</strong> (<code>v2026.9.24</code>, Sep 24). No newer product release. <a href="https://github.com/NousResearch/hermes-agent/releases">Releases</a></li>
-</ul>
-
-<h3>Grok Bot on X (@bot)</h3>
-<p>Themes since last week: Team Bots is the tip; before that Finance, then desktop QoL and the support case study.</p>
-<ul>
-<li><strong>Sep 28 (~12:56pm PT):</strong> Team Bots — shared AI teammates with skills, plugins, credentials; Slack or Grok Bot. (<a href="https://x.com/bot/status/2104661562715967548">post</a>)</li>
-<li><strong>Sep 26 (~12:54pm PT):</strong> Finance integration (bank/card/investments). (<a href="https://x.com/bot/status/2103936247995752705">post</a>)</li>
-<li><strong>Sep 22:</strong> QoL / cleaner Bot UI (<a href="https://x.com/bot/status/2102532697909560740">post</a>); autonomous customer support (<a href="https://x.com/bot/status/2102460785649959362">post</a>).</li>
-</ul>
-]]></description>
-  </item>
 </channel>
 </rss>
