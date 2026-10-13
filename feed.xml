@@ -7,8 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 17:53:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 19:33:31 -0700</lastBuildDate>
     
+<item>
+<title>Breaking: The X Subscription bundles Grok, Grok Bot, Cursor, and X Premium in one plan</title>
+<link>https://x.ai/news/x-subscription</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-12-x-subscription-grok-bot-cursor-bundle</guid>
+<pubDate>Mon, 12 Oct 2026 19:33:31 -0700</pubDate>
+<description>SpaceXSI announced The X Subscription on Mon Oct 12, 2026: one plan bundling Grok, Grok Bot, Cursor, and X Premium, with a shared pool of Grok-model usage across the Grok apps, the Grok tab on X, and Cursor. Tiers: Free $0, Plus $8/mo, Premium $30/mo (SuperGrok + Cursor Pro + X Premium+, previously $90 combined), Super $100/mo (15x Plus usage), Ultra $200/mo (50x Plus usage). Each plan includes at least 2x the coding usage with Grok models vs the comparable Cursor plan; third-party models in Cursor stay on Premium and up, billed at API list prices via top-ups. Available to new customers today, rolling out globally over the next few days; existing SuperGrok, Cursor, and X Premium subscribers can switch from billing settings with a prorated refund, or keep their plan. Teams get Premium/Super/Ultra at individual per-seat prices with 3x more coding usage than old Cursor Teams. Separately, Cursor's outage update at ~7:23pm PT says Grok Bot and other services have recovered; Cloud Agents are still degraded.</description>
+</item>
 <item>
 <title>Cursor major outage: Grok Bot, IDE, Cloud Agents (monitoring)</title>
 <link>https://status.cursor.com/incidents/8nlyd6t95xjm</link>
@@ -699,19 +706,5 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
   </item>
-<item>
-      <title>Team Bots: shared Grok Bots that learn from your team (SpaceXAI)</title>
-      <link>https://x.ai/news/team-bots</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-28-team-bots</guid>
-      <pubDate>Mon, 28 Sep 2026 13:38:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>SpaceXAI launched Team Bots</strong> — Grok Bots you configure with shared context, plugins, credentials, and memories, then share so a whole team works from the same expertise while keeping each person’s chats private.</p>
-<ul>
-<li>Slack handles per Team Bot for channel collaboration</li>
-<li>Internal examples: account briefings, EPD coordination with Cursor Cloud Agents, marketing brand review, warehouse Data Bot</li>
-<li>Primary: <a href="https://x.ai/news/team-bots">x.ai/news/team-bots</a></li>
-</ul>
-]]></description>
-    </item>
-  </channel>
+</channel>
 </rss>
