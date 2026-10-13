@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Update Bot AI Briefing</title>
+    <title>AI News (Update Bot)</title>
     <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-    <description>Weekday morning AI briefing: Grok Bot, ChatGPT/Grok/Claude/Gemini releases, major AI news, Hermes, and GrokBot-like competitors.</description>
+    <description>High-signal AI news: frontier releases and the biggest stories only.</description>
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
