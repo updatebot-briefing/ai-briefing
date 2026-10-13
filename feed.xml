@@ -7,15 +7,24 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 17:54:33 -0700</lastBuildDate>
-    <item>
+    <lastBuildDate>Mon, 12 Oct 2026 17:53:00 -0700</lastBuildDate>
+    
+<item>
+<title>Cursor major outage: Grok Bot, IDE, Cloud Agents (monitoring)</title>
+<link>https://status.cursor.com/incidents/8nlyd6t95xjm</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-12-cursor-major-outage-grok-bot</guid>
+<pubDate>Mon, 12 Oct 2026 17:53:00 -0700</pubDate>
+<description>Cursor reported a widespread critical incident starting ~5:22pm PT Mon Oct 12, 2026 (00:22 UTC Oct 13), with Grok Bot, IDE, Cloud Agents, Automations, Review Agents, CLI, and Origin listed as major outage. Initial update: errors/failed requests across IDE, Cloud Agents, Automations, Grok Bot, and Origin. At ~5:53pm PT a fix was implemented and status moved to monitoring; intermittent errors may continue. Status: https://status.cursor.com/ — incident: https://status.cursor.com/incidents/8nlyd6t95xjm</description>
+</item>
+
+<item>
       <title>Cursor major outage: Grok Bot, IDE, Cloud Agents (and more)</title>
       <link>https://status.cursor.com/incidents/8nlyd6t95xjm</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-12-cursor-grok-bot-outage</guid>
       <pubDate>Mon, 12 Oct 2026 17:53:00 -0700</pubDate>
       <description><![CDATA[Cursor status page reports a critical widespread outage starting ~5:22pm PT Mon Oct 12, 2026 (incident Investigating service degradation — Grok Bot, IDE, and Cloud Agents). Affected with major_outage: Grok Bot, IDE, Cloud Agents, Automations, Review Agents, CLI, Origin (cursor.com still Operational). At ~5:53pm PT status moved to Monitoring: a fix has been implemented and services are recovering; intermittent errors may continue. Primary: https://status.cursor.com/ and https://status.cursor.com/incidents/8nlyd6t95xjm (shortlink https://stspg.io/wb9c5pzxfnz6).]]></description>
     </item>
-    <item>
+<item>
       <title>Breaking: Cursor major outage hits Grok Bot, IDE, and Cloud Agents</title>
       <link>https://status.cursor.com/incidents/8nlyd6t95xjm</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-12-cursor-outage</guid>
@@ -704,20 +713,5 @@ Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 </ul>
 ]]></description>
     </item>
-<item>
-      <title>Breaking: Anthropic ships Claude Sonnet 5.5 — faster / cheaper Sonnet with agentic coding jump</title>
-      <link>https://www.anthropic.com/claude-sonnet-5-5</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-09-28-claude-sonnet-5-5</guid>
-      <pubDate>Mon, 28 Sep 2026 11:42:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Anthropic (~11:40am PT today):</strong> <a href="https://www.anthropic.com/claude-sonnet-5-5">Claude Sonnet 5.5</a> — second model in the Claude 5.5 family. Official post: clear upgrade over Sonnet 5; 30%+ faster output; same list price ($2 / $10 per MTok) but up to ~30% less cost per task; big jump on agentic coding (Terminal-Bench 4.0 70.6% vs Sonnet 5’s 10.3%); near Opus 5.5 on GDPval-AA / computer use. Available now on Claude Platform, AWS, GCP, and Azure as <code>claude-sonnet-5-5</code>. First Sonnet with cyber safeguards + distillation/reasoning-extraction protections like the frontier tier. Haiku 5.5 still “coming weeks.”</p>
-<p>Missed the 8:28am PT weekday briefing (noticed on this watch). Primary: <a href="https://www.anthropic.com/claude-sonnet-5-5">anthropic.com/claude-sonnet-5-5</a> · <a href="https://docs.anthropic.com/en/release-notes/api">API release notes Sep 28</a>.</p>
-]]></description>
-      <content:encoded><![CDATA[
-<p><strong>Anthropic (~11:40am PT today):</strong> <a href="https://www.anthropic.com/claude-sonnet-5-5">Claude Sonnet 5.5</a> — second model in the Claude 5.5 family. Official post: clear upgrade over Sonnet 5; 30%+ faster output; same list price ($2 / $10 per MTok) but up to ~30% less cost per task; big jump on agentic coding (Terminal-Bench 4.0 70.6% vs Sonnet 5’s 10.3%); near Opus 5.5 on GDPval-AA / computer use. Available now on Claude Platform, AWS, GCP, and Azure as <code>claude-sonnet-5-5</code>. First Sonnet with cyber safeguards + distillation/reasoning-extraction protections like the frontier tier. Haiku 5.5 still “coming weeks.”</p>
-<p>Missed the 8:28am PT weekday briefing (noticed on this watch). Primary: <a href="https://www.anthropic.com/claude-sonnet-5-5">anthropic.com/claude-sonnet-5-5</a> · <a href="https://docs.anthropic.com/en/release-notes/api">API release notes Sep 28</a>.</p>
-]]></content:encoded>
-    </item>
-
-</channel>
+  </channel>
 </rss>
