@@ -7,7 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 08:23:17 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:34:00 -0700</lastBuildDate>
+    <item>
+    <title>Breaking: Grok Voice 3.0 ranks #1 on Artificial Analysis Speech-to-Speech Index</title>
+    <link>https://x.ai/news/grok-voice-3</link>
+    <guid isPermaLink="false">updatebot-breaking-2026-10-14-grok-voice-3-0</guid>
+    <pubDate>Wed, 14 Oct 2026 10:34:00 -0700</pubDate>
+    <description><![CDATA[
+<p>SpaceXSI announced <strong>Grok Voice 3.0</strong>, calling it the world’s most intelligent speech-to-speech model. In Artificial Analysis’s independent testing it ranks #1 on the Speech-to-Speech Index at 86.9, ahead of Grok Voice 2.0, GPT-Live-1 (Astra), and Gemini 3.8 Live, and scores 97% on Full Duplex Bench.</p>
+<p>It powers millions of conversations a day across Tesla and SpaceX, including Grok Bot’s voice mode, and Starlink call centers use it for about 20,000 customer calls daily. Available now in the Voice Agent API at <strong>$0.08/min</strong> — the same price as Grok Voice 2.0 — with <code>grok-voice-latest</code> already switched over.</p>
+<p>Primary source: <a href="https://x.ai/news/grok-voice-3">x.ai/news/grok-voice-3</a>.</p>
+]]></description>
+</item>
+
     
 <item>
     <title>Breaking: Grok Bot v0.70.2 ships Bot email addresses, built-in X search, in-chat app cards and X Money payments</title>
