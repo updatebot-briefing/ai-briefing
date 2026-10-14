@@ -7,33 +7,26 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 14:10:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:50:49 -0700</lastBuildDate>
     <item>
-      <title>Top 10 AI use cases on X — Oct 14, 2026</title>
+      <title>Top 10 AI use cases on X, Oct 14 2026</title>
+      <link>https://x.com/mrfundman/status/2110198216218067183</link>
       <guid isPermaLink="false">updatebot-xusecases-2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
-      <description>Top 10 AI use cases on X (last ~24h, ranked by engagement)
-
-1. **Grok Bot builds its own email UI** — Wanted to read the emails his Grok Bot receives, so he asked Grok Bot to build a clickable email interface for its inbox. @mrfundman · 711 likes, 57 reposts, 82 replies, 88 bookmarks, ~164K views · https://x.com/mrfundman/status/2110198216218067183
-
-2. **100% AI-generated designs that hit 50K views** — Shared designs that got over 50K views in ~2 days, all AI-generated, plus a thread on how they make AI designs that don&#x27;t look &quot;vibe-coded.&quot; @pitus_ · 624 likes, 28 reposts, 19 replies, 1,143 bookmarks, ~36K views · https://x.com/pitus_/status/2110059026818212244
-
-3. **Agent handles a complex overseas tax filing** — Grok Bot gathered documents from his emails and bank accounts, worked out the requirements and filled out the forms; he just reviewed and submitted, saving over $1,000. @Texas_Twins_Dad · 474 likes, 38 reposts, 43 replies, 101 bookmarks, ~1.14M views · https://x.com/Texas_Twins_Dad/status/2110180938948747730
-
-4. **Running a business on one agent stack** — Says Grok Bot replaced Dots and Muse for running his business, with Whop, Vercel/GitHub, Gmail draft-only inbox bot, Notion CRM, X plugin, Cursor cloud agents and a chief-of-staff morning report (~$165/mo). @Av1dlive · 180 likes, 21 reposts, 56 replies, 223 bookmarks, ~208K views · https://x.com/Av1dlive/status/2110329712715182092
-
-5. **Rebuilding a trading terminal via reverse engineering** — Used the open-source REA MCP with Grok Bot to analyze software he owns and rebuild a $36K/year trading terminal as his own 24/7 trading system, backtested with real fees. @eng_khairallah1 · 47 likes, 11 reposts, 20 replies, 60 bookmarks, ~5K views · https://x.com/eng_khairallah1/status/2110103186640109840
-
-6. **Agent managing other agents** — No longer talks to his OpenClaw agents directly; his Grok Bot, &quot;Planchet,&quot; manages them for him and does it better. @p_ferragu · 24 likes, 1 repost, 4 replies, ~4.2K views · https://x.com/p_ferragu/status/2110090595687711118
-
-7. **Cleaning up a hacked WordPress site** — Grok Bot found the backdoor, removed malware, restored core files with backups, updated plugins, checked admin accounts and wrote support emails, asking approval at each step; site was back online same day. @testerlabor · 22 likes, 4 reposts, 1 reply, ~1.1K views · https://x.com/testerlabor/status/2110303382468522492
-
-8. **Receipts to the accountant at 12:01 a.m.** — Used AI to send his accountant all receipts one minute after the new quarter began; the accountant asked him to teach other clients (tool not named). @SamuelBeek · 16 likes, 4 replies, ~1.3K views · https://x.com/SamuelBeek/status/2110366765947437077
-
-9. **Household errands with Muse** — Muse merged his and his wife&#x27;s car insurance onto one carrier (saving $168/month), processed a 7-item clothing return, filled out a PT check-in questionnaire and tracked a two-week overseas wedding trip. @GregProctor · 10 likes, 5 replies, ~825 views · https://x.com/GregProctor/status/2110153347835498882
-
-10. **Agent finds a root exploit chain** — While hardening his next app&#x27;s sandbox, an AI agent found a two-stage exploit chain that could reach root. @_overment · 10 likes, 3 replies, ~650 views · https://x.com/_overment/status/2110329279175356813
-</description>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HUjuGExWkAASV5F.jpg" alt="Screenshot from @mrfundman's post: the email UI Grok Bot built" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement.</p>
+<ol>
+<li><p><strong>Grok Bot builds its own email UI</strong></p><p>Wanted to read the emails his Grok Bot receives, so he asked Grok Bot to build a clickable email interface for its inbox.</p><p><a href="https://x.com/mrfundman/status/2110198216218067183">@mrfundman on X</a> · 711 likes · 57 reposts · 82 replies · 88 bookmarks · ~164K views</p></li>
+<li><p><strong>100% AI-generated designs that hit 50K views</strong></p><p>Shared designs that got over 50K views in about 2 days, all AI-generated, plus a thread on how they make AI designs that don't look "vibe-coded."</p><p><a href="https://x.com/pitus_/status/2110059026818212244">@pitus_ on X</a> · 624 likes · 28 reposts · 19 replies · 1,143 bookmarks · ~36K views</p></li>
+<li><p><strong>Agent handles a complex overseas tax filing</strong></p><p>Grok Bot gathered documents from his emails and bank accounts, worked out the requirements and filled out the forms. He just reviewed and submitted, saving over $1,000.</p><p><a href="https://x.com/Texas_Twins_Dad/status/2110180938948747730">@Texas_Twins_Dad on X</a> · 474 likes · 38 reposts · 43 replies · 101 bookmarks · ~1.14M views</p></li>
+<li><p><strong>Running a business on one agent stack</strong></p><p>Says Grok Bot replaced Dots and Muse for running his business, with Whop, Vercel/GitHub, a draft-only Gmail inbox bot, Notion CRM, an X plugin, Cursor cloud agents and a chief-of-staff morning report. Total cost is about $165/mo.</p><p><a href="https://x.com/Av1dlive/status/2110329712715182092">@Av1dlive on X</a> · 180 likes · 21 reposts · 56 replies · 223 bookmarks · ~208K views</p></li>
+<li><p><strong>Rebuilding a trading terminal via reverse engineering</strong></p><p>Used the open-source REA MCP with Grok Bot to analyze software he owns and rebuild a $36K/year trading terminal as his own 24/7 trading system, backtested with real fees.</p><p><a href="https://x.com/eng_khairallah1/status/2110103186640109840">@eng_khairallah1 on X</a> · 47 likes · 11 reposts · 20 replies · 60 bookmarks · ~5K views</p></li>
+<li><p><strong>Agent managing other agents</strong></p><p>He no longer talks to his OpenClaw agents directly. His Grok Bot, "Planchet," manages them for him and does it better.</p><p><a href="https://x.com/p_ferragu/status/2110090595687711118">@p_ferragu on X</a> · 24 likes · 1 repost · 4 replies · ~4.2K views</p></li>
+<li><p><strong>Cleaning up a hacked WordPress site</strong></p><p>Grok Bot found the backdoor, removed malware, restored core files from backups, updated plugins, checked admin accounts and wrote support emails, asking approval at each step. The site was back online the same day.</p><p><a href="https://x.com/testerlabor/status/2110303382468522492">@testerlabor on X</a> · 22 likes · 4 reposts · 1 reply · ~1.1K views</p></li>
+<li><p><strong>Receipts to the accountant at 12:01 a.m.</strong></p><p>Used AI to send his accountant all receipts one minute after the new quarter began, and the accountant asked him to teach other clients (tool not named).</p><p><a href="https://x.com/SamuelBeek/status/2110366765947437077">@SamuelBeek on X</a> · 16 likes · 4 replies · ~1.3K views</p></li>
+<li><p><strong>Household errands with Muse</strong></p><p>Muse merged his and his wife's car insurance onto one carrier (saving $168/month), processed a 7-item clothing return, filled out a PT check-in questionnaire and tracked a two-week overseas wedding trip.</p><p><a href="https://x.com/GregProctor/status/2110153347835498882">@GregProctor on X</a> · 10 likes · 5 replies · ~825 views</p></li>
+<li><p><strong>Agent finds a root exploit chain</strong></p><p>While he was hardening his next app's sandbox, an AI agent found a two-stage exploit chain that could reach root.</p><p><a href="https://x.com/_overment/status/2110329279175356813">@_overment on X</a> · 10 likes · 3 replies · ~650 views</p></li>
+</ol>]]></description>
     </item>
     <item>
       <title>Top AI Use Cases on X feed started</title>
