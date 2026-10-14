@@ -7,7 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Oct 2026 14:10:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:34:00 -0700</lastBuildDate>
+    <item>
+      <title>Breaking: Hermes Agent v0.22.0 — The Threshold Release</title>
+      <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-14-hermes-v0-22-0</guid>
+      <pubDate>Wed, 14 Oct 2026 10:34:00 -0700</pubDate>
+      <description><![CDATA[
+<p>Nous Research shipped <strong>Hermes Agent v0.22.0</strong> (The Threshold Release), the largest Hermes window yet — about 2.5× the v0.21.0 cycle, rolling up v0.21.1–v0.21.7.</p>
+<p>Highlights include guided first-launch setup on a free trial model, Connectors so Hermes can act in hosted apps like Linear and Notion without needing a Nous account to start, one-click local models via llama.cpp, tested SemVer stable release channels, signed desktop packages (including the Microsoft Store), and a 600-plugin catalog. Also in the wave: Claude 5.5 / GPT-6 model support, password-manager browser sign-in, and Bot Screen takeover.</p>
+<p>Primary source: <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0">GitHub release v0.22.0</a>.</p>
+]]></description>
+    </item>
+
     <item>
       <title>Personal AI Agents feed started</title>
       <link>https://updatebot-briefing.github.io/ai-briefing/agents.xml</link>
