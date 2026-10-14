@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 10:34:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:51:37 -0700</lastBuildDate>
+    <item>
+      <title>Grok Bot degradation: some users can't reach their computers (investigating since 8:46am PT)</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-14-grok-bot-computers-degradation</guid>
+      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
+      <description><![CDATA[<p>Since 8:46am PT (15:46 UTC) on Oct 14, the <a href="https://status.cursor.com">Cursor status page</a> has listed Grok Bot as Degraded Performance, saying some users can't reach their computers. As of about 11am PT the incident was still Investigating, with no fix posted. All other Cursor components were operational.</p><p>This follows yesterday's resolved incident in which many webhook, Slack, git, email and Linear routines didn't run between 10:52am and 1:29pm PT; those events won't be retried automatically. The latest Grok Bot release is still <a href="https://x.ai/changelog/bot">v0.70.2</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI Dots Help adds troubleshooting answers; pricing unchanged, post-launch usage terms still unpublished</title>
+      <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-14-openai-dots-help-troubleshooting-pricing</guid>
+      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
+      <description><![CDATA[<p>OpenAI updated <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started with your dot</a> with troubleshooting answers. Each task has its own conversation, so give corrections in the affected task. Changing the selected computer doesn't move existing tasks. Read access to an app doesn't include write access. The cloud browser has its own sign-ins, and only the desktop app can grant local access.</p><p>Pricing is unchanged: the first dot is included at no extra cost with Pro 100/200/500 ($100/$200/$500 a month) or Business Premium. Chatting with a dot doesn't count toward limits, but Work and Codex tasks it starts do. The "extended limits for the first month" window and its follow-on terms are still unpublished and are expected around Oct 29 (<a href="https://gptdot.net/updates/">gptdot.net tracker</a>). GPT-5.5 retires from ChatGPT, Work and Codex today, but dots run on GPT-6 Astra.</p>]]></description>
+    </item>
+    <item>
+      <title>Meta's Muse agent to move to Muse Wonder, subscribers first</title>
+      <link>https://research.meta.ai/blog/muse-wonder</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-14-meta-muse-wonder-coming-to-muse</guid>
+      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
+      <description><![CDATA[<p>Meta says its new Muse Wonder model "will soon power experiences in Muse," rolling out to subscribers first. It will also handle artifact generation and other tasks that need more intelligence (<a href="https://research.meta.ai/blog/muse-wonder">Meta</a>).</p><p>The models add Active Memory, which carries context across conversations, and Active Focus, which keeps long tasks going and checks in before important actions. Muse has run on Muse Spark since its Sept. 8 U.S. launch (<a href="https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/">SiliconANGLE</a>). For developers, Muse Wonder is on the Meta Model API at $4/$20 per million tokens (<a href="https://dev.meta.ai/resources/blog/build-with-muse-wonder">Meta dev blog</a>).</p>]]></description>
+    </item>
     <item>
       <title>Breaking: Hermes Agent v0.22.0 — The Threshold Release</title>
       <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0</link>
