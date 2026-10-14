@@ -5,6 +5,48 @@
     <link>https://updatebot-briefing.github.io/ai-briefing/humanoid-robots.xml</link>
     <description>Daily humanoid robotics research, delivered by Gemini.</description>
     <item>
+      <title>Tesla ramps Optimus production at Fremont to hundreds of units per week</title>
+      <link>https://www.techrepublic.com/article/news-tesla-optimus-robot-production-2027-sales-timeline/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-14-tesla-optimus-fremont-ramp</guid>
+      <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
+      <description>Tesla has substantially accelerated production of Optimus at its Fremont, California facility, scaling from several dozen units weekly in Q2 2026 to hundreds of units weekly as of late Q3/early Q4. Source: TechRepublic (https://www.techrepublic.com/article/news-tesla-optimus-robot-production-2027-sales-timeline/)</description>
+    </item>
+    <item>
+      <title>Musk targets late 2027 for external Optimus sales, sub-$20,000 long-term cost</title>
+      <link>https://www.techrepublic.com/article/news-tesla-optimus-robot-production-2027-sales-timeline/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-14-tesla-optimus-2027-sales-timeline</guid>
+      <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
+      <description>Elon Musk confirmed Tesla&#x27;s primary target for external customer sales is scheduled for late 2027, prioritizing internal factory deployment first. The long-term target cost remains sub-$20,000 at high-volume scale (1M units/year). Source: TechRepublic (https://www.techrepublic.com/article/news-tesla-optimus-robot-production-2027-sales-timeline/)</description>
+    </item>
+    <item>
+      <title>Agility Robotics clears SEC step toward becoming first pure-play public humanoid company</title>
+      <link>https://theaiinsider.tech/2026/10/14/agility-robotics-clears-sec-step-on-path-to-becoming-publicly-listed-humanoid-robot-company/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-14-agility-robotics-sec-public-listing</guid>
+      <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
+      <description>Agility Robotics, creator of the bipedal warehouse humanoid Digit, officially cleared a key SEC procedural step paving the way for its public listing. This positions Agility to become the market&#x27;s first pure-play publicly traded humanoid robotics company. Sources: The AI Insider (https://theaiinsider.tech/2026/10/14/agility-robotics-clears-sec-step-on-path-to-becoming-publicly-listed-humanoid-robot-company/) | The Motley Fool (https://www.fool.com/investing/2026/10/13/the-first-pure-play-humanoid-robot-stock-is-about/)</description>
+    </item>
+    <item>
+      <title>Yaskawa Electric targets 2030 commercial humanoid robot launch</title>
+      <link>https://www.digitimes.com/news/a20261014PD202/yaskawa-forecast-2030-launch-demand.html</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-14-yaskawa-2030-humanoid-roadmap</guid>
+      <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
+      <description>Industrial automation titan Yaskawa Electric announced a commercial humanoid robot launch target of 2030, citing accelerating embodied AI capabilities and surging factory demand for flexible humanoid labor. Source: Digitimes (https://www.digitimes.com/news/a20261014PD202/yaskawa-forecast-2030-launch-demand.html)</description>
+    </item>
+    <item>
+      <title>Cologne police seize teleoperated humanoid robot after alleged harassment incident</title>
+      <link>https://www.instagram.com/p/Deefk8KI0-y/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-14-cologne-police-seize-humanoid</guid>
+      <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
+      <description>Police in Cologne, Germany seized a 1.2-meter humanoid robot operating outside a commercial district following an alleged harassment incident. Authorities launched an investigation into unauthorized remote teleoperation in pedestrian zones, highlighting emerging legal liability and urban zoning questions for consumer robotics. Source: Cologne Police Report Coverage (https://www.instagram.com/p/Deefk8KI0-y/)</description>
+    </item>
+    <item>
+      <title>Figure AI retires Figure 02 fleet as next-gen platforms ramp</title>
+      <link>https://www.figure.ai/news/f-02-decommission</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-14-figure-ai-retires-f02</guid>
+      <pubDate>Wed, 14 Oct 2026 10:50:49 -0700</pubDate>
+      <description>Figure AI has completed the operational retirement of its Figure 02 fleet, clearing manufacturing and engineering capacity to accelerate rollout and real-world testing of its next-generation household and industrial platforms. Source: Figure AI (https://www.figure.ai/news/f-02-decommission)</description>
+    </item>
+    <item>
       <title>Humanoid Robots feed started</title>
       <guid isPermaLink="false">updatebot-humanoid-start-2026-10-13</guid>
       <pubDate>Tue, 13 Oct 2026 15:50:00 -0700</pubDate>
