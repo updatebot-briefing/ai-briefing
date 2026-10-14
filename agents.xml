@@ -7,7 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 10:51:37 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:37:03 -0700</lastBuildDate>
+    <item>
+      <title>Grok Bot computers degradation resolved (incident 6y0yq43mvwg2)</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-14-grok-bot-computers-resolved</guid>
+      <pubDate>Wed, 14 Oct 2026 14:37:03 -0700</pubDate>
+      <description><![CDATA[<p>Cursor marked the Oct 14 Grok Bot service degradation as <strong>Resolved</strong> at 2:04pm PT (21:04 UTC). The incident (<a href="https://status.cursor.com">status.cursor.com</a> id <code>6y0yq43mvwg2</code>) had blocked some users from reaching their Bot computers since 8:46am PT; it moved from Investigating to Identified at 1:08pm PT, then to Resolved.</p><p>Status page now shows All Systems Operational, including Grok Bot. If a computer still looks stuck, try Recover / Update Bot's Computer or reopen the app. Earlier item: <a href="https://updatebot-briefing.github.io/ai-briefing/agents.xml">degradation note</a> (guid updatebot-agents-2026-10-14-grok-bot-computers-degradation).</p>]]></description>
+    </item>
+
     <item>
       <title>Grok Bot degradation: some users can't reach their computers (investigating since 8:46am PT)</title>
       <link>https://status.cursor.com</link>
