@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 08:15:52 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:37:00 -0700</lastBuildDate>
+    <item>
+      <title>Meta releases Muse Spark Open, most capable US open-weight model to date</title>
+      <link>https://research.meta.ai/blog/muse-spark-open</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-15-muse-spark-open</guid>
+      <pubDate>Thu, 15 Oct 2026 11:37:00 -0700</pubDate>
+      <enclosure url="https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp" alt=""/><p>Meta released <a href="https://research.meta.ai/blog/muse-spark-open">Muse Spark Open</a> today, calling it the most capable US open-weight model to date. It is a natively multimodal mixture-of-experts model with 816B total parameters (42B active) and a 1M-token context window, built for coding and long-horizon agentic work.</p><p>Weights are available on Hugging Face and cloud model gardens under the Muse Model License with limited commercial terms, with day-one serving on Baseten, Fireworks, Groq, Modal, Nebius, OpenRouter and Together AI. Meta and Apple optimized it to run on paired M5 Ultra Mac Studios via MLX—the first model in its class Meta says can run that way on a desktop.</p><ul><li>Inputs: text, images, audio and video; inference engines include SGLang, vLLM, TensorRT-LLM, Transformers, MLX, llama.cpp and Unsloth.</li><li>Meta says it met Superintelligence Scaling Framework release thresholds; a fuller evaluation report is forthcoming.</li></ul>]]></description>
+    </item>
+
     <item>
       <title>Google makes Gemini 4 Argon globally available</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
