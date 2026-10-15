@@ -7,8 +7,29 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 10:50:49 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:53:42 -0700</lastBuildDate>
     <item>
+      <title>Top 10 AI use cases on X, Oct 15 2026</title>
+      <link>https://x.com/wmorrill3/status/2110505932174045466</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 08:53:42 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HUnLkBlawAAlc9h.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HUnLkBlawAAlc9h.jpg" alt="Screenshot from @wmorrill3: Grok Bot phishing email security review" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement.</p>
+<ol>
+<li><p><strong>Grok Bot catches a phishing email that passed every check</strong></p><p>An email from noreply@x.ai landed with SPF, DKIM, DMARC and a blue check. Grok Bot found a hidden phishing link (raw HTML in an xAI team name), explained why the checks passed, wrote a report to xAI with a proposed fix, and he later set a routine that keeps flagging likely phishing.</p><p><a href="https://x.com/wmorrill3/status/2110505932174045466">@wmorrill3 on X</a> · 2,629 likes · 120 reposts · 121 replies · 359 bookmarks · ~688K views</p></li>
+<li><p><strong>Bot books a flight from a credit-card photo</strong></p><p>He sent Grok Bot a photo of his credit card; it completed a confusing airline booking end to end. Elon replied that if Grok Bot errs on a purchase or leaks a card, SpaceX will make the customer whole.</p><p><a href="https://x.com/XFreeze/status/2110606379249791280">@XFreeze on X</a> · 590 likes · 52 reposts · 68 replies · 76 bookmarks · ~924K views · <a href="https://x.com/elonmusk/status/2110610960474079445">Elon guarantee</a></p></li>
+<li><p><strong>Amazon blocks Grok Bot from ordering</strong></p><p>When he tried to have Grok Bot order on Amazon, the site blocked it as an &quot;unauthorized AI agent&quot; under Amazon&apos;s Conditions of Use — bots can no longer access Amazon for orders.</p><p><a href="https://x.com/niccruzpatane/status/2110571616384213156">@niccruzpatane on X</a> · 352 likes · 29 reposts · 98 replies · 55 bookmarks · ~14M views</p></li>
+<li><p><strong>Bot redacts private details before posting</strong></p><p>Before sharing a flight-booking screenshot on X, he asked Grok Bot to hide sensitive details — a quick privacy pass on personal info.</p><p><a href="https://x.com/XFreeze/status/2110621037671174450">@XFreeze on X</a> · 293 likes · 38 reposts · 24 replies · 65 bookmarks · ~14K views</p></li>
+<li><p><strong>Tesla FSD + Grok Bot reorders Starbucks en route</strong></p><p>His Tesla on FSD remembers the usual Starbucks parking spot and schedule; he starts FSD and reorders drinks on the way with Grok Bot integration.</p><p><a href="https://x.com/niccruzpatane/status/2110413526045237352">@niccruzpatane on X</a> · 265 likes · 32 reposts · 23 replies · 10 bookmarks · ~9K views</p></li>
+<li><p><strong>Two Grok agents ship eight PRs in two days</strong></p><p>Documented two Grok agents handling coding and review (with Codex): eight PRs merged in roughly two days, including a fix for a bug humans had missed.</p><p><a href="https://x.com/mika_systems/status/2110455342496985379">@mika_systems on X</a> · 98 likes · 18 reposts · 25 replies · 86 bookmarks · ~5.2K views</p></li>
+<li><p><strong>Physical e-ink display for the household agent</strong></p><p>Bought a Seeed reTerminal E1002 e-ink panel so his AI agent&apos;s to-do list and day plan sit in the living room where his wife can see them — no glow, no buzz.</p><p><a href="https://x.com/nicbstme/status/2110416059400585312">@nicbstme on X</a> · 101 likes · 1 repost · 13 replies · 89 bookmarks · ~6.8K views</p></li>
+<li><p><strong>AI owns the inbox; human does a weekly sweep</strong></p><p>He no longer reads email day to day — an agent filters and notifies, and he does an inbox-zero sweep once a week after ~99% is already cleaned.</p><p><a href="https://x.com/NickADobos/status/2110444173027623407">@NickADobos on X</a> · 82 likes · 3 reposts · 7 replies · 52 bookmarks · ~4.3K views</p></li>
+<li><p><strong>One bot plans an entire Texas trip by text</strong></p><p>Grok Bot &quot;Trippy&quot; booked the flight, Turo, restaurant, Texas Circuit Finals tickets in Waco, and Vrbo — all from texts.</p><p><a href="https://x.com/Teslaconomics/status/2110721195817509068">@Teslaconomics on X</a> · 45 likes · 7 reposts · 8 replies · 5 bookmarks · ~5.2K views</p></li>
+<li><p><strong>Grok Bot animates a T-Rex in Blender</strong></p><p>Asked a Grok Bot agent to bring a T-Rex to life; it built a Blender scene with a rigged model, eyes, lighting, two cameras, and adjustable stride/head-nod cycles.</p><p><a href="https://x.com/shiqway92/status/2110466825276285157">@shiqway92 on X</a> · 30 likes · 10 replies · 20 bookmarks · ~778 views</p></li>
+</ol>]]></description>
+    </item>
+<item>
       <title>Top 10 AI use cases on X, Oct 14 2026</title>
       <link>https://x.com/mrfundman/status/2110198216218067183</link>
       <guid isPermaLink="false">updatebot-xusecases-2026-10-14</guid>
