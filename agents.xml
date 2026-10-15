@@ -7,7 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 14 Oct 2026 14:37:03 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:41:27 -0700</lastBuildDate>
+    <item>
+      <title>Hermes Agent v0.22.2: corrective release after bad v0.22.1 build</title>
+      <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-15-hermes-v0-22-2</guid>
+      <pubDate>Thu, 15 Oct 2026 08:41:27 -0700</pubDate>
+      <enclosure url="https://opengraph.githubassets.com/80d33862c4a990e2752fdf2fc064d95590b299b0874fa119efe98d65024988ab/NousResearch/hermes-agent/releases/tag/v0.22.2" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://opengraph.githubassets.com/80d33862c4a990e2752fdf2fc064d95590b299b0874fa119efe98d65024988ab/NousResearch/hermes-agent/releases/tag/v0.22.2"/>
+<p>Nous Research shipped <strong>Hermes Agent v0.22.2</strong> today. Official notes say <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.1">v0.22.1</a> was built from the wrong commit: it shipped unreleased gateway work, and the Microsoft Store app could stick on &quot;Connecting.&quot; 0.22.2 is the release 0.22.1 was meant to be.</p>
+<p>Highlights: the gateway starts after a reboot again (supervised installs could refuse to start when Linux handed an early PID to an unrelated process), and long local-model turns survive better on laptops (streaming progress, stall timers skip sleep time, recovered local servers get another try). Known issue: sessions that ran under the 0.22.1 gateway can&#39;t be deleted in 0.22.2.</p>
+<p>Primary source: <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2">GitHub release v0.22.2</a>. Prior threshold release: <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0">v0.22.0</a>.</p>]]></description>
+    </item>
+
     <item>
       <title>Grok Bot computers degradation resolved (incident 6y0yq43mvwg2)</title>
       <link>https://status.cursor.com</link>
