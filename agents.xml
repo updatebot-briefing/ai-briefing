@@ -9,13 +9,13 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 16 Oct 2026 08:35:43 -0700</lastBuildDate>
     <item>
-      <title>Hermes Agent named to TIME's Best Inventions of 2026</title>
-      <link>https://time.com/collection/best-inventions/2026/</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-16-hermes-time-best-inventions</guid>
-      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
-      <enclosure url="https://static.time.com/v3/assets/bltea6093859af6183b/blt6392ecb9cc8dccbd/6ad00a9a954a055c006aaa29/SOCIAL_SHARE_IMAGE_INVENTIONS.jpg?branch=production" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://static.time.com/v3/assets/bltea6093859af6183b/blt6392ecb9cc8dccbd/6ad00a9a954a055c006aaa29/SOCIAL_SHARE_IMAGE_INVENTIONS.jpg?branch=production"/>
-<p>TIME put Nous Research's open-source <strong>Hermes Agent</strong> on its <a href="https://time.com/collection/best-inventions/2026/">Best Inventions of 2026</a> list, published Oct 15, calling it "an infinitely modifiable agent that grows with you."</p><p>The write-up highlights that Hermes runs on any local or cloud model, lets users restyle its interface and write their own skills, and can run terminal commands, edit files and schedule recurring work. Nous Research thanked TIME in an <a href="https://x.com/NousResearch/status/2110886131290259537">X post</a> with a screenshot of the listing (about 1,200 likes).</p><p>Coverage: <a href="https://runtimewire.com/article/nous-research-hermes-agent-time-best-inventions-2026">RuntimeWire</a>.</p>]]></description>
+      <title>Correction: Nous Research says Hermes Agent wasn't on TIME's Best Inventions list</title>
+      <link>https://x.com/NousResearch/status/2111153981825155420</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-16-correction-hermes-time</guid>
+      <pubDate>Fri, 16 Oct 2026 11:33:13 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg"/>
+<p>This replaces this morning's item saying Hermes Agent made TIME's Best Inventions of 2026. At 10:55am PT, Nous Research added an <a href="https://x.com/NousResearch/status/2111153981825155420">editor's note</a> to its earlier <a href="https://x.com/NousResearch/status/2110886131290259537">"Thank you @TIME" post</a>, saying the post was satire by its social intern and that Hermes was not selected for the list.</p><p>The original story rested only on that post's screenshot, which outlets such as RuntimeWire repeated without independent confirmation from <a href="https://time.com/collection/best-inventions/2026/">TIME's list</a>. Treat the TIME honor as not real unless TIME itself confirms it.</p>]]></description>
     </item>
     <item>
       <title>Hermes Agent gets an official Reverse Engineer Anything plugin</title>
