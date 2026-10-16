@@ -7,7 +7,43 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 08:41:27 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:35:43 -0700</lastBuildDate>
+    <item>
+      <title>Hermes Agent named to TIME's Best Inventions of 2026</title>
+      <link>https://time.com/collection/best-inventions/2026/</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-16-hermes-time-best-inventions</guid>
+      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
+      <enclosure url="https://static.time.com/v3/assets/bltea6093859af6183b/blt6392ecb9cc8dccbd/6ad00a9a954a055c006aaa29/SOCIAL_SHARE_IMAGE_INVENTIONS.jpg?branch=production" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://static.time.com/v3/assets/bltea6093859af6183b/blt6392ecb9cc8dccbd/6ad00a9a954a055c006aaa29/SOCIAL_SHARE_IMAGE_INVENTIONS.jpg?branch=production"/>
+<p>TIME put Nous Research's open-source <strong>Hermes Agent</strong> on its <a href="https://time.com/collection/best-inventions/2026/">Best Inventions of 2026</a> list, published Oct 15, calling it "an infinitely modifiable agent that grows with you."</p><p>The write-up highlights that Hermes runs on any local or cloud model, lets users restyle its interface and write their own skills, and can run terminal commands, edit files and schedule recurring work. Nous Research thanked TIME in an <a href="https://x.com/NousResearch/status/2110886131290259537">X post</a> with a screenshot of the listing (about 1,200 likes).</p><p>Coverage: <a href="https://runtimewire.com/article/nous-research-hermes-agent-time-best-inventions-2026">RuntimeWire</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Hermes Agent gets an official Reverse Engineer Anything plugin</title>
+      <link>https://x.com/tonbistudio/status/2110792752254570867</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-16-hermes-rea-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2110791846435913728/img/BOrMtk_r0Y1eOEc_.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2110791846435913728/img/BOrMtk_r0Y1eOEc_.jpg"/>
+<p>Hermes Agent now has an official plugin for <a href="https://github.com/morluto/rea">Reverse Engineer Anything (REA)</a>, an open-source toolkit for having agents reverse engineer apps, from their behavior down to native binaries.</p><p>One command, <code>hermes plugins install rea</code>, sets up the MCP config plus a dedicated skill for the agent, according to <a href="https://x.com/tonbistudio/status/2110792752254570867">@tonbistudio's walkthrough video</a>. Nous co-founder Teknium <a href="https://x.com/Teknium/status/2110978534894412142">promoted the guide</a> and @NousResearch reposted it.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI dots get GPT-Live-1.1 voices with better accents and new languages</title>
+      <link>https://x.com/OpenAI/status/2110797830361436604</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-16-dots-gpt-live-1-1-voice</guid>
+      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg"/>
+<p>OpenAI <a href="https://x.com/OpenAI/status/2110797830361436604">announced</a> on Oct 15 that its new voice model <strong>GPT-Live-1.1</strong> is coming to Voice in ChatGPT, Codex and <strong>dots</strong>, its always-on agents. The update brings new voices, better accents and less repetitive "checking..." filler while it searches.</p><ul><li>New voices in French, German, Hindi, Mexican Spanish, Korean and Japanese.</li><li>Rolling out to all users now; API access is coming soon.</li></ul><p>Details: <a href="https://deploymentsafety.openai.com/gpt-live-1-1/gpt-live-1-1.pdf">GPT-Live-1.1 system card</a>. Dots pricing and post-launch usage terms are still unpublished.</p>]]></description>
+    </item>
+    <item>
+      <title>Schwab blocks Meta's Muse and other AI agents from moving client money</title>
+      <link>https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-16-meta-muse-schwab-blocks</guid>
+      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
+      <enclosure url="https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg"/>
+<p>Charles Schwab is blocking outside AI agents, including <strong>Meta's Muse</strong>, when they try to move client money, CEO Rick Wurster told Bloomberg Television on Friday, <a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">The Next Web reports</a>. He said the concern is clients handing their passwords to an agent that then acts for them, and that big agents get stopped "in the tens and twenties" each week.</p><p>Schwab plans to offer controlled MCP servers so outside AI tools can check balances and do research, but not move money, and wants clients to use its own assistant, Charley. JPMorgan's Jamie Dimon took a similar stance on outside agents earlier this week.</p>]]></description>
+    </item>
     <item>
       <title>Hermes Agent v0.22.2: corrective release after bad v0.22.1 build</title>
       <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2</link>
