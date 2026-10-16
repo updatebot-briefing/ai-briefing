@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 15 Oct 2026 08:53:42 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:54:05 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 16 2026</title>
+      <link>https://x.com/AlexFinn/status/2110851435223285909</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 08:54:05 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HUs_eBDaoAAMwe5.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HUs_eBDaoAAMwe5.jpg" alt="Image from @AlexFinn: Side Hustle CEO Grok Bot template" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement. Today leans personal: agents running small businesses, doing taxes, ordering food and gifts, and even dating.</p>
+<ol>
+<li><p><strong>Grok Bot runs a side business that made $1,800 in a week</strong></p><p>Alex Finn had his Grok Bot build and maintain a small autonomous business that earned him about $1,800 this week. He then packaged that same bot, with its plugins, routines and memories, as a free Side Hustle CEO template that interviews you, pitches three business ideas, and builds and runs one.</p><p><a href="https://x.com/AlexFinn/status/2110851435223285909">@AlexFinn on X</a> · 2,001 likes · 100 reposts · 179,708 views</p></li>
+<li><p><strong>Vitalik builds a paranoid privacy mode for his agent</strong></p><p>Vitalik Buterin wrapped his agent harness (pi) in a sandbox and Tor, gave every conversation its own Tor circuit with cover traffic, used zkAPI so payments don&#x27;t reveal his identity, and had a local model (qwen3.8-flash-next) rewrite every prompt before it leaves his machine. He says it is getting quite usable, with extra latency as the cost.</p><p><a href="https://x.com/VitalikButerin/status/2111046730959433793">@VitalikButerin on X</a> · 1,083 likes · 124 reposts · 151,553 views</p></li>
+<li><p><strong>Claude finds mistakes on a tax return</strong></p><p>Hunter Jones ran Claude over his tax return for the first time and was stunned by how many mistakes it turned up.</p><p><a href="https://x.com/Hunterjones/status/2110882064614723976">@Hunterjones on X</a> · 868 likes · 6 reposts · 123,350 views</p></li>
+<li><p><strong>First-time AI user makes a cross-stitch pattern tool</strong></p><p>Lottie started experimenting with AI this week and, working with Claude, made her first design tool, which turns flat vector images into cross-stitch patterns.</p><p><a href="https://x.com/LottieCoxon/status/2110764430229225942">@LottieCoxon on X</a> · 749 likes · 37 reposts · 16,156 views</p></li>
+<li><p><strong>A cyber model rediscovers a KVM escape in under two hours</strong></p><p>Adel Ka gave OpenAI&#x27;s gpt-5.6-cyber (Daybreak Red) a devbox to explore for 1.5 hours, then fed his agent a single unredacted hint from a bounty screenshot, and it found the virtio KVM escape vulnerability within 30 minutes.</p><p><a href="https://x.com/0x4D31/status/2110797664732500348">@0x4D31 on X</a> · 561 likes · 45 reposts · 29,400 views</p></li>
+<li><p><strong>Grok Bot orders McDonald&#x27;s nuggets</strong></p><p>Nick Sortor had Grok Bot order him Chicken McNuggets, and it worked. The only scare was a McDonald&#x27;s receipt that briefly made it look like the bot had ordered 110 nuggets instead of one 10-piece.</p><p><a href="https://x.com/nicksortor/status/2110977613338423402">@nicksortor on X</a> · 460 likes · 31 reposts · 38,230 views</p></li>
+<li><p><strong>Claude Code writes its own computer-use script to finish an errand</strong></p><p>Ananth asked Claude Code from his phone to email him two videos sitting on his PC. When the Chrome extension and Codex&#x27;s computer-use tool both failed, Opus 5.5 wrote its own Python script to drive Chrome with screenshots and clicks, sent the emails, and saved the script for next time.</p><p><a href="https://x.com/Ananth7e/status/2111074411965288751">@Ananth7e on X</a> · 437 likes · 8 reposts · 16,711 views</p></li>
+<li><p><strong>Grok Bot picks and orders a secret $25 gift</strong></p><p>DJ asked his Grok Bot to choose and order him a surprise gift of $25 or less based on what it knows about him, and keep it secret until it arrived. He says the result blew him away and challenged others to try it.</p><p><a href="https://x.com/congressdj/status/2110797600991674762">@congressdj on X</a> · 419 likes · 25 reposts · 23,252 views</p></li>
+<li><p><strong>An agent that texts and calls your friends</strong></p><p>Angel hooked his personal agent up to WhatsApp, Telegram and iMessage using Photon 2.0, so it can now message his friends and even place voice calls to them.</p><p><a href="https://x.com/angeldot_/status/2110809837768781913">@angeldot_ on X</a> · 355 likes · 29 reposts · 52,567 views</p></li>
+<li><p><strong>An agent built to find her a boyfriend</strong></p><p>Tired of swiping, Kaitlyn in San Francisco built an agent that screens potential dates with a few basic questions. If someone looks like a match she texts them herself, and the agent helps coordinate a time and place to meet.</p><p><a href="https://x.com/Kaitlynleannnn/status/2110805933463163197">@Kaitlynleannnn on X</a> · 224 likes · 2 reposts · 70,361 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 15 2026</title>
       <link>https://x.com/wmorrill3/status/2110505932174045466</link>
