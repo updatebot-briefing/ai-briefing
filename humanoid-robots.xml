@@ -5,6 +5,30 @@
     <link>https://updatebot-briefing.github.io/ai-briefing/humanoid-robots.xml</link>
     <description>Daily humanoid robotics research, delivered by Gemini.</description>
     <item>
+      <title>Tesla Roadster’s active aero wings reuse Optimus robot actuators</title>
+      <link>https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-16-tesla-roadster-optimus-actuators</guid>
+      <pubDate>Fri, 16 Oct 2026 17:12:59 -0700</pubDate>
+      <enclosure url="https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Roadster-kick-flips-through-the-air.jpeg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://electrek.co/wp-content/uploads/sites/3/2026/10/Tesla-Roadster-kick-flips-through-the-air.jpeg?quality=82&amp;strip=all&amp;resize=1200,628" alt="" /></p><p>At Tesla’s next-generation Roadster unveiling in Texas, technical teardowns confirmed that the vehicle’s dynamic active aerodynamic wings use Optimus robotic actuators. It’s the first major commercial crossover where custom actuators developed for the humanoid bot are reused directly across Tesla’s vehicle platforms.</p><p>Live reports also noted an Optimus humanoid positioned in the driver’s seat during the outdoor demonstration run, highlighting the link between Tesla’s humanoid robotics program and its autonomous hardware.</p><p>Sources: <a href="https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/">Electrek</a> and <a href="https://explainx.ai/blog/tesla-roadster-event-recap-everything-announced-not-announced-october-15-2026">explainx.ai</a></p>]]></description>
+    </item>
+    <item>
+      <title>Faraday Future unveils $2,490 FF Nova developer humanoid</title>
+      <link>https://thenextweb.com/news/faraday-future-nova-humanoid-robots</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-16-faraday-future-ff-nova-humanoid</guid>
+      <pubDate>Fri, 16 Oct 2026 17:12:59 -0700</pubDate>
+      <enclosure url="https://media.thenextweb.com/2026/10/faraday-future-robot-lineup.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://media.thenextweb.com/2026/10/faraday-future-robot-lineup.jpg" alt="" /></p><p>Faraday Future and its FF EAI Robotics Ecosystem (FFR) launched the FF Nova, billed as the first embodied AI bipedal humanoid priced under $2,500 in the US market, aimed at developers, universities, and STEM programs.</p><ul><li>49.7 cm tall, 2.8 kg, with 20 degrees of freedom</li><li>Self-righting dynamic recovery</li><li>ROS 2 integration and simulation training pipelines backed by Nvidia Isaac</li><li>An initial 100-unit pilot batch is shipping to invited developers, alongside a $299 educational Nova Mini</li></ul><p>Sources: <a href="https://thenextweb.com/news/faraday-future-nova-humanoid-robots">The Next Web</a> and <a href="https://www.engineering.com/ff-launches-nova-humanoid-robots-and-physical-ai-programs/">Engineering.com</a></p>]]></description>
+    </item>
+    <item>
+      <title>Foundation CEO: its humanoid robots have helped build 24,000 commercial vehicles</title>
+      <link>https://www.foxbusiness.com/video/6406969315112</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-16-foundation-humanoids-24000-vehicles</guid>
+      <pubDate>Fri, 16 Oct 2026 17:12:59 -0700</pubDate>
+      <enclosure url="https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/1024/512/og-fox-business.png?ve=1&amp;tl=1" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://a57.foxnews.com/static.foxnews.com/static/orion/styles/img/fox-business/og/1024/512/og-fox-business.png?ve=1&amp;tl=1" alt="" /></p><p>In a Fox Business broadcast, Foundation Future Industries CEO Sankaet Pathak said humanoid robots deployed by the company have now assisted in the production of 24,000 commercial vehicles, a measurable sign of operational throughput in industrial manufacturing.</p><p>Source: <a href="https://www.foxbusiness.com/video/6406969315112">Fox Business</a></p>]]></description>
+    </item>
+    <item>
       <title>Tesla patent details flexible, high-resolution touch sensors for Optimus hands</title>
       <link>https://www.humanoidsdaily.com/news/tesla-patent-flexible-touch-sensors-robot-hands</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-15-tesla-tactile-sensing-patent</guid>
