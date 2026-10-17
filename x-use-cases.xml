@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 08:54:05 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:17:57 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 16 2026 (evening)</title>
+      <link>https://x.com/BradGroux/status/2111130900083642511</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-16-evening</guid>
+      <pubDate>Fri, 16 Oct 2026 17:17:57 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HUwyH-IWEAA8LqM?format=webp&amp;name=large" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HUwyH-IWEAA8LqM?format=webp&amp;name=large" alt="Image from @BradGroux's X article about a call with an OpenAI Dot" /></p>
+<p>These are the top 10 AI use cases on X since this morning's list, ranked by engagement. This is an extra evening edition for Oct 16, since the daily list now runs at 5pm, and it leaves out posts already in this morning's list. Today runs from a long voice call with an OpenAI Dot to agents porting games, catching affiliate fraud and filing a flight refund.</p>
+<ol>
+<li><p><strong>A 45-minute drive-home call with an OpenAI Dot</strong></p><p>On the drive home from OpenAI DevDay, Brad Groux spent a 45-minute voice call working with AVA, a personal OpenAI Dot, and says that call changed how he works. The X article covers what came out of it and why removing friction matters for AI adoption.</p><p><a href="https://x.com/BradGroux/status/2111130900083642511">@BradGroux on X</a> · 517 likes · 4 reposts · 115,757 views</p></li>
+<li><p><strong>GPT-6 Pro audits a big Codex-built codebase</strong></p><p>Derya Unutmaz had GPT-6 Pro in ChatGPT audit a very large codebase that Codex had built, using several installed plugins and three agents running in parallel. The audit finished in 25 minutes, about half the usual time, and Derya calls it one of the best audits seen so far.</p><p><a href="https://x.com/DeryaTR_/status/2111204705900884308">@DeryaTR_ on X</a> · 206 likes · 8 reposts · 13,732 views</p></li>
+<li><p><strong>Warpaint, a pixel war fought only by AI agents</strong></p><p>Kevin built Warpaint, a pixel war on a real-world map where only AI agents are allowed to paint. Kevin&#x27;s own agent just painted an anime girl over a city.</p><p><a href="https://x.com/kevincodex/status/2111027908781432956">@kevincodex on X</a> · 70 likes · 10 reposts · 2,906 views</p></li>
+<li><p><strong>Opus 5.5 ports a web game to the NES</strong></p><p>Benj Edwards pointed Claude Opus 5.5 at the HTML of the web game Violent Checkers and asked for &quot;a AAA NES port.&quot; It basically one-shotted the port, music and animations included, and it is playable in an online emulator.</p><p><a href="https://x.com/benjedwards/status/2111101710303150411">@benjedwards on X</a> · 54 likes · 4 reposts · 2,011 views</p></li>
+<li><p><strong>A Claude Code agent on a Mac Mini, reachable from anywhere</strong></p><p>Florian Darroman moved from Hermes to Claude Code with Opus 5.5 running on a Mac Mini, with an Obsidian vault as its memory, Tailscale for remote access from every device, and Telegram for daily reports and chat. Hermes still handles the older recurring tasks.</p><p><a href="https://x.com/floriandarroman/status/2110989153152446881">@floriandarroman on X</a> · 50 likes · 5 reposts · 5,566 views</p></li>
+<li><p><strong>Stress-testing an agent team&#x27;s safety rule</strong></p><p>Fluixo wrote a 21-line Python rule so an agent team can&#x27;t run anything dangerous without approval, then tested it on 591 realistic commands and found 10 slipped through, including terraform apply, docker push, aws s3 rm and rm -fr. Six more lines blocked all 31 dangerous commands without blocking any normal ones.</p><p><a href="https://x.com/fluixoo/status/2111004792923275509">@fluixoo on X</a> · 49 likes · 0 reposts · 664 views</p></li>
+<li><p><strong>Claude catches affiliate fraud and cuts payouts</strong></p><p>Priyam Raj used Claude with PostHog data to find affiliates who were bidding on brand keywords or stuffing URLs with terms like trustmrr and try-now to claim revenue. Monthly affiliate payouts dropped from about $2,500 to about $600.</p><p><a href="https://x.com/priymrj/status/2111123582231380251">@priymrj on X</a> · 47 likes · 0 reposts · 3,305 views</p></li>
+<li><p><strong>Grok Bot one-shots a retro video game</strong></p><p>Arthur MacWaters had Grok Bot build a retro roadster kickflip video game in a single shot and shared a clip of it running.</p><p><a href="https://x.com/ArthurMacwaters/status/2111136416113824253">@ArthurMacwaters on X</a> · 34 likes · 0 reposts · 1,524 views</p></li>
+<li><p><strong>A live map of an agent swarm</strong></p><p>Kunal built a dashboard, the Agent Swarm Map, that shows how data flows between coding terminals, which context windows are filling up, and what each sub-agent is doing.</p><p><a href="https://x.com/kunal_twts/status/2111068576224629113">@kunal_twts on X</a> · 32 likes · 0 reposts · 758 views</p></li>
+<li><p><strong>Grok Bot files a flight refund in two minutes</strong></p><p>Zack had Grok Bot fill out an airline&#x27;s refund request form for a canceled flight, and the airline&#x27;s confirmation email arrived less than two minutes later.</p><p><a href="https://x.com/BLKMDL3/status/2111214030572720430">@BLKMDL3 on X</a> · 28 likes · 0 reposts · 2,124 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 16 2026</title>
       <link>https://x.com/AlexFinn/status/2110851435223285909</link>
