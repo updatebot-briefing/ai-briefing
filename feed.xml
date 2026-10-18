@@ -7,7 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 Oct 2026 17:11:06 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:39:08 -0700</lastBuildDate>
+    <item>
+      <title>Anthropic commits 5% of its shares to a new Public Benefit Fund, with more as its valuation grows</title>
+      <link>https://www.anthropic.com/news/public-benefit-fund</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-18-anthropic-public-benefit-fund</guid>
+      <pubDate>Sun, 18 Oct 2026 11:39:08 -0700</pubDate>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg" alt=""/><p>Anthropic <a href="https://www.anthropic.com/news/public-benefit-fund">announced</a> on Sunday that it is committing 5% of its shares to the Anthropic Public Benefit Fund, a new wholly owned LLC dedicated to the public good, subject to stockholder approval. The board can add another 2% for every 50% increase in the company's value above a set baseline, so the fund's stake grows as Anthropic does.</p><ul><li>Anthropic says the fund could make large donations to nonprofits or direct distributions to specific groups, with labor-market disruption from AI as one example. It has already committed $200 million to that issue.</li><li>None of the fund's Anthropic equity will be used for lobbying or political giving, in the US or abroad.</li><li>Combined with the co-founders' pledge to donate 80% of their equity and the employee equity-match program, roughly 20% of Anthropic's shares would now be dedicated to the public good.</li></ul><p>Governance details and the valuation milestones will come in the coming months (<a href="https://x.com/AnthropicAI/status/2111881963657412903">Anthropic on X</a>).</p>]]></description>
+    </item>
     <item>
       <title>China proposes export controls on its top AI models, covering weights and source code</title>
       <link>https://www.mofcom.gov.cn/zcfb/blgg/art/2026/art_1666fcaa24424766afe0683498ff0908.html</link>
