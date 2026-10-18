@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 17:17:57 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:16:19 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 17 2026</title>
+      <link>https://x.com/MTSlive/status/2111281845522546817</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 17:16:19 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2111281797816569857/img/uLbGtC4UnDvJJw-m.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2111281797816569857/img/uLbGtC4UnDvJJw-m.jpg" alt="Video thumbnail from @MTSlive's clip of Scott Aaronson" /></p>
+<p>These are the top 10 AI use cases on X from the last day, ranked by engagement. It was a quiet Saturday on X, so the numbers drop off quickly after the top few. The list runs from Scott Aaronson saying AI one-shotted his old open problems to an OpenAI Dot haggling with a store's support bot and Grok Bot getting missing Lego pieces replaced.</p>
+<ol>
+<li><p><strong>Scott Aaronson says AI one-shotted his old open problems</strong></p><p>In a clip shared by MTS, Scott Aaronson says he fed GPT open problems from his papers of 25 years ago this summer and it solved them in one shot, work he guesses would have taken him at least 100 hours. He also admits that leaning on it is wearing down his own math skills.</p><p><a href="https://x.com/MTSlive/status/2111281845522546817">@MTSlive on X</a> · 1,037 likes · 89 reposts · 93,361 views</p></li>
+<li><p><strong>A clickable motion library for Claude Code</strong></p><p>Vox built a Claude Code skill with 120 labelled motion samples across five packs, from camera moves to UI effects. You tick the ones you like in a gallery, and Claude Code with Opus 5.5 builds them into your video or site using Remotion, CSS or Canvas.</p><p><a href="https://x.com/Voxyz_ai/status/2111502499048026232">@Voxyz_ai on X</a> · 359 likes · 27 reposts · 20,125 views</p></li>
+<li><p><strong>An OpenAI Dot haggles with a support bot</strong></p><p>Brent Traut&#x27;s Dot joined a company&#x27;s customer service chat, introduced itself as his agent and negotiated for a better price. The store&#x27;s own bot negotiated back, and in the end both bots called in their humans to confirm the deal.</p><p><a href="https://x.com/btraut/status/2111265536181248015">@btraut on X</a> · 159 likes · 1 reposts · 13,218 views</p></li>
+<li><p><strong>Running ChatGPT web models inside Codex</strong></p><p>vechen built a tool that lets Codex call ChatGPT&#x27;s web models, including GPT-6 Pro with its parallel agents, on their separate quota. The tool keeps full access to local files and Codex&#x27;s own tools.</p><p><a href="https://x.com/miu21590/status/2111273176399564924">@miu21590 on X</a> · 99 likes · 3 reposts · 19,985 views</p></li>
+<li><p><strong>Grok Bot gets missing Lego pieces replaced</strong></p><p>Skinner&#x27;s daughter got a Lego blind box with pieces missing, so Skinner had Grok Bot handle the support chat and get them replaced. The write-up covers how it went, including the spot where it got stuck.</p><p><a href="https://x.com/CreativeSkyAI/status/2111277357659000869">@CreativeSkyAI on X</a> · 12 likes · 1 reposts · 74,136 views</p></li>
+<li><p><strong>An honest report from running several agents</strong></p><p>David Shapiro says his ChatGPT Dot works well for bursts of parallel, concrete jobs like researching and designing YouTube thumbnails, but often skips updates and doesn&#x27;t report failures. He&#x27;s gone back mostly to dedicated ChatGPT Work and Pro sessions and Claude Code threads, and used Grok Bot for brainstorming concept art for a cyberpunk game.</p><p><a href="https://x.com/DaveShapi/status/2111527126692171857">@DaveShapi on X</a> · 69 likes · 2 reposts · 8,231 views</p></li>
+<li><p><strong>A Mac hotkey to send ideas to any Grok Bot</strong></p><p>kuch. got tired of opening Grok Bot for every idea, so they built a Mac shortcut where you press option and command, type or talk, pick a bot and send. Three days in, it&#x27;s the thing they use most on their Mac.</p><p><a href="https://x.com/thekuchh/status/2111437951884210336">@thekuchh on X</a> · 34 likes · 3 reposts · 1,529 views</p></li>
+<li><p><strong>GPT-6 Astra and Opus 5.5 each build a gorilla</strong></p><p>Dany asked both models to make an animated gorilla. Claude Opus 5.5 finished in five minutes with a tap-to-drum game, while GPT-6 Astra took 31 minutes and 44% of a weekly limit but delivered a desktop pet plus a GIF and video.</p><p><a href="https://x.com/danysvnt/status/2111461327994536115">@danysvnt on X</a> · 34 likes · 0 reposts · 859 views</p></li>
+<li><p><strong>A Dot as a travel concierge</strong></p><p>Thomas Ricouard is traveling for over a week, and his OpenAI Dot, connected to all his accounts, knows where he is and his itinerary at all times. He uses it to get the best route at any moment.</p><p><a href="https://x.com/Dimillian/status/2111310170047553618">@Dimillian on X</a> · 29 likes · 0 reposts · 5,701 views</p></li>
+<li><p><strong>A Grok Bot 101 video made with a voice clone</strong></p><p>Texas Twins Dad made a Grok Voice clone of himself, gave it his script, and dropped the audio into Grok Bot. Grok Bot then produced the full explainer video with captions and animated visuals.</p><p><a href="https://x.com/Texas_Twins_Dad/status/2111274264921788427">@Texas_Twins_Dad on X</a> · 26 likes · 4 reposts · 1,935 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 16 2026 (evening)</title>
       <link>https://x.com/BradGroux/status/2111130900083642511</link>
