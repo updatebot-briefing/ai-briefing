@@ -7,7 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 18 Oct 2026 11:39:08 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:11:03 -0700</lastBuildDate>
+    <item>
+      <title>Anthropic says its share of junior technical hires fell from 27% to 9% as AI agents took on six times the hours of its staff</title>
+      <link>https://www.anthropic.com/research/employment-at-anthropic</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-18-anthropic-employment-report-junior-hiring</guid>
+      <pubDate>Sun, 18 Oct 2026 17:11:03 -0700</pubDate>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt=""/><p>Anthropic's economists published <a href="https://www.anthropic.com/research/employment-at-anthropic">"How employment is changing at Anthropic"</a>, a study built on the company's own hiring records, AI usage, output metrics, calendars, surveys and 17 employee interviews. It's one of the first detailed looks inside a company that has rebuilt its work around AI agents.</p><ul><li>Junior roles made up 27% of technical hires in early 2025 and just 9% now, and juniors' share of technical staff fell from 21% to 14%. By April, engineering and research teams had deemphasized hiring for lower-level technical roles.</li><li>Hours worked by interactive AI agents passed employees' hours in March 2026 and were six times higher by August, while code per engineer, sales closed per rep and contracts processed all rose.</li><li>Human attention is now the bottleneck: reading everything their Claude agents produce would take even non-technical staff half their work week, and the median employee spends 20% more time in meetings than a year ago.</li><li>Anthropic says it has set up an early warning system to flag roles at risk of disruption and is prioritizing internal redeployment. A <a href="https://www.anthropic.com/research/expectations-for-the-future">companion survey</a> covers what its staff expect AI to do to the wider economy.</li></ul><p>Why it matters: it's hard data, from the lab furthest along in using its own agents, that entry-level technical hiring shrinks first. The report itself doesn't claim the agents caused the drop, but it gives the rest of the economy a preview (<a href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/">TechCrunch</a>, <a href="https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/">The Decoder</a>).</p>]]></description>
+    </item>
     <item>
       <title>Anthropic commits 5% of its shares to a new Public Benefit Fund, with more as its valuation grows</title>
       <link>https://www.anthropic.com/news/public-benefit-fund</link>
