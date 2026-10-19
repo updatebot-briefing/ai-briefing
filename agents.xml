@@ -7,8 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 18 Oct 2026 17:13:56 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:33:28 -0700</lastBuildDate>
     <item>
+      <title>Grok Bot v0.71.2: 1 GB video and 250 MB file attachments, desktop notifications, tagged email addresses</title>
+      <link>https://x.ai/changelog/bot</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-19-grok-bot-v0-71-2</guid>
+      <pubDate>Mon, 19 Oct 2026 15:33:28 -0700</pubDate>
+      <enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot"/><p>Grok Bot <a href="https://x.ai/changelog/bot">v0.71.2</a>, titled "Smarter notifications and larger file attachments," is now on the official changelog and also rolls in v0.71.0 and v0.71.1. It appeared this afternoon, Oct 19, though the entry is dated Oct 14.</p><ul><li>Attachments can be up to 250 MB for files and 1 GB for videos, and one message can carry 20 attachments instead of 6 (needs Grok Bot 0.70.2 or later).</li><li>While you're using Grok Bot on a Mac or Windows PC, replies and questions notify you there instead of on your phone.</li><li>Bots can send from a tagged email address like name+shop@, and a routine on that tag runs only for its mail.</li><li>Bots can use up to 200 skills from installed plugins instead of 24, and dropped voice calls now reconnect instead of ending.</li></ul><p>Enterprise admins can also recreate, terminate or delete members' Grok Bot computers, and team admins can turn off messaging between Bots. <a href="https://x.com/GrokInsider/status/2112305532249731226">GrokInsider flagged the update on X</a> at about 3:10pm PT.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI says dots made outside the EU will keep working there, and EU access is coming</title>
       <link>https://x.com/thsottiaux/status/2111832959842161136</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-18-dots-eu-keep-working</guid>
