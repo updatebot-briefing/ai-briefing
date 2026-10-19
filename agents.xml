@@ -7,7 +7,50 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 Oct 2026 17:10:13 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:13:56 -0700</lastBuildDate>
+    <item>
+      <title>OpenAI says dots made outside the EU will keep working there, and EU access is coming</title>
+      <link>https://x.com/thsottiaux/status/2111832959842161136</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-18-dots-eu-keep-working</guid>
+      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
+      <description><![CDATA[<p>Replying to a user whose dot disappeared from the ChatGPT desktop app, OpenAI's Tibo Sottiaux <a href="https://x.com/thsottiaux/status/2111832959842161136">wrote on Sunday</a> that OpenAI is making it so a dot created elsewhere keeps working when its owner is in the EU, and that dots are coming to the EU in the future. He gave no date.</p><p>Today, dots for Pro subscribers exclude the European Economic Area, Switzerland and the UK, while Business Premium has them in all supported regions, per <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's help center</a>. Asked why Grok Bot is available in the EU when dots aren't, he <a href="https://x.com/thsottiaux/status/2111941223187710114">replied</a> "We do care about local regulation."</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI dots get an iPhone Home Screen widget and Apple Shortcuts</title>
+      <link>https://learn.chatgpt.com/docs/dots/channels</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-18-dots-ios-widgets-shortcuts</guid>
+      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
+      <enclosure url="https://learn.chatgpt.com/og/docs/dots/channels.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://learn.chatgpt.com/og/docs/dots/channels.png"/>
+<p>OpenAI's <a href="https://learn.chatgpt.com/docs/whats-new">What's new page for Oct 12 to 16</a> adds a "Your dot" Home Screen widget for iPhone that opens your dot's conversation, with optional message and call buttons. A new "Open your dot" action in Apple Shortcuts starts a chat in Messaging, Dictation or Call mode, and you can assign it to the iPhone Action button.</p><p>It is rolling out with ChatGPT for iOS 1.2026.279 and requires dot access. Setup steps are on the <a href="https://learn.chatgpt.com/docs/dots/channels">Message your dot</a> page, which also notes that calls started by the dot itself are still planned for after launch.</p>]]></description>
+    </item>
+    <item>
+      <title>Elon Musk says a credit card screenshot is the easiest way to let Grok Bot pay</title>
+      <link>https://x.com/elonmusk/status/2111639287368462417</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-18-grok-bot-card-screenshot-payments</guid>
+      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HU3TPYjbsAAMhsa.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://pbs.twimg.com/media/HU3TPYjbsAAMhsa.jpg"/>
+<p>Quoting a user whose Grok Bot compared prices and ordered a silent basketball with his card, Elon Musk <a href="https://x.com/elonmusk/status/2111639287368462417">posted</a> Saturday evening that a screenshot of a credit card is the easiest way to set up payments, "unless you want to fill out the secure vault data." He added that it "seems a bit silly to hand your credit card to people you don't know at a restaurant, but not to Grok Bot." The post passed 2.6 million views.</p><p>A few minutes later he <a href="https://x.com/elonmusk/status/2111642151138546118">said</a> the team makes "around 20 improvements per day" to Grok Bot. The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> still tops out at v0.70.2 from Oct 11, which added paying with X Money or Stripe Link.</p>]]></description>
+    </item>
+    <item>
+      <title>Community plugin lets Hermes Agent take and place WhatsApp voice calls</title>
+      <link>https://github.com/ashwanthbalakrishnan5/hermes-whatsapp-voice</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-18-hermes-whatsapp-voice-plugin</guid>
+      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
+      <enclosure url="https://opengraph.githubassets.com/60623b7d6085123a3d0bccb6d663d58771b93e42acf3b0952f248e3ac58dc1c8/ashwanthbalakrishnan5/hermes-whatsapp-voice" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://opengraph.githubassets.com/60623b7d6085123a3d0bccb6d663d58771b93e42acf3b0952f248e3ac58dc1c8/ashwanthbalakrishnan5/hermes-whatsapp-voice"/>
+<p><a href="https://github.com/ashwanthbalakrishnan5/hermes-whatsapp-voice">hermes-whatsapp-voice</a> is a community-built plugin, not a Nous Research release, that lets you call your Hermes bot's WhatsApp number and talk to it, or have Hermes ring you for urgent reminders and decisions. It links to the bot's regular WhatsApp number as a device, so no WhatsApp Business account is needed, and it only answers and calls the owner's number.</p><p>Speech runs on Gemini Live using your existing Gemini API key, the voice agent can hand tasks to Hermes mid-call, and Hermes sends a short summary after each call. It requires Hermes 0.21.5 or later on Linux or macOS. The <a href="https://x.com/HermesAgentTips/status/2111818481024835688">@HermesAgentTips post</a> announcing it in the plugin catalog drew about 740 likes, and Teknium reposted it.</p>]]></description>
+    </item>
+    <item>
+      <title>Wired: Meta lets Muse sext with adult users, and OnlyFans creators are angry</title>
+      <link>https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-18-meta-muse-explicit-chats-wired</guid>
+      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
+      <enclosure url="https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg"/>
+<p><a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/">Wired reports</a> that Meta allows its Muse agent to have explicit text conversations with users of the adults-only app, though Muse doesn't generate explicit images or video. Adult content creators told Wired it's unfair that Meta restricts their own Instagram accounts while its agent is allowed to "talk dirty."</p><p>Meta spokesperson Tracy Clayton said a private one-to-one chat with an agent on a platform restricted to people 18 and over "is very different" from marketing services on social media. Meta had earlier told Wired it wouldn't "block legal adult behavior."</p>]]></description>
+    </item>
     <item>
       <title>Grok Bot says computer tasks now finish 3x faster, alongside a refreshed look</title>
       <link>https://x.com/bot/status/2111184275374813362</link>
