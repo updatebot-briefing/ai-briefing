@@ -7,7 +7,47 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 18 Oct 2026 17:11:03 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:08:08 -0700</lastBuildDate>
+    <item>
+      <title>US orders DeepSeek removed from all federal civilian agency systems</title>
+      <link>https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-19-dhs-deepseek-federal-ban</guid>
+      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
+      <enclosure url="https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/deepseek.jpeg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/deepseek.jpeg" alt=""/><p>The Department of Homeland Security made public an <a href="https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information">order excluding DeepSeek</a> from federal civilian agencies. Agencies must remove DeepSeek products and any third-party services built with DeepSeek's models from their IT systems, and they can no longer buy them. The order goes into the Federal Register on Oct 20.</p><ul><li>It was issued under the Federal Acquisition Supply Chain Security Act after a Federal Acquisition Security Council review. It covers civilian agencies such as Treasury, State and Justice, but not defense, intelligence or national-security systems (<a href="https://www.bbc.com/news/articles/cjkgeq0k1wevo">BBC</a>).</li><li>Secretary Markwayne Mullin signed it months ago and the ban has quietly been in force since the summer. Reports differ on the exact date: Bloomberg says the order is dated July 24, and <a href="https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/">CyberScoop</a> cites a June 26 letter.</li><li>Mullin cites data stored on servers in China, collection of personal information, possible malware, and the risk that prompts and responses could pass sensitive data to the Chinese government. Agencies that want an exception must ask 60 days ahead with a "compelling justification."</li></ul><p>Why it matters: this is the first government-wide, formal ban on a Chinese AI lab's products. Because it also covers third-party tools built on DeepSeek, it reaches vendors using its open-weight models, not just DeepSeek's own app and API.</p>]]></description>
+    </item>
+    <item>
+      <title>One hacker used AI agents to break into more than 100 company websites, including Deere and SharkNinja</title>
+      <link>https://norforge.com/blog/inside_cairn</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-19-cairn-ai-agents-hacked-100-companies</guid>
+      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
+      <enclosure url="https://norforge.com/blog/inside_cairn/images/cover.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://norforge.com/blog/inside_cairn/images/cover.webp" alt=""/><p>Security firm NorForge published <a href="https://norforge.com/blog/inside_cairn">"Inside Cairn"</a>, based on more than 20 exposed control panels of Cairn, an open-source AI hacking platform that criminals were using. The panels gave researcher Snorre Fagerland a live view of attackers handing whole intrusions to autonomous AI agents. <a href="https://www.staradvertiser.com/2026/10/19/breaking-news/how-one-hacker-used-ai-agents-to-break-into-over-100-company-websites/">Reuters</a> independently identified the victims.</p><ul><li>The most prolific operator was a Chinese-speaking hacker. Starting Sept 25, using instructions of fewer than 100 Chinese characters, their agents tried to break into more than 1,200 e-commerce sites in the US, Canada, Australia and Japan, and got into more than 100. Victims included Deere, SharkNinja and a Cummins vendor site.</li><li>Successful intrusions typically took about 23 hours of autonomous probing. Fagerland estimates the campaign used a mix of DeepSeek and Anthropic's Claude Code and cost about $5,000 in tokens, roughly $50 per successful hack.</li><li>Other operators stole credit card data and tried to get agents to rob a crypto exchange. The exposed panels also leaked hundreds of credentials, and some legitimate red-team engagements were exposed too.</li></ul><p>Why it matters: it's some of the clearest real-world evidence so far that off-the-shelf AI agents can carry out intrusions from start to finish with almost no human work. That makes a single attacker far more dangerous. Deere says it found no sign sensitive data was accessed, and Reuters couldn't confirm how much data was taken (<a href="https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins">The Verge</a>).</p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic is in talks for a second $45 billion compute deal with Nscale</title>
+      <link>https://news.bloomberglaw.com/capital-markets/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-19-anthropic-nscale-second-45b-talks</guid>
+      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
+      <enclosure url="https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp" alt=""/><p>Bloomberg <a href="https://news.bloomberglaw.com/capital-markets/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal">reports</a> that Nvidia-backed AI cloud company Nscale is negotiating a second deal with Anthropic, worth about $45 billion, for another facility at its Monarch campus in West Virginia. The Financial Times also reported the talks. Nothing has been signed, and neither company has confirmed it.</p><ul><li>Anthropic already has agreements with Nscale worth up to about $44.6 billion, signed Aug 25, according to Nscale's <a href="https://www.rackline.news/story/fimryf">IPO filing</a>. That filing also says Anthropic can cancel a tranche without liability if Nscale misses delivery dates.</li><li>Nscale's other anchor customer is pulling back. Microsoft has <a href="https://finance.yahoo.com/technology/ai/articles/microsoft-pulls-uk-data-centre-095253878.html">withdrawn</a> from its planned site in Loughton, Essex, after officials reportedly said the site might not get a grid connection until the 2030s. Microsoft and Anthropic make up about 85% of Nscale's contracts.</li></ul><p>Why it matters: if the deal goes through, Anthropic's commitments to a single neocloud would come to roughly $90 billion, another sign of how fast frontier labs are locking up compute. It would also become central to Nscale's planned NYSE listing just as one of its biggest Microsoft projects falls through.</p>]]></description>
+    </item>
+    <item>
+      <title>DeepSeek is helping design Huawei's next AI chips and plans to train on them by year-end, report says</title>
+      <link>https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-19-deepseek-shaping-huawei-ascend-chips</guid>
+      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
+      <enclosure url="https://tii.imgix.net/production/articles/17999/2ce59ff9-4776-450d-a48e-a3f481cf1064.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://tii.imgix.net/production/articles/17999/2ce59ff9-4776-450d-a48e-a3f481cf1064.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt=""/><p><a href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia">The Information</a> reports that Huawei engineers are stationed in DeepSeek's offices, feeding DeepSeek's input into future Ascend chip designs, including how chips handle model math and move data between processors. Neither company has confirmed the details publicly.</p><ul><li>DeepSeek reportedly plans to start training models on Huawei's Ascend 950DT as soon as the end of 2026. Huawei plans to give DeepSeek priority for most of its next-generation Ascend 960DT chips, expected in Q1 2027 (<a href="https://finance.yahoo.com/technology/ai/articles/deepseek-teams-huawei-challenge-nvidia-183703468.html">Investing.com summary</a>).</li><li>The gap is still large. Epoch AI estimates Nvidia's B300 has about seven times the raw compute of an Ascend 950. DeepSeek also keeps trying to get Nvidia chips and is using the open-source TileLang language to cut its dependence on CUDA.</li></ul><p>Why it matters: if DeepSeek can train a frontier model entirely on Chinese chips, it would give Beijing a working template for AI that doesn't depend on US hardware or export-control loopholes. The report landed the same day the US banned DeepSeek from federal civilian systems.</p>]]></description>
+    </item>
+    <item>
+      <title>Jim Keller's Tenstorrent raises $1.5B at a $6.2B valuation to take on Nvidia</title>
+      <link>https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-19-tenstorrent-1-5b-series-e</guid>
+      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
+      <enclosure url="https://cdn.sanity.io/images/jpb4ed5r/production/28e4c07c8accd02347954b425a41f599c7f3a087-2600x1857.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://cdn.sanity.io/images/jpb4ed5r/production/28e4c07c8accd02347954b425a41f599c7f3a087-2600x1857.jpg" alt=""/><p>AI chip company Tenstorrent <a href="https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e">closed a $1.5 billion Series E</a> at a $6.2 billion post-money valuation, more than doubling its valuation from its December 2024 round. Trace Capital and Innovation X led the round, joined by Fidelity, T. Rowe Price, Morgan Stanley, ARK Invest, Sandisk, Tether and others.</p><ul><li>The money goes toward volume manufacturing and deploying its Galaxy servers at scale to serve open-weight LLMs and video models. It will also fund its RISC-V CPU and Tensix AI core designs, which it licenses to chipmakers such as Samsung and LG.</li><li>CEO Jim Keller, who designed Apple's A4/A5, AMD's Zen and Tesla's self-driving chip, pitches an open software stack sold at every size, from a single card to superclusters (<a href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/">TechCrunch</a>).</li></ul><p>Why it matters: it's one of the largest raises yet for a Nvidia challenger. It shows investors are betting that inference on open-weight models, plus sovereign and custom-silicon buyers, will create room for open RISC-V alternatives to Nvidia and CUDA.</p>]]></description>
+    </item>
     <item>
       <title>Anthropic says its share of junior technical hires fell from 27% to 9% as AI agents took on six times the hours of its staff</title>
       <link>https://www.anthropic.com/research/employment-at-anthropic</link>
@@ -878,45 +918,6 @@
 </ul>
 <p>No Sep 29 post visible. Themes: agentic coding + Cursor/GitHub, shared team agents, plugins/credentials.<br>
 Profile: <a href="https://x.com/bot">x.com/bot</a></p>
-]]></description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Sep 30, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 08:20:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Lead — competitor with its own computer:</strong> OpenAI <strong>Dots</strong> launched yesterday at DevDay (~10am PT Tue Sep 29). Always-on GPT-6 Astra agents, each with its <strong>own cloud computer + browser</strong>, connect to 4,000+ apps, work 24/7, and do read-only “proactive research” in the background. Message/call them in ChatGPT; Slack/Teams too; texting is a limited US Pro beta. First Dot is included on <strong>Pro</strong> (100/200/500) and <strong>Business Premium</strong> (no extra cost); Enterprise/Edu/Healthcare get an admin-gated beta (off by default). <strong>Plus not yet.</strong> First-month Dots usage doesn’t count toward plan allowances — OpenAI will share per-plan terms after (~Oct 29). Codex/ChatGPT Work tasks a Dot starts still count as usual.</p>
-<p>Primary: <a href="https://openai.com/index/introducing-dots/">openai.com/index/introducing-dots</a> · DevDay recap: <a href="https://openai.com/index/devday-2026-recap/">devday-2026-recap</a> · Getting started: <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Help Center</a> · Safety/privacy FAQs: <a href="https://help.openai.com/en/articles/20001529-dots-privacy-security-and-safety-faqs">FAQs</a></p>
-<p><em>(Yesterday’s 8:30am PT weekday briefing was before the launch; a breaking RSS item went up at ~10am PT. This is the first full morning brief with Dots as the lead.)</em></p>
-<p><strong>Grok Bot / Cursor</strong></p>
-<ul>
-<li><strong>Status:</strong> <a href="https://status.cursor.com/">All Systems Operational</a> — Grok Bot + Cloud Agents green. No incidents today (Wed Sep 30).</li>
-<li><strong>Yesterday’s blips (all resolved):</strong> Cloud Agents/Grok Bot degradation ~7:25am–11:05am PT Sep 29; xAI-models degradation ~12:43–1:18pm PT Sep 29.</li>
-<li><strong>Changelog tip</strong> still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <strong>x.ai tip</strong> still <a href="https://x.ai/news/team-bots">Team Bots (Sep 28)</a>. No new Cursor/x.ai ship overnight.</li>
-</ul>
-<p><strong>Product releases (DevDay + overnight)</strong></p>
-<ul>
-<li><strong>GPT-6.1 Sol (Sep 29):</strong> Near-Astra on coding/computer-use/pro work at ~1/5 Astra token prices; API + ChatGPT Work/Codex. <a href="https://openai.com/index/introducing-gpt-6-1-sol/">introducing-gpt-6-1-sol</a> · <a href="https://openai.com/index/devday-2026-recap/">DevDay recap</a></li>
-<li><strong>Also at DevDay:</strong> ChatGPT Space + Pages; Codex Cloud; Agents API computer use; Pro 500 ($500/mo) with Astra Ultrafast; Sign in with ChatGPT + Marketplace.</li>
-<li><strong>Claude / Gemini / Grok models:</strong> No newer official ship than what’s already briefed — tip still Sonnet 5.5 (Sep 28), Grok 4.7 (Sep 21). Gemini Gems→Skills still Nov 17 (already covered).</li>
-</ul>
-<p><strong>Major AI news</strong></p>
-<ul>
-<li>DevDay itself is the story — Dots as OpenAI’s direct answer to Grok Bot / Meta Muse–style always-on agents with a computer. Secondary: <a href="https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/">WIRED</a>, <a href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/">TechCrunch</a>.</li>
-<li>No fresh Claude/Anthropic or Google Gemini product posts overnight beyond what’s already in recent briefs.</li>
-</ul>
-<p><strong>Hermes</strong></p>
-<ul>
-<li>Still <strong>v0.21.5</strong> (<code>v2026.9.24</code>, Sep 24). No newer GitHub release. <a href="https://github.com/NousResearch/hermes-agent/releases">Releases</a></li>
-</ul>
-<p><strong>Grok Bot on X (@bot)</strong></p>
-<p>Public timeline hard to scrape this morning (x.com/nitter mirrors blocked or empty; no X API/MCP used). From known public posts since last week / prior brief:</p>
-<ul>
-<li><strong>Sep 28 ~12:56pm PT:</strong> Team Bots — <a href="https://x.com/bot/status/2104661562715967548">status/2104661562715967548</a></li>
-<li><strong>Sep 26:</strong> Finance connect — <a href="https://x.com/bot/status/2103936247995752705">status/2103936247995752705</a></li>
-<li>Profile: <a href="https://x.com/bot">x.com/bot</a> — could not confirm newer posts since ~Sep 29 8:30am PT.</li>
-</ul>
 ]]></description>
     </item>
   </channel>
