@@ -7,8 +7,44 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Oct 2026 17:16:52 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:10:55 -0700</lastBuildDate>
     <item>
+      <title>SpaceXSI shows how two Grok Bot teammates spot support incidents and cleared 204 tickets in 10 minutes</title>
+      <link>https://x.ai/news/incident-sweep</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-20-grok-bot-incident-sweep</guid>
+      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
+      <enclosure url="https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png" alt=""/><p>A new <a href="https://x.ai/news/incident-sweep">x.ai post</a> published today explains how the SpaceXSI support team uses two Grok Bot teammates during product incidents. IncidentWatch checks the last 15 minutes of support tickets every five minutes, flags spikes that don't match a known incident to the on-call engineer, and holds matching tickets.</p><p>After an incident is resolved, IncidentSweep finds the related tickets, sets aside any it can't confidently match, and shows an engineer the exact batch and message before sending anything. During a September 18 incident it cleared 204 tickets in about 10 minutes after one engineer approved the batch. It's a case study of the "give Bots jobs, not tasks" approach rather than a new feature.</p>]]></description>
+    </item>
+
+<item>
+      <title>Sensor Tower: Meta's Muse hit 10.2 million US downloads in 40 days, a pace only 11 other apps have matched</title>
+      <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-20-meta-muse-10m-us-downloads</guid>
+      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024" alt=""/><p><a href="https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/">TechCrunch</a> reports Sensor Tower data showing Muse has 10.9 million downloads since its September 8 launch, 10.2 million of them in the US. Only 11 other apps have reached 10 million US downloads in their first 40 days, most recently Threads in 2023.</p><ul><li>US retention was 30% after 7 days and 23% after 14 days, versus averages of 19% and 16% for ChatGPT, Claude and Grok.</li><li>Daily active users passed 2.5 million for the first time on October 16, up 15% week over week.</li><li>Meta put 39% of its October ad spend into promoting Muse, up from 23% in September.</li></ul><p>A separate global Sensor Tower cut, covered by <a href="https://www.eweek.com/news/meta-muse-chatgpt-retention/">eWeek</a>, shows ChatGPT overtaking Muse on retention by day 14. These are third-party estimates, not Meta figures.</p>]]></description>
+    </item>
+
+<item>
+      <title>Meta releases Muse Glimmer, a 30B open-weight model built for always-on local agents</title>
+      <link>https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-20-meta-muse-glimmer-open-model</guid>
+      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
+      <enclosure url="https://dev.meta.ai/social/og-build-with-muse.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://dev.meta.ai/social/og-build-with-muse.png" alt=""/><p>Meta published <a href="https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/">Muse Glimmer 30B</a>, an open-source model distilled from Muse Spark and designed to run agent workflows on a single consumer GPU. It takes text and image input, has a 128K-token context window, and is released under Apache 2.0.</p><p>Meta says it beats similar-size models such as Gemma4-31B and Qwen3.6-27B on tool use, multi-step planning and agent task completion. The <a href="https://dev.meta.ai/docs/muse-glimmer">developer docs</a> list quantized builds of about 17 to 20 GB for llama.cpp, Ollama, LM Studio, vLLM and SGLang, plus hosted access on Together AI. It's a model for builders, not a change to the Muse app itself.</p>]]></description>
+    </item>
+
+<item>
+      <title>OpenAI API adds 12-hour prompt caching, pitched for persistent agents like dots</title>
+      <link>https://x.com/OpenAIDevs/status/2112603916076781778</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-20-openai-12-hour-prompt-caching-dots</guid>
+      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
+      <enclosure url="https://developers.openai.com/og/api/docs/guides/prompt-caching.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://developers.openai.com/og/api/docs/guides/prompt-caching.png" alt=""/><p><a href="https://x.com/OpenAIDevs/status/2112603916076781778">@OpenAIDevs announced</a> this morning that API developers can now choose 12-hour prompt caching. The post frames it around persistent agents "like dots" that reuse the same instructions, tools and context throughout the day.</p><p>Cached prompts stay at the lower cached-input rate even when requests are hours apart. Details are in OpenAI's <a href="https://developers.openai.com/api/docs/guides/prompt-caching">prompt caching guide</a>. This is an API change for people building their own agents; it doesn't change dots pricing or limits in ChatGPT.</p>]]></description>
+    </item>
+
+<item>
       <title>Grok Bot can now be set as the iPhone Action Button to start a voice chat with your Bot</title>
       <link>https://x.com/bot/status/2112252507762368684</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-19-grok-bot-iphone-action-button</guid>
