@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 17:10:55 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:40:00 -0700</lastBuildDate>
     <item>
+      <title>Anthropic launches Claude Duet, a proactive personal agent app, in research preview</title>
+      <link>https://claude.com/resources/articles/claude-duet</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-21-anthropic-claude-duet</guid>
+      <pubDate>Wed, 21 Oct 2026 12:40:00 -0700</pubDate>
+      <enclosure url="https://claude.com/resources/articles/claude-duet/opengraph-image/og" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://claude.com/resources/articles/claude-duet/opengraph-image/og" alt=""/><p>Anthropic <a href="https://claude.com/resources/articles/claude-duet">announced Claude Duet</a> today, a new app where Claude works as a proactive agent: it sends a morning brief across your connected apps, watches them through the day, messages you only when something needs you, keeps working when you step away, and checks with you before acting on your behalf.</p><ul><li>Built around Claude Opus 5.5 and aimed at professionals and small business owners.</li><li>Standalone iOS and Android app plus claude.ai, with your Claude memory, skills, and more than 6,000 connectors and plugins carried over.</li><li>Research preview by <a href="https://claude.com/product/claude-duet">waitlist</a> for US Pro and Max subscribers, using the same usage limits as the rest of Claude.</li></ul><p>It's a direct competitor to Grok Bot, Meta Muse, and OpenAI Dots. <a href="https://x.com/claudeai/status/2112984664256241837">Claude's X post</a> passed 150K views within half an hour.</p>]]></description>
+    </item>
+
+<item>
       <title>SpaceXSI shows how two Grok Bot teammates spot support incidents and cleared 204 tickets in 10 minutes</title>
       <link>https://x.ai/news/incident-sweep</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-20-grok-bot-incident-sweep</guid>
