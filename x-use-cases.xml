@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Oct 2026 17:18:49 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:18:38 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 20 2026</title>
+      <link>https://x.com/starmexxx/status/2112632659356905895</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 17:18:38 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HVGUKKXXQAEihPL.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HVGUKKXXQAEihPL.jpg" alt="Photo from @starmexxx of a hotel room smart-lock controller" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement. Tuesday was heavy on hardware tinkering and 3D building with Claude Code, Gemini 4 Argon and Grok Bot.</p>
+<ol>
+<li><p><strong>Claude Code pokes at a hotel room&#x27;s smart lock</strong></p><p>He says he had Claude Code scan the Bluetooth devices in his hotel room, analyze an old door-lock controller and generate a working key in about 90 seconds. It&#x27;s an unverified claim, but it was easily the day&#x27;s most-shared AI post.</p><p><a href="https://x.com/starmexxx/status/2112632659356905895">@starmexxx on X</a> · 2,040 likes · 194 reposts · 260K views</p></li>
+<li><p><strong>Claude Code tunes a slow Wi-Fi router</strong></p><p>He gave Claude Code a photo of his router, stored the admin password in his keychain, and let it back up settings, fix the channel, band and width, and re-test speed after each change in about five minutes.</p><p><a href="https://x.com/0xCodila/status/2112621488650011124">@0xCodila on X</a> · 912 likes · 81 reposts · 72K views</p></li>
+<li><p><strong>Two models build a playable chip fab in Blender</strong></p><p>Same brief to Claude Opus 5.5 and Gemini 4 Argon: model a working semiconductor fab, every scanner and wafer pod, as a strategy-game map in Blender. Opus took 70 minutes and laid out a full fab floor; Argon took 85 and built a compact labeled block.</p><p><a href="https://x.com/anxuanng/status/2112583451958538598">@anxuanng on X</a> · 247 likes · 20 reposts · 8.7K views</p></li>
+<li><p><strong>One prompt to a game-ready Blender asset</strong></p><p>A game developer used Claude Opus 5.5 inside the Voyager app to build a fish-stand 3D model from one prompt and four rounds of feedback. It found and connected to Blender and Unity by itself with no setup.</p><p><a href="https://x.com/ForkedPush/status/2112565571585712627">@ForkedPush on X</a> · 101 likes · 4 reposts · 4.7K views</p></li>
+<li><p><strong>A desk of Grok Bots that fires its own traders</strong></p><p>His overnight crypto-trading setup runs several Grok Bot agents with one rule: any bot that loses two trades in a row is fired and replaced. He says three bots were fired overnight and the account went from $8,506 to $12,383.</p><p><a href="https://x.com/savipww/status/2112537867582935499">@savipww on X</a> · 75 likes · 11 reposts · 6.1K views</p></li>
+<li><p><strong>Hacking a cheap smart photo frame with Codex</strong></p><p>Following a public guide, he used Codex to reflash an inexpensive smart frame and had something he was happy with in about 30 minutes. The hardest part was finding a USB-C dongle.</p><p><a href="https://x.com/zachdavis/status/2112380499679400104">@zachdavis on X</a> · 63 likes · 3 reposts · 13K views</p></li>
+<li><p><strong>A cozy Unity game built in two days</strong></p><p>Claude Code built most of his Unity 6 game Mowtopia from a seven-milestone product spec in two days, with 60 passing tests. The art, 3D models and audio came from Seedream, GPT Image and Meshy for about 7,000 Magnific credits.</p><p><a href="https://x.com/froessell/status/2112629173441495320">@froessell on X</a> · 30 likes · 1 reposts · 2.5K views</p></li>
+<li><p><strong>Claude pushes for the scan that found a fracture</strong></p><p>He credits Claude with helping on a Sunday-night injury: an X-ray showed nothing, but a CT scan revealed the crack.</p><p><a href="https://x.com/asemota/status/2112449800343801987">@asemota on X</a> · 26 likes · 0 reposts · 4.9K views</p></li>
+<li><p><strong>Gemini 4 Argon one-shots animated 3D diagrams</strong></p><p>He gave Gemini 4 Argon a shared colorfigures skill and asked for six machines from scratch. Each came back as a single HTML file with real 3D-to-SVG projection and clickable animated sequences, all one-shot.</p><p><a href="https://x.com/vamsibatchuk/status/2112675646606356605">@vamsibatchuk on X</a> · 40 likes · 2 reposts · 1.2K views</p></li>
+<li><p><strong>Grok Bot builds a wyvern in Blender overnight</strong></p><p>He let Grok Bot drive Blender while he slept, and it built an articulated, animated wyvern in 3 minutes 20 seconds for about $2 in tokens, compared with the 12 hours his own version took.</p><p><a href="https://x.com/bubbubbdex/status/2112577977120690484">@bubbubbdex on X</a> · 20 likes · 1 reposts · 366 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 19 2026</title>
       <link>https://x.com/0xCodez/status/2112170914192195947</link>
