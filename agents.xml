@@ -7,7 +7,17 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 12:40:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:34:28 GMT</lastBuildDate>
+    <item>
+      <title>Grok Bot can now build reports, memos, and dashboards it keeps up to date</title>
+      <link>https://x.com/bot/status/2112992872857252082</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-21-grok-bot-pages</guid>
+      <pubDate>Wed, 21 Oct 2026 20:34:28 GMT</pubDate>
+      <enclosure url="https://jf.x.com/images/media-preview/2112992872857252082" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://jf.x.com/images/media-preview/2112992872857252082" alt="Grok Bot Pages"/>
+<p>Grok Bot announced on its official X account that it can now build reports, memos, and dashboards as pages. You ask your Bot for a page, then edit it together or have the Bot keep it up to date on its own.</p>
+<p>The <a href="https://x.com/bot/status/2112992872857252082">announcement post</a> went up around 12:42pm PT on Oct 21 and passed 78,000 views in under an hour. Earlier builds already let you rename, search, share, and download pages as PDFs, per the <a href="https://x.ai/changelog/bot">Grok Bot changelog</a>, so this is the broader launch of Bot-built, self-updating documents.</p>]]></description>
+    </item>
     <item>
       <title>Anthropic launches Claude Duet, a proactive personal agent app, in research preview</title>
       <link>https://claude.com/resources/articles/claude-duet</link>
