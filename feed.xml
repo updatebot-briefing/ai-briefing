@@ -7,7 +7,47 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Oct 2026 17:08:08 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:20:00 -0700</lastBuildDate>
+    <item>
+      <title>Anthropic&#x27;s draft IPO filing shows $16.3B first-half revenue and $450B in locked-in compute deals</title>
+      <link>https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-20-anthropic-draft-s1-450b-compute</guid>
+      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
+      <enclosure url="https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg" alt=""/><p>A draft of Anthropic's S-1 prospectus seen by The Wall Street Journal shows $16.3 billion in revenue for the first half of 2026, up from $1.1 billion a year earlier, as it prepares an IPO that could value it at about $2 trillion (summarized by <a href="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Investing.com</a>).</p><ul><li>It is committed to roughly $450 billion in noncancelable cloud compute over the next decade, including about $111 billion with Google Cloud, $110 billion with AWS and $31 billion with Microsoft, and says total compute spending could reach $750 billion.</li><li>It spent nearly $9 billion on compute in the first half alone, more than all of 2025, and says it wanted more capacity than the hyperscalers would supply, which is why it is turning to third-party data center builders.</li><li>The first-half net loss was $80.7 billion, but about $72 billion of that is non-cash accounting tied to convertible notes. About 20% of revenue came from two customers.</li></ul><p>Why it matters: these are the first audited-style numbers on how fast Anthropic is growing and how much compute it has signed for. They are from a draft seen by the WSJ, not a public filing, so figures could change before it lands on EDGAR.</p>]]></description>
+    </item>
+    <item>
+      <title>SpaceX&#x27;s AI segment, including xAI and Cursor, hits $7.6B in quarterly revenue, up 830%</title>
+      <link>https://ir.spacex.com/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-20-spacex-q3-super-intelligence-7-6b</guid>
+      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
+      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt=""/><p>SpaceX <a href="https://ir.spacex.com/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf">reported Q3 2026 results</a> with $14.6 billion in revenue, up 161%, and $4.4 billion in net income. Its Super Intelligence (SI) segment, which holds Grok, X and its data centers, brought in $7.56 billion, up 830% year over year and 195% from Q2, about 52% of the company's total revenue.</p><ul><li>SpaceX credits new cloud services agreements, the acquisition of Cursor, and more Grok use by businesses and consumers. Reuters notes much of the AI money comes from renting data center capacity to labs such as Anthropic, Google and Reflection AI (via <a href="https://www.theverge.com/science/1014150/spacex-q3-2026-earnings">The Verge</a>).</li><li>Nameplate compute reached 1.7 GW, up from 0.6 GW a year ago, as Colossus II is built out. SI capex was $16.4 billion in the quarter.</li><li>The SI segment turned an operating profit of $431 million after a $1.7 billion loss a year earlier. SpaceX also posted the results <a href="https://x.com/SpaceX/status/2112641741937635789">on X</a>.</li></ul><p>Why it matters: it is the clearest look yet at the money behind xAI and Grok, and it shows SpaceX becoming a major AI compute landlord to rival labs, not just a model maker.</p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic&#x27;s automated red-teamer beat human bug-bounty hunters in 23 of 24 tests on its own safeguards</title>
+      <link>https://www.anthropic.com/responsible-scaling-policy/updates</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-20-anthropic-automated-red-teamer-beats-bounties</guid>
+      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt=""/><p>Anthropic <a href="https://www.anthropic.com/responsible-scaling-policy/updates">updated its Frontier Safety Roadmap</a> on Oct 19 and marked its automated red-teaming goal done, more than two months ahead of its Jan 1, 2027 target. Compared against the bug bounties it ran on its bioweapons classifiers from April to September, the automated system matched or beat the best human submission in all 24 question-and-classifier pairs and won 23, in 24 to 48 hours instead of weeks or months.</p><ul><li>It also reported a working prototype of inference verification that checks outputs come from a specific set of weights, plus early work toward air-gapped operation.</li><li>New commitments include a proposal for embedded third-party evaluators due Dec 15, 2026, and a framework for "targeting the pace of AI development" due Jan 15, 2027 (summary via <a href="https://morningtokens.com/issues/2026-10-20/">Morning Tokens</a>).</li></ul><p>Why it matters: it is the first time a frontier lab says an AI attacker measurably outperformed paid human jailbreakers against its own defenses, and the pace-of-development framework would be Anthropic's first proposal on how fast the field should move.</p>]]></description>
+    </item>
+    <item>
+      <title>AI-designed phages are given to a human patient for the first time</title>
+      <link>https://www.radicalnumerics.ai/blog/omnii-phage</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-20-radical-numerics-ai-designed-phages-patient</guid>
+      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
+      <enclosure url="https://www.radicalnumerics.ai/assets/blog/omnii-phage/omnii-phage-hero_v2.jpeg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www.radicalnumerics.ai/assets/blog/omnii-phage/omnii-phage-hero_v2.jpeg" alt=""/><p>Radical Numerics <a href="https://www.radicalnumerics.ai/blog/omnii-phage">says</a> phages designed by its Omnii-1 genome model were part of a therapy cocktail given to a patient with an antibiotic-resistant E. coli infection, under an FDA-authorized single-patient compassionate-use application. In lab tests the cocktail wiped out the patient's bacterial isolate before it was administered.</p><ul><li>The company is not disclosing whether the patient improved, citing privacy, and says one case cannot establish safety or efficacy (<a href="https://www.zeniteq.com/radical-numerics-says-ai-designed-phages-reached-a-patient-a13yse">Zeniteq</a> stresses the same caveat).</li><li>It also <a href="https://www.radicalnumerics.ai/blog/omnii-1">launched Omnii-1</a>, claiming state-of-the-art results ahead of AlphaGenome on gene-regulation benchmarks and a 92.1% hit rate at picking an active phage in its top two suggestions for held-out E. coli strains. These are the company's own numbers.</li></ul><p>Why it matters: it is the first time an AI-generated living therapeutic is reported to have reached a human, an early step toward personalized treatments for infections antibiotics can no longer beat.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI says GPT-6.1 Sol now migrates COBOL correctly 86.6% of the time, up from 5.4%</title>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-20-openai-cobol-migration-86-percent</guid>
+      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=1600&amp;h=900&amp;fit=fill" alt=""/><p>OpenAI <a href="https://openai.com/index/low-resource-programming-languages">published two new coding evaluations</a> on Oct 19 for older, low-resource languages like COBOL, Fortran and Visual Basic. On its COBOL migration test, which requires byte-for-byte identical output after porting to C++, Java, Kotlin, Python or Rust, GPT-6.1 Sol scored 86.6% at low effort (GPT-5.6 Sol got 5.4%) and 97.9% at higher effort, nearly maxing out the test.</p><ul><li>On MultiLangBench, which asks a model to build a SQLite-compatible database from scratch in one of 20 languages, GPT-6 Astra averaged 87.4%, up from 26.8%, with COBOL rising from 10.9% to 72.1%.</li><li>OpenAI is releasing the MultiLangBench setup and tests on GitHub. An <a href="https://www.harelasaf.com/articles/openai-low-resource-languages-cobol-migration-evals">independent write-up</a> notes these are OpenAI's own evals, and OpenAI itself says real migrations still need expert review.</li></ul><p>Why it matters: COBOL still runs most bank and ATM transactions, and a near-solved, behavior-preserving migration test is the kind of evidence that pushes banks and governments to hand legacy rewrites to coding agents.</p>]]></description>
+    </item>
     <item>
       <title>US orders DeepSeek removed from all federal civilian agency systems</title>
       <link>https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information</link>
@@ -780,144 +820,6 @@
 <li>Oct 1 ~10:35am PT: “Grok Bot can now suggest ways to help without you needing to ask” + follow-up (suggestions don’t count against usage). <a href="https://x.com/bot/status/2105713240701538538">announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a></li>
 <li>Oct 2 ~11:05am PT: “We've reset usage limits for all Grok Bot users. Enjoy!” (one-time refill). <a href="https://x.com/bot/status/2106083136002310193">post</a></li>
 </ul>
-]]></description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Oct 3, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-10-03</guid>
-      <pubDate>Sat, 03 Oct 2026 08:12:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Lead — Competitor: Cua Spaces (Fri Oct 2):</strong> Cua launched <em>Spaces</em>, a free macOS app where each AI agent gets its own desktop Space you can watch and take over (shared cursors). Run Spaces on your Mac, machines you own, or your own cloud; <strong>app teleportation</strong> moves a signed-in app session into a Space after you approve (Touch ID for sensitive items). Built on Cua Driver; source-available FSL-1.1-MIT; Pro/Teams planned.<br>
-<a href="https://cua.ai/docs/spaces">docs</a> · <a href="https://x.com/trycua/status/2106057192285548763">@trycua launch</a> · <a href="https://runtimewire.com/article/cua-spaces-desktop-agents-launch">RuntimeWire</a></p>
-
-<p><strong>Grok Bot</strong></p>
-<ul>
-<li><strong>v0.66.0 (Oct 2):</strong> Star a <strong>Main Bot</strong> that checks in proactively and coordinates your other Bots (needs 0.59+). Slack status stays up on long steps; resumable update downloads; hung Bot self-stops and resumes on next message; phone notifies once per reply. Also newly listed since Sep 29 tip: <strong>v0.64.0 / v0.65.0 (Sep 30)</strong> — Team Bot voice, Disable drafts, Team Bot Managers, auto-updates default on. <a href="https://x.ai/changelog/bot">changelog</a></li>
-<li><strong>Status:</strong> Overnight blip Fri night / Sat early — Grok Bot + Review Agents degraded ~11:50pm–12:26am PT Oct 2–3 (UTC Oct 3 06:50–07:26), now <a href="https://status.cursor.com/">All Systems Operational</a>.</li>
-<li>Cursor changelog tip still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>.</li>
-</ul>
-
-<p><strong>Product releases</strong></p>
-<ul>
-<li><strong>OpenAI / ChatGPT:</strong> Learn docs for Sep 28–Oct 2 still highlight Dots (own cloud computer + browser), GPT-6.1 Sol, Astra Ultrafast (Pro $500 / eligible Enterprise), Codex Cloud environments + Security Cloud preview, ChatGPT Space, MCP Events, Plugin Extensions. No newer OpenAI ship overnight beyond that window. <a href="https://learn.chatgpt.com/docs/whats-new/september-28-october-2-2026">ChatGPT Learn</a></li>
-<li><strong>Anthropic — Claude Frontier Academy (Oct 2):</strong> $100M commitment to train 10,000 Frontier Deployed Engineers by end of 2027; 12-week residency model; first cohorts from Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley, Novo Nordisk, and others. <a href="https://www.anthropic.com/news/claude-frontier-academy">Anthropic</a> · <a href="https://claude.com/programs/frontier-academy">program page</a></li>
-<li><strong>Gemini:</strong> No newer product post overnight; Argon / Skills still Sep 30.</li>
-</ul>
-
-<p><strong>Major AI news</strong></p>
-<ul>
-<li>Claude Frontier Academy (above) is the clearest lab headline since yesterday’s briefing.</li>
-</ul>
-
-<p><strong>Hermes</strong></p>
-<ul>
-<li>Still <strong>v0.21.5 (v2026.9.24)</strong> — no newer tag. <a href="https://github.com/NousResearch/hermes-agent/releases">GitHub releases</a></li>
-</ul>
-
-<p><strong>Grok Bot on X (@bot)</strong></p>
-<ul>
-<li><strong>Themes:</strong> Primary/Main Bot proactive help; one-time usage-limit goodwill refill.</li>
-<li>Oct 1 ~10:35am PT: “Grok Bot can now suggest ways to help without you needing to ask” + follow-up (suggestions don’t count against usage). <a href="https://x.com/bot/status/2105713240701538538">announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a></li>
-<li>Oct 2 ~11:05am PT: “We've reset usage limits for all Grok Bot users. Enjoy!” (one-time refill, not a product feature). <a href="https://x.com/bot/status/2106083136002310193">post</a></li>
-</ul>
-]]></description>
-    </item>
-<item>
-      <title>Grok Bot v0.66.0: Primary/Main Bot checks in proactively</title>
-      <link>https://x.ai/changelog/bot</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-02-grok-bot-v0-66-primary-main-bot</guid>
-      <pubDate>Fri, 02 Oct 2026 16:35:19 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Breaking — Grok Bot v0.66.0 (Oct 2):</strong> SpaceXAI’s <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> tipped to <strong>v0.66.0</strong>. You can choose a <strong>primary Bot (Main Bot, starred)</strong> that <em>checks in proactively and coordinates work with your other Bots</em> (requires Grok Bot 0.59.0+). Also newly listed since the prior tip (v0.63.0 Sep 29): <strong>v0.65.0 / v0.64.0 (Sep 30)</strong> — Team Bot voice chats, Disable drafts, Team Bot Managers, Automatic Updates default on.</p>
-]]></description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Oct 2, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 08:20:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Lead — Grok Bot proactive suggestions (Thu Oct 1 ~10:35am PT):</strong> Official <a href="https://x.com/bot">@bot</a> shipped a capability where Grok Bot can <em>suggest ways to help without you needing to ask</em>. Your primary Bot spots work it can take off your plate and offers to handle it; rolled out over the following hours; suggestions don’t count against usage.<br>
-<a href="https://x.com/bot/status/2105713240701538538">announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a> · <a href="https://x.ai/bot">x.ai/bot</a></p>
-
-<p><strong>Grok Bot / Cursor</strong></p>
-<ul>
-<li><strong>Status:</strong> <a href="https://status.cursor.com/">All Systems Operational</a> — Grok Bot + Cloud Agents green. No incidents Fri Oct 2 or Thu Oct 1.</li>
-<li><strong>Changelog tip</strong> still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <strong>x.ai tip</strong> still <a href="https://x.ai/news/team-bots">Team Bots (Sep 28)</a>. No newer Cursor/x.ai blog ship overnight.</li>
-<li>Sep 30 coding tools (Cursor handoffs, GitHub/Origin PR plugins, video demos) remain the latest feature pack before yesterday’s proactive suggestions.</li>
-</ul>
-
-<p><strong>Product releases</strong></p>
-<ul>
-<li><strong>OpenAI (ChatGPT Learn, Sep 28–Oct 2 window):</strong> Dots still rolling out (always-on agents with their own cloud computer + browser); GPT-6.1 Sol for complex work at lower cost than Astra; GPT-6 Astra Ultrafast on Pro $500 / eligible Enterprise; Codex reusable Cloud environments + Codex Security Cloud (research preview); ChatGPT Space/Pages collaboration; Work across devices; MCP Events; Plugin Extensions. <a href="https://learn.chatgpt.com/docs/whats-new/september-28-october-2-2026">ChatGPT Learn</a> · <a href="https://openai.com/index/introducing-dots/">Dots launch</a></li>
-<li><strong>Anthropic — Claude for Government GA:</strong> FedRAMP High environment for U.S. federal/state/local agencies; prepaid usage with hard spend caps, SCIM, audit logs; Claude Code + Microsoft 365 early access in that boundary. Help center notes org migration to updated Claude for Government (Desktop) by Oct 4. <a href="https://support.claude.com/en/articles/14503590-get-started-with-claude-for-government">Anthropic Help</a> · <a href="https://claude.com/solutions/government">claude.com/solutions/government</a> · <a href="https://www.techrepublic.com/article/news-anthropic-claude-government-general-availability/">TechRepublic</a></li>
-<li><strong>Gemini</strong> (covered yesterday): <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">Gemini 4 Argon</a> (Fairwind-first, Sep 30) + <a href="https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/">Skills replacing Gems</a> (Sep 30). No newer Google product post overnight.</li>
-</ul>
-
-<p><strong>Major AI news</strong></p>
-<ul>
-<li><strong>Broadcom ↔ Anthropic (Thu Oct 1):</strong> Reuters/CNBC on Anthropic’s IPO filing — Broadcom agreed to lend Anthropic up to <strong>$42B</strong> (convertible notes) toward TPU compute lease capacity (~1/3 of a $125.2B five-year commitment); Anthropic expected to become Broadcom’s largest compute customer in 2027. <a href="https://www.cnbc.com/2026/10/01/broadcom-lending-anthropic-42-billion-chips-reuters.html">CNBC</a> · <a href="https://www.reuters.com/business/broadcom-lend-anthropic-up-42-billion-lease-its-chips-filing-says-2026-10-01/">Reuters</a></li>
-</ul>
-
-<p><strong>Hermes</strong></p>
-<ul>
-<li>Still <strong>v0.21.5 (v2026.9.24)</strong> — no newer tag overnight. <a href="https://github.com/NousResearch/hermes-agent/releases">GitHub releases</a></li>
-</ul>
-
-<p><strong>@bot on X</strong> (since last weekday briefing)</p>
-<ul>
-<li><strong>Themes:</strong> proactive help offers; coding/PR tooling; Team Bots.</li>
-<li><a href="https://x.com/bot/status/2105713240701538538">Oct 1 ~10:35am PT</a> — suggest ways to help without asking (primary Bot offers work).</li>
-<li><a href="https://x.com/bot/status/2105713241745977618">Oct 1 follow-up</a> — primary Bot framing / rollout notes.</li>
-<li><a href="https://x.com/bot/status/2104661563928170818">Sep 28</a> — Team Bots launch (shared teammates in Slack / Grok Bot).</li>
-</ul>
-]]></description>
-    </item>
-<item>
-      <title>Grok Bot can now suggest ways to help without you asking</title>
-      <link>https://x.com/bot/status/2105713240701538538</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-01-grok-bot-proactive-suggestions</guid>
-      <pubDate>Thu, 01 Oct 2026 10:35:33 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Official @bot (~10:35am PT Oct 1):</strong> <a href="https://x.com/bot/status/2105713240701538538">Grok Bot can now suggest ways to help without you needing to ask</a>. Your primary Bot will spot work it can take off your plate and offer to handle it; rolling out over the next few hours; suggestions don't count against usage.</p>
-<p>Missed the 8:25am PT weekday briefing (noticed on this watch). Primary: <a href="https://x.com/bot/status/2105713240701538538">@bot announcement</a> · <a href="https://x.com/bot/status/2105713241745977618">follow-up</a> · <a href="https://x.ai/bot">x.ai/bot</a>.</p>
-]]></description>
-    </item>
-<item>
-      <title>AI briefing — Weekday, Oct 1, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-10-01</guid>
-      <pubDate>Thu, 01 Oct 2026 08:25:00 -0700</pubDate>
-      <description><![CDATA[
-<p><strong>Gemini day:</strong> Google shipped two product posts yesterday (Wed Sep 30).</p>
-<p><strong>Gemini 4 Argon</strong> — frontier model for complex coding, enterprise knowledge work, and defensive cyber. Rolling out first to trusted cyber defenders via Google’s Fairwind Program (phased; broader API / Google AI Ultra later). Intro API pricing $2/$10 per 1M in/out (then $4/$20). Output window up to 1M tokens. Not an “agent with its own computer” launch.<br>
-<a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">Google blog</a> · <a href="https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/">TechCrunch</a></p>
-<p><strong>Gemini Skills in chat</strong> — reusable <code>/</code> skills rolling out globally in Gemini chat (already in Gemini Spark); will replace Gems (personal accounts lose Gems starting Nov; Workspace later). Auto-migrate Gems→skills when Gems go away.<br>
-<a href="https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/">Google blog</a></p>
-<p><strong>Grok Bot / Cursor</strong></p>
-<ul>
-<li><strong>Status:</strong> <a href="https://status.cursor.com/">All Systems Operational</a> — Grok Bot + Cloud Agents green. No incidents Thu Oct 1; Sep 30 also clean.</li>
-<li><strong>Changelog tip</strong> still <a href="https://cursor.com/changelog">Rollouts + Security Review (Sep 23)</a>. <strong>x.ai tip</strong> still <a href="https://x.ai/news/team-bots">Team Bots (Sep 28)</a>. No new Cursor/x.ai ship overnight.</li>
-</ul>
-<p><strong>Other product / news</strong></p>
-<ul>
-<li><strong>OpenAI Dots</strong> (launched Tue Sep 29) still the direct Grok Bot–style competitor: always-on GPT-6 Astra agents with their <strong>own cloud computer + browser</strong>. First Dot included on Pro / Business Premium; Plus not yet; first-month Dots usage doesn’t count toward allowances until terms after ~Oct 29. <a href="https://openai.com/index/introducing-dots/">openai.com/index/introducing-dots</a></li>
-<li><strong>Anthropic × Barclays (today):</strong> Barclays expanding Claude across global ops; Claude Code expected at ~50% of developers by end of 2026; UK Colleague Knowledge Assistant (16k+ colleagues) + Markets email routing (~120k/day). <a href="https://www.anthropic.com/news/barclays-scales-claude">anthropic.com/news/barclays-scales-claude</a></li>
-<li>Claude tip still <strong>Sonnet 5.5</strong> (Sep 28). No newer Anthropic model ship overnight.</li>
-</ul>
-<p><strong>Hermes</strong></p>
-<ul>
-<li>Still <strong>v0.21.5</strong> (<code>v2026.9.24</code>, Sep 24). No newer GitHub release. <a href="https://github.com/NousResearch/hermes-agent/releases">GitHub releases</a></li>
-</ul>
-<p><strong>Grok Bot on X (@bot)</strong></p>
-<p>Since last briefing (public timeline via browser; no X API):</p>
-<ul>
-<li><strong>Sep 30 ~12:06pm PT:</strong> Grok Bot for software development — hand coding to Cursor, manage GitHub PRs via GitHub/Origin plugins, share build-video demos. <a href="https://x.com/bot/status/2105373767568621895">status/2105373767568621895</a></li>
-<li><strong>Sep 28 ~12:56pm PT:</strong> Team Bots — shared AI teammates that learn from team workflows; skills/plugins/credentials; Slack or Grok Bot. <a href="https://x.com/bot/status/2104661562715967548">status/2104661562715967548</a></li>
-</ul>
-<p>No Sep 29 post visible. Themes: agentic coding + Cursor/GitHub, shared team agents, plugins/credentials.<br>
-Profile: <a href="https://x.com/bot">x.com/bot</a></p>
 ]]></description>
     </item>
   </channel>
