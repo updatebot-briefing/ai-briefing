@@ -9,6 +9,16 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Thu, 22 Oct 2026 00:06:51 GMT</lastBuildDate>
     <item>
+<title>Grok Bot can now sign in for you with your 1Password account</title>
+<link>https://x.com/bot/status/2113332983226831339</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-22-grok-bot-1password</guid>
+<pubDate>Thu, 22 Oct 2026 18:30:27 GMT</pubDate>
+<enclosure url="https://images.ctfassets.net/2h488pz7kgfv/4aJZrc6w5OprozmOGHf6NJ/81caab58981ec15010e170d368805b91/newsroom-open-graph-graphic-1200x630.webp" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://images.ctfassets.net/2h488pz7kgfv/4aJZrc6w5OprozmOGHf6NJ/81caab58981ec15010e170d368805b91/newsroom-open-graph-graphic-1200x630.webp" alt="1Password for Agents"/>
+<p>Grok Bot can now use your 1Password account. You approve which logins to share, and your Bot signs in to those sites for you without ever seeing or storing the passwords. The <a href="https://x.com/bot/status/2113332983226831339">official Grok Bot announcement</a> says the integration is rolling out to users over the next few days.</p>
+<p>It's part of <a href="https://1password.com/press/2026/october/1password-for-agents-trust-layer-personal-ai-agents">1Password for Agents</a>, launched today as a credential layer for personal AI agents, with Meta's Muse, Anthropic's Claude, OpenAI, and Grok Bot among the partners named.</p>]]></description>
+</item>
+<item>
       <title>Hermes Agent v0.22.3 rolls up about 620 merged PRs, followed hours later by v0.22.4</title>
       <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.3</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-21-hermes-v0-22-3-v0-22-4</guid>
