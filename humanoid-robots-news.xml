@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humanoid Robots News</title>
+    <link>https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml</link>
+    <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2026 17:17:50 -0700</lastBuildDate>
+    <item>
+      <title>Tesla starts early Optimus production on Fremont high-volume line; 20,000/week rate at least a year away</title>
+      <link>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-tesla-optimus-fremont-early-production</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800" alt="" /></p>
+<p>Tesla's Q3 2026 results on Oct 21 confirmed that Optimus production has started on its high-volume line in Fremont. The shareholder deck says the bots coming off the line are "the first production-quality bots" Tesla has built, and that the manufacturing process has been proven suitable for a commercial product.</p>
+<ul>
+<li>Musk called it "early production": most of a one-million-unit-per-year line is already installed in Fremont.</li>
+<li>He expects it will take "at least a year, maybe a little longer" to reach about 20,000 units a week. Parts of the design, reliability, and the robot AI are still being worked on.</li>
+<li>Deliveries to outside companies are still targeted for around the end of 2027.</li>
+</ul>
+<p>Sources: <a href="https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/">TechCrunch</a>, <a href="https://eletric-vehicles.com/tesla/musk-says-optimus-will-take-at-least-a-year-to-reach-20000-units-a-week/">EV coverage of the earnings call</a>, <a href="https://x.com/i/trending/2113015007072092289">X story</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>NVIDIA and Agile Robots unveil Agile ONE SN reference humanoid at GTC Berlin; up to 2,000 units in 2027</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-nvidia-agile-one-sn-reference-humanoid</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <enclosure url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" alt="" /></p>
+<p>At GTC Berlin, NVIDIA expanded its Isaac robotics platform, and Munich's Agile Robots announced Agile ONE SN, a full-stack research humanoid preconfigured with Isaac GR00T and powered by Jetson Thor.</p>
+<ul>
+<li>1.40 m tall, about 40 kg, 31 degrees of freedom, and dual 20-DoF WUJI Hand 2 hands with tactile sensing.</li>
+<li>Jetson Thor onboard compute, plus planned integration of the NVIDIA Halos safety stack.</li>
+<li>Agile's CEO told Reuters that production starts by the end of this year, with 1,000 to 2,000 units planned for next year. Stanford and ETH Zurich are among potential customers.</li>
+<li>NVIDIA also announced the Isaac OS runtime, Isaac Lab 3.0, and new open data and simulation workflows.</li>
+</ul>
+<p>Sources: <a href="https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data">NVIDIA Newsroom</a>, <a href="https://www.channelnewsasia.com/business/germanys-agile-make-up-2000-humanoid-robots-nvidia-ceo-says-6478936">Reuters via CNA</a>, <a href="https://x.com/NVIDIARobotics/status/2112854462708519013">@NVIDIARobotics on X</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Unitree reveals H2-X "Kung Fu Legend Guardian" humanoid with about 8-hour endurance</title>
+      <link>https://x.com/UnitreeRobotics/status/2112819774573179175</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-unitree-h2-x-kung-fu-guardian</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <enclosure url="https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-2000-80.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-2000-80.jpg" alt="" /></p>
+<p>Unitree introduced the H2-X "Kung Fu Legend Guardian," a full-size variant of its H2 humanoid. Its launch video shows spinning kicks, flips, a 4-meter drop onto mats, and staged bodyguard and rescue scenes, including lifting a car to free a dummy. The official post passed 3.5 million views within hours.</p>
+<ul>
+<li>Unitree claims "maximum endurance of approximately 8 hours." Reports say this is standing endurance, compared with about 3 hours for the base H2.</li>
+<li>Third-party posts list the robot at about 182 cm and 70 kg with 31 DoF. These specs are unconfirmed by Unitree.</li>
+<li>This is a promotional demo. No price, full spec sheet, or release date has been announced, and the guardian scenes are staged.</li>
+</ul>
+<p>Sources: <a href="https://x.com/UnitreeRobotics/status/2112819774573179175">@UnitreeRobotics on X</a>, <a href="https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills">TechRadar</a>, <a href="https://www.humanoidsdaily.com/news/unitree-h2-x-kung-fu-guardian-video">Humanoids Daily</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>AGCO signs commercial deal to pilot Agility Digit humanoids at Hesston, Kansas factory from 2027</title>
+      <link>https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-agco-agility-digit-hesston-pilot</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7bf23c6ceee5f2dd0b820_Press-Release_191026.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7bf23c6ceee5f2dd0b820_Press-Release_191026.jpg" alt="" /></p>
+<p>Agricultural equipment maker AGCO (Fendt, Massey Ferguson, Valtra) has signed a commercial agreement with Agility Robotics to pilot the Digit humanoid at its Hesston, Kansas, production facility. The pilot is expected to begin in 2027.</p>
+<ul>
+<li>Initial tasks are parts sorting and stacking, plus placing totes for storage, managed through Agility Arc fleet software.</li>
+<li>The robot count, contract value, and Digit generation have not been disclosed.</li>
+<li>The plant makes large, low-volume, highly variable equipment, which Agility pitches as a harder test than an auto line.</li>
+</ul>
+<p>Sources: <a href="https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility">Agility press release</a>, <a href="https://news.agcocorp.com/2026-10-20-AGCO-and-Agility-Robotics-Advance-Smart-Manufacturing-with-Humanoid-Robot-Pilot-in-Hesston,-Kansas,-Facility">AGCO newsroom</a>, <a href="https://x.com/agilityrobotics/status/2113017315847819653">@agilityrobotics on X</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>UC Berkeley SuperMimic trains humanoid whole-body control on one GPU in 3 hours, beating 128-GPU SONIC</title>
+      <link>https://supermimic.github.io/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-berkeley-supermimic-humanoid-control</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <enclosure url="https://supermimic.github.io/media/share/og.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://supermimic.github.io/media/share/og.jpg" alt="" /></p>
+<p>UC Berkeley researchers (Qiayuan Liao, Kevin Zakka, Pieter Abbeel, Koushil Sreenath and others) released SuperMimic, a humanoid motion tracker that trains through a learned differentiable world model instead of model-free RL. The preprint has been accepted at CoRL 2026.</p>
+<ul>
+<li>It surpassed the return of the SONIC tracker after 3 hours on one H100. SONIC reported 7 days on 128 L40 GPUs, so this is more than 1,000x fewer GPU-hours.</li>
+<li>It failed on 25 of 129,514 benchmark motions, versus 179 for SONIC, and reached zero failures after 9.8 hours on two GPUs.</li>
+<li>The policy ran flips, rolls, and jumps zero-shot on a real Unitree G1.</li>
+<li>Caveats: the comparison uses different hardware and data sizes, training covered flat ground only, and the real-robot test shows a few motions rather than a measured success rate.</li>
+</ul>
+<p>Sources: <a href="https://supermimic.github.io/">project page</a>, <a href="https://www.alphaxiv.org/abs/2610.28480">paper (arXiv 2610.28480)</a>, <a href="https://x.com/i/trending/2112971190847647871">X story</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Mitsubishi Electric unveils machining system where humanoid robots work with CNC machine tools via physical AI</title>
+      <link>https://www.mitsubishielectric.com/en/pr/2026/1021_rd/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-mitsubishi-electric-humanoid-cnc-system</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <description><![CDATA[<p>Mitsubishi Electric announced what it calls the industry's first machining system in which general-purpose humanoid robots and CNC machine tools collaborate through physical AI. The humanoids take over operator tasks such as setup, cleaning, removing and transporting finished parts, inspection, and troubleshooting.</p>
+<ul>
+<li>An AI task planner takes natural-language instructions from operators, generates machining tasks, and splits the work between the CNC machine and the humanoid.</li>
+<li>The CNC machine exchanges status with the robot in natural language, using Mitsubishi's Maisart AI.</li>
+<li>A live demo is set for JIMTOF 2026 in Tokyo starting Oct 26.</li>
+</ul>
+<p>Source: <a href="https://www.mitsubishielectric.com/en/pr/2026/1021_rd/">Mitsubishi Electric press release</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Samsung tests bipedal humanoid built for 24/7 factory work, eyeing CES 2027 debut (report)</title>
+      <link>https://www.koreajoongangdaily.com/business/samsungs-next-hire-a-robot-that-never-clocks-out/12928887</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-samsung-24-hour-humanoid-ces-2027</guid>
+      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
+      <enclosure url="https://image.koreajoongangdaily.com/12880998.jpg?imageId=12880998&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://image.koreajoongangdaily.com/12880998.jpg?imageId=12880998&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p>
+<p>Korea JoongAng Daily reports that Samsung Electronics is testing a bipedal humanoid at its Umyeon-dong R&amp;D campus in Seoul. The robot is being trained for repetitive manufacturing and logistics tasks like moving goods, with Samsung and partner staff monitoring it in three shifts to reach around-the-clock operation.</p>
+<ul>
+<li>The goal is continuous 24/7 work, reportedly helped by swappable batteries.</li>
+<li>Samsung is reportedly considering a public debut at CES 2027.</li>
+<li>This is an exclusive media report. Samsung has not formally announced the robot, so treat the details as unconfirmed.</li>
+</ul>
+<p>Sources: <a href="https://www.koreajoongangdaily.com/business/samsungs-next-hire-a-robot-that-never-clocks-out/12928887">Korea JoongAng Daily</a>, <a href="https://x.com/CyberRobooo/status/2112973944810811720">X post with video</a>.</p>]]></description>
+    </item>
+  </channel>
+</rss>
