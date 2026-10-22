@@ -7,7 +7,51 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 20:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:06:51 GMT</lastBuildDate>
+    <item>
+      <title>Hermes Agent v0.22.3 rolls up about 620 merged PRs, followed hours later by v0.22.4</title>
+      <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.3</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-21-hermes-v0-22-3-v0-22-4</guid>
+      <pubDate>Thu, 22 Oct 2026 00:06:51 GMT</pubDate>
+      <enclosure url="https://opengraph.githubassets.com/9e913728db159c176e4f21c727dda6ad4d98c0d0920c730e440f29bb69ad5ffc/NousResearch/hermes-agent/releases/tag/v0.22.3" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://opengraph.githubassets.com/9e913728db159c176e4f21c727dda6ad4d98c0d0920c730e440f29bb69ad5ffc/NousResearch/hermes-agent/releases/tag/v0.22.3" alt=""/>
+<p>Nous Research shipped <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.3">Hermes Agent v0.22.3</a> on Oct 21, a stable patch that rolls up about 620 PRs merged since v0.22.2 for the CLI and installer, the Microsoft Store app, Docker and Hermes Cloud. Full curated notes for this window are held back for v0.23.0.</p>
+<p>The release notes do name some of what landed:</p>
+<ul><li>MCP progress notifications streamed as live tool progress.</li><li>A refreshed classic CLI layout and a live <code>/loop</code> countdown row.</li><li>Plugin-declared OAuth clients that Hermes signs in and refreshes, plus an Update button for git-installed plugins in Desktop.</li><li>Steering and editing a queued prompt, and a guided subagent model picker, in Desktop.</li></ul>
+<p>A few hours later, <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.4">v0.22.4</a> removed the desktop suggestion pills above the composer and fixed WhatsApp re-pairing and a few plugin and dashboard issues.</p>]]></description>
+    </item>
+    <item>
+      <title>Jensen Huang closes NVIDIA's GTC Berlin keynote with a live Hermes Agent demo</title>
+      <link>https://x.com/NousResearch/status/2113010017645244623</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-21-hermes-jensen-gtc-berlin-demo</guid>
+      <pubDate>Thu, 22 Oct 2026 00:06:51 GMT</pubDate>
+      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2113007811546230785/img/qNPId_VjirdnTdfB?format=webp&amp;name=large" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2113007811546230785/img/qNPId_VjirdnTdfB?format=webp&name=large" alt=""/>
+<p>NVIDIA CEO Jensen Huang ended his GTC Berlin 2026 keynote with a Hermes Agent demo as the finale, <a href="https://x.com/NousResearch/status/2113010017645244623">Nous Research posted</a> on Oct 21.</p>
+<p>He framed it by saying the way to build an agent is to ask an agent to build it for you, then installed and set up a customized Hermes with a single prompt and used it live on stage. The Nous post passed 110,000 views within a few hours.</p>
+<p>It follows Hermes being picked as a launch agent for NVIDIA's RTX Spark Windows laptops last week.</p>]]></description>
+    </item>
+    <item>
+      <title>Zuckerberg on Q3 call: 10M+ Muse agents set up, shopping leads, and a Confidential VM is coming</title>
+      <link>https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-21-meta-muse-q3-earnings-business-model</guid>
+      <pubDate>Thu, 22 Oct 2026 00:06:51 GMT</pubDate>
+      <enclosure url="https://image.cnbcfm.com/api/v1/image/108367421-1790256222248-gettyimages-2296215846-META_CONNECT.jpeg?v=1790802260&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108367421-1790256222248-gettyimages-2296215846-META_CONNECT.jpeg?v=1790802260&w=1920&h=1080" alt=""/>
+<p>On Meta's Q3 2026 earnings call on Oct 21, Mark Zuckerberg said more than 10 million people in the US and Canada have set up Muse personal agents in about a month and a half, with roughly 25% using it on any given day, <a href="https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html">CNBC reported</a>.</p>
+<ul><li>Shopping is the top use case: more than a quarter of users shop through Muse, with an average purchase over $200. Plaid's connector saw record activity, and Meta had to work with Stripe to raise credit limits in the first week.</li><li>A Muse Confidential VM is coming, designed so that even Meta can't see your content, building on the current Muse Secure VM.</li><li>The business model: free for most people, with a transaction fee paid by businesses, plus paid subscriptions for advanced models, extra tokens, business features, and work use.</li><li>Meta expects to make Muse more than 10x cheaper to run within a year.</li></ul>
+<p>Details are from the <a href="https://earningscall.biz/e/nasdaq/s/meta/y/2026/q/q3">earnings call transcript</a>; Meta hasn't shared pricing or a date for the paid tiers or the Confidential VM.</p>]]></description>
+    </item>
+    <item>
+      <title>Grok Bot and Cursor status updates move to status.x.ai on Oct 26</title>
+      <link>https://status.cursor.com</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-21-grok-bot-status-moves-to-status-x-ai</guid>
+      <pubDate>Thu, 22 Oct 2026 00:06:51 GMT</pubDate>
+      <enclosure url="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/871626/output-onlinepngtools_%281%29-851726c1-8cd6-43f1-8c13-ee22f3b3b232.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/871626/output-onlinepngtools_%281%29-851726c1-8cd6-43f1-8c13-ee22f3b3b232.png" alt=""/>
+<p>Starting Oct 26, incident updates for Grok Bot and the rest of Cursor will be published on <a href="https://status.x.ai">status.x.ai</a>, and <a href="https://status.cursor.com">status.cursor.com</a> will stop sending notifications, according to a notice on the Cursor status page.</p>
+<p>Email subscriptions move over automatically. Slack users can run <code>/feed subscribe https://status.x.ai/feed.xml</code>, and the new RSS feed is <a href="https://status.x.ai/feed.xml">status.x.ai/feed.xml</a>. SMS, Microsoft Teams, and webhook notifications stop on Oct 26, so anyone relying on those needs to resubscribe by email or RSS.</p>]]></description>
+    </item>
     <item>
       <title>Grok Bot can now build reports, memos, and dashboards it keeps up to date</title>
       <link>https://x.com/bot/status/2112992872857252082</link>
