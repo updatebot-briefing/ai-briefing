@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 17:18:38 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:16:22 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 21 2026</title>
+      <link>https://x.com/BrianRoemmele/status/2112963173666185655</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 17:16:22 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HVLAzryacAA5EDx.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HVLAzryacAA5EDx.jpg" alt="Image from @BrianRoemmele's post about his Grok Bot catching credit fraud" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement. Wednesday was dominated by Grok Bot builds, from fraud cleanup and storage templates to agent dashboards, plus Claude Opus 5.5 making games, video edits and a custom TV interface.</p>
+<ol>
+<li><p><strong>A Grok Bot catches credit fraud for a friend</strong></p><p>He says a Grok Bot he built for a friend turned up seven fraudulent accounts a scammer had opened in the friend&#x27;s name, more than $65,000 in defaulted credit, and the bot is now working to get them cleared. This is his own account and he links to the bot in the post.</p><p><a href="https://x.com/BrianRoemmele/status/2112963173666185655">@BrianRoemmele on X</a> · 474 likes · 63 reposts · 5,023,174 views</p></li>
+<li><p><strong>A Grok Bot template that offloads storage to Google Drive</strong></p><p>He built a Grok Bot template called Drive Vault that moves old raw files to Google Drive when the bot&#x27;s computer runs low on space, checks each upload, then frees the space so long video jobs keep running. It also uploads finished videos to Drive and sends a one-tap link for getting them onto a phone.</p><p><a href="https://x.com/XFreeze/status/2112794321502027812">@XFreeze on X</a> · 387 likes · 46 reposts · 23,116 views</p></li>
+<li><p><strong>Opus 5.5 builds a post-apocalyptic open world</strong></p><p>He says Claude Opus 5.5 built an unfinished post-apocalyptic open-world game for him in about 17 hours using Blender and the Godot engine. He puts the cost at $118 plus 17 hours of his weekly usage.</p><p><a href="https://x.com/badboyfoxy/status/2112818987084161227">@badboyfoxy on X</a> · 205 likes · 4 reposts · 14,396 views</p></li>
+<li><p><strong>Claude edits a drone-footage reel</strong></p><p>He plugged in a hard drive of drone footage and asked Claude Opus 5.5 for a reel. Claude identified the location as Srirangam, checked the facts, picked a song and built every animation, with him approving the final cut.</p><p><a href="https://x.com/tnexplorer/status/2112880050706293081">@tnexplorer on X</a> · 202 likes · 10 reposts · 20,572 views</p></li>
+<li><p><strong>Grok Bot builds a live crypto trading terminal</strong></p><p>He had Grok Bot build an AI trading terminal with six agents that scan new token pairs, run rug checks and execute trades live. He claims it turned $19.63 into $9,179.40; that figure is his own and not independently verified.</p><p><a href="https://x.com/0xCristal/status/2112977281492897828">@0xCristal on X</a> · 126 likes · 14 reposts · 15,268 views</p></li>
+<li><p><strong>A Grok Bot class built and shipped in 48 hours</strong></p><p>He built and launched a Grok Bot class in 48 hours using Grok Bot itself, wired to Cloudflare, Resend, Stripe, Gmail and Cursor, with a team of bots running around the clock. He says 665 people have signed up so far.</p><p><a href="https://x.com/Texas_Twins_Dad/status/2112777418586894599">@Texas_Twins_Dad on X</a> · 88 likes · 7 reposts · 3,691 views</p></li>
+<li><p><strong>Dashboards for 15 Grok Bot agents with the new Pages feature</strong></p><p>She had already built a dashboard to track her 15 Grok Bot agents and is now rebuilding it with Pages to show blocked, busy and inactive bots. Next on her list are a live dashboard tracking each X post against her median and a growth dashboard by platform.</p><p><a href="https://x.com/ashnichrist/status/2112998428456194373">@ashnichrist on X</a> · 49 likes · 6 reposts · 6,692 views</p></li>
+<li><p><strong>Seven setup lessons behind 25 hours a week saved</strong></p><p>He shares the Grok Bot setup habits he credits with saving about 25 hours a week, such as handing over outcomes instead of steps, turning repeated asks into routines, and splitting recurring jobs across specialist bots. The full list is in his quoted post.</p><p><a href="https://x.com/Michael_Fenech_/status/2112717504959115514">@Michael_Fenech_ on X</a> · 32 likes · 5 reposts · 7,375 views</p></li>
+<li><p><strong>A mom&#x27;s morning email triage</strong></p><p>His mom, who he says barely texted until 2015, now uses Grok Bot every morning to summarize her email and flag which messages are worth answering.</p><p><a href="https://x.com/CostaKapo/status/2112980979782463933">@CostaKapo on X</a> · 23 likes · 0 reposts · 740 views</p></li>
+<li><p><strong>Claude Code turns an old smart TV into a custom OS</strong></p><p>He gave Claude Code his Android TV&#x27;s IP address on the same Wi-Fi, and in one evening it disabled 19 preloaded ad and tracker packages, built a new home screen he calls DreamOS, added remote sounds, and installed a VPN and Steam Link.</p><p><a href="https://x.com/0xAIGOAT/status/2112876577067245680">@0xAIGOAT on X</a> · 22 likes · 2 reposts · 814 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 20 2026</title>
       <link>https://x.com/starmexxx/status/2112632659356905895</link>
