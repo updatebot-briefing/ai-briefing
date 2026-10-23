@@ -7,7 +7,55 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 17:20:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:06:19 -0700</lastBuildDate>
+    <item>
+      <title>OpenAI nears a $30 billion raise at a $1.25 trillion valuation, led by UAE investors and Coatue</title>
+      <link>https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-22-openai-30b-raise-1-25t-valuation</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
+      <enclosure url="https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1792535657&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1792535657&amp;w=1920&amp;h=1080" alt=""/><p><a href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html">CNBC reports</a> that OpenAI is raising up to $30 billion at a $1.25 trillion pre-money valuation, with investors from the UAE leading alongside Coatue. People familiar with the deal say it's pitched as an "opportunistic" bridge before an IPO, and OpenAI told investors it wants signatures by the end of next week. OpenAI declined to comment and terms could still change.</p><ul><li>OpenAI is also reportedly negotiating a deal for more computing capacity from the UAE. Its last raise in March valued it at $852 billion, and it filed confidentially for an IPO in June (<a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">TechCrunch</a>).</li><li>A month ago Bloomberg reported a $30 billion raise at about $1.4 trillion, so the price has come down a bit.</li></ul><p>Why it matters: it would be the highest valuation ever for a private company, and it sets the bar for both OpenAI's own IPO and Anthropic's, which is reportedly seeking $1.5 to $2 trillion.</p>]]></description>
+    </item>
+    <item>
+      <title>DeepSeek raises about $15 billion from Tencent, CATL and other Chinese backers</title>
+      <link>https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-22-deepseek-15b-funding-round</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
+      <enclosure url="https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920&amp;format=jpeg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920&amp;format=jpeg" alt=""/><p><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">Bloomberg</a> first reported, and <a href="https://www.devdiscourse.com/article/international/3996376-deepseek-wrapping-up-15-billion-fundraising-to-fuel-ai-race-sources-say">Reuters</a> followed, that DeepSeek has raised about 100 billion yuan (roughly $15 billion) at a pre-money valuation of about 500 billion yuan. That's double its original 50 billion yuan target. DeepSeek hasn't commented, and Reuters' sources say the details could still change before it closes in the coming days.</p><ul><li>Existing shareholders CATL and Tencent are among the biggest investors. Reuters says more than 15 investors joined, including GigaDevice, Meituan, Geely, Midea, NetEase, Boyu Capital and IDG Capital.</li><li>Combined with its first round, which closed in June, DeepSeek has raised about 150 billion yuan in under six months and is preparing for an IPO on Shanghai's STAR Market (<a href="https://www.thestandard.com.hk/finance/article/345350/DeepSeek-doubles-funding-round-to-100bn-yuan-as-valuation-holds-steady">The Standard</a>).</li></ul><p>Why it matters: it's China's biggest private financing of the year and gives its leading open-weight lab real capital, much of it from chip and supply-chain companies, just days after the US banned DeepSeek from federal civilian systems.</p>]]></description>
+    </item>
+    <item>
+      <title>Meta shares drop about 7% as AI spending pushes its free cash flow negative</title>
+      <link>https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-22-meta-capex-negative-free-cash-flow</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
+      <enclosure url="https://image.cnbcfm.com/api/v1/image/108039322-17273001022024-09-25t204232z_1101917728_rc2u7aaqtwho_rtrmadp_0_meta-platforms-virtual-reality-zuckerberg.jpeg?v=1792695599&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108039322-17273001022024-09-25t204232z_1101917728_rc2u7aaqtwho_rtrmadp_0_meta-platforms-virtual-reality-zuckerberg.jpeg?v=1792695599&amp;w=1920&amp;h=1080" alt=""/><p>Meta stock fell nearly 7% on Thursday after its third-quarter report showed free cash flow of negative $2.12 billion and a higher floor for AI spending, <a href="https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html">CNBC reports</a>. Revenue rose 26% to $64.6 billion, beating estimates.</p><ul><li>Meta now expects 2026 capital expenditures of $135 billion to $145 billion, raising the bottom of the range from $130 billion.</li><li>It will create a new class of nonvoting Class C shares to "finance its growth," and the spread on its five-year credit default swaps hit a record high, a sign of rising credit worries (<a href="https://www.channelnewsasia.com/business/meta-shares-slide-default-insurance-hits-record-ai-spending-alarms-investors-6482571">Reuters via CNA</a>).</li></ul><p>Why it matters: it's the clearest sign yet that AI infrastructure spending is outrunning even Meta's cash flow, and it helped drive a broader drop in AI stocks on Thursday.</p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic uses Claude to formally prove 123 open-source libraries crash-free at the machine-code level</title>
+      <link>https://www.anthropic.com/research/formal-verification</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-22-anthropic-claude-formal-verification-123-libraries</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg" alt=""/><p>Anthropic's Frontier Red Team, working with Theorem, <a href="https://www.anthropic.com/research/formal-verification">published</a> what it calls the first large-scale use of AI to formally verify production software at the assembly level. Over a few weeks, Claude proved that 239 fuzzing entry points across 123 OSS-Fuzz libraries can never crash on any input under 64 MB, after patching the bugs it found along the way.</p><ul><li>The proofs total about 180 million lines of Rocq, typically about 600,000 lines each, and are checked automatically, so people don't need to review them.</li><li>The work turned up hundreds of bugs, including ones fuzzers would almost never hit, and a rediscovery of a known libexpat CVE. They hold only under stated assumptions: a single-threaded static binary on RISC-V Linux.</li><li>Anthropic is publishing part of the proofs, and Theorem is offering to run the pipeline for other open-source projects. The main limit is cost, since proofs can take hundreds of millions of tokens.</li></ul><p>Why it matters: formal verification used to take expert years, which limited it to things like avionics. If AI makes it cheap, defenders get provable guarantees just as AI makes finding exploitable bugs easy.</p>]]></description>
+    </item>
+    <item>
+      <title>Microsoft study in Science says its MAI-DxO diagnostic AI beats generalist doctors on hard cases</title>
+      <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-22-microsoft-mai-dxo-science-doctors</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024" alt=""/><p>A <a href="https://www.science.org/doi/10.1126/science.aeh7930">study published in Science</a> found that Microsoft's MAI-DxO, which coordinates several AI agents acting like a panel of doctors, got complex New England Journal of Medicine cases right 83% of the time, versus 36% for generalist physicians working with reference materials (<a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">TechCrunch</a>). <a href="https://x.com/mustafasuleyman/status/2113332931423039945">Mustafa Suleyman says</a> it's also 1.7 times as accurate as physicians in emergency department cases, while ordering fewer tests.</p><ul><li>Specialists, who normally handle cases this complex, weren't in the comparison, and most of the gain came from stronger underlying models such as GPT-5.5. The orchestration layer helped most on hard cases and weaker models.</li><li>Microsoft is starting a real-world evaluation with Beth Israel Deaconess Medical Center and is training a healthcare foundation model with Mayo Clinic for release next year.</li></ul><p>Why it matters: it's a peer-reviewed result in a top journal, and Microsoft is now moving from benchmarks to live hospital trials in the race with Google and OpenAI over clinical AI.</p>]]></description>
+    </item>
+    <item>
+      <title>Microsoft researchers use AI agents to help prove the 31-year-old KLS conjecture</title>
+      <link>https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-22-kls-conjecture-solved-ai-agents</guid>
+      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
+      <enclosure url="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/KLS-TWLIFB-1200x627-1.jpg" alt=""/><p>Microsoft Research's Xinzhi Zhang and co-author Zhao Song have <a href="https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/">proved the Kannan–Lovász–Simonovits conjecture</a>, a central open problem in high-dimensional geometry since 1995 (<a href="https://arxiv.org/abs/2610.01447v1">paper</a>). It shows that simple flat cuts capture a log-concave distribution's narrowest bottleneck within a fixed factor, no matter how many dimensions there are.</p><ul><li>The key criterion came from a human-directed process: AI agents explored more than 100 candidate approaches in parallel while the researchers pruned weak directions and passed the best results forward.</li><li>Unguided attempts with several leading models, on about the same token budget, failed. Separate groups posted parallel proofs building on the Microsoft paper, and a <a href="https://hongruzhao.github.io/blog/2026-10-08-kls-conjecture-lean-formalization/">Lean 4 formalization</a> followed.</li></ul><p>Why it matters: it's one of the clearest cases so far of AI agents helping crack a major math problem, with independent proofs and machine-checked verification. It also shows that the gains came from researchers steering the agents, not from a single model run.</p>]]></description>
+    </item>
     <item>
       <title>OpenAI-assisted researchers find critical PHP flaws affecting most of the web</title>
       <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/</link>
@@ -622,138 +670,6 @@
 <li>Elon kept promoting it last night, saying using Grok Bot "is like hiring a super smart, hard-working person for peanuts" (<a href="https://teslanorth.com/2026/10/09/grok-bots-grokipedia/">TeslaNorth</a>).</li>
 </ul>
 ]]></description>
-    </item>
-<item>
-      <title>AI briefing — Thu Oct 8, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-08</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-10-08</guid>
-      <pubDate>Thu, 08 Oct 2026 12:49:15 -0700</pubDate>
-      <description><![CDATA[<p><em>Late edition: this morning's scheduled briefing didn't go out, so this covers everything since yesterday's 8:20am PT briefing.</em></p>
-
-<p>Thursday, Oct 8. ChatGPT's GPT-6, with new interactive "Intelligent UI" answers, is now reaching everyone, including Free users starting today. Closer to home, Grok Bot can now search and watch X without a connector, Elon confirmed Bots can get their own email addresses, and Anthropic shipped a much cheaper Claude Haiku 5.5.</p>
-
-<p><strong>Grok Bot</strong></p>
-<ul>
-<li><strong>X search is built in now.</strong> <a href="https://x.com/bot">@bot</a> posted on Oct 7 that "Grok Bot can now search, read, and monitor X," and a reply said it's for all users with no X connector needed. You still connect your own X account for your timeline and mentions. Limits weren't published, and CryptoBriefing's "100+ posts per prompt" figure is still unconfirmed by SpaceXAI (<a href="https://teslanorth.com/2026/10/08/grok-bot-search-read-monitor-x/">TeslaNorth</a>, <a href="https://aicoder.com/news/news-20261007-grok-bot-native-x-search-read-monitor">AICoder</a>).</li>
-<li><strong>Bots can have their own email address.</strong> Asked on Oct 7 whether Grok Bot really has its own email now, Elon replied "Yes," and some users report Bots claiming name@mail.grokbot.com inboxes (<a href="https://www.techcityauthority.com/2026/10/grok-bot-email-inbox-mail-grokbot.html">Tech City Authority</a>). RuntimeWire had found code for it in the 0.68.1 Windows app, including a view for up to 10 inboxes (<a href="https://runtimewire.com/article/grok-bot-s-windows-app-also-contains-a-gated-email-address-workflow">RuntimeWire</a>). There's no official page, changelog entry, or limits yet, so who gets it and how it works are still unconfirmed.</li>
-<li>Still no official x.ai post on Elon's Oct 7 comment that Grok Bot will use the best backend model for each job, including Claude Opus 5.5. <a href="https://x.ai/news">x.ai/news</a> still tops out at Team Bots (Sep 28).</li>
-<li>The <a href="https://x.ai/changelog/bot">changelog</a> is still at v0.68.1 (slide decks, the bigger 1920x1200 screen, Gmail fixes), which you already have.</li>
-<li>Two incidents, both resolved (<a href="https://status.cursor.com">Cursor status</a>). Grok Bot computers in some regions were degraded yesterday from about 8:59 to 10:25am PT. This morning, Opus 5.5 hit rate-limit errors across every Cursor product, Grok Bot included, from about 6:55 to 8:31am PT.</li>
-<li>Cursor's newest <a href="https://cursor.com/changelog">changelog</a> entry is still Remote control for local agents: the Cursor iOS app can watch and message agents running on your own computer.</li>
-</ul>
-
-<p><strong>Models and features</strong></p>
-<ul>
-<li><strong>ChatGPT:</strong> <a href="https://openai.com/index/gpt-6-for-everyone/">GPT-6 and Intelligent UI</a> are rolling out to everyone. Answers can now include charts, diagrams, buttons, forms, and small tools like a calculator or bill splitter, right in the chat. Paid plans got GPT-6 Sol on Oct 7, and Free and Go get the lighter GPT-6 Luna starting today. The rollout is staged, so some accounts won't see it yet. It's only in the Chat tab (Work and Codex aren't changing), there's no separate usage quota, and the older Mac and Windows desktop apps don't support it, so use the web.</li>
-<li><strong>Claude:</strong> <a href="https://www.anthropic.com/claude-haiku-5-5">Claude Haiku 5.5</a> came out Oct 7. It's Anthropic's fastest and cheapest model: $0.10 per million input tokens and $0.50 per million output tokens for prompts up to 100K tokens ($0.50/$2.50 above that). Anthropic says that's about 75% cheaper than Haiku 4.5 for typical work. It's in the Claude apps on every plan including Free, in Claude Code, and on AWS, Google Cloud, and Microsoft Foundry. Sonnet 5.5 cache reads also got 50% cheaper.</li>
-<li><strong>Gemini:</strong> as pinged earlier, Google launched the <a href="https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/">Gemini agent</a> at Gemini at Work today. It's one agent with its own Workspace account and email address that plans and finishes work, for businesses first and consumers later. Google's Oct 7 <a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/">SynthID post</a> also opened its AI-content checker to everyone. It checks images, video, and audio for watermarks from Google, OpenAI, NVIDIA, and Kakao, with Apple coming soon.</li>
-<li><strong>Grok:</strong> nothing new shipped on x.ai or in the API release notes.</li>
-</ul>
-
-<p><strong>OpenAI Dots</strong></p>
-<ul>
-<li>No new official features, pricing, or limits since launch. As it stands, your first dot comes with Pro ($100, $200, or $500 a month) and Business Premium, and it's not on Plus, Go, or Free. There's still no per-dot price, and no price yet for extra dots or more speed. Chatting with a dot doesn't count against your limits, but Codex and Work tasks it starts do. Limits are extended for the launch month, and permanent terms still aren't out (expected around Oct 29) (<a href="https://openai.com/index/introducing-dots/">OpenAI</a>).</li>
-<li>Unconfirmed: RuntimeWire found code in ChatGPT's Windows app for dots to claim their own email addresses (personal handles, plus fixed work addresses under chatgpt.email). OpenAI's guide still says dots can't get their own address at launch (<a href="https://theclarity.today/story/chatgpt-code-gives-work-dots-fixed-chatgpt-email-addresses-a40a48d8">summary</a>).</li>
-</ul>
-
-<p><strong>Grok Bot-style competitors</strong></p>
-<ul>
-<li><strong>Tab</strong> came out of stealth at a $300M valuation (<a href="https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/">TechCrunch</a>). You text it on iMessage or WhatsApp, and it has its own phone number, computer, and wallet to book, call, and pay for things. Nothing is paid without your OK. It's waitlist-only for now, and it didn't say how much it raised.</li>
-<li><strong>Hark Pro</strong>, from Brett Adcock's Hark, went to wide release on Oct 6 (<a href="https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/">TechCrunch</a>). It's free, with a paid tier for heavy users. It's a full-screen assistant that uses a computer for you and shows its browsing in a small window. Hardware is planned for 2027.</li>
-<li><strong>Underdog</strong> is in invite-only beta: a free assistant that runs entirely on your own Mac or PC rather than in the cloud (<a href="https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/">TechCrunch</a>).</li>
-<li><strong>Herald OS</strong>, an independent open-source desktop built around Hermes Agent by @iamlukethedev, came out Oct 7. You can install it as a Linux system or run it full screen on a Mac. It's an early alpha from a single developer and isn't affiliated with Nous (<a href="https://www.techcityauthority.com/2026/10/herald-os-hermes-agent-linux.html">Tech City Authority</a>).</li>
-<li><strong>Sierra</strong> launched <a href="https://sierra.ai/blog/caller-id-in-the-age-of-agents">fleming-1</a>, which tells businesses when the caller on a phone line is an AI agent. A day earlier it proposed a Personal Agent Protocol so agents can identify themselves to businesses. Both matter as personal agents start making calls.</li>
-</ul>
-
-<p><strong>Major AI news</strong></p>
-<ul>
-<li>Anthropic launched a cyber push today: a Critical Infrastructure Defense Program with partners like CrowdStrike, Palo Alto Networks, and Accenture, plus OSS Scanner, a free Claude-powered vulnerability scanner for open-source projects. Its reports aren't checked by a human first (<a href="https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity">Axios</a>).</li>
-<li>OpenAI shut down Russian and Iranian influence operations that used ChatGPT to run fake journalists and a fake think tank that got stories into real outlets. It's the first time OpenAI has rated campaigns as high-impact (<a href="https://cyberscoop.com/openai-disrupts-russia-iran-ai-influence-operations/">CyberScoop</a>).</li>
-<li>SpaceX is reportedly looking to raise $40B in debt to buy Nvidia AI chips, with Apollo expected to lead (FT via Reuters, <a href="https://qz.com/spacex-raise-40-billion-nvidia-ai-chips-100726">Quartz</a>).</li>
-</ul>
-
-<p><strong>Hermes</strong></p>
-<ul>
-<li><a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.21.6">v0.21.6</a> went stable at 4:51am PT today. It's a patch rollup of about 2,100 merged PRs for Docker, Hermes Cloud, and CLI installs (<code>hermes update</code>). The desktop app and Termux stay on their current build for now. It includes security fixes worth taking if you self-host: dashboard sign-in hardening, including a redirect bug that could allow session takeover; untrusted repos that could run git filter programs during automatic git calls; and an email allowlist bypass using a spoofed sender name. Full notes come with v0.22.0.</li>
-<li>Nous confirmed its $90M Series B at a $1.5B valuation and launched "Hermes for Businesses." Total funding is now $158M, and Nous says Hermes has been cloned more than 24M times (<a href="https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/">TechCrunch</a>).</li>
-</ul>
-
-<p><strong>Grok Bot on X</strong></p>
-<ul>
-<li>I couldn't read <a href="https://x.com/bot">@bot</a> directly today because the public mirrors were down or rate-limited. According to news coverage, its one new post since Oct 2 is the Oct 7 X search announcement with a demo video, and it has been replying to people who tag it with "sending that to your Grok Bot now."</li>
-</ul>]]></description>
-    </item>
-<item>
-<title>Google Cloud launches Gemini agent: universal enterprise work agent with coworker identity and cloud persistence</title>
-<link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-08-google-gemini-agent</guid>
-<pubDate>Thu, 08 Oct 2026 12:44:44 -0700</pubDate>
-<description><![CDATA[<p>At Gemini at Work 2026 on Thursday, Oct 8, Google Cloud announced the Gemini agent — a single universal agent for enterprise work that plans tasks, uses tools and skills, connects to business systems, and returns finished work in docs, email, and developer environments.</p><ul><li>Runs persistently in the cloud across web, iOS/Android, Windows/Mac, Slack, Workspace, and Microsoft 365, keeping one memory and personalization graph.</li><li>Coworker mode: agents get their own @agents.company.com email, calendar, Drive, and directory presence, acting under their own identity with only shared context.</li><li>Can spawn temporary sub-agents for multi-step jobs that run hours to days; execution inside an Agent Sandbox behind Agent Gateway.</li><li>Orchestrates across Gemini models and Anthropic Claude (more models planned); Financial Services and Legal specializations in preview.</li><li>Enterprise private preview now; Gemini Enterprise Plus has a 30-day trial path.</li></ul><p>Sources: <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/">Google Keyword</a>, <a href="https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise">The Verge</a>, <a href="https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html">CNBC</a></p>]]></description>
-</item>
-<item>
-<title>Microsoft ships Execution Containers (MXC) GA on Windows 11: OS-level sandboxing for always-on agents, Hermes and Claude Code support coming</title>
-<link>https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-07-microsoft-mxc-ga</guid>
-<pubDate>Wed, 07 Oct 2026 14:31:41 -0700</pubDate>
-<description><![CDATA[<p>At a Microsoft and NVIDIA event in San Francisco on Wednesday, Oct 7, Microsoft made Microsoft Execution Containers (MXC) generally available on Windows 11. MXC lets agents run persistently in the background under OS control, with file and network access policies enforced at runtime and containment options from process isolation to WSL, VMs, and Windows 365 for Agents, tied into Agent 365 and Intune for governance.</p><ul><li>Already supported by OpenAI Codex, GitHub Copilot, OpenClaw, Replit, LM Studio, NVIDIA OpenShell, and Unsloth. Coming: Claude Code, Hermes Agent by Nous Research, Manus, Perplexity, Raycast, Simular, and more.</li><li>Meta's Muse for Windows is coming soon as a native app with MXC integration.</li><li>Microsoft announced few-click out-of-box setup for always-on agents on mini desktop PCs, starting with a native Windows gateway for OpenClaw.</li><li>Copilot on Copilot+ PCs (including the Autopilot persistent agent) gets local context, local actions, and local models over the coming months.</li><li>NVIDIA RTX Spark Windows PCs (Surface Laptop Ultra, Dell, HP, Lenovo, ASUS, MSI) are up for pre-order today, shipping Oct 16; DGX Station for Windows later this year.</li></ul><p>Sources: <a href="https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/">Windows Experience Blog</a>, <a href="https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/">NVIDIA Blog</a></p>]]></description>
-</item>
-<item>
-<title>Grok Bot 0.68.1 notes: slide decks, bigger 1920x1200 Bot computer, formatted emails</title>
-<link>https://x.ai/changelog/bot</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-0-68-1-changelog</guid>
-<pubDate>Wed, 07 Oct 2026 10:40:17 -0700</pubDate>
-<description><![CDATA[<p>SpaceXAI published Grok Bot 0.68.1 release notes on the official changelog (Oct 7), plus the previously missing 0.68.0 notes (Oct 5). Earlier today the build was out without notes.</p><ul><li>Bots can build slide decks with you, showing sample slides to pick from, and deliver PowerPoint files or Google Slides.</li><li>The Bot's computer screen is now 1920 x 1200, up from 1280 x 800, and computer actions, screenshots, and new windows are faster.</li><li>Formatted emails from draft cards, Gmail Spam search and restore, and Team Bots can mention Slack user groups.</li><li>1:1 Bot chats take the Bot's color (Settings, General, Accent set to Black turns it off).</li><li>Fixes: fewer Gmail send/reply failures, browser recovers from crashed tabs, stuck steps end within about 30 seconds, reconnect cards for X and Vercel sign-in.</li><li>0.68.0 (Oct 5) added Remove for other computers in Settings, Computer; send-as Gmail addresses; and more languages.</li></ul><p>Separately, status.cursor.com logged a Grok Bot computer degradation in certain regions from 8:59 to 10:25am PT today; it's resolved.</p><p>Sources: <a href="https://x.ai/changelog/bot">Grok Bot changelog</a>, <a href="https://stspg.io/rh45hf9t61t5">Cursor status incident</a></p>]]></description>
-</item>
-<item>
-<title>Breaking: Musk says Grok Bot will use the best backend per task, including Claude Opus 5.5, Midjourney, Suno</title>
-<link>https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-07-grok-bot-best-backend</guid>
-<pubDate>Wed, 07 Oct 2026 09:41:17 -0700</pubDate>
-<description><![CDATA[<p><strong>Grok Bot is going model-agnostic.</strong> Elon Musk posted on X Wednesday (Oct 7) an "important note regarding Grok @Bot": going forward SpaceX will use "the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome."</p>
-<p>Per follow-up reporting (<a href="https://www.tao.media/spacexai-opens-grok-bot-backend-to-claude-opus-5-5-and-rival-ai-apis/">TAO</a>), Grok Bot engineer @poteto said all Bots will run on Opus 5.5 and be able to spawn cloud agents using available Cursor models. No official SpaceXAI post, timeline, pricing, or per-task routing details yet; x.ai/news and the Grok Bot changelog (still v0.66.0) haven't been updated.</p>
-<p>Coverage: <a href="https://thenextweb.com/news/grok-bot-claude-opus-midjourney-suno-musk">The Next Web</a>, <a href="https://digg.com/ai/c52r1epm">Digg thread with the post</a>.</p>
-<p>Also: status.cursor.com shows an open minor incident since 8:59am PT, "service degradation affecting Grok Bot's computers in certain regions" (<a href="https://stspg.io/rh45hf9t61t5">incident</a>).</p>]]></description>
-</item>
-<item>
-      <title>AI briefing — Weekday, Oct 7, 2026</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml#updatebot-briefing-2026-10-07</link>
-      <guid isPermaLink="false">updatebot-briefing-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 08:21:28 -0700</pubDate>
-      <description><![CDATA[<p>Wednesday, Oct 7. Hermes maker Nous Research raised a big round, Claude now works inside Google Docs, Sheets, and Slides, and today's free Grok Bot workshop covers marketing at 10am PT.</p>
-
-<p><strong>Grok Bot</strong></p>
-<ul>
-<li>Today's free Zoom workshop is <a href="https://luma.com/yjve9qo3">Grok Bot for Marketing</a>, 10 to 11am PT, going from idea to launch with a team of Bots. "What's New in Grok Bot" is tomorrow at the same time, and Grok Bot 201 is Friday.</li>
-<li>Version 0.68.1 is now the stable desktop build, replacing 0.66.0, but no release notes came with it (<a href="https://techdevnotes.com/releases/grok-bot/20261006-180909Z-4d2b9b0e22fa">Tech Dev Notes</a>). The official <a href="https://x.ai/changelog/bot">changelog</a> still tops out at v0.66.0 from Oct 2.</li>
-<li>Yesterday's outages are over. Grok Bot and Cloud Agents were degraded from about 12:27 to 3:06pm PT, with a shorter Cloud Agents blip from 3:48 to 4:04pm PT. <a href="https://status.cursor.com">Cursor status</a> shows everything operational this morning.</li>
-<li>Cursor's newest <a href="https://cursor.com/changelog">changelog</a> entry, Remote control for local agents, lets the Cursor iOS app steer agents running on your own computer.</li>
-</ul>
-
-<p><strong>Models and features</strong></p>
-<ul>
-<li>Claude: <a href="https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides">Claude for Google Workspace</a> is in public beta on all paid plans as of Oct 6. It's a sidebar in Docs, Sheets, and Slides that edits your open file, with "Ask before edits" on by default, and new beta connectors let Claude create and edit Google files straight from chat.</li>
-<li>ChatGPT: paid plans can now upload audio files for transcription, summaries, and meeting notes. It rolled out Oct 6 and isn't on Free (<a href="https://www.cravingtech.com/chatgpt-can-now-import-and-transcribe-audio-files.html">CravingTech</a>).</li>
-<li>Gemini: Google launched <a href="https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/">Playground</a> today, a free experiment for building playable games from prompts, open to US users 18 and up, with Unity Spark tools coming later. Google also opened its <a href="https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/">SynthID checker</a> to everyone for spotting AI-made images, video, and audio, and Gemini can now search your Google Chat history once you turn it on in Chat settings.</li>
-<li>Grok: nothing new shipped since the last briefing.</li>
-</ul>
-
-<p><strong>Major AI news</strong></p>
-<ul>
-<li>More detail on OpenAI's math drop from yesterday: it's 722 manuscripts covering 372 open problems, including a claimed solution to the four-dimensional Kakeya conjecture, all from an unnamed internal model. Mathematicians are still sorting through it (<a href="https://www.newscientist.com/article/2592421-openai-announces-722-mathematical-discoveries-in-one-go/">New Scientist</a>, <a href="https://www.engadget.com/2279815/openai-just-posted-hundreds-more-results-on-major-math-problems/">Engadget</a>).</li>
-<li>Biohub, the Department of Energy, NIH, Google DeepMind, Isomorphic, and Meta are putting about $1.8B toward AI-ready biology data (<a href="https://techstartups.com/2026/10/07/zuckerbergs-biohub-lands-google-and-u-s-government-backing-for-1-8-billion-ai-biology-push/">Tech Startups</a>).</li>
-<li>The personal-agent race keeps filling up. Khosla-backed <a href="https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/">Wajo</a> pitches its Fo agent on trust: it has its own email and virtual cards, makes phone calls for you, and can hire a human when it's stuck. It runs errands over iMessage and WhatsApp rather than on a computer of its own.</li>
-</ul>
-
-<p><strong>Hermes</strong></p>
-<ul>
-<li>Nous Research raised a $90M Series B at a $1.5B valuation to take Hermes Agent into enterprises (<a href="https://www.wsj.com/pro/venture-capital/nous-research-scores-90-million-to-bring-open-source-ai-assistant-to-enterprises-516f9208">WSJ</a>). Robot Ventures led, with NVIDIA, Microsoft's M12, Samsung, and USV joining. Hermes stays free and MIT-licensed, and Nous is adding SSO, permissions, workspace isolation, and audit logs on top. A <a href="https://www.kucoin.com/news/flash/nous-research-raises-90m-in-b-round-to-expand-hermes-agent-to-enterprise-market">secondary summary</a> also cites 22.7M downloads and about $36M in annualized revenue as of mid-September.</li>
-<li>The latest stable release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.21.5</a> from Sep 24.</li>
-</ul>
-
-<p><strong>Grok Bot on X</strong></p>
-<ul>
-<li><a href="https://x.com/bot">@bot</a> has been quiet since Oct 2, when it reset usage limits for all Grok Bot users. Before that, on Oct 1, it announced that Grok Bot can now suggest ways to help without being asked.</li>
-</ul>]]></description>
     </item>
   </channel>
 </rss>
