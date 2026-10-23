@@ -6,7 +6,78 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:17:50 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:15:10 -0700</lastBuildDate>
+    <item>
+      <title>Figure 04 humanoid hits full design lock as Figure shares its internal all-hands publicly</title>
+      <link>https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-figure-04-design-lock</guid>
+      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-04-design-review.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-04-design-review.webp" alt="" /></p>
+<p>Figure CEO Brett Adcock published the company's internal all-hands meeting on X on Oct 22, saying Figure's roadmap "has completely changed over the last year" and the team has doubled.</p>
+<ul>
+<li>The headline milestone: Figure 04, the company's fourth-generation humanoid, has reached full design lock, and Figure has started shipping parts for it.</li>
+<li>Adcock calls it Figure's biggest hardware leap yet, an "iPhone 1 moment," aimed at easier manufacturing at the BotQ plant, lower cost, and home safety.</li>
+<li>No specs, price, or launch date were given, and the robot was shown blurred. Figure 03 stays the commercial product for now.</li>
+</ul>
+<p>Sources: <a href="https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock">Humanoids Daily</a>, <a href="https://humanoid.guide/figure-roadmap-has-completely-changed-brett-adcock-says/">Humanoid Guide</a>, <a href="https://x.com/adcock_brett/status/2113291696725516506">Brett Adcock's post on X</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Google DeepMind's Gemini 4 Argon teaches Apptronik's Apollo humanoid a skill straight from video</title>
+      <link>https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-deepmind-gemini-4-argon-apollo</guid>
+      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
+      <enclosure url="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/google-deepmind-argon-apollo-1.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/google-deepmind-argon-apollo-1.png" alt="" /></p>
+<p>As part of the Gemini 4 Argon launch, Google DeepMind showed a "Video-to-Sim-to-Real" pipeline: Argon watched raw video of a person playing cornhole, mapped the scene, worked out the whole-body joint motions, and wrote its own simulation code. The learned behavior was then transferred to Apptronik's Apollo humanoid.</p>
+<ul>
+<li>DeepMind says Apollo landed seven consecutive shots in a real-world trial.</li>
+<li>It says the pipeline compresses weeks of manual simulation modeling into a few hours.</li>
+<li>Argon scored 87% on DeepMind's Embodied Reasoning (ERQA) benchmark. These results are DeepMind's own internal tests.</li>
+</ul>
+<p>Source: <a href="https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/">Robotics &amp; Automation News</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Agility standardizes Digit 5 on NVIDIA IGX Thor; reports over $300M in Digit 5 orders</title>
+      <link>https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-agility-digit-5-nvidia-igx-thor</guid>
+      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
+      <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image.jpg" alt="" /></p>
+<p>Agility Robotics said on Oct 22 that the general-availability version of Digit 5 will use NVIDIA IGX Thor modules as its only onboard computer, making NVIDIA the exclusive compute supplier. Agility is also folding more NVIDIA Halos safety models into Digit's human-detection system, and NVIDIA's Halos inspection lab will review Digit's safety software ahead of third-party certification.</p>
+<ul>
+<li>Early access to Digit 5 is expected in the first half of 2027, with wider availability over the following six to nine months.</li>
+<li>Agility says it has more than $300 million in multi-year Digit 5 orders (subject to contract milestones), four new customers, and a new 50,000 sq ft Pittsburgh site.</li>
+<li>It's the company's fourth announcement in four days as it heads toward a Nasdaq listing (ticker AGLT) via its Churchill Capital XI merger.</li>
+</ul>
+<p>Sources: <a href="https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale">Agility press release</a>, <a href="https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor">The Next Web</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Unitree unveils "Unitree Rehearsal," a self-improving AI loop for humanoid development</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-unitree-rehearsal-self-evolving</guid>
+      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/22/9decc5ea-7f75-4d73-916b-d658b861d101_f3cb8822.jpg?itok=EqXHmIAC&amp;v=1792674453" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/22/9decc5ea-7f75-4d73-916b-d658b861d101_f3cb8822.jpg?itok=EqXHmIAC&amp;v=1792674453" alt="" /></p>
+<p>Unitree founder Wang Xingxing, speaking at the company's physical AI conference in Hangzhou on Oct 22, unveiled "Unitree Rehearsal," which he called Unitree's most important project of the year.</p>
+<p>The goal is a feedback loop where AI searches research papers, writes robot code, tests it in simulation, and then runs trials on physical robots, with humans still able to judge results and give feedback. Wang said the aim is an automated cycle that could greatly speed up robotics algorithm development. The system is still in development.</p>
+<p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves">South China Morning Post</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Danish grocer Føtex pilots humanoid robots restocking shelves after hours with HIVE Robots</title>
+      <link>https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-fotex-hive-humanoid-shelf-pilot</guid>
+      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
+      <enclosure url="https://i.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMTBcXFwvMjAxMjU3MDlcXFwvSkJOX0hJVkVfMDA5NzAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2ltZy5yZXNpemVkLmNvXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzZjliOGJkZDcxYjA3ZGIxZjRlMDBlMmIxY2JhZTMzMTFhNjY4OGUwIn0=/salling-group-s-ftex-tests-humanoid-robots.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://i.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMTBcXFwvMjAxMjU3MDlcXFwvSkJOX0hJVkVfMDA5NzAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2ltZy5yZXNpemVkLmNvXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzZjliOGJkZDcxYjA3ZGIxZjRlMDBlMmIxY2JhZTMzMTFhNjY4OGUwIn0=/salling-group-s-ftex-tests-humanoid-robots.jpg" alt="" /></p>
+<p>Salling Group's Føtex chain has started training humanoid robots to restock grocery shelves after closing time at a store in Lyngby, north of Copenhagen, through a multi-year partnership with Danish startup HIVE Robots.</p>
+<ul>
+<li>Unitree builds the hardware; HIVE writes the control software and runs the machine learning, using human "robot pilots" in VR headsets to teach tasks like shelving bags of pasta.</li>
+<li>Føtex says shelf replenishment takes 40 to 50% of staff time. The robots are still slower than people.</li>
+<li>HIVE targets commercial deployment by early 2027 on an hourly service fee; Føtex says a full rollout could take up to five years.</li>
+</ul>
+<p>Source: <a href="https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091">ESM Magazine</a> (citing Euronews).</p>]]></description>
+    </item>
     <item>
       <title>Tesla starts early Optimus production on Fremont high-volume line; 20,000/week rate at least a year away</title>
       <link>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/</link>
