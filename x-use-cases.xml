@@ -7,7 +7,48 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 21 Oct 2026 17:16:22 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:09:37 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 22 2026</title>
+      <link>https://x.com/Marko_Poly/status/2113174642160537901</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 17:09:37 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2113174531296649216/img/k8wjuqBk8XYArAl1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2113174531296649216/img/k8wjuqBk8XYArAl1.jpg" alt="Video still from @Marko_Poly's post about a Grok Bot lead site" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement. Thursday leaned hard into Grok Bot doing real work: a lead-generation site, a portable second brain, a family assistant and a parking-ticket fight, plus Claude and Codex building a game and developer tools.</p>
+<ol>
+<li><p><strong>A Grok Bot lead site pulls in crane rental requests</strong></p>
+<p>Marko breaks down a podcast demo where Grok Bot found an under-served service in Laredo, bought an $11 domain, built the site, wired up Google Analytics and Search Console, and now sends a weekly ranking report. The site pulled in about $35,000 worth of crane rental requests in its first month (the value of the jobs, not revenue).</p>
+<p><a href="https://x.com/Marko_Poly/status/2113174642160537901">@Marko_Poly on X</a> · 909 likes · 42 reposts · 89,864 views</p></li>
+<li><p><strong>Moving a fiancée&#x27;s AI second brain from Claude Code to Grok Bot</strong></p>
+<p>Vinay moved his fiancée&#x27;s second brain (a GitHub repo of notes plus an Obsidian vault) off Claude Code on a home Mac Mini and onto Grok Bot, which runs on its own cloud computer, so it doesn&#x27;t go offline when she travels. She now talks to it by voice from her phone, and he uses Grok Bot to drive his home server.</p>
+<p><a href="https://x.com/vinayp10/status/2113263397491855821">@vinayp10 on X</a> · 301 likes · 14 reposts · 144,630 views</p></li>
+<li><p><strong>Grok Bot builds a Starship flight tracker</strong></p>
+<p>XFreeze replied to @bot with one line, and Grok Bot used his past history to build a dashboard covering all 14 Starship flights, with launch dates, booster catches, reentries, outcomes, charts and a Flight 15 preview.</p>
+<p><a href="https://x.com/XFreeze/status/2113279384169968042">@XFreeze on X</a> · 174 likes · 21 reposts · 8,792 views</p></li>
+<li><p><strong>A family Grok Bot for six kids</strong></p>
+<p>In a CNBC clip, Joe Lonsdale says his wife&#x27;s home Grok Bot tracks their six kids&#x27; health appointments and activities, and is coaching them on weaning their 2-year-old off his pacifier.</p>
+<p><a href="https://x.com/jawwwn_/status/2113357775992672431">@jawwwn_ on X</a> · 63 likes · 3 reposts · 9,779 views</p></li>
+<li><p><strong>A Grok Bot that makes Keynote-style launch videos</strong></p>
+<p>greedfi built a Grok Bot that turns any product link into a Keynote-style launch video: paste the link, pick a look and tap one button.</p>
+<p><a href="https://x.com/greedfi/status/2113279422589477194">@greedfi on X</a> · 43 likes · 6 reposts · 9,426 views</p></li>
+<li><p><strong>Grok Bot fights a parking ticket and wins</strong></p>
+<p>Austin handed Grok Bot photos of an Albuquerque parking ticket. It found grounds to contest it, built an evidence packet, emailed the city before the deadline and kept checking until the city said it would void the ticket.</p>
+<p><a href="https://x.com/austindanielw/status/2113333292892041562">@austindanielw on X</a> · 18 likes · 0 reposts · 141,600 views</p></li>
+<li><p><strong>A monster-raising game built in two days with no coding or art background</strong></p>
+<p>Ken Lin built MonsterPet, a game with pets, crops, crafting and battles, in two days. Claude wrote the code, Codex generated the 2D art, and an automated Blender workflow turned those images into 3D models.</p>
+<p><a href="https://x.com/KenLin1985/status/2113350314451665389">@KenLin1985 on X</a> · 36 likes · 1 reposts · 1,133 views</p></li>
+<li><p><strong>A one-command tracker for coding-agent usage</strong></p>
+<p>Csaba built a command, mostly with Claude Code, that reads the logs Claude Code and Codex already keep on disk and adds up your usage, sending only daily totals.</p>
+<p><a href="https://x.com/csaba_kissi/status/2113182930868552030">@csaba_kissi on X</a> · 31 likes · 2 reposts · 4,914 views</p></li>
+<li><p><strong>True Circle ranks who you actually talk to on X</strong></p>
+<p>Jay Dook built True Circle, an open-source, read-only Grok Bot template that reads your last 15 to 60 days of posts, replies and mentions, groups them into real conversations and ranks your true inner circle.</p>
+<p><a href="https://x.com/JayDook/status/2113329700172927219">@JayDook on X</a> · 24 likes · 2 reposts · 1,193 views</p></li>
+<li><p><strong>A penguin character bot that built its own site, game and promo video</strong></p>
+<p>They used Grok Bot to create Noot, a penguin character bot, then had Noot build a website around his personality, a runner game for it, and the promo video.</p>
+<p><a href="https://x.com/thesoragirls/status/2113343800592523736">@thesoragirls on X</a> · 21 likes · 4 reposts · 849 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 21 2026</title>
       <link>https://x.com/BrianRoemmele/status/2112963173666185655</link>
