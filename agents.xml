@@ -9,6 +9,19 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Fri, 23 Oct 2026 00:13:26 GMT</lastBuildDate>
     <item>
+<title>Grok Bot adds a Vault to save your logins, cards, and contact info</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-23-grok-bot-vault</guid>
+<pubDate>Fri, 23 Oct 2026 21:35:06 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot"/>
+<p>Grok Bot v0.75.5, out today, adds a Vault in Settings where Bots save your logins, payment cards, and contact info once, then fill them in to sign in or check out for you. The <a href="https://x.com/bot/status/2113717946019397910">@bot announcement</a> says Bot "securely remembers them for the future," and the feature needs Grok Bot 0.75.2 or later.</p>
+<ul><li>Bots can now forward an email from their own inbox with its original formatting, images, and attachments.</li>
+<li>Auto-review asks less often for actions you requested in your own words, and Bots stop retrying after you deny an approval card.</li>
+<li>Routines can run up to 300 times an hour in total, up from 100.</li></ul>
+<p>Full notes are in the <a href="https://x.ai/changelog/bot">Grok Bot changelog</a>.</p>]]></description>
+</item>
+<item>
 <title>Grok Bot v0.75.2: video creation, Shop Pay and X Money checkout, pinned Library items, and shared memory across chats</title>
 <link>https://x.ai/changelog/bot</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-22-grok-bot-v0-75-2</guid>
