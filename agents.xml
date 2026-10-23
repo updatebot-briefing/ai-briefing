@@ -7,7 +7,50 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 22 Oct 2026 22:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:13:26 GMT</lastBuildDate>
+    <item>
+<title>Grok Bot v0.75.2: video creation, Shop Pay and X Money checkout, pinned Library items, and shared memory across chats</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-22-grok-bot-v0-75-2</guid>
+<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot v0.75.2: video creation, Shop Pay and X Money check"/>
+<p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> now lists v0.75.2, dated Oct 22, which rolls up versions 0.72.0 through 0.75.1. Pages already shipped earlier this week, but the release adds a lot more:</p><ul><li>Bots can create videos from a description or from an image you share.</li><li>Bots can pay with Shop Pay, and you can connect X Money in one tap from a chat, the connector page, or checkout.</li><li>You can pin Library pages, files, and links to a Pinned section that syncs across devices.</li><li>What a personal Bot saves to memory in one chat is now remembered in all your chats with it.</li><li>Routines can read the Bot's inboxes, voice calls can draw on earlier calls and recent chat, and the Bot checks links before sending them.</li></ul><p>It also adds a Zoho CRM connector, more GitHub, Gmail, and Google Calendar abilities, new Team admin controls, a redesign of chat cards, and many fixes.</p>]]></description>
+</item>
+<item>
+<title>SpaceXSI launches the Super Intelligence Partner Network, with 130+ companies building on Grok</title>
+<link>https://x.ai/news/partnernetworkannouncement</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-22-spacexsi-partner-network</guid>
+<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
+<enclosure url="https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" alt="SpaceXSI launches the Super Intelligence Partner Network, wi"/>
+<p>SpaceXSI <a href="https://x.ai/news/partnernetworkannouncement">announced the SpaceX Super Intelligence Partner Network</a> on Oct 22, its official program for companies building products and services with Grok.</p><p>It has two tracks: Transformation Partners, who help enterprises deploy the Grok platform, and Marketplace Partners, who build the plugins and integrations that connect the Grok product suite, including Grok Bot, to tools customers already use. More than 130 companies took part in early access, and engineers at over 30 organizations have gone through a Forward Deployed Engineer accreditation program.</p><p>Launch partners quoted in the post include Bain, Databricks, NVIDIA, and Snowflake.</p>]]></description>
+</item>
+<item>
+<title>Hermes Agent gets an official Meshy plugin for making 3D models, plus a $1 Meshy Pro month for Hermes users</title>
+<link>https://x.com/NousResearch/status/2113077994315034967</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-22-hermes-meshy-plugin</guid>
+<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
+<description><![CDATA[<p>Nous Research <a href="https://x.com/NousResearch/status/2113077994315034967">announced an official Meshy plugin</a> for Hermes Agent on the evening of Oct 21 PT. You can ask Hermes for things like a game-ready treasure chest or a printable model from a photo of a mug, and it does the work through Meshy's MCP server. In Hermes Desktop the models render right in chat.</p><p>On Oct 22, Nous <a href="https://x.com/NousResearch/status/2113375941431009526">posted that Meshy is offering Hermes users a month of Pro for $1</a>, including API access and 1,000 credits. Teknium <a href="https://x.com/Teknium/status/2113376247221022731">said Meshy provided the coupons</a> when the plugin launched.</p>]]></description>
+</item>
+<item>
+<title>Hermes Agent can now share a computer with your team through the Cua Spaces plugin</title>
+<link>https://x.com/NousResearch/status/2113391397760041329</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-22-hermes-cua-spaces-plugin</guid>
+<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/card_img/2112631837193625601/AoM31i4u?format=webp&amp;name=medium" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/card_img/2112631837193625601/AoM31i4u?format=webp&amp;name=medium" alt="Hermes Agent can now share a computer with your team through"/>
+<p>Nous Research <a href="https://x.com/NousResearch/status/2113391397760041329">announced on Oct 22</a> that a new Spaces plugin from Cua gives Hermes Agent its own Linux, macOS, or Windows computer running on hardware you already own.</p><p>Anyone on your team can open that Space, watch Hermes work live, step in to take over, and hand it back while Hermes keeps going. It moves Hermes closer to the "agent with its own computer" setup that Grok Bot, Dots, and Muse offer, but on your own machines.</p>]]></description>
+</item>
+<item>
+<title>OpenAI dots had about two hours of failed messages Thursday, mostly hitting Enterprise customers</title>
+<link>https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-22-dots-enterprise-degraded</guid>
+<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
+<enclosure url="https://status.openai.com/og-image.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://status.openai.com/og-image.png" alt="OpenAI dots had about two hours of failed messages Thursday,"/>
+<p>The <a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a> logged a "Degraded Performance of Dots on Enterprise" incident on Oct 22. Starting at 11:51am PT, users saw failures sending messages to their dots.</p><p>OpenAI identified the issue at 11:59am PT and said most of the impact was on Enterprise customers. It was marked resolved at 1:55pm PT, with all affected services fully recovered.</p>]]></description>
+</item>
     <item>
 <title>Grok Bot can now use Calendar, Reminders, Contacts, and other apps on your phone</title>
 <link>https://x.com/bot/status/2113393684209176718</link>
