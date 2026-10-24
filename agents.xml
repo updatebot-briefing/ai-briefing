@@ -7,8 +7,38 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Oct 2026 00:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:08:16 GMT</lastBuildDate>
     <item>
+<title>Grok models went down across Grok Bot and Cursor Friday afternoon, with a fix now rolling out</title>
+<link>https://stspg.io/gr52z37rn6l2</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-23-grok-models-outage</guid>
+<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
+<description><![CDATA[<p>Cursor's status page <a href="https://stspg.io/gr52z37rn6l2">posted a service outage</a> at 4:39pm PT Friday saying Grok models were unavailable. The incident lists Grok Bot along with Cloud Agents, Automations, the CLI, the IDE, and cursor.com as affected.</p><p>At 4:50pm PT the team said a fix had been implemented and Grok models were recovering; as of about 5:10pm PT the incident is still in monitoring, not marked resolved. Live status is at <a href="https://status.cursor.com">status.cursor.com</a>.</p>]]></description>
+</item>
+<item>
+<title>Hermes Agent v0.22.5 rolls up 81 PRs, including reworked Nous sign-in and usage-window plan gauges</title>
+<link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-23-hermes-v0-22-5</guid>
+<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
+<enclosure url="https://opengraph.githubassets.com/1d7e3caae490e6b8bc0644933e041b72abac432d061ef3f87ffbd84c7848941b/NousResearch/hermes-agent/releases/tag/v0.22.5" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://opengraph.githubassets.com/1d7e3caae490e6b8bc0644933e041b72abac432d061ef3f87ffbd84c7848941b/NousResearch/hermes-agent/releases/tag/v0.22.5" alt="Hermes Agent v0.22.5"/>
+<p>Nous Research tagged <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5">Hermes Agent v0.22.5</a> on Oct 22, a patch release that rolls up about 81 merged PRs since v0.22.4 for the CLI, installers, the Microsoft Store app, Docker, and Hermes Cloud. Full curated notes are promised with v0.23.0.</p><p>Changes the release names include:</p><ul><li>Nous sign-in reworked so every sign-in uses the plain device login, and the free-tier guest hands over to your account.</li><li>Plan gauges, limit cards, and model-switch recovery for usage-window plans.</li><li>Pluggable delegation backends that route subagents by model map or profile, plus <code>hermes import-agent</code> and OpenClaw migration.</li><li>Hermes Desktop drag-to-pin in the sidebar and one-click plugin installs with tier badges.</li></ul><p>Update with <code>hermes update</code> or the <a href="https://github.com/NousResearch/hermes-agent/compare/v0.22.4...v0.22.5">full changelog</a>.</p>]]></description>
+</item>
+<item>
+<title>Meta's Muse launches in Japan and hits #1 on the app charts a day later</title>
+<link>https://x.com/alexandr_wang/status/2113430642440736859</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-23-meta-muse-japan-launch</guid>
+<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
+<description><![CDATA[<p>Meta launched Muse in Japan on Oct 22, with Alexandr Wang <a href="https://x.com/alexandr_wang/status/2113430642440736859">announcing</a> it was available in app stores there and the official <a href="https://x.com/Muse/status/2113404740931670283">@Muse account greeting Japan</a>.</p><p>A day later Wang <a href="https://x.com/alexandr_wang/status/2113682089166184649">posted that Muse was the #1 app in Japan</a>, sharing a chart screenshot. That ranking comes from Wang's post and hasn't been confirmed by an independent tracker yet.</p>]]></description>
+</item>
+<item>
+<title>OpenAI says calls with dots now connect much faster</title>
+<link>https://x.com/thsottiaux/status/2113770573994299544</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-23-dots-faster-calls</guid>
+<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
+<description><![CDATA[<p>OpenAI's Tibo Sottiaux, who leads Codex and ChatGPT work, <a href="https://x.com/thsottiaux/status/2113770573994299544">said in his Day 19 update</a> that calls now connect much faster for dots.</p><p>The same post says changing the reasoning level mid-conversation in Codex and ChatGPT Work no longer invalidates the cache, and that the Codex CLI was updated. Dots pricing and post-launch usage limits are still unpublished on <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's dots help page</a>.</p>]]></description>
+</item>
+<item>
 <title>Grok Bot adds a Vault to save your logins, cards, and contact info</title>
 <link>https://x.ai/changelog/bot</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-23-grok-bot-vault</guid>
