@@ -6,7 +6,69 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:15:10 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:14:10 -0700</lastBuildDate>
+    <item>
+      <title>NEURA Robotics unveils 4NE1 Gen 4 humanoid for serial production and opens TUM RoboGym near Munich</title>
+      <link>https://interestingengineering.com/ai-robotics/neuras-lighter-humanoid-unveiled</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-23-neura-4ne1-gen-4-tum-robogym</guid>
+      <pubDate>Fri, 23 Oct 2026 17:14:10 -0700</pubDate>
+      <enclosure url="https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-Photo-59-1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cms.interestingengineering.com/wp-content/uploads/2026/10/IE-Photo-59-1.jpg" alt="" /></p>
+<p>German robot maker NEURA Robotics has unveiled 4NE1 Gen 4, a humanoid it says is designed for serial production and is 20 percent lighter than the previous generation.</p>
+<ul>
+<li>The new robot has a slimmer build with a black textile outer skin, hands with touch and force sensing, and independently reacting "Smart Limbs" for faster, smoother motion.</li>
+<li>It runs Neuron AI, NEURA's own foundation model for physical AI, and is already learning real-world tasks daily at the company's NEURA Gyms.</li>
+<li>The launch coincides with the opening of the TUM RoboGym, a 2,300-square-meter training center near Munich Airport built with the Technical University of Munich. The three-year partnership is worth about €17 million, with NEURA contributing about €11 million.</li>
+<li>NEURA plans more training centers in Europe, the US and China, plus another German site with RWTH Aachen. No price or shipping date was given.</li>
+</ul>
+<p>Source: <a href="https://interestingengineering.com/ai-robotics/neuras-lighter-humanoid-unveiled">Interesting Engineering</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>LG hires Hyundai's former Robotics Lab chief Hyun Dong-jin to lead group physical AI and humanoid push (report)</title>
+      <link>https://www.kedglobal.com/people-on-the-move/newsView/ked202610230005</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-23-lg-hires-hyundai-robotics-chief-hyun-dong-jin</guid>
+      <pubDate>Fri, 23 Oct 2026 17:14:10 -0700</pubDate>
+      <enclosure url="https://www.kedglobal.com/data/ked/image/2026/10/23/ked202610230021.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.kedglobal.com/data/ked/image/2026/10/23/ked202610230021.jpg" alt="" /></p>
+<p>LG Group has hired Hyun Dong-jin, who ran Hyundai Motor Group's Robotics Lab for about seven years, as executive vice president for physical AI at LG Science Park, according to an exclusive report from the Korea Economic Daily on Oct 23.</p>
+<ul>
+<li>Hyun reportedly started this month and will act as the control tower for LG's long-term robot business, tying together robotics work spread across LG affiliates, including next-generation humanoid development.</li>
+<li>At Hyundai he led the MobED mobile robot platform and the X-ble Shoulder wearable robot before leaving in April.</li>
+<li>LG plans to unveil a bipedal humanoid in the first quarter of 2027. The hire lands amid a talent war among Korea's biggest groups: Samsung hired a former Boston Dynamics-linked robotics executive in July, and Hyundai recruited a former Samsung robotics leader.</li>
+</ul>
+<p><strong>Unconfirmed:</strong> neither LG nor Hyundai has officially announced the appointment.</p>
+<p>Sources: <a href="https://www.kedglobal.com/people-on-the-move/newsView/ked202610230005">KED Global</a>, <a href="https://mekawire.com/news/lg-hires-hyun-dong-jin-ex-hyundai-robotics-lab-head-physical-ai-evp-lg-science-park-reported-20261023">MEKAWIRE</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Figure 03 keeps walking: 13 straight days, 422 miles and 1.5 million steps on a treadmill stress test</title>
+      <link>https://x.com/adcock_brett/status/2113655817501393215</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-23-figure-03-13-day-treadmill-walk</guid>
+      <pubDate>Fri, 23 Oct 2026 17:14:10 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2112227376558120960/img/uW8PI1t5J9sQ42dO?format=webp&amp;name=large" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2112227376558120960/img/uW8PI1t5J9sQ42dO?format=webp&name=large" alt="" /></p>
+<p>Figure CEO Brett Adcock posted on Oct 23 that a Figure 03 humanoid has now walked nonstop on a treadmill for 13 days, covering 422 miles and 1.5 million steps.</p>
+<ul>
+<li>The run started as a side project to stress the robot and surface any hardware failures. Adcock first shared it on Oct 19 at 9 days and 348 miles, in a post seen by more than 500,000 people.</li>
+<li>It's an informal endurance test rather than a commercial deployment, but it's an unusually long public durability demo for a humanoid's legs and actuators.</li>
+<li>Separately, Figure researcher Corey Lynch said the company now processes about 81 minutes of video per second for robot pretraining, which Adcock described as building "a startup inside of a startup."</li>
+</ul>
+<p>Sources: <a href="https://x.com/adcock_brett/status/2113655817501393215">Brett Adcock's update on X</a>, <a href="https://x.com/adcock_brett/status/2112227583643509174">his original Oct 19 post</a>, <a href="https://x.com/coreylynch/status/2113763551861178777">Corey Lynch on Figure's video data scale</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>XPENG's IRON humanoid switches between handshakes, fist bumps and high-fives in real time with VLA 2.0</title>
+      <link>https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-23-xpeng-iron-vla-2-gesture-demo</guid>
+      <pubDate>Fri, 23 Oct 2026 17:14:10 -0700</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" alt="" /></p>
+<p>XPENG released an R&amp;D test video of its IRON humanoid reading a person's hand gestures and changing its response mid-motion, with no voice commands.</p>
+<ul>
+<li>As the person switches between offering a handshake, a fist bump and a high-five, IRON adapts, including switching hands for a high-five.</li>
+<li>XPENG says IRON's VLA 2.0 model re-evaluates what it sees every 0.2 seconds and predicts motion over the next six seconds.</li>
+<li>This is a company-produced demo of social interaction, not a deployment, and XPENG hasn't shared independent test results.</li>
+</ul>
+<p>Sources: <a href="https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo">Humanoids Daily</a>, <a href="https://news.cocoloop.cn/en/2026/10/xpeng-iron-vla-realtime-reasoning/">Cocoloop</a>.</p>]]></description>
+    </item>
     <item>
       <title>Figure 04 humanoid hits full design lock as Figure shares its internal all-hands publicly</title>
       <link>https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock</link>
