@@ -7,7 +7,48 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Oct 2026 00:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:10:22 -0700</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Oct 24 2026</title>
+      <link>https://x.com/0xDeniAi/status/2114061218352615609</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 17:10:22 -0700</pubDate>
+      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2114059992575758336/img/-9OMHcgydvtCfTrJ.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2114059992575758336/img/-9OMHcgydvtCfTrJ.jpg" alt="Video still from @0xDeniAi's post about Claude Code finding deleted iPhone photos" /></p>
+<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement. Saturday was quieter, led by Claude Code doing real security and editing work, plus Grok Bot running investment research, a newsletter, a website and a personal command center.</p>
+<ol>
+<li><p><strong>Claude Code finds the photos an iPhone never really deleted</strong></p>
+<p>Deni asked Claude Code (on Opus 5.5) to run a quick security check while his iPhone backed up to his laptop. It found years of photos still hidden inside his iMessage, WhatsApp and Telegram chats, plus five old unencrypted iPhone backups in a hidden Windows folder, including a passport photo and bank screenshots he thought were gone.</p>
+<p><a href="https://x.com/0xDeniAi/status/2114061218352615609">@0xDeniAi on X</a> · 73 likes · 6 reposts · 4,496 views</p></li>
+<li><p><strong>A math video finally edited by a Claude Code pipeline</strong></p>
+<p>Po-Shen Loh had a year-old recording explaining why e is natural that nobody had time to edit. He built a full video editing pipeline in Claude Code and finally released it, all real footage.</p>
+<p><a href="https://x.com/PoShenLoh/status/2113829019758342403">@PoShenLoh on X</a> · 61 likes · 12 reposts · 4,550 views</p></li>
+<li><p><strong>Claude audits its own game and finds the crash bug</strong></p>
+<p>0xbobaa gave Claude Code the read-only repo for Skyhold, a city builder made with Opus, and asked it to attack it. In under six minutes it found 13 issues, including a malformed URL that had already crashed the live server twice and unchecked leaderboard scores, and both were patched the same day.</p>
+<p><a href="https://x.com/0xbobaaa/status/2113910639026401525">@0xbobaaa on X</a> · 69 likes · 3 reposts · 2,690 views</p></li>
+<li><p><strong>A daily investment report built from an X List</strong></p>
+<p>zaimiri gave Grok Bot an X List of investors they trust. Every morning it scans their last 24 hours of posts, labels each position as buy, hold, sell or watch with the post as evidence, flags agreement and disagreement, and compares it with yesterday&#x27;s report.</p>
+<p><a href="https://x.com/zaimiri/status/2113979830240940212">@zaimiri on X</a> · 65 likes · 1 reposts · 1,847 views</p></li>
+<li><p><strong>A pizza simulator from one Opus 5.5 prompt</strong></p>
+<p>Mr Tactical asked Claude Opus 5.5 to build a pizza simulator game and shared the playable result, asking followers whether it should become a full game.</p>
+<p><a href="https://x.com/MrTacticalX/status/2113987724260872333">@MrTacticalX on X</a> · 56 likes · 2 reposts · 4,036 views</p></li>
+<li><p><strong>An industrial robot you can take apart in the browser</strong></p>
+<p>Valentin had Claude (Opus 5.5) build an interactive 6-axis KUKA robot with every part labelled. It stacks cubes, writes on the floor with a marker, and lets you open a joint to see the motor and gearbox, using KUKA&#x27;s real specs with simulated motion.</p>
+<p><a href="https://x.com/martynov014/status/2114007100359844256">@martynov014 on X</a> · 34 likes · 4 reposts · 781 views</p></li>
+<li><p><strong>Grok Bot as a personal Wall Street newsletter</strong></p>
+<p>Ardullo told Grok Bot which stocks, earnings and big moves matter to their portfolio. Now it checks on its own and only pings them when something is worth looking at, instead of opening five apps every morning.</p>
+<p><a href="https://x.com/RafelineK/status/2114068832017060245">@RafelineK on X</a> · 16 likes · 2 reposts · 255 views</p></li>
+<li><p><strong>A Grok Bot wingman named My Man</strong></p>
+<p>Lfleezy&#x27;s Grok Bot mapped a Disney Springs bar crawl and emailed the itinerary, dug through county public records, analyzed their X analytics to help restore monetization, and sends fresh post ideas every Monday for their dogs and veterans.</p>
+<p><a href="https://x.com/LFleezy23/status/2114104899764171156">@LFleezy23 on X</a> · 13 likes · 1 reposts · 342 views</p></li>
+<li><p><strong>A first website that Grok Bot now runs</strong></p>
+<p>Erinn had never coded, so Grok Build wrote her first website, then she handed the site to Grok Bot. It now pulls her top X posts and videos, makes printable recipe cards in English, Japanese and Spanish, watches her contact form and publishes changes on request.</p>
+<p><a href="https://x.com/ErinnFL/status/2114107972943011983">@ErinnFL on X</a> · 11 likes · 0 reposts · 351 views</p></li>
+<li><p><strong>A whole-life command center in Grok Bot</strong></p>
+<p>MAGS built an animated hub in Grok Bot that links net worth, a property inventory, a budget, estate tracking and tasks, where changing one value updates every layer. They shared it as a free template.</p>
+<p><a href="https://x.com/TAftermath2020/status/2114060245991616512">@TAftermath2020 on X</a> · 9 likes · 1 reposts · 924 views</p></li>
+</ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Oct 23 2026</title>
       <link>https://x.com/davepl1968/status/2113672796505247822</link>
