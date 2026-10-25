@@ -7,8 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 00:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:36:17 GMT</lastBuildDate>
     <item>
+<title>Elon Musk says Grok Bot can now phone people and businesses for you, as Grok Bot 0.77 rolls out</title>
+<link>https://x.com/elonmusk/status/2114365361068138990</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-25-grok-bot-phone-calls</guid>
+<pubDate>Sun, 25 Oct 2026 16:36:17 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" alt=""/><p>Elon Musk <a href="https://x.com/elonmusk/status/2114365361068138990">posted on Sunday morning</a> that Grok Bot "can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation." The post passed about 900,000 views within two hours.</p><p>He was quoting <a href="https://x.com/alexmichaelio/status/2114056103373758724">a breakdown of Grok Bot 0.77 prerelease builds</a> that says your Bot can dial a number, sit on hold, press keys on phone menus, and get transferred while you watch a live transcript. The same builds also show Tailscale private-network support, a payments settings screen, and Bot sharing and invites for Premium and Ultra plans.</p><p>The official <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> still lists v0.75.5 as the latest release, and some users replying to Musk say their Bot doesn't have calling yet, so expect it to arrive with the 0.77 update over the coming days.</p>]]></description>
+</item>
+<item>
 <title>Hermes Agent's official mobile app is now in TestFlight and Android beta, says Nous co-founder Teknium</title>
 <link>https://x.com/Teknium/status/2114074719788101828</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-24-hermes-mobile-app-beta</guid>
