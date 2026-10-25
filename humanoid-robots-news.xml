@@ -6,7 +6,66 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:14:10 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:17:27 -0700</lastBuildDate>
+    <item>
+      <title>Alibaba's Amap open-sources λ0, a whole-body humanoid model trained mostly on first-person human video</title>
+      <link>https://tsnmedia.org/amap-alibaba-lambda0-humanoid/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-alibaba-amap-lambda0-humanoid-model</guid>
+      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
+      <enclosure url="https://tsnmedia.org/wp-content/uploads/2026/10/amap-alibaba-lambda0-humanoid.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://tsnmedia.org/wp-content/uploads/2026/10/amap-alibaba-lambda0-humanoid.jpg" alt="" /></p>
+<p>Amap, Alibaba's mapping business, and Alibaba's Token Hub team have released λ0 (lambda zero), a model that controls a humanoid robot's whole body for walking plus manipulation. Most of what it learns comes from about 500 hours of first-person video of people doing everyday tasks rather than from robot data.</p>
+<ul>
+<li>On the team's own real-world tests with a Unitree G1, λ0 finished 62.5% of trials versus 40% for π0.5, the strongest rival model they tested. These are the team's own numbers and haven't been reproduced independently.</li>
+<li>The code is open under Apache 2.0, and a mid-training checkpoint built on Qwen3.5-2B is on Hugging Face. The training datasets and the full deployment workflow are not released yet, and the model card says it is not a deployment-ready robot policy.</li>
+</ul>
+<p>Sources: <a href="https://tsnmedia.org/amap-alibaba-lambda0-humanoid/">TSN</a>, <a href="https://arxiv.org/abs/2610.18950">arXiv preprint</a>, <a href="https://github.com/LambdaHumanoid/openlambda">GitHub repo</a>, <a href="https://huggingface.co/lambda-humanoid/lambda0-midtrain-100k">Hugging Face checkpoint</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Tesla says its first production Optimus robots will go to an "Optimus Academy" of 10,000 to 20,000 bots learning by self-play</title>
+      <link>https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-tesla-optimus-academy-self-play</guid>
+      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
+      <enclosure url="https://media.thenextweb.com/2026/10/elon-musk-microphone-stage-signature-t-shirt.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://media.thenextweb.com/2026/10/elon-musk-microphone-stage-signature-t-shirt.jpg" alt="" /></p>
+<p>The first Optimus robots coming off Tesla's new Fremont line won't go to customers. Tesla says they will be used in an "Optimus Academy" to collect training data, and Elon Musk said on the Q3 earnings call that Tesla needs on the order of 10,000 to 20,000 robots practicing a wide range of tasks through self-play to make Optimus useful in the real world. The plan became one of X's top robotics stories today.</p>
+<ul>
+<li>Musk compared it to raising a toddler: robots start wobbly and learn by playing at scale, since Optimus has no equivalent of Tesla's car fleet generating data.</li>
+<li>Tesla AI lead Ashok Elluswamy said the robots will first learn by watching humans, then bootstrap with self-play.</li>
+<li>Musk said the hands still aren't perfected, reaching 20,000 robots a week will take at least a year, the AI5 chip should reach the robot around April 2027, and deliveries to other companies are targeted for late 2027. These are company targets, not confirmed timelines.</li>
+</ul>
+<p>Sources: <a href="https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk">The Next Web</a>, <a href="https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy">Fierce Sensors</a>, <a href="https://x.com/i/trending/2114095338852159758">X trending story</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Generative Bionics plans Europe's largest physical AI data factory for its Gene.01 humanoids, with AMD</title>
+      <link>https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-generative-bionics-physical-ai-data-factory</guid>
+      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
+      <enclosure url="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/generative-bionics-1.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/generative-bionics-1.png" alt="" /></p>
+<p>Italian humanoid maker Generative Bionics says it will build what it calls Europe's largest physical AI training facility, using AMD computing to pair real robot work with large-scale digital twin simulation.</p>
+<ul>
+<li>The first 5,000-square-meter site will be in Italy and is scheduled to open by Q4 2027, the first of a planned three-site network.</li>
+<li>Fleets of its Gene.01 humanoids will run tasks continuously in recreated industrial settings to generate data for training World Action Models, with simulated variations fed back to the physical robots in a real-to-sim-to-real loop.</li>
+<li>AMD Ventures took part in the company's €70 million seed round, and AMD chips already run on board Gene.01.</li>
+</ul>
+<p>Source: <a href="https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/">Robotics &amp; Automation News</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>South Korea names Mobilint to lead humanoid-robot chip work in its $606M on-device AI semiconductor program</title>
+      <link>https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-korea-mobilint-humanoid-ai-chip-program</guid>
+      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
+      <enclosure url="https://d.techtimes.com/en/full/477120/mobilint-logo.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://d.techtimes.com/en/full/477120/mobilint-logo.jpg" alt="" /></p>
+<p>Seoul NPU startup Mobilint was named lead research organization for the humanoid robotics arm of South Korea's ₩800.2 billion (about $606 million) K-On-Device AI Semiconductor program, which runs from 2026 to 2030.</p>
+<ul>
+<li>Mobilint is responsible for a co-designed NPU and software stack for running AI on the robot itself, covering the chip, compiler and a module that can be installed in robot bodies.</li>
+<li>The platform will be tested in stages inside LG Electronics' home robot platform.</li>
+<li>Mobilint raised a ₩70 billion (about $53 million) Series C in April 2026.</li>
+</ul>
+<p>Source: <a href="https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm">Tech Times</a>.</p>]]></description>
+    </item>
     <item>
       <title>NEURA Robotics unveils 4NE1 Gen 4 humanoid for serial production and opens TUM RoboGym near Munich</title>
       <link>https://interestingengineering.com/ai-robotics/neuras-lighter-humanoid-unveiled</link>
