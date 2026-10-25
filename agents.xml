@@ -7,8 +7,24 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Oct 2026 00:08:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:16:37 GMT</lastBuildDate>
     <item>
+<title>Hermes Agent's official mobile app is now in TestFlight and Android beta, says Nous co-founder Teknium</title>
+<link>https://x.com/Teknium/status/2114074719788101828</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-24-hermes-mobile-app-beta</guid>
+<pubDate>Sun, 25 Oct 2026 00:16:37 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_200x200.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_200x200.jpg" alt=""/><p>Nous Research co-founder Teknium <a href="https://x.com/Teknium/status/2114074719788101828">replied on X on Saturday</a> that Hermes Agent now has a TestFlight build and an Android beta out, answering a user who said Hermes had no mobile app.</p><p>Until now Hermes was used from the terminal, desktop, and chat apps like Telegram, and Teknium had only teased that an official app was coming. Nous hasn't published a public sign-up link, release notes, or a launch date, so treat this as an early beta confirmed by a team member rather than a general release. The latest tagged Hermes release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.22.5</a>.</p>]]></description>
+</item>
+<item>
+<title>OpenAI's dots lead says he's hiring to scale dots to 1 billion users, and Meta's Alexandr Wang fires back</title>
+<link>https://x.com/thsottiaux/status/2114074885622501706</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-24-dots-1b-users-wang-jab</guid>
+<pubDate>Sun, 25 Oct 2026 00:16:37 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg" alt=""/><p>OpenAI's Tibo Sottiaux, who leads Codex and ChatGPT Work, <a href="https://x.com/thsottiaux/status/2114074885622501706">posted on Saturday</a> asking people who have done it before to DM him if they want to help scale dots to 1 billion users. The post drew about 480,000 views in a few hours.</p><p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2114091409485828200">replied "oops you misspelled muse"</a>, and Sottiaux <a href="https://x.com/thsottiaux/status/2114125293124542632">shot back</a> with a jab about Muse having "12 users." It's a public sign of how directly OpenAI and Meta now see dots and Muse as rivals, not a product change. Dots is still limited to Pro and Business Premium plans, and its post-launch usage terms are still unpublished on <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's dots help page</a>.</p>]]></description>
+</item>
+<item>
 <title>Grok models went down across Grok Bot and Cursor Friday afternoon, with a fix now rolling out</title>
 <link>https://stspg.io/gr52z37rn6l2</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-23-grok-models-outage</guid>
