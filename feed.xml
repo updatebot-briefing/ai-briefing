@@ -9,6 +9,21 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Mon, 26 Oct 2026 12:36:17 -0700</lastBuildDate>
     <item>
+<title>OpenAI says its AI disproved the Exponential Time Hypothesis, proved the Kakeya conjecture in all dimensions, and proved QCD exists</title>
+<link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-26-openai-ai-proofs-eth-kakeya-qcd</guid>
+<pubDate>Mon, 26 Oct 2026 22:30:05 GMT</pubDate>
+<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&amp;h=900&amp;fit=fill" alt="OpenAI announcement image"/>
+<p>OpenAI says its internal models produced three major results, each formalized or being written up, and is handing them to outside experts to verify and explain. It is not claiming academic credit.</p>
+<ul>
+<li><b>Math:</b> a proof of Sogge's local smoothing conjecture in every dimension, which would also settle the Kakeya and Stein restriction conjectures in all dimensions. The AI writeup and a Lean proof are public on GitHub.</li>
+<li><b>Computer science:</b> a disproof of the Exponential Time Hypothesis, verified in Lean. A group led by Russell Impagliazzo and Ramamohan Paturi (who proposed the ETH) and Ryan Williams will shepherd it, and OpenAI will fund a conference on it.</li>
+<li><b>Physics:</b> a rigorous existence proof for 4D quantum chromodynamics and a completion of the Standard Model, including pure Yang–Mills existence (part of a Clay Millennium Prize problem). A group led by Nobel laureate David Gross will write it up before materials are released.</li>
+</ul>
+<p>None of this has been independently confirmed yet. Read <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">OpenAI's announcement</a> and <a href="https://x.com/gdb/status/2114837059462627533">Greg Brockman's post</a>.</p>]]></description>
+</item>
+<item>
       <title>Meta plans to raise up to $95 billion in stock to pay for its AI buildout, one of the largest equity raises ever</title>
       <link>https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx</link>
       <guid isPermaLink="false">updatebot-breaking-2026-10-26-meta-95b-equity-raise-ai</guid>
@@ -509,23 +524,6 @@
 <p>SpaceXSI announced <strong>Grok Voice 3.0</strong>, calling it the world’s most intelligent speech-to-speech model. In Artificial Analysis’s independent testing it ranks #1 on the Speech-to-Speech Index at 86.9, ahead of Grok Voice 2.0, GPT-Live-1 (Astra), and Gemini 3.8 Live, and scores 97% on Full Duplex Bench.</p>
 <p>It powers millions of conversations a day across Tesla and SpaceX, including Grok Bot’s voice mode, and Starlink call centers use it for about 20,000 customer calls daily. Available now in the Voice Agent API at <strong>$0.08/min</strong> — the same price as Grok Voice 2.0 — with <code>grok-voice-latest</code> already switched over.</p>
 <p>Primary source: <a href="https://x.ai/news/grok-voice-3">x.ai/news/grok-voice-3</a>.</p>
-]]></description>
-</item>
-    <item>
-    <title>Breaking: Grok Bot v0.70.2 ships Bot email addresses, built-in X search, in-chat app cards and X Money payments</title>
-    <link>https://x.ai/changelog/bot</link>
-    <guid isPermaLink="false">updatebot-breaking-2026-10-13-grok-bot-v0-70-2</guid>
-    <pubDate>Tue, 13 Oct 2026 10:44:19 -0700</pubDate>
-    <description><![CDATA[
-<p>The official <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> jumped from v0.68.1 to <strong>v0.70.2</strong> (dated Oct 11, which also rolls up 0.69.0 through 0.70.1). It showed up after this morning's briefing, which still had v0.68.1 as the latest.</p>
-<ul>
-<li>Bots can claim their own email address and receive mail there. Anything they send from it waits for your approval on a draft card.</li>
-<li>Bots can search X and read posts and profiles without you connecting an X account.</li>
-<li>Connectors that come with an app, such as Figma, Notion and Canva, can show it as an interactive card in the chat.</li>
-<li>Bots can pay with X Money or Stripe Link.</li>
-<li>Bots check your own messages for approval before anything they can't undo (sending, posting, buying, deleting), and they ask before sharing bank or brokerage data anywhere else.</li>
-<li>Also new: finding and linking Bot templates, a Wake button for a sleeping computer, saving web pages as PDFs, Glean and QuickBooks Online connectors, and Team Bot approvals from a teammate's DM.</li>
-</ul>
 ]]></description>
 </item>
     </channel>
