@@ -7,7 +7,31 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 16:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:09:57 GMT</lastBuildDate>
+    <item>
+<title>Alexandr Wang says subscriptions, not ads, will pay for Muse as it expands beyond North America</title>
+<link>https://www.allthingsmuse.com/articles/muse-subscriptions-not-ads-nikkei/</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-25-muse-subscriptions-not-ads</guid>
+<pubDate>Mon, 26 Oct 2026 00:09:57 GMT</pubDate>
+<enclosure url="https://www.allthingsmuse.com/cover-muse-subscriptions-not-ads-nikkei.webp" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www.allthingsmuse.com/cover-muse-subscriptions-not-ads-nikkei.webp" alt=""/><p>Meta AI chief Alexandr Wang told Nikkei Asia, in an interview published Oct 24 Japan time, that Muse will stay free of advertising as it rolls out internationally, with subscriptions paying for it instead. That's according to <a href="https://www.allthingsmuse.com/articles/muse-subscriptions-not-ads-nikkei/">All Things Muse's write-up</a>, which relies on a secondary account of the interview, so treat the exact wording as reported rather than confirmed.</p><p>The model carries over from the US: a free tier with usage limits, plus a $20/month Power plan and a $100/month Maximum plan. Japan prices still haven't been announced since Muse <a href="https://www.metaversewatcher.io/meta-muse-ai-agent-japan-launch/">launched there on Oct 23</a>.</p>]]></description>
+</item>
+    <item>
+<title>Meta is building avatar sharing for Muse, spotted in the web app but not live yet</title>
+<link>https://www.testingcatalog.com/meta-is-working-on-avatar-sharing-for-muse-assistant/</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-25-muse-avatar-sharing</guid>
+<pubDate>Mon, 26 Oct 2026 00:09:57 GMT</pubDate>
+<enclosure url="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Chat-----Minty-10-25-2026_12_49_AM.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Chat-----Minty-10-25-2026_12_49_AM.jpg" alt=""/><p><a href="https://www.testingcatalog.com/meta-is-working-on-avatar-sharing-for-muse-assistant/">TestingCatalog found</a> an unreleased Share option next to Muse's avatar editor on the web. It opens a pop-up with your animated avatar, social sharing buttons, a copyable link, and previews of four avatar states, including a working mode.</p><p>This is unconfirmed by Meta and has no release date. It could open the door to community avatar galleries, since Muse treats the avatar as central to the agent's identity.</p>]]></description>
+</item>
+    <item>
+<title>Similarweb: Muse skews younger than Grok Bot, and Alexandr Wang calls Grok Bot users boomers</title>
+<link>https://x.com/alexandr_wang/status/2114426913842491692</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-25-muse-grok-bot-age-split</guid>
+<pubDate>Mon, 26 Oct 2026 00:09:57 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/media/HVd1tPEWYAAeI1G.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/media/HVd1tPEWYAAeI1G.png" alt=""/><p><a href="https://x.com/Similarweb/status/2114288790198276495">Similarweb posted</a> an age breakdown showing Muse is much stronger with users aged 18 to 34, while Grok Bot leads by almost 10 points among 35 to 44 year olds.</p><p>Meta AI chief Alexandr Wang <a href="https://x.com/alexandr_wang/status/2114426913842491692">quoted it on Sunday</a> with "muse gang, say hi to the boomers on grok bot," drawing over 120,000 views. It's the latest in his running jabs at rival agents, after Saturday's back-and-forth with OpenAI's dots lead.</p>]]></description>
+</item>
     <item>
 <title>Elon Musk says Grok Bot can now phone people and businesses for you, as Grok Bot 0.77 rolls out</title>
 <link>https://x.com/elonmusk/status/2114365361068138990</link>
