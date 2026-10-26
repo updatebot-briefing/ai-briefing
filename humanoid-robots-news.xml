@@ -6,7 +6,37 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 17:17:27 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 17:17:24 -0700</lastBuildDate>
+    <item>
+      <title>AgiBot runs 110 production Expedition A3 humanoids in sync for a Guinness World Record</title>
+      <link>https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-25-agibot-110-humanoids-guinness-record</guid>
+      <pubDate>Sun, 25 Oct 2026 17:17:24 -0700</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" alt="" /></p>
+<p>Chinese humanoid maker AgiBot coordinated 110 full-size Expedition A3 humanoids in a synchronized dance in Jinan on October 24, and a Guinness World Records judge certified it as the most humanoid robots dancing at once. The routine ran about 5 minutes 43 seconds with jumps, flips and formation changes.</p>
+<ul>
+<li>The robots are standard production units, coordinated by AgiBot's LinkBots cluster-control platform with ultra-wideband positioning for centimeter-level accuracy.</li>
+<li>AgiBot says the fleet will next go into cultural and tourism shows, public services, research and education. Posts on X say units are already on trial in subway stations; that part is unconfirmed.</li>
+<li>The demo lands as China's industry ministry says Chinese firms built more than 40,000 humanoids in the first half of 2026, though Global Times notes most real-world uses are still pilots.</li>
+</ul>
+<p>Sources: <a href="https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record">Humanoids Daily</a>, <a href="https://www.globaltimes.cn/page/202610/1372888.shtml">Global Times</a>, <a href="https://x.com/thePandaily/status/2114203850013888595">Pandaily on X</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>ETH Zürich teaches a Unitree G1 humanoid to climb, vault and get up from falls with one contact-planning policy</title>
+      <link>https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-25-eth-zurich-acp-contact-planning</guid>
+      <pubDate>Sun, 25 Oct 2026 17:17:24 -0700</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eth-acp-climbing-3Km2rxNdLXw5KQjJxrmW19mnHnX4oL.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eth-acp-climbing-3Km2rxNdLXw5KQjJxrmW19mnHnX4oL.webp" alt="" /></p>
+<p>Researchers at ETH Zürich's Robotic Systems Lab, with Apple, the ETH AI Center and NVIDIA, showed a Unitree G1 climbing ladders, scaling obstacles, crossing sparse footholds and recovering from falls using a single learned policy called Attention-based Contact Planning (ACP).</p>
+<ul>
+<li>Instead of scripting each move, ACP decides where the robot's hands, feet and body should touch the environment, and the controller works out the motion between those contacts.</li>
+<li>It was trained on just 13.2 minutes of human motion data plus reinforcement learning, and runs without reference motions once deployed.</li>
+<li>The team reports 92.5% average success on eight simulated obstacle courses versus 58.8% for its baseline. That is a simulation number, not a measured real-world rate, and the paper (submitted to arXiv October 22) is still under review.</li>
+</ul>
+<p>Sources: <a href="https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning">Humanoids Daily</a>, <a href="https://x.com/XRoboHub/status/2113861844678869172">RoboHub demo clip on X</a>.</p>]]></description>
+    </item>
     <item>
       <title>Alibaba's Amap open-sources λ0, a whole-body humanoid model trained mostly on first-person human video</title>
       <link>https://tsnmedia.org/amap-alibaba-lambda0-humanoid/</link>
