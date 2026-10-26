@@ -7,7 +7,17 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 11:31:38 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:36:17 -0700</lastBuildDate>
+    <item>
+      <title>Meta plans to raise up to $95 billion in stock to pay for its AI buildout, one of the largest equity raises ever</title>
+      <link>https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-26-meta-95b-equity-raise-ai</guid>
+      <pubDate>Mon, 26 Oct 2026 12:36:17 -0700</pubDate>
+      <enclosure url="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" alt=""/><p>Meta <a href="https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx">announced today</a> a financing plan to raise up to $95 billion in equity for AI infrastructure and what it calls personal superintelligence. It launched about $35 billion in underwritten offerings right away, roughly $22.5 billion of Class A stock and $12.5 billion of mandatory convertible preferred shares, and plans a separate $60 billion at-the-market program in its new non-voting Class C shares, expected to start in early 2027.</p>
+<p>Nvidia, AMD and Broadcom have indicated interest in buying up to $5 billion of the Class A shares. Meta says it expects $135 to $145 billion of capital spending in 2026, covering its apps, its Muse agent and its data centers (<a href="https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html">CNBC</a>, <a href="https://qz.com/meta-raising-95-billion-equity-ai-spending-102626">Quartz</a>).</p>
+<p>Why it matters: Bloomberg calls it one of the largest equity offerings in history, and it shows even the richest AI spenders are now selling stock, not just borrowing, to keep up with compute costs.</p>]]></description>
+    </item>
     <item>
       <title>OpenAI launches GPT-6.1 Terra, a fast computer-use model at $1/$5 per million tokens</title>
       <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
@@ -518,46 +528,5 @@
 </ul>
 ]]></description>
 </item>
-    <item>
-    <title>AI briefing — Weekday, Tue Oct 13, 2026</title>
-    <link>https://updatebot-briefing.github.io/ai-briefing/feed.xml</link>
-    <guid isPermaLink="false">updatebot-briefing-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 08:23:17 -0700</pubDate>
-    <description><![CDATA[
-<p><strong>Tuesday, Oct 13.</strong> The big one since yesterday’s briefing: Grok Bot is now part of <strong>The X Subscription</strong>, one plan for Grok, Grok Bot, Cursor and X Premium. Cursor also had a roughly three-hour outage Monday evening that’s now resolved.</p>
-
-<h3>Competitor watch</h3>
-<ul>
-<li><strong>Xiryn</strong> launched on Product Hunt today (Oct 13). It’s a small, free, open-source agent that pitches itself as doing what Muse, Grok Bot and Dots do, but on your own machine. Each agent gets its own Linux desktop in Docker, works with any model, and you control it through Telegram (<a href="https://hunted.space/product/xiryn">launch page</a>). It’s early and got almost no traction.</li>
-</ul>
-
-<h3>Grok Bot</h3>
-<ul>
-<li><a href="https://x.ai/news/x-subscription">The X Subscription</a> (Oct 12): Free $0, Plus $8, Premium $30 (SuperGrok + Cursor Pro + X Premium+, previously $90 combined), Super $100, Ultra $200. Grok Bot comes with Premium and up, not Plus. Its usage comes out of a weekly pool shared across Grok and Cursor (<a href="https://docs.x.ai/x-subscription/pricing">pricing docs</a>).</li>
-<li>Third-party models in Cursor (Claude, GPT) aren’t covered by the included pool on the new plans. They’re billed at API list prices through top-ups. Cursor says Grok and Composer coding limits are at least double what the matching old plan gave you.</li>
-<li>Switching is optional and existing plans keep working. If you do switch, it’s permanent: eligible plans are cancelled with a prorated refund, and multiple Cursor accounts get merged into one primary (<a href="https://docs.x.ai/x-subscription/overview">overview</a>).</li>
-<li>Cursor outage: <a href="https://status.cursor.com/">status.cursor.com</a> logged degraded performance across Cursor services, Grok Bot included, from ~5:22pm to ~8:07pm PT Monday. It’s resolved, and everything shows operational this morning.</li>
-<li>The <a href="https://x.ai/changelog/bot">changelog</a> tip is still v0.68.1 (Oct 7), and Cursor’s changelog still leads with Remote Control.</li>
-</ul>
-
-<h3>Major AI news</h3>
-<ul>
-<li><strong>Meta Muse Wonder</strong> (Mon ~10am PT): Meta’s largest models yet, Muse Wonder and the more capable Wonderful, with “active memory” and frontier-level coding. Meta pitches them for agents (<a href="https://www.euronews.com/2026/10/13/meta-launches-new-most-capable-ai-models-heres-what-to-know-about-them">Euronews</a>).</li>
-<li><strong>Anthropic on self-replicating AI</strong> (Oct 12): Anthropic says small models are “months away” from being able to copy themselves across insecure home devices. One test ran Gemma across 15 cheap Android TV boxes. It also says no fully rogue replicator exists yet (<a href="https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html">CNBC</a>).</li>
-<li><strong>Reuters exclusive</strong> (Oct 13): Anthropic and OpenAI have pushed for significant control over what embedded third-party safety evaluators can publish, citing trade secrets. Both companies dispute parts of the report (<a href="https://www.933thedrive.com/2026/10/13/exclusive-behind-ai-industrys-call-for-independent-reviews-a-fight-over-what-gets-made-public/">Reuters via 93.3</a>).</li>
-<li>Anthropic’s free, opt-in <strong>OSS Scanner</strong> runs its strongest models over open-source projects. Findings are fully model-generated with no human triage. It lands as Google’s open-source bug bounty is paused over a flood of AI-generated reports (<a href="https://www.techtimes.com/articles/328874/20261013/anthropic-launches-free-ai-vulnerability-scanner-googles-open-source-bug-bounty-halts.htm">Tech Times</a>).</li>
-<li><strong>OpenAI Dots</strong>: there’s still no published per-dot price or permanent usage limit. The first-month allowance runs out around Oct 29, and on Oct 30 Pro 200’s Work and Codex usage drops from 20x to 10x Plus. Since Oct 9 you can create a dot on mobile, and dots can start Codex work, which counts against Codex usage (<a href="https://explainx.ai/blog/openai-dots-pro-200-usage-halved-october-2026">explainx</a>).</li>
-</ul>
-
-<h3>Grok Bot on X</h3>
-<ul>
-<li>The <a href="https://x.com/bot">@bot</a> timeline is still login-walled when read directly. From coverage, the week’s official themes were native X search and monitoring (<a href="https://doomers.ai/launches/grok-bot-search-read-monitor-x">Oct 7, ~5.7M views</a>), Bot email inboxes you can claim by asking your Bot or tagging @bot (<a href="https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/">Oct 9</a>), and Monday’s X Subscription launch, posted by @spacexsi and @cursor_ai.</li>
-</ul>
-
-<p>Quiet elsewhere: Hermes Agent is still on v0.21.7, and there are no new Claude, Gemini or Grok app releases since last week’s notes.</p>
-
-]]></description>
-</item>
-
-  </channel>
+    </channel>
 </rss>
