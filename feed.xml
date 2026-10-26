@@ -7,7 +7,17 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 17:06:48 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:31:38 -0700</lastBuildDate>
+    <item>
+      <title>OpenAI launches GPT-6.1 Terra, a fast computer-use model at $1/$5 per million tokens</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-26-openai-gpt-6-1-terra</guid>
+      <pubDate>Mon, 26 Oct 2026 11:31:38 -0700</pubDate>
+      <enclosure url="https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png" alt=""/><p>OpenAI <a href="https://openai.com/index/introducing-gpt-6-1-terra/">launched GPT-6.1 Terra</a> today, a fast, lower-cost model built for visual reasoning, precise computer use, and more natural writing. It's rolling out now to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, and to developers in the API as <code>gpt-6.1-terra</code> with a 1.05M-token context window (<a href="https://developers.openai.com/api/docs/models/gpt-6.1-terra">model docs</a>).</p>
+<p>API pricing is $1 per million input tokens and $5 per million output tokens, which OpenAI says is 50% below GPT-5.6 Terra and GPT-6.1 Sol. OpenAI claims it matches GPT-6 Astra on its Agents' Last Exam computer-use benchmark at about one-tenth the price per token, runs over three times faster than Astra and Sol, and more than doubles GPT-5.6 Terra on Terminal-Bench 4.0 (50.3% vs 21.5%). OpenAI still recommends Sol and Astra for the hardest coding work.</p>
+<p>Why it matters: it's a cheap, fast computer-use model aimed squarely at high-volume agent work, and the same ChatGPT plan allowance now covers more tasks (<a href="https://x.com/OpenAI/status/2114780711664398349">OpenAI on X</a>).</p>]]></description>
+    </item>
     <item>
       <title>SpaceX says it closed $40 billion in debt to buy GPUs, as Musk warns debt markets have shut on AI-only data center firms</title>
       <link>https://x.com/elonmusk/status/2114434646914068862</link>
@@ -547,13 +557,6 @@
 <p>Quiet elsewhere: Hermes Agent is still on v0.21.7, and there are no new Claude, Gemini or Grok app releases since last week’s notes.</p>
 
 ]]></description>
-</item>
-    <item>
-<title>Breaking: The X Subscription bundles Grok, Grok Bot, Cursor, and X Premium in one plan</title>
-<link>https://x.ai/news/x-subscription</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-12-x-subscription-grok-bot-cursor-bundle</guid>
-<pubDate>Mon, 12 Oct 2026 19:33:31 -0700</pubDate>
-<description>SpaceXSI announced The X Subscription on Mon Oct 12, 2026: one plan bundling Grok, Grok Bot, Cursor, and X Premium, with a shared pool of Grok-model usage across the Grok apps, the Grok tab on X, and Cursor. Tiers: Free $0, Plus $8/mo, Premium $30/mo (SuperGrok + Cursor Pro + X Premium+, previously $90 combined), Super $100/mo (15x Plus usage), Ultra $200/mo (50x Plus usage). Each plan includes at least 2x the coding usage with Grok models vs the comparable Cursor plan; third-party models in Cursor stay on Premium and up, billed at API list prices via top-ups. Available to new customers today, rolling out globally over the next few days; existing SuperGrok, Cursor, and X Premium subscribers can switch from billing settings with a prorated refund, or keep their plan. Teams get Premium/Super/Ultra at individual per-seat prices with 3x more coding usage than old Cursor Teams. Separately, Cursor's outage update at ~7:23pm PT says Grok Bot and other services have recovered; Cloud Agents are still degraded.</description>
 </item>
 
   </channel>
