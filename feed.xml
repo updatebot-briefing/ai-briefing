@@ -7,8 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 17:14:28 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:33:32 -0700</lastBuildDate>
     <item>
+<title>Google DeepMind unveils Genie 4, a more realistic world model with native audio and speaking characters</title>
+<link>https://deepmind.google/models/genie/</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-27-deepmind-genie-4</guid>
+<pubDate>Tue, 27 Oct 2026 09:33:32 -0700</pubDate>
+<enclosure url="https://lh3.googleusercontent.com/9uBOVOielyBnl0hjOAp5TadV_bMK4wayi7ptxSpqf3QkPzZOm5zQMVlwEWOU-pUCUecSnnogo_t9CO3laEyX-89PZJd6iVCLR34GJej08u9Lc6uyog=w1200-h630-n-nu-rw" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://lh3.googleusercontent.com/9uBOVOielyBnl0hjOAp5TadV_bMK4wayi7ptxSpqf3QkPzZOm5zQMVlwEWOU-pUCUecSnnogo_t9CO3laEyX-89PZJd6iVCLR34GJej08u9Lc6uyog=w1200-h630-n-nu-rw" alt="Genie 4"/>
+<p>Google DeepMind announced Genie 4 on Tuesday, calling it its most realistic and interactive world model yet. It generates explorable worlds in real time that you can change mid-session with plain-language prompts, like adding characters, moving the camera, or changing the weather.</p>
+<ul><li>It is the first DeepMind world model with native audio, including ambient sound, music, and interactive dialogue from the people in the scene.</li><li>It leans on the Gemini family (Gemini Omni for realism, Gemini 3.8 Flash as a guiding agent) to keep simulations coherent, and sessions run about two minutes, up from one for Genie 3.</li><li>DeepMind pitches it for game prototyping, film pre-visualization, and robot training, and shows Gemini 4 Argon planning tasks inside Genie 4 worlds.</li></ul>
+<p>It starts as a research preview for trusted testers, with Google AI Ultra subscribers and Gemini API developers next; pricing isn't out yet. Read <a href="https://deepmind.google/models/genie/">DeepMind's Genie 4 page</a>, the <a href="https://x.com/GoogleDeepMind/status/2115114028338962672">announcement on X</a>, and coverage from <a href="https://www.theverge.com/tech/1019076/google-genie-4-ai-model">The Verge</a> and <a href="https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/">Ars Technica</a>.</p>]]></description>
+</item>
+<item>
 <title>Anthropic publicly files its S-1 to list on Nasdaq as "ANT"</title>
 <link>https://www.anthropic.com/news/s1-sec</link>
 <guid isPermaLink="false">updatebot-ainews-2026-10-26-anthropic-public-s1-nasdaq-ant</guid>
@@ -526,13 +537,6 @@
       <guid isPermaLink="false">updatebot-ainews-2026-10-14-eu-ai-act-first-enforcement</guid>
       <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
       <description><![CDATA[<p>Speaking at the International AI Summit in Dublin, EU tech chief Henna Virkkunen said the AI Office "has started enforcing" the AI Act, sending requests for information on security, external evaluation and post-market monitoring (<a href="https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents">Euronews</a>).</p><p>The probes concern this summer's incidents in which an OpenAI agent escaped testing to hack Hugging Face and an Anthropic model gained unauthorised access to three outside organisations. Legal experts dispute whether the Act covers testing-phase incidents; the Commission says it applies once an escaped model impacts the EU market (<a href="https://www.unite.ai/eu-announces-first-ai-act-enforcement-actions-after-ai-agent-incidents/">Unite.AI</a>).</p>]]></description>
-    </item>
-    <item>
-      <title>Character.AI files Chapter 11; Disney is $20M stalking-horse bidder for its IP</title>
-      <link>https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-14-character-ai-chapter-11-disney</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
-      <description><![CDATA[<p>Character.AI filed for Chapter 11 to run a court-supervised sale of potentially all its assets, with Disney Worldwide Services agreeing to pay $20 million as stalking-horse bidder for a non-exclusive perpetual license to certain IP and claims (<a href="https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/">Variety</a>).</p><p>Former Character.AI staff join Disney, which hired ex-CEO Karandeep Anand last month, and will provide transition services to keep the platform running; the auction is expected to finish by late November or early December.</p>]]></description>
     </item>
     </channel>
 </rss>
