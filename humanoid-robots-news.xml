@@ -6,8 +6,56 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:17:24 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:16:54 +0000</lastBuildDate>
     <item>
+<title>Agility expands Digit to two more GXO warehouses and adds three unnamed manufacturing customers</title>
+<link>https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-10-26-agility-gxo-expansion-three-manufacturing-customers</guid>
+<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
+<enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" alt=""/></p>
+<p>Agility Robotics says GXO, the first company to put its Digit humanoid into live commercial work, will deploy Digit at two more U.S. facilities in Statesville, North Carolina, and Lebanon, Tennessee, starting in early 2027. Those sites start on Digit 4 and move to Digit 5 once it ships. Digit has moved more than 100,000 totes at GXO's Flowery Branch, Georgia site since June 2024.</p>
+<p>In the same update, Agility described three new paid manufacturing customers that asked not to be named:</p>
+<ul><li>A global automaker that sells more than three million vehicles a year</li><li>One of the world's largest automotive technology and components developers</li><li>A leading global consumer products manufacturer</li></ul>
+<p>Agility also says it has more than 30 prospective customers in its pipeline, including two early-stage potential subcontractor deals for a branch of the U.S. Armed Services (no agreements signed). It repeated its previously disclosed figure of more than $300 million in multi-year Digit 5 orders and expects its SPAC merger with Churchill Capital Corp XI to close in Q4 2026, trading on Nasdaq as AGLT.</p>
+<p>Sources: <a href="https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot">Agility press release</a>, <a href="https://www.agilityrobotics.com/content/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations">GXO and Agility announcement</a>, <a href="https://x.com/agilityrobotics/status/2114673401235181690">Agility on X</a></p>]]></description>
+</item>
+<item>
+<title>China publishes its first six national humanoid robot standards, effective April 2027</title>
+<link>https://robot24.com/china-launches-first-national-standards-for-humanoid-robots</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-10-26-china-first-national-humanoid-standards</guid>
+<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
+<enclosure url="https://cdn.sanity.io/images/h746i9zm/production/0a51c51fc39278c06cf5977e51c64bce31ae43d8-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;fit=crop&amp;auto=format" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://cdn.sanity.io/images/h746i9zm/production/0a51c51fc39278c06cf5977e51c64bce31ae43d8-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;fit=crop&amp;auto=format" alt=""/></p>
+<p>China's State Administration for Market Regulation has released the country's first six national standards for humanoid robots. They take effect on April 1, 2027.</p>
+<ul><li>Five documents form the GB/T 48317 series: general technical requirements, environmental perception, decision-making and planning, movement control, and task execution.</li><li>A sixth, GB/T 48316-2026, sets specifications for humanoid simulation testing platforms.</li></ul>
+<p>The standards are voluntary (GB/T) rather than mandatory, but they give buyers and makers a common way to measure and compare humanoid capabilities across very different hardware and control stacks. Major Chinese robot makers took part in drafting them.</p>
+<p>Source: <a href="https://robot24.com/china-launches-first-national-standards-for-humanoid-robots">Robot24</a></p>]]></description>
+</item>
+<item>
+<title>Realbotix opens reservations for Echo companion humanoids at $11,950 tabletop and $59,950 full-body</title>
+<link>https://www.robotics247.com/article/realbotix-launches-echo-humanoid-robot-line-built-to-support-human-to-robot-interaction</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-10-26-realbotix-echo-humanoid-line</guid>
+<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
+<enclosure url="https://www.robotics247.com/images/2026_article/Realbotix-Echo-humanoid-main-Robotics247-2026.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://www.robotics247.com/images/2026_article/Realbotix-Echo-humanoid-main-Robotics247-2026.jpg" alt=""/></p>
+<p>Realbotix (TSXV: XBOT) launched Echo, a line of conversational humanoid robots aimed at companionship, education and wellness, and opened $199 reservations.</p>
+<ul><li>Tabletop Echo: $11,950, 17 degrees of freedom, 225 units planned for 2027.</li><li>Full-body Echo: $59,950, 39 degrees of freedom with articulated fingers, 25 units planned for 2027.</li><li>A required AI subscription starts at $19.99 a month; an optional on-device Vinci vision add-on costs $24,950.</li><li>Four personas (Aria, Mila, Dave, Amar); U.S.-only deliveries expected in the second half of 2027.</li></ul>
+<p>Some people on X questioned whether the promo video and images were AI-generated; Realbotix says it will show Echo in person at CES 2027.</p>
+<p>Sources: <a href="https://www.robotics247.com/article/realbotix-launches-echo-humanoid-robot-line-built-to-support-human-to-robot-interaction">Robotics 24/7</a>, <a href="https://www.realbotix.com/pricing">Realbotix pricing page</a></p>]]></description>
+</item>
+<item>
+<title>Unitree&#x27;s new H2-X security humanoid loses a leg after a failed side flip at a public demo</title>
+<link>https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-10-26-unitree-h2-x-loses-leg-demo</guid>
+<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
+<enclosure url="https://technode.com/wp-content/uploads/2026/10/H2-X.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://technode.com/wp-content/uploads/2026/10/H2-X.png" alt=""/></p>
+<p>Unitree's H2-X humanoid, launched on October 21 as the "Kung Fu Legend: Guardian" for security patrols and emergency rescue, fell while landing a side flip at the World Physical AI Conference in Hangzhou. One lower leg detached completely at the joint, and attendee footage spread quickly across social media.</p>
+<p>Unitree had promoted the H2-X with videos of it denting car doors, lifting the front of a vehicle and backflipping off a four-meter platform, and claims about eight hours of battery life. As of TechNode's report, Unitree had not publicly explained the failure.</p>
+<p>Source: <a href="https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/">TechNode</a></p>]]></description>
+</item>
+<item>
       <title>AgiBot runs 110 production Expedition A3 humanoids in sync for a Guinness World Record</title>
       <link>https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-25-agibot-110-humanoids-guinness-record</guid>
