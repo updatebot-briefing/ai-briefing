@@ -7,8 +7,41 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 12:36:17 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:14:28 -0700</lastBuildDate>
     <item>
+<title>Anthropic publicly files its S-1 to list on Nasdaq as "ANT"</title>
+<link>https://www.anthropic.com/news/s1-sec</link>
+<guid isPermaLink="false">updatebot-ainews-2026-10-26-anthropic-public-s1-nasdaq-ant</guid>
+<pubDate>Mon, 26 Oct 2026 17:14:28 -0700</pubDate>
+<enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt="Anthropic logo"/>
+<p>Anthropic made its IPO filing public on Monday and plans to list its Class A shares on the Nasdaq under the ticker ANT, with Goldman Sachs and Morgan Stanley leading. The share count and price range are still blank.</p>
+<p>What's new versus the leaked draft is the full prospectus: an $80.7 billion first-half net loss on $16.3 billion of revenue, though most of that loss is a non-cash charge on convertible notes and the operating loss was $693 million. It also lays out an unusual governance setup: a Long-Term Benefit Trust that elects a board majority, and a single Class F share held by the seven co-founders that carries 50.1% of the general voting power.</p>
+<p>This would be one of the biggest IPOs ever and the first public listing of a frontier lab, ahead of OpenAI. Read <a href="https://www.anthropic.com/news/s1-sec">Anthropic's announcement</a>, the <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">S-1 on the SEC site</a>, and <a href="https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec">The Verge's writeup</a>.</p>]]></description>
+</item>
+<item>
+<title>Banks and Blackstone line up $63 billion to buy Broadcom AI chips and lease them to Anthropic</title>
+<link>https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce</link>
+<guid isPermaLink="false">updatebot-ainews-2026-10-26-broadcom-63b-financing-anthropic-compute</guid>
+<pubDate>Mon, 26 Oct 2026 17:14:28 -0700</pubDate>
+<enclosure url="https://investors.broadcom.com/sites/g/files/knoqqb13036/themes/site/nir_pid1211/client/images/broadcom-logo.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://investors.broadcom.com/sites/g/files/knoqqb13036/themes/site/nir_pid1211/client/images/broadcom-logo.png" alt="Broadcom logo"/>
+<p>Bank of America, Citi, Morgan Stanley and Blackstone announced a $63 billion financing for a new special-purpose company that will buy Broadcom's custom XPU accelerators and networking gear and lease them to Anthropic, with deliveries starting in 2027.</p>
+<p>The deal covers about 1.7 gigawatts of the 3.5-gigawatt compute agreement Broadcom has with Anthropic, according to Broadcom's lawyers at Sullivan &amp; Cromwell. Broadcom is guaranteeing the asset value up to the size of the senior debt, so the chipmaker carries much of the risk if the hardware loses value.</p>
+<p>It's one of the largest debt deals yet tied to the AI buildout, and it landed the same day as Anthropic's IPO filing. Read <a href="https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce">the announcement</a>, <a href="https://www.sullcrom.com/About/News-and-Events/Highlights/2026/October/SC-Advises-Broadcom-63-Billion-Landmark-AI-Compute-Financing-Structure">Sullivan &amp; Cromwell's note</a>, and <a href="https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662">Reuters' report</a>.</p>]]></description>
+</item>
+<item>
+<title>Microsoft offers buyouts to about 60,000 employees, roughly 27% of its workforce, as AI spending climbs</title>
+<link>https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/</link>
+<guid isPermaLink="false">updatebot-ainews-2026-10-26-microsoft-buyouts-60000-ai-spending</guid>
+<pubDate>Mon, 26 Oct 2026 17:14:28 -0700</pubDate>
+<enclosure url="https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&amp;w=1920&amp;h=1080" alt="Microsoft"/>
+<p>Microsoft announced a Voluntary Exit Offer for employees at level 70 and below on participating teams in the US, Canada, India and the UK. About 60,000 people are eligible, roughly 27% of its 223,000 staff, according to CNBC and AP. Some sales, marketing, security and engineering teams are not taking part.</p>
+<p>Employees have until early December to decide and would leave on December 31. Business Insider reports that US offers match Microsoft's standard severance. The move comes as Microsoft's quarterly capital spending tops $50 billion for AI data centers, and it is one of the clearest signs yet of a giant tech company reshaping its workforce around AI costs.</p>
+<p>Read <a href="https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/">Microsoft's memo</a> and <a href="https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html">CNBC's coverage</a>.</p>]]></description>
+</item>
+<item>
 <title>OpenAI says its AI disproved the Exponential Time Hypothesis, proved the Kakeya conjecture in all dimensions, and proved QCD exists</title>
 <link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-26-openai-ai-proofs-eth-kakeya-qcd</guid>
@@ -501,30 +534,5 @@
       <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
       <description><![CDATA[<p>Character.AI filed for Chapter 11 to run a court-supervised sale of potentially all its assets, with Disney Worldwide Services agreeing to pay $20 million as stalking-horse bidder for a non-exclusive perpetual license to certain IP and claims (<a href="https://variety.com/2026/biz/news/disney-bids-on-character-ai-assets-chapter-11-bankruptcy-1236909984/">Variety</a>).</p><p>Former Character.AI staff join Disney, which hired ex-CEO Karandeep Anand last month, and will provide transition services to keep the platform running; the auction is expected to finish by late November or early December.</p>]]></description>
     </item>
-    <item>
-      <title>XBOW used public GPT-5.6 Sol to build a $250K Chrome full-chain exploit in six days</title>
-      <link>https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-14-xbow-chrome-full-chain-gpt-5-6-sol</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
-      <description><![CDATA[<p>XBOW disclosed a three-bug Chrome full chain, from a malicious web page to Windows code execution outside the sandbox, that won a $250,000 Google bounty (<a href="https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit">XBOW</a>).</p><p>Four researchers worked with OpenAI's publicly available GPT-5.6 Sol, spending about $40,000 in compute over six days. All three bugs are fixed, and XBOW predicts agents could find each bug on their own within a year (<a href="https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain">technical write-up</a>, <a href="https://www.forbes.com/sites/the-wiretap/2026/10/13/how-an-off-the-shelf-openai-model-found-three-google-chrome-zero-days/">Forbes</a>).</p>]]></description>
-    </item>
-    <item>
-      <title>IMF flags an AI-driven market correction as a top global financial stability risk</title>
-      <link>https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-14-imf-gfsr-ai-correction-risk</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
-      <description><![CDATA[<p>The IMF's October 2026 Global Financial Stability Report names an AI-driven market correction as one of three rising risks, along with sovereign bond yields and cyberattacks (<a href="https://www.imf.org/en/blogs/articles/2026/10/12/global-financial-markets-face-rising-risks-from-ai-bond-yields-and-cyberattacks">IMF blog</a>).</p><p>It points to rising hyperscaler borrowing, leveraged AI-stock bets and circular financing: 14 deals since 2023 involved about $300B in equity and $650B in debt for $1.4T of future revenue commitments. The IMF urges limits on leverage in AI and private credit (<a href="https://www.imf.org/-/media/Files/Publications/GFSR/2026/October/English/ch1.pdf">GFSR Chapter 1</a>).</p>]]></description>
-    </item>
-    <item>
-    <title>Breaking: Grok Voice 3.0 ranks #1 on Artificial Analysis Speech-to-Speech Index</title>
-    <link>https://x.ai/news/grok-voice-3</link>
-    <guid isPermaLink="false">updatebot-breaking-2026-10-14-grok-voice-3-0</guid>
-    <pubDate>Wed, 14 Oct 2026 10:34:00 -0700</pubDate>
-    <description><![CDATA[
-<p>SpaceXSI announced <strong>Grok Voice 3.0</strong>, calling it the world’s most intelligent speech-to-speech model. In Artificial Analysis’s independent testing it ranks #1 on the Speech-to-Speech Index at 86.9, ahead of Grok Voice 2.0, GPT-Live-1 (Astra), and Gemini 3.8 Live, and scores 97% on Full Duplex Bench.</p>
-<p>It powers millions of conversations a day across Tesla and SpaceX, including Grok Bot’s voice mode, and Starlink call centers use it for about 20,000 customer calls daily. Available now in the Voice Agent API at <strong>$0.08/min</strong> — the same price as Grok Voice 2.0 — with <code>grok-voice-latest</code> already switched over.</p>
-<p>Primary source: <a href="https://x.ai/news/grok-voice-3">x.ai/news/grok-voice-3</a>.</p>
-]]></description>
-</item>
     </channel>
 </rss>
