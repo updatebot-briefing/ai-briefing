@@ -9,6 +9,30 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Mon, 26 Oct 2026 00:09:57 GMT</lastBuildDate>
     <item>
+<title>Grok Bot 0.75.8 is stable: add Auto-review rules from chat, and fewer approval cards</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-26-grok-bot-v0-75-8</guid>
+<pubDate>Tue, 27 Oct 2026 00:13:28 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt=""/><p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> lists v0.75.8 (which also rolls up 0.75.6 and 0.75.7), and SpaceXSI's Eric Zakariasson <a href="https://x.com/ericzakariasson/status/2114833082956321095">said on Monday</a> it is now stable and rolling out.</p><p>The headline change is that a Bot can offer to add, change, or remove one of your Auto-review rules on a card you confirm, right in chat. Other changes:</p><ul><li>Auto-review takes a second look before showing an approval card, and no longer treats a Bot editing its own routines as risky by itself.</li><li>Plugin skills work as soon as a Bot installs the plugin, and new connector tools show up without reconnecting.</li><li>Slack approval cards now describe the action, and routine posts to Slack no longer notify your phone.</li><li>Scheduling uses whichever calendar you connected, Google or Outlook.</li></ul>]]></description>
+</item>
+<item>
+<title>Hermes Agent's new Advanced Delegation plugin lets each subagent run on its own model or profile</title>
+<link>https://x.com/NousResearch/status/2114753914939863260</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-26-hermes-advanced-delegation-plugin</guid>
+<pubDate>Tue, 27 Oct 2026 00:13:28 GMT</pubDate>
+<enclosure url="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e404b6816b20237a82f6fbe2749b5a576cf75dba/assets/advanced-delegation.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e404b6816b20237a82f6fbe2749b5a576cf75dba/assets/advanced-delegation.jpg" alt=""/><p>Nous Research <a href="https://x.com/NousResearch/status/2114753914939863260">announced on Monday</a> an official Advanced Delegation plugin for Hermes Agent, so the orchestrator can pick a different model or profile for each subagent it starts.</p><p>According to the <a href="https://hermes-agent.nousresearch.com/docs/plugins/advanced-delegation">plugin docs</a>, it adds two modes next to the default: model routes, where you name routes like "fast" or "deep" and the agent picks one per task, and profile routes, where a subagent runs as one of your Hermes profiles with its own model, credentials, skills, and SOUL.md. Only the names and descriptions you write reach the model, so it cannot invent a route.</p><p>It needs Hermes v0.22.5 or newer. Co-founder Teknium <a href="https://x.com/Teknium/status/2114755154977395012">compared</a> profile-based delegation to how Hermes's kanban already works.</p>]]></description>
+</item>
+<item>
+<title>OpenAI Japan says Japan is the second-biggest country for dots weekly users</title>
+<link>https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-26-dots-japan-number-two</guid>
+<pubDate>Tue, 27 Oct 2026 00:13:28 GMT</pubDate>
+<enclosure url="https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002457/10010028/2048" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002457/10010028/2048" alt=""/><p>OpenAI Japan president Tadao Nagasaki said at the DevDay Exchange Tokyo event on Oct 20 that Japan ranks second in the world for weekly active users of dots, <a href="https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/">ITmedia reported</a> (in Japanese).</p><p>At the same event, CyberAgent said more than 1,200 people across its group use dots, mainly through the Slack integration and voice calls, with some features restricted by its security team. OpenAI has not published country-level numbers itself, and the story is now spreading on X this week.</p>]]></description>
+</item>
+<item>
 <title>Alexandr Wang says subscriptions, not ads, will pay for Muse as it expands beyond North America</title>
 <link>https://www.allthingsmuse.com/articles/muse-subscriptions-not-ads-nikkei/</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-25-muse-subscriptions-not-ads</guid>
