@@ -9,6 +9,17 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Mon, 26 Oct 2026 00:09:57 GMT</lastBuildDate>
     <item>
+<title>Hermes Agent subscriptions revamped: every plan gets a cloud agent, and usage limits now reset daily and weekly</title>
+<link>https://x.com/NousResearch/status/2115120531611787323</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-27-hermes-agent-subscriptions-revamp</guid>
+<pubDate>Tue, 27 Oct 2026 17:36:57 GMT</pubDate>
+<enclosure url="https://web-assets.nousresearch.com/portal/441cf77a3ff97e0e473e8144cef6c04488af4242/hermes-og-image-blue.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://web-assets.nousresearch.com/portal/441cf77a3ff97e0e473e8144cef6c04488af4242/hermes-og-image-blue.png" alt="Hermes Agent subscriptions"/>
+<p>Nous Research has revamped its Hermes Agent subscriptions. Every new plan now includes a cloud agent out of the box, and included usage now resets on daily and weekly limits instead of one monthly block of credits.</p>
+<p>The <a href="https://portal.nousresearch.com/">Nous Portal</a> lists Free, Plus, Super, and Ultra tiers. Paid tiers include a cloud agent (4 GB RAM with 25 GB disk on Plus, 100 GB disk on Super, and 8 GB RAM with 100 GB disk on Ultra); bigger sizes and extra agents use credits, large models have their own monthly limit, and API keys still bill pay-as-you-go.</p>
+<p>Existing subscribers can switch to the new plans any time. Teknium added that every paid Nous Portal subscription now comes with a Hermes Agent instance and a computer for it, so the agent keeps running without a laptop left open. <a href="https://x.com/NousResearch/status/2115120531611787323">Announcement on X</a></p>]]></description>
+</item>
+<item>
 <title>Grok Bot 0.75.8 is stable: add Auto-review rules from chat, and fewer approval cards</title>
 <link>https://x.ai/changelog/bot</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-26-grok-bot-v0-75-8</guid>
