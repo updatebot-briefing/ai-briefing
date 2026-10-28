@@ -7,8 +7,19 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 Oct 2026 09:33:32 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:35:21 -0700</lastBuildDate>
     <item>
+      <title>Google announces Gemini 4 Carbon, its new frontier model, two weeks after Argon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <guid isPermaLink="false">updatebot-breaking-2026-10-28-gemini-4-carbon</guid>
+      <pubDate>Wed, 28 Oct 2026 10:35:21 -0700</pubDate>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" alt=""/></p>
+<p>Google announced Gemini 4 Carbon, its next frontier model, just two weeks after Gemini 4 Argon. Google says it ranks #1 on Artificial Analysis Intelligence Index v5.0 at 59 (just ahead of Claude Opus 5.5 at 58) and sets new highs in cybersecurity and long-horizon work, including SEC-bench Pro 88.2%, ExploitGym 54.8% and CWE-bench 71.0% (<a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Google blog</a>, <a href="https://deepmind.google/models/gemini/">DeepMind benchmarks</a>).</p>
+<p>Access is staged: starting this week a subset of cyber defenders get it, then more trusted partners through Google's Fairwind Program, with broader availability to developers, businesses and consumers "coming soon." 9to5Google reports introductory API pricing of $2/$10 per million input/output tokens, rising later to $4/$20 (<a href="https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/">9to5Google</a>).</p>
+<p>Google also claims about 2x fewer unsupported claims than Argon and less overreach on multi-step tasks (<a href="https://x.com/sundarpichai/status/2115489219804352921">Sundar Pichai on X</a>).</p>]]></description>
+    </item>
+<item>
       <title>Axiom&#x27;s AI agent swarms formalize the Classification of Finite Simple Groups, the longest proof in math, in Lean</title>
       <link>https://axiommath.ai/research/the-enormous-theorem-formalized/</link>
       <guid isPermaLink="false">updatebot-ainews-2026-10-27-axiom-cfsg-lean-formalized</guid>
@@ -544,15 +555,6 @@
       <pubDate>Fri, 16 Oct 2026 08:16:31 -0700</pubDate>
       <enclosure url="https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg" alt=""/><p>Reflection, the Brooklyn-based US lab, put the weights for <a href="https://huggingface.co/blog/reflection-beam">Beam 1.0</a> on Hugging Face on Oct 16 under the Apache 2.0 license, following its <a href="https://www.reflection.ai/blog/introducing-beam">Oct 5 preview</a>. Beam is a 501-billion-parameter mixture-of-experts model with 23 billion active per token and a 1M-token context window, built for coding and agent work, with BF16, FP8, and NVFP4 checkpoints and day-one support in transformers, vLLM, and SGLang.</p><p>Reflection says Beam matches leading Chinese open models such as GLM-5.2 on reasoning benchmarks while using 3 to 4 times less inference compute; those claims haven't been independently verified (<a href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/">TechCrunch</a>).</p><p>Why it matters: along with Meta's Muse Spark Open this week, it gives developers a second frontier-scale US open-weight model, and Apache 2.0 is more permissive than Meta's Muse license.</p>]]></description>
-    </item>
-    <item>
-      <title>FTC sends civil investigative demands to OpenAI and Anthropic over AI safety</title>
-      <link>https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-15-ftc-cid-openai-anthropic</guid>
-      <pubDate>Thu, 15 Oct 2026 19:37:00 -0700</pubDate>
-      <description><![CDATA[<p>The U.S. Federal Trade Commission sent <strong>civil investigative demands</strong> (CIDs) of more than 50 pages each to OpenAI and Anthropic on Wednesday, seeking records on AI safety/security incidents, safeguards, marketing materials, and privacy policies, <a href="https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation">Axios</a> reported.</p>
-<p>An FTC spokesperson confirmed the civil subpoenas to <a href="https://thehill.com/policy/technology/6150621-ftc-subpoena-openai-anthropic-safety-incidents-probe/">The Hill</a> and to CBS News (via <a href="https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/">Engadget</a>). The probe follows recent agent safety incidents and sits alongside Wednesday&#39;s eight-state consumer-protection suits against OpenAI (already in this feed).</p>
-<p>Axios says the agency also plans to compel top executives to testify and may later send demands to third parties including METR. An OpenAI spokesperson told Axios: &quot;We will engage constructively with the FTC.&quot;</p>]]></description>
     </item>
     </channel>
 </rss>
