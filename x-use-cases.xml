@@ -7,8 +7,30 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 27 Oct 2026 00:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:17:32 +0000</lastBuildDate>
     <item>
+<title>Top 10 AI use cases on X, Oct 27 2026</title>
+<link>https://x.com/coolerwave/status/2115032387750936703</link>
+<guid isPermaLink="false">updatebot-xusecases-2026-10-27</guid>
+<pubDate>Wed, 28 Oct 2026 00:17:32 +0000</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115031781665648640/img/CNqxolnX8WgVDr9B.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2115031781665648640/img/CNqxolnX8WgVDr9B.jpg" alt="Top post preview"/>
+<p>The ten most-engaged X posts from the last 24 hours showing people actually using AI. Phone privacy audits with Claude Code and family projects led a quieter day; trading-profit brag threads and prompt-list bait were left out.</p>
+<ol>
+<li><p><strong>Claude Code phone microphone audit</strong></p><p>Plugged an iPhone into a MacBook and had Claude Code scan app microphone activity, then revoke mic and background access for TikTok, Instagram, Facebook and Snapchat. The "apps are listening" findings are the poster's own claims and aren't independently verified.</p><p><a href="https://x.com/coolerwave/status/2115032387750936703">@coolerwave on X</a> · 104 likes · 14 reposts · 7,388 views</p></li>
+<li><p><strong>A non-AI spouse using Grok Bot for groceries</strong></p><p>Their wife, who isn't deep into AI tools, made her grocery list in Grok Bot's main chat and found she wanted pinned messages so it wouldn't get buried before she got to the store.</p><p><a href="https://x.com/ryanlanciaux/status/2115169739916144652">@ryanlanciaux on X</a> · 106 likes · 1 repost · 9,076 views</p></li>
+<li><p><strong>AI-made UGC sunscreen ad</strong></p><p>Made a user-generated-style ad for a sunscreen brand, using GPT-6 for the image and Grok for the video generation.</p><p><a href="https://x.com/claire44/status/2115084183500702157">@claire44 on X</a> · 76 likes · 68 reposts · 1,551 views</p></li>
+<li><p><strong>22 agent skills for system design</strong></p><p>Built an open-source set of 22 agent skills that walk Claude Code, Codex, Cursor or Copilot CLI through clarifying, estimating and stress-testing a system design, and measured it with Claude's plugin evals.</p><p><a href="https://x.com/jdnichollsc/status/2115006045194002603">@jdnichollsc on X</a> · 59 likes · 2 reposts · 2,583 views</p></li>
+<li><p><strong>One-prompt music video edit</strong></p><p>Had Claude Opus 5.5 assemble a Sun Wukong music edit from Seedance 2.0 clips with a single prompt, and shared the prompt so others can do it with any song.</p><p><a href="https://x.com/NEXUS_TO_NOVA/status/2115141484253008352">@NEXUS_TO_NOVA on X</a> · 35 likes · 1 repost · 1,379 views</p></li>
+<li><p><strong>Sales pitch practice with ChatGPT</strong></p><p>Uses ChatGPT role-play as a skeptical customer to rehearse a sales pitch, and finds it harder to win over than a human practice partner.</p><p><a href="https://x.com/CodeWithTamara/status/2114999031814324397">@CodeWithTamara on X</a> · 33 likes · 0 reposts · 943 views</p></li>
+<li><p><strong>A custom book series for a toddler</strong></p><p>Used Claude to create a superhero character based on their toddler son, build a world around him, and turn lessons they wanted to teach into a six-book series, printed on cardstock as a Christmas gift.</p><p><a href="https://x.com/TJ_Bongiorno/status/2115213586083520922">@TJ_Bongiorno on X</a> · 28 likes · 0 reposts · 1,004 views</p></li>
+<li><p><strong>Grok Bot that fights bills and bids</strong></p><p>Shared a free Grok Bot that reads mechanic estimates, contractor bids, insurance policies or car listings, flags junk fees, pulls competing prices and writes the counter-offer; the poster says it saved them over $500 in a week.</p><p><a href="https://x.com/trevizo_gabe/status/2115183868152266868">@trevizo_gabe on X</a> · 22 likes · 1 repost · 1,764 views</p></li>
+<li><p><strong>Pixar-style short from one family photo</strong></p><p>Turned a single photo of their daughter into a 48-second animated short with Grok, locking the character's look across clips and stitching them together.</p><p><a href="https://x.com/KostyaAI/status/2115079791837663234">@KostyaAI on X</a> · 15 likes · 4 reposts · 376 views</p></li>
+<li><p><strong>A shared memory for every AI tool</strong></p><p>Built a three-part memory (an Obsidian wiki, Pinecone vector memory and per-project session notes) shared by Claude, Codex and a Hermes agent, so they can text or voice-note work to the agent during a blue-collar shift.</p><p><a href="https://x.com/EcomSkii/status/2115026323793916356">@EcomSkii on X</a> · 14 likes · 0 reposts · 678 views</p></li>
+</ol>
+]]></description>
+</item>
+<item>
       <title>Top 10 AI use cases on X, Oct 26 2026</title>
       <link>https://x.com/Layton_Gott/status/2114531008624140779</link>
       <guid isPermaLink="false">updatebot-xusecases-2026-10-26</guid>
