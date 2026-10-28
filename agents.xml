@@ -7,8 +7,48 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Oct 2026 00:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:15:52 GMT</lastBuildDate>
     <item>
+<title>Grok Bot gets a referral program: refer a friend who pays and earn a free weekly usage reset</title>
+<link>https://docs.x.ai/x-subscription/referral-program</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-27-grok-bot-referral-usage-reset</guid>
+<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
+<enclosure url="https://docs.x.ai/api/og?t=eyJ0aXRsZSI6IlJlZmVyIGZyaWVuZHMgdG8gR3JvayBCb3QiLCJ2IjoiNyIsInNjb3BlIjoieC1zdWJzY3JpcHRpb24iLCJzZWN0aW9uIjoiR3JvayBCb3QifQ.iZ2WoL-8nKzweMPGBWLKHTfTMmDqzcFZg5QYQ5TjhL8" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://docs.x.ai/api/og?t=eyJ0aXRsZSI6IlJlZmVyIGZyaWVuZHMgdG8gR3JvayBCb3QiLCJ2IjoiNyIsInNjb3BlIjoieC1zdWJzY3JpcHRpb24iLCJzZWN0aW9uIjoiR3JvayBCb3QifQ.iZ2WoL-8nKzweMPGBWLKHTfTMmDqzcFZg5QYQ5TjhL8" alt=""/><p>SpaceXSI posted a <a href="https://docs.x.ai/x-subscription/referral-program">Refer friends to Grok Bot</a> help page and new <a href="https://x.ai/legal/referral-program-terms">referral program terms</a> on Tuesday. Your friend gets a 2-week free trial of Premium (a credit card is required), and once they become a paid subscriber you get one usage reset, which restores your included usage for the current weekly period.</p><ul><li>To refer, you need a paid Premium, Super, or Ultra plan on The X Subscription, be in the US, and have checked out at least 7 days ago. Plus, Team, and legacy Cursor or SuperGrok plans can't refer yet.</li><li>The reward shows as pending, then is added 7 days after your friend pays, and each reset expires 6 months after it's added.</li><li>Friends can be in any country except China, and App Store or Google Play sign-ups don't count.</li><li>Your link is behind the gift icon in the Grok Bot app, or at grok.com/dashboard/referrals.</li></ul>]]></description>
+</item>
+<item>
+<title>SpaceXSI shows three Shared Bots its sales team uses to update the CRM, draft quotes, and review deal terms</title>
+<link>https://x.com/bot/status/2115130760009273501</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-27-grok-bot-sales-shared-bots</guid>
+<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/media/HVpzo8GbIAAr5ar.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/media/HVpzo8GbIAAr5ar.jpg" alt=""/><p>The official Grok Bot account <a href="https://x.com/bot/status/2115130760009273501">posted on Tuesday</a> how SpaceXSI's own sales operations team uses Shared Bots to help reps move deals faster.</p><ul><li>Account Intel Bot updates the CRM after calls.</li><li>Quote Bot prepares proposals and order forms.</li><li>Deal Bot reviews non-standard terms and routes exceptions for approval.</li></ul><p>It follows last week's support-team example, and drew over 1,500 bookmarks in its first seven hours.</p>]]></description>
+</item>
+<item>
+<title>GPT-6.1 Terra is now available in Hermes Agent through Nous Portal and OpenRouter</title>
+<link>https://x.com/Teknium/status/2114920088357032109</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-27-hermes-gpt-6-1-terra</guid>
+<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/media/HVm0j4RaUAA9O9Q.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/media/HVm0j4RaUAA9O9Q.jpg" alt=""/><p>Nous Research co-founder Teknium <a href="https://x.com/Teknium/status/2114920088357032109">said Monday evening</a> that OpenAI's new GPT-6.1 Terra can now be picked as a model in Hermes Agent, through Nous Portal or OpenRouter.</p><p>OpenAI <a href="https://x.com/OpenAI/status/2114780711664398349">pitched Terra</a> as a cheaper model with fast, capable computer use that can read what's on screen and act across apps, which suits an always-on agent like Hermes.</p>]]></description>
+</item>
+<item>
+<title>Hermes Agent gets an official ElevenLabs sound effects plugin, with a sound library in Hermes Desktop</title>
+<link>https://hermes-agent.nousresearch.com/docs/plugins/elevenlabs-sound-effects</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-27-hermes-elevenlabs-sfx-plugin</guid>
+<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
+<enclosure url="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e4e40398c4d46f86dba3bbdcbfa5ef02d2675988/assets/elevenlabs-sound-effects.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e4e40398c4d46f86dba3bbdcbfa5ef02d2675988/assets/elevenlabs-sound-effects.jpg" alt=""/><p>Teknium <a href="https://x.com/Teknium/status/2115219694622040322">announced</a> an official <a href="https://hermes-agent.nousresearch.com/docs/plugins/elevenlabs-sound-effects">ElevenLabs Sound Effects plugin</a> for Hermes Agent on Tuesday afternoon, as part of a growing set of game-dev tools.</p><p>It adds one tool that turns a text description into a 0.5 to 30 second audio clip, optionally a seamless loop, and sends it to you in chat on Telegram, Discord, Slack, and other apps. It also ships a sound-design skill with a local ffmpeg script for trimming, loudness, loop fixes, and game sound packs, and in Hermes Desktop you get an inline sound card and a sound library tab.</p><p>You need your own ElevenLabs API key, and it installs with <code>hermes plugins install elevenlabs-sound-effects</code>.</p>]]></description>
+</item>
+<item>
+<title>NVIDIA invests $3 billion and AMD $1 billion in Meta as both expand work on the Muse agent</title>
+<link>https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-27-muse-nvidia-amd-investment</guid>
+<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
+<enclosure url="https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png" alt=""/><p>NVIDIA and Meta <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx">announced on Tuesday</a> that they'll expand their work on Muse and the Muse models, and NVIDIA will put $3 billion into Meta's equity offering. They're also looking at NVIDIA's OpenShell for safely deploying agents and NVIDIA Sentry for monitoring agent behavior.</p><p>AMD <a href="https://ir.amd.com/news-events/press-releases/detail/1302/amd-and-meta-advance-strategic-partnership-to-power-metas-superintelligence-infrastructure">said separately</a> that its EPYC processors power the dedicated computers behind Muse, and <a href="https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html">CNBC reports</a> AMD is investing $1 billion. Zuckerberg called Muse "how we bring personal superintelligence to everyone."</p><p>The investments come as Meta raises up to $95 billion for AI infrastructure.</p>]]></description>
+</item>
+<item>
 <title>Hermes Agent subscriptions revamped: every plan gets a cloud agent, and usage limits now reset daily and weekly</title>
 <link>https://x.com/NousResearch/status/2115120531611787323</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-27-hermes-agent-subscriptions-revamp</guid>
@@ -492,24 +532,5 @@
       <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
       <description><![CDATA[<p>Meta says its new Muse Wonder model "will soon power experiences in Muse," rolling out to subscribers first. It will also handle artifact generation and other tasks that need more intelligence (<a href="https://research.meta.ai/blog/muse-wonder">Meta</a>).</p><p>The models add Active Memory, which carries context across conversations, and Active Focus, which keeps long tasks going and checks in before important actions. Muse has run on Muse Spark since its Sept. 8 U.S. launch (<a href="https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/">SiliconANGLE</a>). For developers, Muse Wonder is on the Meta Model API at $4/$20 per million tokens (<a href="https://dev.meta.ai/resources/blog/build-with-muse-wonder">Meta dev blog</a>).</p>]]></description>
     </item>
-    <item>
-      <title>Breaking: Hermes Agent v0.22.0 — The Threshold Release</title>
-      <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-14-hermes-v0-22-0</guid>
-      <pubDate>Wed, 14 Oct 2026 10:34:00 -0700</pubDate>
-      <description><![CDATA[
-<p>Nous Research shipped <strong>Hermes Agent v0.22.0</strong> (The Threshold Release), the largest Hermes window yet — about 2.5× the v0.21.0 cycle, rolling up v0.21.1–v0.21.7.</p>
-<p>Highlights include guided first-launch setup on a free trial model, Connectors so Hermes can act in hosted apps like Linear and Notion without needing a Nous account to start, one-click local models via llama.cpp, tested SemVer stable release channels, signed desktop packages (including the Microsoft Store), and a 600-plugin catalog. Also in the wave: Claude 5.5 / GPT-6 model support, password-manager browser sign-in, and Bot Screen takeover.</p>
-<p>Primary source: <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0">GitHub release v0.22.0</a>.</p>
-]]></description>
-    </item>
-
-    <item>
-      <title>Personal AI Agents feed started</title>
-      <link>https://updatebot-briefing.github.io/ai-briefing/agents.xml</link>
-      <guid isPermaLink="false">updatebot-agents-start-2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 14:10:00 -0700</pubDate>
-      <description>This feed tracks the latest features and updates for personal AI agents: Grok Bot, Hermes Agent, Meta Muse, and OpenAI Dots.</description>
-    </item>
-  </channel>
+    </channel>
 </rss>
