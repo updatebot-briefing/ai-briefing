@@ -9,6 +9,14 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Wed, 28 Oct 2026 00:15:52 GMT</lastBuildDate>
     <item>
+<title>OpenAI dots can now be texted over iMessage or RCS, rolling out as a preview for US Pro users</title>
+<link>https://x.com/ChatGPT/status/2115496387613786374</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-28-openai-dots-texting</guid>
+<pubDate>Wed, 28 Oct 2026 18:35:43 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115494759447904257/img/gnlEjizTFyuOlfML.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2115494759447904257/img/gnlEjizTFyuOlfML.jpg" alt="OpenAI dots texting"/><p>OpenAI says you can now text your dot over iMessage or RCS. You can hand it a task or something to keep an eye on using text, photos, or voice notes, and it will text you proactively with relevant updates.</p><p>OpenAI says only you can text your dot, and your dot can only text you. It's rolling out now as a preview for Pro users in the US.</p><p>Source: <a href="https://x.com/ChatGPT/status/2115496387613786374">ChatGPT on X</a></p>]]></description>
+</item>
+<item>
 <title>Grok Bot gets a referral program: refer a friend who pays and earn a free weekly usage reset</title>
 <link>https://docs.x.ai/x-subscription/referral-program</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-27-grok-bot-referral-usage-reset</guid>
@@ -524,13 +532,6 @@
       <guid isPermaLink="false">updatebot-agents-2026-10-14-openai-dots-help-troubleshooting-pricing</guid>
       <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
       <description><![CDATA[<p>OpenAI updated <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started with your dot</a> with troubleshooting answers. Each task has its own conversation, so give corrections in the affected task. Changing the selected computer doesn't move existing tasks. Read access to an app doesn't include write access. The cloud browser has its own sign-ins, and only the desktop app can grant local access.</p><p>Pricing is unchanged: the first dot is included at no extra cost with Pro 100/200/500 ($100/$200/$500 a month) or Business Premium. Chatting with a dot doesn't count toward limits, but Work and Codex tasks it starts do. The "extended limits for the first month" window and its follow-on terms are still unpublished and are expected around Oct 29 (<a href="https://gptdot.net/updates/">gptdot.net tracker</a>). GPT-5.5 retires from ChatGPT, Work and Codex today, but dots run on GPT-6 Astra.</p>]]></description>
-    </item>
-    <item>
-      <title>Meta's Muse agent to move to Muse Wonder, subscribers first</title>
-      <link>https://research.meta.ai/blog/muse-wonder</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-14-meta-muse-wonder-coming-to-muse</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
-      <description><![CDATA[<p>Meta says its new Muse Wonder model "will soon power experiences in Muse," rolling out to subscribers first. It will also handle artifact generation and other tasks that need more intelligence (<a href="https://research.meta.ai/blog/muse-wonder">Meta</a>).</p><p>The models add Active Memory, which carries context across conversations, and Active Focus, which keeps long tasks going and checks in before important actions. Muse has run on Muse Spark since its Sept. 8 U.S. launch (<a href="https://siliconangle.com/2026/10/12/meta-releases-muse-wonder-ai-models-built-to-run-personal-and-professional-agents/">SiliconANGLE</a>). For developers, Muse Wonder is on the Meta Model API at $4/$20 per million tokens (<a href="https://dev.meta.ai/resources/blog/build-with-muse-wonder">Meta dev blog</a>).</p>]]></description>
     </item>
     </channel>
 </rss>
