@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Who Gives the Most AI Usage</title>
+<link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
+<description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
+<language>en-us</language>
+<lastBuildDate>Tue, 27 Oct 2026 20:40:01 -0700</lastBuildDate>
+<item>
+<title>SemiAnalysis: Anthropic subscriptions offer 5x+ more value than OpenAI</title>
+<link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+<guid isPermaLink="false">updatebot-usage-2026-10-05-semianalysis-subscriptions</guid>
+<pubDate>Mon, 05 Oct 2026 09:00:00 -0700</pubDate>
+<enclosure url="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://substackcdn.com/image/fetch/$s_!0Lmd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbae198-0201-4307-b79a-55c3d79c8f85_1672x941.png"><p>SemiAnalysis measured the limits on AI subscription plans from Anthropic, OpenAI, Meta, SpaceXAI, Cursor, Cognition, and the Chinese labs, one token type at a time. It then converted each plan into what the same usage would cost at API prices.</p><p>For the mid-tier models, Claude plans gave about 5x the API-equivalent value of OpenAI's, after OpenAI halved its $200 plan and added a $500 tier. This is the founding example for this feed.</p><p><a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">Read the article</a></p>]]></description>
+</item>
+</channel>
+</rss>
