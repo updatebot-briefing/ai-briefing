@@ -6,8 +6,55 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:15:01 +0000</lastBuildDate>
     <item>
+  <title>Reward AI shows its glove-trained OM-1 model driving humanoids on last-mile delivery and stairs</title>
+  <link>https://x.com/RewardAI_/status/2115134330578272418</link>
+  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-reward-ai-om1-humanoid-delivery-stairs</guid>
+  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
+  <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115134202865967104/img/ztcQGS_UNbo6lM6K?format=webp&amp;name=large" type="image/jpeg" length="0"/>
+  <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2115134202865967104/img/ztcQGS_UNbo6lM6K?format=webp&amp;name=large" alt=""/></p>
+<p>Robotics startup Reward AI, whose team previously built DexCap, HumanPlus and ALOHA, posted new videos of its OM-1 robot model running humanoids indoors and outdoors: unloading Amazon, Walmart and DHL packages from a Cybertruck bed for last-mile delivery, and picking things up while standing on stairs.</p>
+<p>OM-1 is trained only on data from people wearing Reward AI's 7-degree-of-freedom Omnibody Hand glove, with no teleoperation and no on-robot data, and the company says one policy runs across arms and humanoids. The post drew about 430 likes and 64,000 views within hours.</p>
+<ul><li>These are company-run stress tests, not a commercial rollout.</li><li>No weights, code or API have been released.</li></ul>
+<p>Sources: <a href="https://x.com/RewardAI_/status/2115134330578272418">Reward AI on X</a>, <a href="https://www.rewardai.com/blog/OM-1/">Reward AI OM-1 blog post</a>.</p>]]></description>
+</item>
+<item>
+  <title>Shanghai's International Embodied Intelligence Competition puts about 1,000 humanoid robots through real-world tasks</title>
+  <link>https://www.chinadaily.com.cn/a/202610/27/WS6ae0973de4b06d4aa0565764.html</link>
+  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-shanghai-1000-humanoid-competition</guid>
+  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
+  <description><![CDATA[<p>The International Embodied Intelligence Competition wrapped up in Shanghai on Sunday, with about 1,000 humanoid robots from more than 800 teams competing across 23 categories spanning industrial production, services, special operations and everyday life.</p>
+<p>The event was the centerpiece of the 2026 Global Developer Pioneers Summit, which drew more than 300 robot hardware companies and over 200 supply-chain firms. A Pudong official said more than 30 humanoid models have launched in the district, calling it the world's densest cluster of mass-produced humanoids (an official claim, not independently verified).</p>
+<p>Source: <a href="https://www.chinadaily.com.cn/a/202610/27/WS6ae0973de4b06d4aa0565764.html">China Daily</a>.</p>]]></description>
+</item>
+<item>
+  <title>AgiBot launches Genie G2 Max, a heavy-payload wheeled humanoid lifting up to 50 kg, already in JD Logistics warehouses</title>
+  <link>https://robrief.com/en/articles/agibot-genie-g2-max-heavy-payload-launch</link>
+  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-agibot-genie-g2-max-heavy-payload</guid>
+  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
+  <enclosure url="https://robrief.com/og/agibot-genie-g2-max-heavy-payload-launch.png" type="image/jpeg" length="0"/>
+  <description><![CDATA[<p><img src="https://robrief.com/og/agibot-genie-g2-max-heavy-payload-launch.png" alt=""/></p>
+<p>AgiBot released the Genie G2 Max, a safety-rated dual-arm embodied robot for depalletizing, palletizing, material transfer and production-line feeding. It is the third launch in AgiBot's "AI WAVE" release week.</p>
+<ul><li>Payload of 20 kg per arm, 40 kg rated with both arms and 50 kg peak, with arm repeatability within 0.5 mm.</li>
+<li>A waist pitch joint lets it lean forward, so pallets can sit against a wall without a walkway behind them.</li>
+<li>Hot-swappable dual batteries and self-charging for round-the-clock work.</li></ul>
+<p>AgiBot says the robot already depalletizes 80 cases and palletizes 75 cases an hour at a JD Logistics warehouse with over 99% success, and feeds parts on its own humanoid production line. Those figures are the company's own, and no price was given. The robot will be shown at AgiBot Innovation Day on Oct 29.</p>
+<p>Source: <a href="https://robrief.com/en/articles/agibot-genie-g2-max-heavy-payload-launch">Robrief</a>.</p>]]></description>
+</item>
+<item>
+  <title>Humanoid maker CASBOT closes A++ round worth several hundred million yuan, citing over RMB 400M in shoemaking-robot orders</title>
+  <link>https://humanoidbeat.com/news/casbot-a-plus-plus-round-shoemaking-mining-robots.html</link>
+  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-casbot-a-plus-plus-round-shoe-orders</guid>
+  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
+  <enclosure url="https://humanoidbeat.com/img/casbot-a-plus-plus-round-shoemaking-mining-robots.jpg" type="image/jpeg" length="0"/>
+  <description><![CDATA[<p><img src="https://humanoidbeat.com/img/casbot-a-plus-plus-round-shoemaking-mining-robots.jpg" alt=""/></p>
+<p>Beijing-based CASBOT, maker of the full-size CASBOT 02 humanoid, the wheeled-arm W2 and the half-size Mini, completed an A++ round worth "several hundred million yuan," according to China Securities Journal and Science and Technology Daily. The exact amount was not disclosed.</p>
+<p>The company says it holds more than RMB 400 million (about $56M) in 2026 orders for shoemaking robots, with production planned in the thousands of units. At a footwear factory in Putian, its lightweight perception-to-action model runs arms that stamp an outsole every 7 seconds. Its claimed 50% to 70% annual ROI for customers has not been independently verified.</p>
+<p>The money goes to mass-production delivery, model development and market expansion.</p>
+<p>Source: <a href="https://humanoidbeat.com/news/casbot-a-plus-plus-round-shoemaking-mining-robots.html">Humanoid Beat</a>.</p>]]></description>
+</item>
+<item>
 <title>Agility expands Digit to two more GXO warehouses and adds three unnamed manufacturing customers</title>
 <link>https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot</link>
 <guid isPermaLink="false">updatebot-humanoid-2026-10-26-agility-gxo-expansion-three-manufacturing-customers</guid>
