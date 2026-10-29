@@ -6,7 +6,64 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:22:26 GMT</lastBuildDate>
+    <item>
+      <title>Boston Dynamics reportedly lines up an all-Korean Atlas supply chain and tells suppliers to prepare parts for 10,000 humanoids</title>
+      <link>https://www.kedglobal.com/robotics/newsView/ked202610270008</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-atlas-korean-suppliers-10000</guid>
+      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
+      <description><![CDATA[<p>Boston Dynamics has finalized its supplier lineup for the Atlas humanoid and asked the selected companies to get ready for purchase orders covering 10,000 units, <a href="https://www.kedglobal.com/robotics/newsView/ked202610270008">KED Global reported</a> on Oct 27, citing industry sources. <strong>This is a report, not confirmed by Boston Dynamics</strong>, and it describes a request to prepare, not a placed order.</p>
+<ul>
+<li><strong>Actuators and grippers:</strong> Hyundai Mobis, with actuators said to make up most of the robot's parts cost.</li>
+<li><strong>Batteries:</strong> Samsung SDI and LG Energy Solution; cameras from a Mobis-led group with Namuga and IL, plus MCNEX and Cammsys for hand cameras.</li>
+<li><strong>Other parts:</strong> BH EVS for charging and CTR for control arms; the only non-Korean component is NVIDIA's processor.</li>
+</ul>
+<p>Final quantities and prices aren't set, and first orders are expected around late 2027 or early 2028. Early Atlas units are slated for Hyundai's own Metaplant in Georgia. <a href="https://machineeconomy.co.uk/briefings/atlas-korean-suppliers">Machine Economy's breakdown</a> stresses that the 10,000 figure is a planning number, not a shipment or contract.</p>]]></description>
+    </item>
+    <item>
+      <title>Unitree&#x27;s first earnings since its IPO: Q3 revenue up 70% to 665M yuan, but net profit falls 17% as R&amp;D spending jumps</title>
+      <link>https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-unitree-q3-earnings</guid>
+      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/28/42bbf7f1-bcd1-4a0f-95b3-7652d38fa395_081e10bc.jpg?itok=inHZQlVa&amp;v=1793194682" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/28/42bbf7f1-bcd1-4a0f-95b3-7652d38fa395_081e10bc.jpg?itok=inHZQlVa&amp;v=1793194682" alt=""/></p>
+<p>Unitree Robotics reported its first quarterly results since its August listing in Shanghai, per the <a href="https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit">South China Morning Post</a> and the company's <a href="http://static.cninfo.com.cn/finalpage/2026-10-29/1225637442.PDF">Q3 filing</a>.</p>
+<ul>
+<li>Q3 revenue rose 69.93% year on year to 665 million yuan (about $100 million).</li>
+<li>Net profit fell 17.37% to 112.7 million yuan, well below the roughly 224 million yuan analysts expected, according to Reuters.</li>
+<li>Quarterly R&amp;D spending jumped about 250% to 127 million yuan, around 19% of revenue, as Unitree invests in robot AI.</li>
+<li>For the first nine months, revenue grew 55.7% to 1.82 billion yuan.</li>
+</ul>
+<p>It's an early market test for China's best-known humanoid maker amid a tech-sector selloff.</p>]]></description>
+    </item>
+    <item>
+      <title>XPeng&#x27;s dedicated solid-state battery for the IRON humanoid enters small-batch production ahead of robot mass production</title>
+      <link>https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-xpeng-iron-solid-state-battery</guid>
+      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
+      <enclosure url="https://cnevpost.com/wp-content/uploads/2026/10/2026102809070433.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cnevpost.com/wp-content/uploads/2026/10/2026102809070433.jpg" alt=""/></p>
+<p>XPeng vice president Gu Jie said at the Society of Automotive Engineers of China annual conference on Oct 28 that solid-state batteries built for the IRON humanoid have started rolling off the line in small batches, <a href="https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production/">CnEVPost reports</a>. IRON itself is still before start of production, with mass production planned by the end of 2026 and commercial deployment in stores from 2027.</p>
+<ul>
+<li>The pack uses a high-energy-density design for the robot's tight internal space and is built to stop thermal runaway from spreading; it passes impact and nail-penetration tests.</li>
+<li>Gu reportedly said it's about 30% lighter with about 30% more capacity than the previous pack (<a href="https://x.com/CyberRobooo/status/2115446448104124639">per a post on X</a>).</li>
+<li><strong>Unclear:</strong> XPeng didn't say whether this is the all-solid-state chemistry it promised in 2025; a September report said the production IRON would use semi-solid-state cells instead. No volume or energy-density figures were given.</li>
+</ul>]]></description>
+    </item>
+    <item>
+      <title>Westlake Robotics shows an upgraded WR1 model running humanoids through multi-room household chores without resets</title>
+      <link>https://vuntum.com/en/news/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-westlake-wr1-household</guid>
+      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
+      <enclosure url="https://vuntum.com/en/actualites/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it/opengraph-image?0cc4909f80027184" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://vuntum.com/en/actualites/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it/opengraph-image?0cc4909f80027184" alt=""/></p>
+<p>Hangzhou start-up Westlake Robotics, spun out of Westlake University, released videos of an improved version of its WR1 AI model, <a href="https://vuntum.com/en/news/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it">Vuntum reports</a>.</p>
+<ul>
+<li>A humanoid takes trousers and a T-shirt off a rack, then folds the trousers together with a second humanoid.</li>
+<li>In a second run across kitchen, living room and bedroom, it moves corn from the fridge to an air-fryer basket, kneels to pick up toys, and straightens a duvet.</li>
+</ul>
+<p>The company says the tasks run in sequence with no human resets or step-by-step prompting. These are company-made demo videos, and the cooking stops at the fryer basket.</p>]]></description>
+    </item>
     <item>
   <title>Reward AI shows its glove-trained OM-1 model driving humanoids on last-mile delivery and stairs</title>
   <link>https://x.com/RewardAI_/status/2115134330578272418</link>
