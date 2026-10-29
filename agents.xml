@@ -7,8 +7,40 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 00:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:14:49 GMT</lastBuildDate>
     <item>
+<title>Grok Bot 0.78.1 adds shopping cards with order tracking, and templates that cancel trials and unused subscriptions</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-28-grok-bot-v0-78-1</guid>
+<pubDate>Thu, 29 Oct 2026 00:14:49 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot changelog"/><p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> lists v0.78.1 (Oct 27, also covering 0.78.0). Shopping with a Bot now shows products as cards with photos, rating, price and store, three or four results scroll in a carousel, and Buy now starts an order you approve. After an order, the Bot tracks it and tells you when it ships or arrives.</p><p>New templates include <strong>Try it, don't pay for it</strong> (starts a free trial and cancels it or reminds you before it bills), <strong>Find unused subscriptions</strong> and <strong>Watch subscription prices</strong>. Bots can now cancel a subscription or look up its renewal date, confirming with you first. Shop Pay can be connected in the Vault's Payments tab.</p><p>Other changes: Bots can start cloud agents in a custom mode, the Bot's browser types one character at a time like a person, and Team Bots get their own Vault logins and an Only you sharing option.</p>]]></description>
+</item>
+<item>
+<title>Grok Bot 0.77.0: a Permissions page in Settings, Import Memory from other assistants, and multi-question cards</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-28-grok-bot-v0-77-0</guid>
+<pubDate>Thu, 29 Oct 2026 00:14:49 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot changelog"/><p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> now lists v0.77.0 (Oct 26, also covering 0.76.0) as a full release. Settings gets a <strong>Permissions</strong> section that lists Auto-review rules under Always Ask and Allow without Asking, and Auto-review approval cards now stay open for 30 minutes instead of 10.</p><p><strong>Import Memory</strong> brings your preferences and context from another AI assistant into your primary Bot. Bots can also ask several questions on one card that steps through them, chat tables get a copy button, and 1Password can connect without a shared vault, with you approving each login in 1Password.</p><p>The Vault and phone calls from this release window were covered earlier in this feed.</p>]]></description>
+</item>
+<item>
+<title>Meta's Muse launches in Singapore with Shopee, Grab, Singapore Airlines and other local connectors</title>
+<link>https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-28-muse-singapore-launch</guid>
+<pubDate>Thu, 29 Oct 2026 00:14:49 GMT</pubDate>
+<enclosure url="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?w=1200" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?w=1200" alt="Muse in Singapore"/><p>Meta <a href="https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/">announced</a> that Muse is now available in Singapore on iOS, Android and muse.ai, with AI glasses support coming later. It is the next stop after the US and Canada launch in September and Japan on Oct 23; <a href="https://x.com/alexandr_wang/status/2115252079593967826">Alexandr Wang called it</a> part of "muse's global tour."</p><p>Early local connector partners are Shopee, Grab, Singapore Airlines, Agoda, ShopBack, Klook, Trip.com and Lazada, rolling out progressively, alongside Gmail, Google Calendar and Instagram. Meta says Muse is free for most uses with paid plans for more; <a href="https://www.straitstimes.com/tech/meta-rolls-out-consumer-ai-agent-in-singapore-amid-global-safety-retail-pushback">The Straits Times</a> reports a weekly free usage limit and plans from S$22 to S$139.</p><p>In its hands-on, The Straits Times found Muse booked a restaurant table easily but failed to cancel it, and once suggested a restaurant that had closed.</p>]]></description>
+</item>
+<item>
+<title>OpenAI dots can now use iCloud Mail and Calendar through ChatGPT's new plugins</title>
+<link>https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/</link>
+<guid isPermaLink="false">updatebot-agents-2026-10-28-dots-icloud-plugins</guid>
+<pubDate>Thu, 29 Oct 2026 00:14:49 GMT</pubDate>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&amp;strip=all&amp;resize=1200,628" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&strip=all&resize=1200,628" alt="ChatGPT iCloud plugins"/><p>OpenAI <a href="https://x.com/ChatGPT/status/2115139248458191070">added iCloud Mail and iCloud Calendar plugins</a> to ChatGPT on Oct 27, on every plan across web, desktop and iOS. <a href="https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/">MacRumors</a> and <a href="https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt/">9to5Mac</a> confirm dots can use them too, so iCloud users can connect their Apple inbox and calendar to a dot for the first time, and a dot can even help set the plugins up.</p><p>Mail can search, read, draft and send iCloud email and look up contacts; Calendar can read, schedule and update events. Each plugin is connected separately with an Apple app-specific password, per <a href="https://help.openai.com/en/articles/20001494-connecting-and-managing-app-accounts-in-chatgpt">OpenAI's help center</a>.</p>]]></description>
+</item>
+<item>
 <title>OpenAI dots can now be texted over iMessage or RCS, rolling out as a preview for US Pro users</title>
 <link>https://x.com/ChatGPT/status/2115496387613786374</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-28-openai-dots-texting</guid>
@@ -498,40 +530,6 @@
       <enclosure url="https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg"/>
 <p>Charles Schwab is blocking outside AI agents, including <strong>Meta's Muse</strong>, when they try to move client money, CEO Rick Wurster told Bloomberg Television on Friday, <a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">The Next Web reports</a>. He said the concern is clients handing their passwords to an agent that then acts for them, and that big agents get stopped "in the tens and twenties" each week.</p><p>Schwab plans to offer controlled MCP servers so outside AI tools can check balances and do research, but not move money, and wants clients to use its own assistant, Charley. JPMorgan's Jamie Dimon took a similar stance on outside agents earlier this week.</p>]]></description>
-    </item>
-    <item>
-      <title>Hermes Agent v0.22.2: corrective release after bad v0.22.1 build</title>
-      <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-15-hermes-v0-22-2</guid>
-      <pubDate>Thu, 15 Oct 2026 08:41:27 -0700</pubDate>
-      <enclosure url="https://opengraph.githubassets.com/80d33862c4a990e2752fdf2fc064d95590b299b0874fa119efe98d65024988ab/NousResearch/hermes-agent/releases/tag/v0.22.2" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://opengraph.githubassets.com/80d33862c4a990e2752fdf2fc064d95590b299b0874fa119efe98d65024988ab/NousResearch/hermes-agent/releases/tag/v0.22.2"/>
-<p>Nous Research shipped <strong>Hermes Agent v0.22.2</strong> today. Official notes say <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.1">v0.22.1</a> was built from the wrong commit: it shipped unreleased gateway work, and the Microsoft Store app could stick on &quot;Connecting.&quot; 0.22.2 is the release 0.22.1 was meant to be.</p>
-<p>Highlights: the gateway starts after a reboot again (supervised installs could refuse to start when Linux handed an early PID to an unrelated process), and long local-model turns survive better on laptops (streaming progress, stall timers skip sleep time, recovered local servers get another try). Known issue: sessions that ran under the 0.22.1 gateway can&#39;t be deleted in 0.22.2.</p>
-<p>Primary source: <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.2">GitHub release v0.22.2</a>. Prior threshold release: <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.0">v0.22.0</a>.</p>]]></description>
-    </item>
-
-    <item>
-      <title>Grok Bot computers degradation resolved (incident 6y0yq43mvwg2)</title>
-      <link>https://status.cursor.com</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-14-grok-bot-computers-resolved</guid>
-      <pubDate>Wed, 14 Oct 2026 14:37:03 -0700</pubDate>
-      <description><![CDATA[<p>Cursor marked the Oct 14 Grok Bot service degradation as <strong>Resolved</strong> at 2:04pm PT (21:04 UTC). The incident (<a href="https://status.cursor.com">status.cursor.com</a> id <code>6y0yq43mvwg2</code>) had blocked some users from reaching their Bot computers since 8:46am PT; it moved from Investigating to Identified at 1:08pm PT, then to Resolved.</p><p>Status page now shows All Systems Operational, including Grok Bot. If a computer still looks stuck, try Recover / Update Bot's Computer or reopen the app. Earlier item: <a href="https://updatebot-briefing.github.io/ai-briefing/agents.xml">degradation note</a> (guid updatebot-agents-2026-10-14-grok-bot-computers-degradation).</p>]]></description>
-    </item>
-
-    <item>
-      <title>Grok Bot degradation: some users can't reach their computers (investigating since 8:46am PT)</title>
-      <link>https://status.cursor.com</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-14-grok-bot-computers-degradation</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
-      <description><![CDATA[<p>Since 8:46am PT (15:46 UTC) on Oct 14, the <a href="https://status.cursor.com">Cursor status page</a> has listed Grok Bot as Degraded Performance, saying some users can't reach their computers. As of about 11am PT the incident was still Investigating, with no fix posted. All other Cursor components were operational.</p><p>This follows yesterday's resolved incident in which many webhook, Slack, git, email and Linear routines didn't run between 10:52am and 1:29pm PT; those events won't be retried automatically. The latest Grok Bot release is still <a href="https://x.ai/changelog/bot">v0.70.2</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>OpenAI Dots Help adds troubleshooting answers; pricing unchanged, post-launch usage terms still unpublished</title>
-      <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-14-openai-dots-help-troubleshooting-pricing</guid>
-      <pubDate>Wed, 14 Oct 2026 10:51:37 -0700</pubDate>
-      <description><![CDATA[<p>OpenAI updated <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started with your dot</a> with troubleshooting answers. Each task has its own conversation, so give corrections in the affected task. Changing the selected computer doesn't move existing tasks. Read access to an app doesn't include write access. The cloud browser has its own sign-ins, and only the desktop app can grant local access.</p><p>Pricing is unchanged: the first dot is included at no extra cost with Pro 100/200/500 ($100/$200/$500 a month) or Business Premium. Chatting with a dot doesn't count toward limits, but Work and Codex tasks it starts do. The "extended limits for the first month" window and its follow-on terms are still unpublished and are expected around Oct 29 (<a href="https://gptdot.net/updates/">gptdot.net tracker</a>). GPT-5.5 retires from ChatGPT, Work and Codex today, but dots run on GPT-6 Astra.</p>]]></description>
     </item>
     </channel>
 </rss>
