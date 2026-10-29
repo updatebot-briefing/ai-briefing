@@ -7,8 +7,29 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 00:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:11:53 +0000</lastBuildDate>
     <item>
+<title>Top 10 AI use cases on X, Oct 28 2026</title>
+<link>https://x.com/firesidealpha/status/2115167081780093145</link>
+<guid isPermaLink="false">updatebot-xusecases-2026-10-28</guid>
+<pubDate>Thu, 29 Oct 2026 00:11:53 +0000</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115166648361779200/img/gd7KfiOQFs3R2HwE.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2115166648361779200/img/gd7KfiOQFs3R2HwE.jpg" alt="Top post preview"/>
+<p>The ten most-engaged X posts from roughly the last 24 hours showing people actually using AI. Grok Bot errands (hiring a person, cutting bills, fighting fraud) and Claude Code builds led the day; trading-profit brag threads, "BREAKING" photo-scan bait and tool promos were left out.</p>
+<ol>
+<li><p><strong>Gavin Baker is running 17 Grok Bots</strong></p><p>Investor Gavin Baker said on a podcast that Grok Bot is the most impactful AI product he and his firm have used. He&#x27;d glued tools together with Claude Code before, and is now up to about 17 bots, adding a new one most days. The clip is a little over 24 hours old, but it took off today after Elon Musk quoted it.</p><p><a href="https://x.com/firesidealpha/status/2115167081780093145">@firesidealpha on X</a> · 684 likes · 62 reposts · 36,045,235 views</p></li>
+<li><p><strong>An AI agent firewall for his own sites</strong></p><p>After people bragged about pointing Claude Code at his sites to scrape them, he built a six-layer defense that serves decoy pages, checks real Googlebot by IP, and red-teams itself by sending subagents to attack his URLs. He open-sourced the SKILL.md prompt behind it.</p><p><a href="https://x.com/illyism/status/2115357045264425386">@illyism on X</a> · 320 likes · 16 reposts · 19,516 views</p></li>
+<li><p><strong>Grok Bot hired a human for real-world work</strong></p><p>Their Grok Bot needed something done offline, so it found a person, contacted them, negotiated a price, and hired them for a full day of promo work at $149, paid after proof.</p><p><a href="https://x.com/liam_fallen/status/2115495787245236284">@liam_fallen on X</a> · 136 likes · 10 reposts · 7,135 views</p></li>
+<li><p><strong>Same 3D prompt in Opus 5.5 vs GPT-6.1 Terra</strong></p><p>Gave both models one line, recreate Mickey Mouse in 3D. Terra was 17x faster and 45x cheaper, but the poster says Opus 5.5 won clearly on quality.</p><p><a href="https://x.com/luckeyfaraday/status/2115459494163402987">@luckeyfaraday on X</a> · 125 likes · 4 reposts · 30,263 views</p></li>
+<li><p><strong>A $30 ad made with Claude and Seedance</strong></p><p>Made a polished video ad in about an hour for around $30, using Claude skills for the script, characters and locations, then Seedance 2.5 for the video. The thread lays out the whole workflow.</p><p><a href="https://x.com/pounddz/status/2115578348411720036">@pounddz on X</a> · 25 likes · 6 reposts · 1,265 views</p></li>
+<li><p><strong>Hermes Agent built a browser GTA-style game</strong></p><p>Gave Hermes Agent one vague prompt and let GPT-6 Astra Ultra work for 20 minutes. It produced a rough but playable GTA-style game that runs in the browser.</p><p><a href="https://x.com/tonysimons/status/2115301271481549001">@tonysimons on X</a> · 25 likes · 0 reposts · 2,343 views</p></li>
+<li><p><strong>Grok Bot set up an AI filmmaker job hunt</strong></p><p>Told Grok Bot she wanted AI filmmaking work. It made a dedicated job-hunt bot that wrote her resume, built her Upwork profile, uploaded her Grok Imagine films, and started finding jobs on Indeed, with her approving each step.</p><p><a href="https://x.com/Z_XSophie/status/2115525828914405528">@Z_XSophie on X</a> · 23 likes · 1 reposts · 594 views</p></li>
+<li><p><strong>Self-parking RC car built with Claude Code</strong></p><p>Turned a sensorless RC car into one that parks itself, using a phone camera overhead, printed ArUco tags, and a Python controller that Claude Code and Opus 5.5 wrote in one file.</p><p><a href="https://x.com/0xJeyx/status/2115494253937803281">@0xJeyx on X</a> · 23 likes · 0 reposts · 351 views</p></li>
+<li><p><strong>Grok Bot cut a telco bill by about €39 a month</strong></p><p>A finance bot read their telco bills, found a forgotten Disney+ add-on and contract levers, and drafted a loyalty request with competitor prices. The carrier called back with a deal worth about €469 a year.</p><p><a href="https://x.com/Legendaryy/status/2115451197180015055">@Legendaryy on X</a> · 14 likes · 0 reposts · 1,547 views</p></li>
+<li><p><strong>Grok Bot disputed $17K in fraudulent charges</strong></p><p>After a stolen API key ran up about $17,000 in ElevenLabs charges, their Grok Bot found the problem, filed all 40+ charges as fraud, and contacted ElevenLabs support within five minutes.</p><p><a href="https://x.com/aaronmtrx/status/2115434629817679895">@aaronmtrx on X</a> · 7 likes · 0 reposts · 1,389 views</p></li>
+</ol>]]></description>
+</item>
+<item>
 <title>Top 10 AI use cases on X, Oct 27 2026</title>
 <link>https://x.com/coolerwave/status/2115032387750936703</link>
 <guid isPermaLink="false">updatebot-xusecases-2026-10-27</guid>
