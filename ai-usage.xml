@@ -5,7 +5,15 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 27 Oct 2026 20:40:01 -0700</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 00:14:49 GMT</lastBuildDate>
+<item>
+<title>Wokey's live dashboard measures 513 real subscription accounts: Claude plans return about 32 to 35 times their price at API rates, ChatGPT Plus about 12 times</title>
+<link>https://wokey.ai/coding-plan-comparison</link>
+<guid isPermaLink="false">updatebot-usage-2026-10-28-wokey-coding-plan-dashboard</guid>
+<pubDate>Thu, 29 Oct 2026 00:14:49 GMT</pubDate>
+<enclosure url="https://wokey.ai/brand/wokey-og-card-en-20260924.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://wokey.ai/brand/wokey-og-card-en-20260924.png" alt="Wokey coding plan comparison"/><p><a href="https://wokey.ai/coding-plan-comparison">Wokey's coding plan comparison</a> converts real subscription usage into API-equivalent dollars, using limit-meter changes on 513 accounts behind its gateway, and remeasures every Monday (latest data Oct 26). A full week of Claude Max 20x ($200/mo) was worth about $1,602 at API prices (35 times its price), Claude Pro ($20) about $157 (34 times), and ChatGPT Plus with Codex ($20) about $55 (12 times).</p><ul><li>Max 20x gives about 10 times Pro's weekly limit; only the 5-hour window is near 20 times (about 24 times).</li><li>ChatGPT Plus (Codex) value fell from $92 a week on Oct 8 to $55 on Oct 26, which Wokey marks as a confirmed 58% drop.</li><li>Its real-traffic Max 20x figure (about $6,944 a month) sits below <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">SemiAnalysis</a>'s single-model maximums, and it agrees with SemiAnalysis that vendors A/B-test limits.</li></ul><p>ChatGPT Pro $200 is still collecting data (it needs 5 accounts). Note that Wokey sells pay-as-you-go access, and these are its own measured estimates, not vendor figures. Per-vendor pages: <a href="https://wokey.ai/claude-vs-codex-limits">Claude Code vs Codex limits</a>.</p>]]></description>
+</item>
 <item>
 <title>SemiAnalysis: Anthropic subscriptions offer 5x+ more value than OpenAI</title>
 <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
