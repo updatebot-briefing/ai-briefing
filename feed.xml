@@ -7,7 +7,57 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 28 Oct 2026 10:35:21 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:13:27 -0700</lastBuildDate>
+    <item>
+      <title>Google Cloud revenue doubles to $30.7B as Alphabet says AI capex will top $300B in 2027</title>
+      <link>https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-28-alphabet-q3-cloud-103pct-capex-300b-2027</guid>
+      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/q3_earnings.width-1300.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/q3_earnings.width-1300.png" alt="" /></p>
+<p>Alphabet reported third-quarter revenue of $127.6 billion, up 25%, with Google Cloud up 103% to $30.7 billion, driven by AI infrastructure, AI solutions and, for the first time in a big way, direct TPU system sales. Sundar Pichai said the Gemini app has reached one billion users and Google's model APIs now process nearly 32 billion tokens per minute, more than four times a year ago (<a href="https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/">Google CEO remarks</a>).</p>
+<p>The cost side is the other headline: Q3 capex was $51.4 billion, free cash flow was negative $9.1 billion, and the CFO said capex will rise significantly in 2027, with CNBC reporting it is expected to exceed $300 billion. Shares fell more than 10% after hours on the revenue miss and cash burn (<a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html">CNBC</a>).</p>]]></description>
+    </item>
+    <item>
+      <title>Microsoft books $10 billion in quarterly revenue from OpenAI as Azure grows 48%</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-28-microsoft-10b-openai-revenue-azure-48pct</guid>
+      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800" alt="" /></p>
+<p>Microsoft said in a regulatory filing that it earned $10 billion from commercial arrangements with OpenAI, including revenue sharing, in the quarter ended September 30. That's nearly 11% of its $92.3 billion quarterly revenue, and a pace of about $40 billion a year (<a href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/">TechCrunch</a>).</p>
+<p>Azure revenue grew 48% to $33.2 billion, now Microsoft's biggest single business, and commercial remaining performance obligations rose 73% to $677 billion (<a href="https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/">Microsoft results</a>). It's the clearest number yet on how much of Microsoft's AI growth still runs through OpenAI, even as the two compete.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI reportedly plans to buy Google's TPU chips, loosening its reliance on Nvidia</title>
+      <link>https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-28-openai-plans-buy-google-tpus</guid>
+      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
+      <enclosure url="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" alt="" /></p>
+<p>OpenAI plans to buy Google's Tensor Processing Units outright rather than only renting them, according to a single source cited by <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">The Information</a>. Neither company has confirmed it, and price, volume and timing weren't disclosed, though OpenAI has posted a job to lead optimizing its frontier models on TPUs (<a href="https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia">Decrypt</a>).</p>
+<p>If it happens, two direct rivals would be deepening a hardware relationship, and Google would add another big outside TPU buyer after Anthropic and, this week, Oracle. Alphabet's earnings the same day said TPU system sales were already a meaningful contributor to Cloud's growth.</p>]]></description>
+    </item>
+    <item>
+      <title>GitHub launches Copilot Fusion, which routes coding tasks across multiple frontier models</title>
+      <link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-28-github-copilot-fusion-ga-universe</guid>
+      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
+      <enclosure url="https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png" alt="" /></p>
+<p>At GitHub Universe, GitHub made Copilot Fusion generally available. Instead of picking a model, developers pick an effort level (Standard, High or Max) and Fusion decides whether to use one model, a cheap model checked by a judge, or several models critiquing a draft (<a href="https://docs.github.com/en/copilot/concepts/models/copilot-fusion">GitHub docs</a>). It replaces the old Auto option.</p>
+<p>GitHub says Fusion Max scored within two points of Claude Opus 5.5 Max on the Artificial Analysis Coding Agent Index at half the cost and 40% less time per task (<a href="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/">GitHub blog</a>). GitHub also said agents now start about 40% of pull requests and that Enterprise customers can use every Copilot feature on pay-per-use AI credits without a separate subscription (<a href="https://thenextweb.com/news/github-universe-copilot-fusion-octoverse-agents">The Next Web</a>).</p>]]></description>
+    </item>
+    <item>
+      <title>Netherlands plans to cut 25,000 central government jobs in an AI-led overhaul</title>
+      <link>https://thenextweb.com/news/dutch-government-jobs-25000-cuts-ai</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-28-netherlands-25000-government-jobs-ai</guid>
+      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
+      <enclosure url="https://media.thenextweb.com/2026/10/kurhaus-scheveningen-dome-dutch-flag.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://media.thenextweb.com/2026/10/kurhaus-scheveningen-dome-dutch-flag.jpg" alt="" /></p>
+<p>The Dutch cabinet plans to shrink central government by about 25,000 full-time jobs by 2035, roughly 15 to 20% of the civil service, leaning on AI along with simpler rules and standardized IT. Police and defense are exempt, savings are projected at €900 million in 2027 rising to €3.5 billion a year from 2035, and AI deployment plans are due in early 2027 (<a href="https://thenextweb.com/news/dutch-government-jobs-25000-cuts-ai">The Next Web</a>, <a href="https://nlnow.nl/a/cabinet-plans-to-cut-25-000-central-government-jobs-by-2035/">NLnow</a>).</p>
+<p>It's one of the first national governments to put a concrete headcount number on AI-driven automation of its own workforce.</p>]]></description>
+    </item>
     <item>
       <title>Google announces Gemini 4 Carbon, its new frontier model, two weeks after Argon</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
@@ -515,46 +565,6 @@
       <pubDate>Fri, 16 Oct 2026 17:09:22 -0700</pubDate>
       <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/cc389d90b468ebc86011f6642099dfad9a4a757f-2000x1125.jpg" alt=""/><p>Anthropic <a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits">reported</a> that Claude Mythos 5, given plain-language specs for eight quantum circuits from chemistry, optimization, physics simulation and number theory, plus an automated scorer, improved on the best published designs, in some cases by an order of magnitude or more. It worked in a closed loop with no human input between rounds.</p><p>The work came from Anthropic's STEM Fellows Program with Harvard's Susanne Yelin and Mikhail Lukin (also of QuEra), and the full paper is <a href="https://arxiv.org/abs/2610.22367">on arXiv</a>. Anthropic also <a href="https://x.com/AnthropicAI/status/2111152183240511640">posted it on X</a>.</p><p>Why it matters: cheaper circuits mean fewer qubits and gates for useful quantum algorithms, so Anthropic argues practical quantum computers could arrive sooner than expected. These are Anthropic's own results and haven't been independently replicated yet.</p>]]></description>
-    </item>
-    <item>
-      <title>Microsoft finishes pre-training MAI-Base-2, a 2.8-trillion-parameter in-house model</title>
-      <link>https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-16-microsoft-mai-base-2</guid>
-      <pubDate>Fri, 16 Oct 2026 08:16:31 -0700</pubDate>
-      <enclosure url="https://microsoft.ai/wp-content/uploads/2026/10/frontier_pretraining_header_small.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://microsoft.ai/wp-content/uploads/2026/10/frontier_pretraining_header_small.webp" alt=""/><p>Microsoft AI said on Oct 15 that it has <a href="https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/">finished pre-training MAI-Base-2</a>, a mixture-of-experts base model with 2.8 trillion total and 80 billion active parameters. It was trained on 16,000 Nvidia GB200 GPUs over 38 days in August and September and is now in post-training. No weights, API, or pricing yet; Mustafa Suleyman <a href="https://x.com/mustafasuleyman/status/2110766651344146564">said on X</a> post-training results are coming soon.</p><ul><li>Microsoft claims 4 to 12 times better pre-training compute efficiency than DeepSeek-V4-Pro-Base, based on its own comparisons.</li><li><a href="https://www.businessinsider.com/microsoft-ai-ceo-new-model-beats-openai-using-less-compute-2026-10">Business Insider</a> reports Suleyman told employees it's a stronger base model than the one behind GPT-5.6 Sol, trained with about a quarter of OpenAI's compute. Those are private internal tests, not public benchmarks.</li></ul><p>Why it matters: it's the clearest sign yet that Microsoft can build frontier-scale models without OpenAI, its biggest partner.</p>]]></description>
-    </item>
-    <item>
-      <title>Goodfire's Nick Cammarata argues neural networks are far more interpretable than the field assumed</title>
-      <link>https://already-clean.goodfire.com/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-16-goodfire-neural-networks-already-clean</guid>
-      <pubDate>Fri, 16 Oct 2026 08:16:31 -0700</pubDate>
-      <enclosure url="https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png" alt=""/><p>In a long essay published Oct 15, <a href="https://already-clean.goodfire.com/">Neural Networks Are Already Clean</a>, Goodfire researcher Nick Cammarata, who co-authored early interpretability work at OpenAI, argues that the field misread its classic evidence for superposition, the idea that networks cram unrelated concepts into the same neurons. He says the famous examples came from architecture problems and weak tools, and that most of what's left is neurons branching into related concepts, a pattern he calls recursive generalization.</p><p>In preliminary audits of Qwen3-32B, Goodfire estimates about 90% of neurons have one main job, and it reports similar results in models up to trillions of parameters, such as Kimi K3. A technical companion paper is still to come, so treat the numbers as a working hypothesis.</p><p>Why it matters: if it holds up, researchers could study a model's own neurons directly instead of relying on sparse autoencoders, which would make checking what models are doing far more tractable. It was the top AI story on <a href="https://news.ycombinator.com/item?id=50105647">Hacker News</a>, and Cammarata's <a href="https://x.com/nickcammarata/status/2110757819427574056">X post</a> drew about 17,000 likes.</p>]]></description>
-    </item>
-    <item>
-      <title>Anthropic gives METR employee-level access and gives up its veto over METR's findings</title>
-      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-16-anthropic-metr-employee-access</guid>
-      <pubDate>Fri, 16 Oct 2026 08:16:31 -0700</pubDate>
-      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg" alt=""/><p>Anthropic <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators">said on Oct 15</a> it has onboarded six researchers from METR, a nonprofit that evaluates frontier models, with company laptops, office space, and access to internal tools roughly on par with its own risk teams. METR will publish its assessments of Anthropic's risks, incidents, and practices, and Anthropic can't block them. It can only require redactions in narrow predefined categories, such as customer data, privileged legal material, and model architecture, and METR can publicly say whether it thinks those were justified.</p><p>METR sits at the top of a new three-tier evaluator system. SecureBio and Accenture have more limited access, Anthropic is in early talks with Hugging Face and others, and it says it isn't funding METR's work (<a href="https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/">TechCrunch</a>, <a href="https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html">CNBC</a>).</p><p>Why it matters: the White House Accord on Super Intelligence commits signers to independent outside evaluators, and this gives a concrete benchmark for what that access should look like at other labs.</p>]]></description>
-    </item>
-    <item>
-      <title>White House Super Intelligence Force adopts charter, orders AI risk report and lab breach-reporting rules</title>
-      <link>https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-16-white-house-super-intelligence-force-charter</guid>
-      <pubDate>Fri, 16 Oct 2026 08:16:31 -0700</pubDate>
-      <enclosure url="https://img.semafor.com/d9490ac6f55a5504f670e351b837fab67f44cf08-5616x3744.jpg?rect=0,398,5616,2948&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://img.semafor.com/d9490ac6f55a5504f670e351b837fab67f44cf08-5616x3744.jpg?rect=0,398,5616,2948&w=1200&h=630&q=75&auto=format" alt=""/><p>The White House AI task force, the Super Intelligence Force chaired by Director of National Intelligence Jay Clayton, adopted its charter at its first meeting on Oct 15, starting its 120-day review, <a href="https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work">Semafor reported</a>. It commissioned a report from the President's Council of Advisors on Science and Technology on three risk areas: cybersecurity and critical infrastructure, biosecurity and dual-use applications, and model control and accountability.</p><ul><li>Defense Undersecretary Emil Michael will draft protocols for AI labs to report breaches, hacks, and other cyber issues to the government.</li><li>Clayton and National Cyber Director Sean Cairncross will lead a working group to implement the White House Accord on Super Intelligence.</li><li>FTC Chair Andrew Ferguson will lead a law enforcement and consumer protection committee that includes the Justice Department.</li></ul><p>Why it matters: this is the first concrete federal machinery for overseeing frontier labs. How compliance will be enforced is still unclear; a White House official told Semafor export controls could be one lever (<a href="https://www.bloomberg.com/news/articles/2026-10-16/trump-s-ai-task-force-to-commission-report-on-technology-s-risks">Bloomberg</a>).</p>]]></description>
-    </item>
-    <item>
-      <title>Reflection releases Beam's 501B open weights under Apache 2.0</title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-16-reflection-beam-open-weights</guid>
-      <pubDate>Fri, 16 Oct 2026 08:16:31 -0700</pubDate>
-      <enclosure url="https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://huggingface.co/blog/assets/reflection-beam/thumbnail.jpg" alt=""/><p>Reflection, the Brooklyn-based US lab, put the weights for <a href="https://huggingface.co/blog/reflection-beam">Beam 1.0</a> on Hugging Face on Oct 16 under the Apache 2.0 license, following its <a href="https://www.reflection.ai/blog/introducing-beam">Oct 5 preview</a>. Beam is a 501-billion-parameter mixture-of-experts model with 23 billion active per token and a 1M-token context window, built for coding and agent work, with BF16, FP8, and NVFP4 checkpoints and day-one support in transformers, vLLM, and SGLang.</p><p>Reflection says Beam matches leading Chinese open models such as GLM-5.2 on reasoning benchmarks while using 3 to 4 times less inference compute; those claims haven't been independently verified (<a href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/">TechCrunch</a>).</p><p>Why it matters: along with Meta's Muse Spark Open this week, it gives developers a second frontier-scale US open-weight model, and Apache 2.0 is more permissive than Meta's Muse license.</p>]]></description>
     </item>
     </channel>
 </rss>
