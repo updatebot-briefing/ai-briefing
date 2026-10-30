@@ -6,7 +6,67 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:16:04 GMT</lastBuildDate>
+    <item>
+      <title>AGIBOT unveils AHA3 humanoid platform and GO-3 Preview model, proposes "Worken" metric for real robot work</title>
+      <link>https://www.prnewswire.com/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-agibot-innovation-day-aha3-go3-worken</guid>
+      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
+      <enclosure url="https://mmx.prnewswire.com/media/MS2023470/20261029040008EDT_image_1.jpg?id=OA3047221&amp;p=facebook" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://mmx.prnewswire.com/media/MS2023470/20261029040008EDT_image_1.jpg?id=OA3047221&amp;p=facebook" alt=""/></p>
+<p>At its Innovation Day in Shanghai on Oct 29, AGIBOT rolled out a full humanoid stack and pitched a new way to measure whether robots actually do useful work, per its <a href="https://www.prnewswire.com/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html">press release</a> and <a href="https://x.com/AGIBOTofficial/status/2115694835579666505">announcement on X</a>.</p>
+<ul>
+<li><strong>AHA3:</strong> its third-generation humanoid hardware architecture, combining locomotion, interaction and task-execution compute, Wi-Fi 6 and 5G, liquid-cooled joints and IP67-rated joints, plus a new OmniHand 3 family of dexterous hands.</li>
+<li><strong>GO-3 Preview:</strong> its next embodied foundation model combining reasoning, prediction and action, alongside the WITA-Omni 1.0 interaction model.</li>
+<li><strong>Link-U OS 1.0:</strong> a robot operating system now in partner trials, which AGIBOT says it will fully open-source by the end of 2026 and donate to the OpenAtom Foundation.</li>
+<li><strong>Worken:</strong> a proposed metric multiplying active robots by autonomous working hours by an output-efficiency ratio against a human benchmark, meant to replace "units shipped" as the yardstick.</li>
+</ul>
+<p>The G2 Max industrial robot was also formally launched (it was first shown last week). More detail from <a href="https://www.humanoidsdaily.com/news/agibot-innovation-day-2026-worken-ai-models-g2-max">Humanoids Daily</a> and <a href="https://korthosrobotics.com/research/agibot-aha3-omnihand-link-u-os-robot-platform-2026">Korthos</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Paris startup Bleu Robotics raises a €5M pre-seed to teach factory humanoids new tasks from about ten demonstrations</title>
+      <link>https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-bleu-robotics-5m-pre-seed</guid>
+      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
+      <enclosure url="https://www.eu-startups.com/wp-content/uploads/2026/10/Bleu-Robotics.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.eu-startups.com/wp-content/uploads/2026/10/Bleu-Robotics.png" alt=""/></p>
+<p>Bleu Robotics, founded in Paris by former Renault assembly-line manager Benoît Berkoukchi and INRIA research directors Jean-Baptiste Mouret and Serena Ivaldi, raised a €5 million pre-seed round co-led by Contrarian Ventures and OVNI Capital, with Kvanted, WEPA Ventures, Motier Ventures and Meta board member Charlie Songhurst, per <a href="https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/">EU-Startups</a> and the <a href="https://www.roboticstomorrow.com/news/2026/10/29/bleu-robotics-raises-%E2%82%AC5m-to-scale-humanoid-robot-deployment-in-factories/27315/">company announcement</a>.</p>
+<ul>
+<li>Instead of a data-hungry end-to-end model, its "abductive learning" software infers the goal and constraints behind an operator's demonstration, learning a task from as few as ten demos.</li>
+<li>Operators teach at the workstation with handheld gripper devices, no coding; the software is meant to run on any humanoid platform.</li>
+<li>The company claims 99%+ accuracy on production-line tasks and targets a full humanoid deployment in under an hour (company claims, not independently verified).</li>
+</ul>
+<p>Initial deployments are underway with automotive manufacturers and paper maker WEPA. <a href="https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training">Sifted</a> has more on the approach.</p>]]></description>
+    </item>
+    <item>
+      <title>Rokae delivers its 10,000th humanoid force-controlled arm; five Helios wheeled humanoids work at Schaeffler's Taicang plant</title>
+      <link>https://theaiinsider.tech/2026/10/29/chinas-rokae-robotics-announces-delivery-of-its-10000th-humanoid-force-controlled-arm/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-rokae-10000th-humanoid-arm-schaeffler</guid>
+      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
+      <enclosure url="https://theaiinsider.tech/wp-content/uploads/2026/10/Rokae-Schaeffler-crpd.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://theaiinsider.tech/wp-content/uploads/2026/10/Rokae-Schaeffler-crpd.jpg" alt=""/></p>
+<p>Chinese robot maker Rokae says its 10,000th humanoid force-controlled arm came off its Shandong line in September, with more than 80 industrial partners using the arms in production, per <a href="https://theaiinsider.tech/2026/10/29/chinas-rokae-robotics-announces-delivery-of-its-10000th-humanoid-force-controlled-arm/">The AI Insider</a>.</p>
+<ul>
+<li>The count covers only its humanoid arms, not its industrial or collaborative robots.</li>
+<li>Five Rokae Helios wheeled humanoids fitted with AR Series arms are handling parts, assembly and inspection on a humanoid-component assembly line at Schaeffler's lighthouse factory in Taicang.</li>
+<li>Each AR arm has seven force-controlled joints, and Rokae's MAC controller can run single-arm, dual-arm or 20-plus-joint humanoid setups.</li>
+</ul>
+<p>It's a sign of the component supply chain behind humanoids scaling quickly in China.</p>]]></description>
+    </item>
+    <item>
+      <title>Trump's Section 232 proclamation calls robot and machinery imports a security threat, citing humanoids, but imposes no tariffs yet</title>
+      <link>https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-us-section-232-robotics-proclamation</guid>
+      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
+      <enclosure url="https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg" alt=""/></p>
+<p>President Trump signed a <a href="https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/">proclamation</a> on Oct 28 agreeing with Commerce that imports of robotics, industrial machinery and their parts "threaten to impair the national security of the United States." The text specifically names humanoid and quadruped robots among the advanced robots that support the military.</p>
+<ul>
+<li><strong>No tariff yet:</strong> there's no duty rate, product list or effective date. Commerce and the U.S. Trade Representative are told to negotiate agreements with trading partners instead (<a href="https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/">fact sheet</a>).</li>
+<li><strong>Timeline:</strong> a progress report is due in 180 days, and tariffs or other measures remain possible if talks fail, as <a href="https://news.bloomberglaw.com/international-trade/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks">Bloomberg Law</a> notes.</li>
+</ul>
+<p>For humanoid makers that rely on Chinese actuators and components, nothing changes at the border today, but the threat of future duties is now formally on the record.</p>]]></description>
+    </item>
     <item>
       <title>Boston Dynamics reportedly lines up an all-Korean Atlas supply chain and tells suppliers to prepare parts for 10,000 humanoids</title>
       <link>https://www.kedglobal.com/robotics/newsView/ked202610270008</link>
