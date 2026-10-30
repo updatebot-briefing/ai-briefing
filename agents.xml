@@ -7,7 +7,45 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 00:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:14:05 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI keeps extended dots limits for now, separate from your plan usage, as it doubles Pro and Business Premium limits</title>
+      <link>https://x.com/thsottiaux/status/2115850175868727621</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-29-dots-extended-limits-continue</guid>
+      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
+      <description><![CDATA[<p>OpenAI's Tibo Sottiaux <a href="https://x.com/thsottiaux/status/2115850175868727621">said on Thursday</a> that OpenAI will "continue offering extended limits for dots for now," and that dot usage will stay separate from your default ChatGPT usage. Dots launched with extended limits for the first month only, so the permanent per-plan dots terms people expected around today still haven't been published.</p><p>In the same post, OpenAI doubled all usage limits for the Pro 100, 200 and 500 tiers and Business Premium, effective immediately, and dropped the planned cut to Pro 200's Work and Codex allowance. <a href="https://x.com/ajambrosino/status/2115855769665147254">Andrew Ambrosino</a> added that OpenAI started a sprint to make the app simpler and faster. <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/">BleepingComputer</a> notes OpenAI still gives no exact numbers per tier.</p><p>The <a href="https://help.openai.com/en/articles/20001530-getting-started-with-dots">dots help page</a> still says Pro access excludes the EEA, Switzerland and the UK, and that prices for extra dots or more speed are coming later.</p>]]></description>
+    </item>
+    <item>
+      <title>SpaceXSI launches Grok for Startups: one credit balance across Grok, Grok Build, Grok Bot and the Grok API</title>
+      <link>https://x.ai/startups</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-for-startups</guid>
+      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
+      <enclosure url="https://x.ai/api/og?slug=/startups" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://x.ai/api/og?slug=/startups" alt=""/><p>SpaceXSI has a new <a href="https://x.ai/startups">Grok for Startups</a> program. It gives startups credits that work across Grok, Grok Build, Grok Bot and the Grok API from one balance, plus hands-on onboarding.</p><ul><li>Credits are sized to your stage, and SpaceXSI says it aims for "six to twelve months of real usage." No dollar amount is published.</li><li>You get 20% when you're approved, and the other 80% is released once you're up and running.</li><li>To qualify you need venture backing, a live product, and a company email that matches your website. You <a href="https://x.ai/startups/apply">apply here</a> with an xAI team ID.</li></ul><p>The page went up around Oct 25, and posts about it spread widely on X on Thursday.</p>]]></description>
+    </item>
+    <item>
+      <title>Similarweb: Grok Bot daily users grew 16 days in a row, and Musk points out it has no free tier</title>
+      <link>https://x.com/Similarweb/status/2115724259691471150</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-similarweb-dau-streak</guid>
+      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
+      <description><![CDATA[<p><a href="https://x.com/Similarweb/status/2115724259691471150">Similarweb posted</a> that as of October 26, Grok Bot's daily active users had grown for 16 days in a row, its longest growth streak so far.</p><p>Elon Musk <a href="https://x.com/elonmusk/status/2115921600658735169">quoted a post</a> about the chart and added that Grok Bot "has no free tier." That post, from <a href="https://x.com/XFreeze/status/2115779686697697557">@XFreeze</a>, reads the chart as going from under 100,000 daily users in early September to over 600,000 by October 26. That figure is a fan's reading of the chart, not a number Similarweb or SpaceXSI stated.</p>]]></description>
+    </item>
+    <item>
+      <title>Grok Bot's Auto-review is degraded Thursday afternoon, according to the status page</title>
+      <link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-auto-review-degraded</guid>
+      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
+      <enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">status page</a> opened a minor incident, "Auto Review Degradation," at 4:44pm PT on Thursday. It marks the Grok Bot component as degraded and says the team is investigating.</p><p>A separate minor "Cloud Agent Degradation" incident opened at 4:29pm PT affects Cloud Agents, Automations and the IDE, not Grok Bot. As of about 5:15pm PT, both were still under investigation and neither had a fix posted.</p>]]></description>
+    </item>
+    <item>
+      <title>Globe and Mail: Canada's big banks block AI agents like Muse, which is still Canada's most popular app</title>
+      <link>https://www.theglobeandmail.com/business/article-ai-personal-assistants-meta-muse-openai-customer-access-security/</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-29-muse-canada-banks-block-agents</guid>
+      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
+      <enclosure url="https://www.theglobeandmail.com/resizer/v2/FDGQPP7KWNEPRH2SJWNQOFDIOM.JPG?auth=8240710b4a2075d5e9fbac5fc2d8652e5ba786df4900524b915d5bd34c6c76a0&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www.theglobeandmail.com/resizer/v2/FDGQPP7KWNEPRH2SJWNQOFDIOM.JPG?auth=8240710b4a2075d5e9fbac5fc2d8652e5ba786df4900524b915d5bd34c6c76a0&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt=""/><p><a href="https://www.theglobeandmail.com/business/article-ai-personal-assistants-meta-muse-openai-customer-access-security/">The Globe and Mail reports</a> that a month after launch, Meta's Muse is still the most popular app in Canada. Businesses are now deciding how much access to give it and other agents.</p><ul><li>Royal Bank of Canada said this week it is blocking third-party agents from its digital properties, including online banking. Bank of Montreal and TD have also blocked them.</li><li>Scotiabank is limiting agents, and CIBC says it doesn't support agents opening or accessing accounts. Wealthsimple and Neo are more open to them.</li><li>Shopify has integrated with Muse so people can buy from Shopify stores through it. The paper's own test purchase took 30 minutes and failed several times before it worked.</li></ul>]]></description>
+    </item>
     <item>
 <title>Grok Bot 0.78.1 adds shopping cards with order tracking, and templates that cancel trials and unused subscriptions</title>
 <link>https://x.ai/changelog/bot</link>
@@ -485,51 +523,6 @@
       <enclosure url="https://pbs.twimg.com/media/HUxq0MbXgAAu0jR?format=webp&amp;name=large" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://pbs.twimg.com/media/HUxq0MbXgAAu0jR?format=webp&amp;name=large"/>
 <p><a href="https://x.com/testingcatalog/status/2111181283355218026">TestingCatalog reported</a> at 12:43pm PT that Grok Bots have rolled out inside the main Grok app on web and mobile, and several users posted the same thing today, including <a href="https://x.com/TalosDreams/status/2111067633722486928">one who noted</a> that Grok's history search now includes Grok Bot conversations.</p><p>This is unconfirmed: there is no official post from @bot or SpaceXSI yet, and the <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> still tops out at v0.70.2 from Oct 11. A <a href="https://patchbot.io/games/grok/articles/1779-bot-on-grokcom-october-3-2026">patch-notes post</a> says Grok Bot already reached grok.com for SuperGrok Plus and Heavy subscribers on Oct 3, so the new part appears to be the Grok mobile app. The separate <a href="https://docs.x.ai/grok-bot/mobile">Grok Bot mobile app</a> still connects to the same Bots, routines and cloud computer.</p>]]></description>
-    </item>
-<item>
-      <title>Grok Bot team ships quality, polish and speed improvements, with redesigned chat cards</title>
-      <link>https://x.com/bot/status/2111184270819803351</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-16-grok-bot-polish-card-redesign</guid>
-      <pubDate>Fri, 16 Oct 2026 17:10:25 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/media/HUxurzmbcAABtba?format=webp&amp;name=large" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/media/HUxurzmbcAABtba?format=webp&amp;name=large"/>
-<p>The official <a href="https://x.com/bot/status/2111184270819803351">@bot account posted</a> at 12:55pm PT that the team has made improvements to Grok Bot's quality, polish and speed, and that cards in chat now have a new design with a cleaner layout. The post passed 300,000 views within about four hours.</p><p>No new version or release notes have appeared on the <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> yet, which still shows v0.70.2 from Oct 11, so the specific changes behind the speed and quality claims aren't documented.</p>]]></description>
-    </item>
-<item>
-      <title>Correction: Nous Research says Hermes Agent wasn't on TIME's Best Inventions list</title>
-      <link>https://x.com/NousResearch/status/2111153981825155420</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-16-correction-hermes-time</guid>
-      <pubDate>Fri, 16 Oct 2026 11:33:13 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg"/>
-<p>This replaces this morning's item saying Hermes Agent made TIME's Best Inventions of 2026. At 10:55am PT, Nous Research added an <a href="https://x.com/NousResearch/status/2111153981825155420">editor's note</a> to its earlier <a href="https://x.com/NousResearch/status/2110886131290259537">"Thank you @TIME" post</a>, saying the post was satire by its social intern and that Hermes was not selected for the list.</p><p>The original story rested only on that post's screenshot, which outlets such as RuntimeWire repeated without independent confirmation from <a href="https://time.com/collection/best-inventions/2026/">TIME's list</a>. Treat the TIME honor as not real unless TIME itself confirms it.</p>]]></description>
-    </item>
-    <item>
-      <title>Hermes Agent gets an official Reverse Engineer Anything plugin</title>
-      <link>https://x.com/tonbistudio/status/2110792752254570867</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-16-hermes-rea-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2110791846435913728/img/BOrMtk_r0Y1eOEc_.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2110791846435913728/img/BOrMtk_r0Y1eOEc_.jpg"/>
-<p>Hermes Agent now has an official plugin for <a href="https://github.com/morluto/rea">Reverse Engineer Anything (REA)</a>, an open-source toolkit for having agents reverse engineer apps, from their behavior down to native binaries.</p><p>One command, <code>hermes plugins install rea</code>, sets up the MCP config plus a dedicated skill for the agent, according to <a href="https://x.com/tonbistudio/status/2110792752254570867">@tonbistudio's walkthrough video</a>. Nous co-founder Teknium <a href="https://x.com/Teknium/status/2110978534894412142">promoted the guide</a> and @NousResearch reposted it.</p>]]></description>
-    </item>
-    <item>
-      <title>OpenAI dots get GPT-Live-1.1 voices with better accents and new languages</title>
-      <link>https://x.com/OpenAI/status/2110797830361436604</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-16-dots-gpt-live-1-1-voice</guid>
-      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/media/HUsEKcobYAAf2Bg.jpg"/>
-<p>OpenAI <a href="https://x.com/OpenAI/status/2110797830361436604">announced</a> on Oct 15 that its new voice model <strong>GPT-Live-1.1</strong> is coming to Voice in ChatGPT, Codex and <strong>dots</strong>, its always-on agents. The update brings new voices, better accents and less repetitive "checking..." filler while it searches.</p><ul><li>New voices in French, German, Hindi, Mexican Spanish, Korean and Japanese.</li><li>Rolling out to all users now; API access is coming soon.</li></ul><p>Details: <a href="https://deploymentsafety.openai.com/gpt-live-1-1/gpt-live-1-1.pdf">GPT-Live-1.1 system card</a>. Dots pricing and post-launch usage terms are still unpublished.</p>]]></description>
-    </item>
-    <item>
-      <title>Schwab blocks Meta's Muse and other AI agents from moving client money</title>
-      <link>https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-16-meta-muse-schwab-blocks</guid>
-      <pubDate>Fri, 16 Oct 2026 08:35:43 -0700</pubDate>
-      <enclosure url="https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://media.thenextweb.com/2026/10/ai-letters-orange-glow-blue-background.jpg"/>
-<p>Charles Schwab is blocking outside AI agents, including <strong>Meta's Muse</strong>, when they try to move client money, CEO Rick Wurster told Bloomberg Television on Friday, <a href="https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse">The Next Web reports</a>. He said the concern is clients handing their passwords to an agent that then acts for them, and that big agents get stopped "in the tens and twenties" each week.</p><p>Schwab plans to offer controlled MCP servers so outside AI tools can check balances and do research, but not move money, and wants clients to use its own assistant, Charley. JPMorgan's Jamie Dimon took a similar stance on outside agents earlier this week.</p>]]></description>
     </item>
     </channel>
 </rss>
