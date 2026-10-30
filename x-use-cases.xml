@@ -7,7 +7,28 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 29 Oct 2026 00:11:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:16:22 +0000</lastBuildDate>
+    <item>
+<title>Top 10 AI use cases on X, Oct 29 2026</title>
+<link>https://x.com/Rasmic/status/2115934131041296822</link>
+<guid isPermaLink="false">updatebot-xusecases-2026-10-29</guid>
+<pubDate>Fri, 30 Oct 2026 00:16:22 +0000</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115932373250342912/img/VYkgqLlCmv00nDsO.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2115932373250342912/img/VYkgqLlCmv00nDsO.jpg" alt="Top post preview"/>
+<p>The ten most-engaged X posts from roughly the last 24 hours showing people actually using AI. Personal Grok Bot setups and Claude Code builds led a quieter day; trading-profit bait threads, a crypto agent-card campaign and course promos were left out.</p>
+<ol>
+<li><p><strong>Seven ways he uses Grok Bot every day</strong></p><p>In a 17-minute video he walks through how Grok Bot runs his work and home: fine-tuning his own models, building apps, managing his finances, running his content pipeline and home lab, and a skills repo that ties his team of bots together.</p><p><a href="https://x.com/Rasmic/status/2115934131041296822">@Rasmic on X</a> · 144 likes · 10 reposts · 6,614 views</p></li>
+<li><p><strong>One 3D scene, four AI tools, very different bills</strong></p><p>He gave the same 3D scene task to Kimi K3.1, GPT 6 Astra, Blender MCP and Claude Code. Kimi finished a cinematic desert with hot air balloons in 4 minutes for $13, while Claude Code took 32 minutes and $121 for a flying orange ball.</p><p><a href="https://x.com/Lummox_eth/status/2115812773590454442">@Lummox_eth on X</a> · 105 likes · 6 reposts · 13,440 views</p></li>
+<li><p><strong>A 7,000-name sales list built with Claude</strong></p><p>Used Claude to build a list of about 7,000 traders on X across futures, memecoins and spot markets, which he says covers over 90% of exchange trading volume, and is now using it for sales outreach.</p><p><a href="https://x.com/MacroMate8/status/2115733360207405404">@MacroMate8 on X</a> · 60 likes · 0 reposts · 6,850 views</p></li>
+<li><p><strong>Three agents co-writing an LLM benchmark</strong></p><p>Has Grok Bot, Claude Code and Codex coordinating together to design a new benchmark that measures how LLMs handle concurrent requests.</p><p><a href="https://x.com/ivanfioravanti/status/2115730861253685476">@ivanfioravanti on X</a> · 39 likes · 1 reposts · 3,073 views</p></li>
+<li><p><strong>A workout app vibe-coded from the shower</strong></p><p>At 4am he talked Grok Bot through a workout logger by voice, and it built an app that replaces typing sets, weights and reps into a phone note between sets.</p><p><a href="https://x.com/alexstanczyk/status/2115740293983064294">@alexstanczyk on X</a> · 27 likes · 0 reposts · 1,486 views</p></li>
+<li><p><strong>Routing heavy Grok Bot work to Claude Code</strong></p><p>After hitting his Grok Bot usage limits, he built a setup that hands the heavy jobs to Claude Code on his own subscription, and says his limits now last the whole week.</p><p><a href="https://x.com/Av1dlive/status/2115929453859881169">@Av1dlive on X</a> · 26 likes · 3 reposts · 1,690 views</p></li>
+<li><p><strong>A Karpathy-style second brain in Grok Bot</strong></p><p>Before researching Claude Code agent setups from scratch, he asked his Grok Bot what he&#x27;d already saved. It found three sources from two weeks earlier with summaries, turning a two-hour job into 20 minutes.</p><p><a href="https://x.com/0xAIlabs/status/2115757557348172138">@0xAIlabs on X</a> · 28 likes · 2 reposts · 610 views</p></li>
+<li><p><strong>$4,000 of Claude, three products, $19 MRR</strong></p><p>He used Claude this year to build an X growth app, a PDF playbook, a market map and an SEO app, and shares the honest result: building got cheap, but finding paying customers is still the hard part.</p><p><a href="https://x.com/b4dgerr/status/2115851167213158506">@b4dgerr on X</a> · 20 likes · 0 reposts · 781 views</p></li>
+<li><p><strong>Your Mac speaks up when Claude Code is done</strong></p><p>Tired of coming back to find Claude Code waiting on him, he built Heads-up, a free open-source Mac tool that says out loud when Claude Code or Codex finishes or needs input.</p><p><a href="https://x.com/AbhisheKumarA7/status/2115724707031089370">@AbhisheKumarA7 on X</a> · 10 likes · 0 reposts · 150 views</p></li>
+<li><p><strong>A live office dashboard for 12 bots</strong></p><p>Runs 12 bots on Grok Bot and used the new Pages feature to build a Mission Control screen: a 2D office where busy bots type at desks, a 7-day activity heatmap, and buttons that jump to anything waiting on him.</p><p><a href="https://x.com/taninmisavukat/status/2115832904341479546">@taninmisavukat on X</a> · 2 likes · 0 reposts · 1,022 views</p></li>
+</ol>]]></description>
+</item>
     <item>
 <title>Top 10 AI use cases on X, Oct 28 2026</title>
 <link>https://x.com/firesidealpha/status/2115167081780093145</link>
