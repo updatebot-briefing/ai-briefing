@@ -5,7 +5,14 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 29 Oct 2026 00:14:49 GMT</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 00:14:12 GMT</lastBuildDate>
+    <item>
+      <title>Adam Holter measures cost per task on subscription plans: on $20 plans, a dollar of GPT-6.1 Sol costs 7x a dollar of Opus, but a task only 1.3x</title>
+      <link>https://x.com/AdamHoltererer/status/2115879037893534195</link>
+      <guid isPermaLink="false">updatebot-usage-2026-10-29-holter-plan-cost-per-task</guid>
+      <pubDate>Fri, 30 Oct 2026 00:14:12 GMT</pubDate>
+      <description><![CDATA[<p>Adam Holter <a href="https://x.com/AdamHoltererer/status/2115890640362082598">ran a set of benchmarks</a> on his subscription plans and priced each task in plan usage, not just API-equivalent dollars. His argument is that <a href="https://x.com/AdamHoltererer/status/2115879037893534195">API-equivalent value alone isn't enough</a>, because models differ a lot in how efficiently they use tokens.</p><ul><li>On $20 plans, a dollar of GPT-6.1 Sol usage costs 7x what a dollar of Opus 5.5 does, but per finished task it's only about 1.3x.</li><li>Sonnet 5.5 costs 2.8x what Sol does per task on the API, but only about a third as much on $20 plans.</li><li>GPT-6 Luna costs half what Haiku 5.5 does per task on the API, but about 3x more on plans.</li><li>After OpenAI's Oct 29 limit doubling, he says it <a href="https://x.com/AdamHoltererer/status/2115896272448016639">"completely changes the Pareto frontier"</a> when resets are counted. Without resets, OpenAI is roughly in line with Claude. His live charts are on <a href="https://mypriors.com/adamholter">mypriors.com</a>.</li></ul><p>These numbers come from one person's benchmark runs, not a large sample of accounts.</p>]]></description>
+    </item>
 <item>
 <title>Wokey's live dashboard measures 513 real subscription accounts: Claude plans return about 32 to 35 times their price at API rates, ChatGPT Plus about 12 times</title>
 <link>https://wokey.ai/coding-plan-comparison</link>
