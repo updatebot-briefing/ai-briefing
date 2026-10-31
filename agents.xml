@@ -7,8 +7,15 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 00:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:35:34 GMT</lastBuildDate>
     <item>
+<title>Nous opens the Hermes Agent mobile app beta to everyone on iPhone and Android</title>
+<link>https://hermes-agent.nousresearch.com/mobile</link>
+<guid isPermaLink="false">updatebot-breaking-2026-10-31-hermes-mobile-open-beta</guid>
+<pubDate>Sat, 31 Oct 2026 21:35:34 GMT</pubDate>
+<description><![CDATA[<p>Nous Research now has a public <a href="https://hermes-agent.nousresearch.com/mobile">Hermes Mobile Beta sign-up page</a> where anyone can reserve a spot in the official Hermes Agent app, through <a href="https://testflight.apple.com/join/U8e1zmbc">TestFlight on iPhone</a> or Firebase App Distribution on Android. Last week a Nous co-founder only confirmed the beta existed, and on Friday it was handed to NousCon attendees.</p><p>According to early testers on X, the app lets you chat with your agent and watch its tool calls, talk to it hands-free in a Live mode, run routines that deliver to Telegram, Discord, Slack or Teams, install skills, track usage and spend, and open a terminal over SSH. You can sign in with Nous or connect your own self-hosted Hermes. Spots are limited, and some Android testers report hitting a tester cap. The latest tagged Hermes release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.22.5</a>.</p>]]></description>
+</item>
+<item>
       <title><![CDATA[NVIDIA's NemoClaw blueprints now officially support Hermes Agent, letting teams run it in a locked-down sandbox on their own hardware]]></title>
       <link>https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-30-hermes-nvidia-nemoclaw-blueprint</guid>
@@ -515,15 +522,6 @@
       <enclosure url="https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg"/>
 <p><a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/">Wired reports</a> that Meta allows its Muse agent to have explicit text conversations with users of the adults-only app, though Muse doesn't generate explicit images or video. Adult content creators told Wired it's unfair that Meta restricts their own Instagram accounts while its agent is allowed to "talk dirty."</p><p>Meta spokesperson Tracy Clayton said a private one-to-one chat with an agent on a platform restricted to people 18 and over "is very different" from marketing services on social media. Meta had earlier told Wired it wouldn't "block legal adult behavior."</p>]]></description>
-    </item>
-    <item>
-      <title>Grok Bot says computer tasks now finish 3x faster, alongside a refreshed look</title>
-      <link>https://x.com/bot/status/2111184275374813362</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-17-grok-bot-3x-faster-refreshed-look</guid>
-      <pubDate>Sat, 17 Oct 2026 17:10:13 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/media/HUxt0XHagAAEnLq.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/media/HUxt0XHagAAEnLq.jpg"/>
-<p>In the same thread as Friday's polish update, the <a href="https://x.com/bot/status/2111184275374813362">@bot account put numbers on the speedup</a>: computer tasks finish 3x sooner on average, and replies to everything else arrive in less than half the time. <a href="https://x.com/bot/status/2111184272933748980">Another post in the thread</a> says Grok Bot also has a refreshed look with a new typeface and themes.</p><p>Elon Musk <a href="https://x.com/elonmusk/status/2111239586873745604">quoted the speed post</a> with "Grok @Bot got much faster," and it passed 4.7 million views. These are SpaceXSI's own figures; the <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> still shows v0.70.2 from Oct 11 and doesn't document the change yet.</p>]]></description>
     </item>
     </channel>
 </rss>
