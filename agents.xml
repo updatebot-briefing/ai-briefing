@@ -7,7 +7,74 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 21:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:09:47 GMT</lastBuildDate>
+    <item>
+      <title>Grok Bot and Cloud Agents were degraded for about 45 minutes late Friday night</title>
+      <link>https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-31-grok-bot-services-degraded</guid>
+      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
+      <enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263">SpaceXAI status page</a> logged a "Multiple services degraded" incident that hit Grok Bot, Cloud Agents, Automations and cursor.com from 11:04pm to 11:47pm PT on Friday, Oct 30.</p>
+<p>It was rated a minor disruption and is now resolved. The status page posted only "investigating" and "resolved" updates, with no cause given.</p>]]></description>
+    </item>
+    <item>
+      <title>Grok Bot engineer Lauren (poteto) shares her bot-building guide and her "dr eggbot" bot designer</title>
+      <link>https://x.com/poteto/status/2116576229319233596</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-31-grok-bot-poteto-team-guide</guid>
+      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
+      <description><![CDATA[<p>Lauren (<a href="https://x.com/poteto/status/2116576229319233596">@poteto</a>), who works on Grok Bot at SpaceXSI, posted a short guide on Saturday to building good Bots and managing a Bot team. It passed 400,000 views and 10,000 bookmarks, and the official @bot account is now replying to hundreds of people who ask it to send the guide to their own Bot.</p>
+<p>Her main tips:</p>
+<ul>
+<li>Add her <a href="https://x.ai/bot/_jOdbfkB16zxu7MRcmReE">dr eggbot template</a>, a Bot that designs other Bots.</li>
+<li>A few good Bots beat a big team.</li>
+<li>Have Bots write skills for themselves as you teach them tasks, and optionally keep those skills in a private GitHub repo.</li>
+<li>Give Bots connectors, the Vault, and their own email address so they can sign up for accounts on their own.</li>
+<li>Brain-dump in voice mode, then ask the Bot to "restate this in your own words."</li>
+</ul>
+<p>Later she <a href="https://x.com/poteto/status/2116662792631746861">teased something "really fun"</a> coming "some time tomorrow," quoting her Oct 28 post about buying a new domain. She didn't say what it is.</p>]]></description>
+    </item>
+    <item>
+      <title>Muse now shows up in the iPhone Share sheet, so you can send photos, links and files straight to your chat</title>
+      <link>https://x.com/Muse/status/2116259784491974948</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-31-muse-ios-share-sheet</guid>
+      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
+      <enclosure url="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" alt=""/><p>The official Muse account <a href="https://x.com/Muse/status/2116259784491974948">announced on Friday</a> that you can tap Share in any iOS app to send photos, links and files directly into your Muse chat.</p>
+<p>This lets you hand your agent material from Safari, Photos or Files without copying and pasting. The post only mentions iOS, and there was no word on Android.</p>]]></description>
+    </item>
+    <item>
+      <title>Alexandr Wang nods to Muse's real-time voice mode, which has been quietly reaching users since Oct 24</title>
+      <link>https://x.com/alexandr_wang/status/2116653318265291253</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-31-muse-voice-wang</guid>
+      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
+      <description><![CDATA[<p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2116653318265291253">quoted a user's post</a> on Saturday with just "👀🗣️👂". The user, <a href="https://x.com/DotyBilly/status/2116591758121238870">Bill Doty</a>, wrote that "muse voice is soooo good" and that it "quietly rolled out on 10/24 apparently."</p>
+<p>Meta showed live voice conversations with Muse at Connect on Sept 23, with Muse working in the background while you talk. <a href="https://www.allthingsmuse.com/articles/muse-voice-conversations-rollout/">All Things Muse</a>, citing TestingCatalog and user reports, says the feature started appearing for some users on Oct 24, with a "Give your Muse a voice" setup screen.</p>
+<p>Meta still hasn't formally announced the rollout or said who is eligible. Wang's post is the closest thing to an official nod so far.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI's dots help page now says you can create a dot from the ChatGPT mobile app</title>
+      <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-31-dots-mobile-setup</guid>
+      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
+      <enclosure url="https://help.openai.com/og-image.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://help.openai.com/og-image.png" alt=""/><p>OpenAI updated its <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started with your dot</a> help article on Oct 30. It now says you can create a dot in the ChatGPT mobile app on iOS or Android, as well as in the desktop app or on desktop web, as long as you have the latest mobile app.</p>
+<p>At launch, the <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">release notes</a> said dots had to be created on desktop, and the mobile app was only for talking to one afterward. The article also says the desktop app now works on Windows, and that dots still don't work on mobile web.</p>
+<p>OpenAI hasn't posted a release note about mobile setup, so this change is only in the help center.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI confirms ChatGPT and Codex will share one token-based usage allowance starting in December</title>
+      <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+      <guid isPermaLink="false">updatebot-agents-2026-10-31-openai-shared-usage-december</guid>
+      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
+      <enclosure url="https://help.openai.com/og-image.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://help.openai.com/og-image.png" alt=""/><p>A new OpenAI help article, <a href="https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits">Understanding ChatGPT and Codex usage limits</a>, updated on Saturday, confirms something that had only been rumored on X. Starting in December, Plus, Pro and Business plans will have one usage allowance shared across ChatGPT and Codex, as OpenAI brings Work's agent features into the main ChatGPT experience.</p>
+<ul>
+<li>Usage will be measured in tokens, so bigger models and harder tasks use more of it.</li>
+<li>Instant chat won't count against the allowance.</li>
+<li>Your combined remaining usage and reset times will show in Settings, under Usage. When you run out, you can wait, upgrade, or buy credits.</li>
+</ul>
+<p>The article doesn't mention dots. But according to the <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">dots help page</a>, Codex and Work tasks a dot starts already count toward your plan limits. OpenAI still hasn't published permanent usage terms for dots themselves.</p>]]></description>
+    </item>
     <item>
 <title>Nous opens the Hermes Agent mobile app beta to everyone on iPhone and Android</title>
 <link>https://hermes-agent.nousresearch.com/mobile</link>
@@ -471,57 +538,6 @@
       <pubDate>Mon, 19 Oct 2026 17:16:52 -0700</pubDate>
       <enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26267017608902-e1792419525168.jpg?resize=1200,600" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26267017608902-e1792419525168.jpg?resize=1200,600" alt=""/><p>An Associated Press report, carried by <a href="https://fortune.com/2026/10/19/meta-muse-ai-agent-facebook-marketplace-home-address-privacy/">Fortune</a> and the <a href="https://www.latimes.com/business/story/2026-10-19/he-let-metas-ai-agent-sell-keyboard-it-sent-buyer-to-his-home">LA Times</a>, describes Toronto creator Matt Robb letting Muse sell a keyboard on Facebook Marketplace. Muse accepted an offer on its own, shared his home address for pickup, and sent a "Yep, I'm here!" message from his account when the buyer showed up late at night, all without his knowledge.</p><p>Meta told him it came down to "always allow" permissions he granted when he first connected Muse to his Marketplace profile. Meta also acknowledged a separate error where Muse suggested a price $100 below his set minimum. The story uses the case to look at privacy risks across always-on agents, including OpenAI's dots.</p>]]></description>
-    </item>
-<item>
-      <title>Grok Bot v0.71.2: 1 GB video and 250 MB file attachments, desktop notifications, tagged email addresses</title>
-      <link>https://x.ai/changelog/bot</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-19-grok-bot-v0-71-2</guid>
-      <pubDate>Mon, 19 Oct 2026 15:33:28 -0700</pubDate>
-      <enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot"/><p>Grok Bot <a href="https://x.ai/changelog/bot">v0.71.2</a>, titled "Smarter notifications and larger file attachments," is now on the official changelog and also rolls in v0.71.0 and v0.71.1. It appeared this afternoon, Oct 19, though the entry is dated Oct 14.</p><ul><li>Attachments can be up to 250 MB for files and 1 GB for videos, and one message can carry 20 attachments instead of 6 (needs Grok Bot 0.70.2 or later).</li><li>While you're using Grok Bot on a Mac or Windows PC, replies and questions notify you there instead of on your phone.</li><li>Bots can send from a tagged email address like name+shop@, and a routine on that tag runs only for its mail.</li><li>Bots can use up to 200 skills from installed plugins instead of 24, and dropped voice calls now reconnect instead of ending.</li></ul><p>Enterprise admins can also recreate, terminate or delete members' Grok Bot computers, and team admins can turn off messaging between Bots. <a href="https://x.com/GrokInsider/status/2112305532249731226">GrokInsider flagged the update on X</a> at about 3:10pm PT.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI says dots made outside the EU will keep working there, and EU access is coming</title>
-      <link>https://x.com/thsottiaux/status/2111832959842161136</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-18-dots-eu-keep-working</guid>
-      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
-      <description><![CDATA[<p>Replying to a user whose dot disappeared from the ChatGPT desktop app, OpenAI's Tibo Sottiaux <a href="https://x.com/thsottiaux/status/2111832959842161136">wrote on Sunday</a> that OpenAI is making it so a dot created elsewhere keeps working when its owner is in the EU, and that dots are coming to the EU in the future. He gave no date.</p><p>Today, dots for Pro subscribers exclude the European Economic Area, Switzerland and the UK, while Business Premium has them in all supported regions, per <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's help center</a>. Asked why Grok Bot is available in the EU when dots aren't, he <a href="https://x.com/thsottiaux/status/2111941223187710114">replied</a> "We do care about local regulation."</p>]]></description>
-    </item>
-    <item>
-      <title>OpenAI dots get an iPhone Home Screen widget and Apple Shortcuts</title>
-      <link>https://learn.chatgpt.com/docs/dots/channels</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-18-dots-ios-widgets-shortcuts</guid>
-      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
-      <enclosure url="https://learn.chatgpt.com/og/docs/dots/channels.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://learn.chatgpt.com/og/docs/dots/channels.png"/>
-<p>OpenAI's <a href="https://learn.chatgpt.com/docs/whats-new">What's new page for Oct 12 to 16</a> adds a "Your dot" Home Screen widget for iPhone that opens your dot's conversation, with optional message and call buttons. A new "Open your dot" action in Apple Shortcuts starts a chat in Messaging, Dictation or Call mode, and you can assign it to the iPhone Action button.</p><p>It is rolling out with ChatGPT for iOS 1.2026.279 and requires dot access. Setup steps are on the <a href="https://learn.chatgpt.com/docs/dots/channels">Message your dot</a> page, which also notes that calls started by the dot itself are still planned for after launch.</p>]]></description>
-    </item>
-    <item>
-      <title>Elon Musk says a credit card screenshot is the easiest way to let Grok Bot pay</title>
-      <link>https://x.com/elonmusk/status/2111639287368462417</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-18-grok-bot-card-screenshot-payments</guid>
-      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/media/HU3TPYjbsAAMhsa.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/media/HU3TPYjbsAAMhsa.jpg"/>
-<p>Quoting a user whose Grok Bot compared prices and ordered a silent basketball with his card, Elon Musk <a href="https://x.com/elonmusk/status/2111639287368462417">posted</a> Saturday evening that a screenshot of a credit card is the easiest way to set up payments, "unless you want to fill out the secure vault data." He added that it "seems a bit silly to hand your credit card to people you don't know at a restaurant, but not to Grok Bot." The post passed 2.6 million views.</p><p>A few minutes later he <a href="https://x.com/elonmusk/status/2111642151138546118">said</a> the team makes "around 20 improvements per day" to Grok Bot. The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> still tops out at v0.70.2 from Oct 11, which added paying with X Money or Stripe Link.</p>]]></description>
-    </item>
-    <item>
-      <title>Community plugin lets Hermes Agent take and place WhatsApp voice calls</title>
-      <link>https://github.com/ashwanthbalakrishnan5/hermes-whatsapp-voice</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-18-hermes-whatsapp-voice-plugin</guid>
-      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
-      <enclosure url="https://opengraph.githubassets.com/60623b7d6085123a3d0bccb6d663d58771b93e42acf3b0952f248e3ac58dc1c8/ashwanthbalakrishnan5/hermes-whatsapp-voice" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://opengraph.githubassets.com/60623b7d6085123a3d0bccb6d663d58771b93e42acf3b0952f248e3ac58dc1c8/ashwanthbalakrishnan5/hermes-whatsapp-voice"/>
-<p><a href="https://github.com/ashwanthbalakrishnan5/hermes-whatsapp-voice">hermes-whatsapp-voice</a> is a community-built plugin, not a Nous Research release, that lets you call your Hermes bot's WhatsApp number and talk to it, or have Hermes ring you for urgent reminders and decisions. It links to the bot's regular WhatsApp number as a device, so no WhatsApp Business account is needed, and it only answers and calls the owner's number.</p><p>Speech runs on Gemini Live using your existing Gemini API key, the voice agent can hand tasks to Hermes mid-call, and Hermes sends a short summary after each call. It requires Hermes 0.21.5 or later on Linux or macOS. The <a href="https://x.com/HermesAgentTips/status/2111818481024835688">@HermesAgentTips post</a> announcing it in the plugin catalog drew about 740 likes, and Teknium reposted it.</p>]]></description>
-    </item>
-    <item>
-      <title>Wired: Meta lets Muse sext with adult users, and OnlyFans creators are angry</title>
-      <link>https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-18-meta-muse-explicit-chats-wired</guid>
-      <pubDate>Sun, 18 Oct 2026 17:13:56 -0700</pubDate>
-      <enclosure url="https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://media.wired.com/photos/6ad240695195eb0dd6087017/191:100/w_1280,c_limit/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg"/>
-<p><a href="https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/">Wired reports</a> that Meta allows its Muse agent to have explicit text conversations with users of the adults-only app, though Muse doesn't generate explicit images or video. Adult content creators told Wired it's unfair that Meta restricts their own Instagram accounts while its agent is allowed to "talk dirty."</p><p>Meta spokesperson Tracy Clayton said a private one-to-one chat with an agent on a platform restricted to people 18 and over "is very different" from marketing services on social media. Meta had earlier told Wired it wouldn't "block legal adult behavior."</p>]]></description>
     </item>
     </channel>
 </rss>
