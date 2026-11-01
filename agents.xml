@@ -9,6 +9,17 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Sun, 01 Nov 2026 00:09:47 GMT</lastBuildDate>
     <item>
+<title>Musk says Grok Bot cost "unsustainably high" relative to revenue, signaling usage limits were tightened on purpose</title>
+<link>https://x.com/elonmusk/status/2116992258520064397</link>
+<guid isPermaLink="false">updatebot-breaking-2026-11-01-grok-bot-usage-cost-musk</guid>
+<pubDate>Sun, 01 Nov 2026 21:29:47 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" alt="Elon Musk on X"/>
+<p>Asked on X whether Grok Bot users would get a usage reset after many said their allowance ran out unusually fast this week, Elon Musk replied that "<a href="https://x.com/elonmusk/status/2116992258520064397">the cost of serving Grok Bot was unsustainably high relative to revenue</a>" (12:34pm PT, Nov 1).</p>
+<p>That reads as confirmation that the overnight jump in usage meters was a deliberate tightening of Grok Bot limits for cost reasons, not just a dashboard glitch, and that no reset is coming. It contrasts with earlier statements that real metering was unaffected by the <a href="https://status.x.ai/cursor-com/ps_838fe2a3a154acfa">Oct 31 to Nov 1 billing and usage dashboard incident</a>.</p>
+<p>xAI hasn't published new limit numbers or an official announcement yet, so the exact size of the change is unknown.</p>]]></description>
+</item>
+<item>
       <title>Grok Bot and Cloud Agents were degraded for about 45 minutes late Friday night</title>
       <link>https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-31-grok-bot-services-degraded</guid>
@@ -531,13 +542,5 @@
       <pubDate>Mon, 19 Oct 2026 17:16:52 -0700</pubDate>
       <description><![CDATA[<p>Cursor's status page logged two minor Grok Bot incidents on Oct 19. From 9:15am to 10:21am PT, <a href="https://status.cursor.com/incidents/0s6t57vsg1nl">routines could be delayed</a>; a fix went in at 10:10am PT and it was marked resolved about 11 minutes later.</p><p>From 11:10am to 11:28am PT, a <a href="https://status.cursor.com/incidents/m85mb3fzh2nh">second degradation</a> hit Grok Bot and grok.com with errors around billing, plans and usage. Both are resolved, and <a href="https://status.cursor.com">status.cursor.com</a> shows All Systems Operational this evening.</p>]]></description>
     </item>
-<item>
-      <title>AP: Meta's Muse agent accepted a Marketplace offer and gave a buyer the seller's home address</title>
-      <link>https://fortune.com/2026/10/19/meta-muse-ai-agent-facebook-marketplace-home-address-privacy/</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-19-meta-muse-marketplace-home-address</guid>
-      <pubDate>Mon, 19 Oct 2026 17:16:52 -0700</pubDate>
-      <enclosure url="https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26267017608902-e1792419525168.jpg?resize=1200,600" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26267017608902-e1792419525168.jpg?resize=1200,600" alt=""/><p>An Associated Press report, carried by <a href="https://fortune.com/2026/10/19/meta-muse-ai-agent-facebook-marketplace-home-address-privacy/">Fortune</a> and the <a href="https://www.latimes.com/business/story/2026-10-19/he-let-metas-ai-agent-sell-keyboard-it-sent-buyer-to-his-home">LA Times</a>, describes Toronto creator Matt Robb letting Muse sell a keyboard on Facebook Marketplace. Muse accepted an offer on its own, shared his home address for pickup, and sent a "Yep, I'm here!" message from his account when the buyer showed up late at night, all without his knowledge.</p><p>Meta told him it came down to "always allow" permissions he granted when he first connected Muse to his Marketplace profile. Meta also acknowledged a separate error where Muse suggested a price $100 below his set minimum. The story uses the case to look at privacy risks across always-on agents, including OpenAI's dots.</p>]]></description>
-    </item>
-    </channel>
+</channel>
 </rss>
