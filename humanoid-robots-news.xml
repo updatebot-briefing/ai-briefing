@@ -8,6 +8,47 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Oct 2026 00:16:04 GMT</lastBuildDate>
     <item>
+      <title>Meta reportedly built a humanoid prototype called Max with China's Fourier in three months, and Max 2 is underway (report)</title>
+      <link>https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-31-meta-fourier-max-humanoid-prototype</guid>
+      <pubDate>Sun, 01 Nov 2026 00:21:05 GMT</pubDate>
+      <description><![CDATA[<p><strong>Unconfirmed, single-source report.</strong> According to <a href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push">The Information</a>, Meta worked with Chinese humanoid maker Fourier to build a prototype humanoid, internally called Max, in roughly three months. Reuters said it could not immediately verify the report.</p>
+<ul>
+<li>Max is about 1.5 m tall, weighs about 106 lb (48 kg), runs on Nvidia's Jetson Thor chip, and has a face display, speakers and five-fingered hands.</li>
+<li>Meta's VP of product for robotics, Li-Chen Miller, reportedly spent almost two months at Fourier's Shanghai factory; Max was shown to employees at an internal robotics summit in late August.</li>
+<li>A second version, Max 2, started in September with a redesigned torso, better hands, a projector and stair-navigation sensors.</li>
+<li>Meta frames the robots as a physical body for its Muse AI agent doing household tasks, but told The Information the work is internal research with no plans to sell units.</li>
+</ul>
+<p>Coverage: <a href="https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max">The Robotics Media</a>, <a href="https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306">Investing.com</a>, <a href="https://aiweekly.co/alerts/meta-built-humanoid-prototype-max-with-fourier-in-three-months">AI Weekly</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Lightberry's Lumi becomes the first humanoid cleared by the US Department of War and exempted from the FCC's foreign-robot ban</title>
+      <link>https://lightberry.com/press/dow-approval</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-31-lightberry-lumi-dow-approval-fcc-exemption</guid>
+      <pubDate>Sun, 01 Nov 2026 00:21:05 GMT</pubDate>
+      <enclosure url="https://cdn.ploy.ai/3245c4e2-1929-4ad1-b0ef-5b8c15535544/user/7066c89b-img-4918.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://cdn.ploy.ai/3245c4e2-1929-4ad1-b0ef-5b8c15535544/user/7066c89b-img-4918.webp" alt="" />
+<p>San Francisco startup Lightberry says its Lumi interactive humanoids received a Conditional Approval from the US Department of War on October 30, and the FCC's Public Safety and Homeland Security Bureau exempted them from its Covered List the same day (Public Notice DA 26-1181). Since July, new foreign-produced advanced robots on that list can't get the FCC authorization needed to be imported or sold in the US.</p>
+<ul>
+<li>Lightberry is the only humanoid company among the newly exempted devices; the other robotics approvals went to warehouse and industrial platforms.</li>
+<li>The approval rests on two commitments: Lightberry replaces Lumi's sensors, onboard computer and software with its own, and moves manufacturing to the US, starting with the body, head and hands.</li>
+<li>It is conditional: breaking the onshoring plan or a false statement in the application can put Lumi back on the list. The plan's deadlines aren't public.</li>
+<li>Per <a href="https://roboticaguide.com/lightberry-lumi-fcc-covered-list-exemption-humanoid/">Robotica Guide</a>, Lumi is built on a Unitree G1 base, and Founder Editions are priced at $39,990.</li>
+</ul>
+<p>Sources: <a href="https://lightberry.com/press/dow-approval">Lightberry announcement</a>, <a href="https://humanoidbeat.com/news/lightberry-lumi-dow-conditional-approval-fcc-covered-list-exemption.html">HumanoidBeat</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Elon Musk says "No" to the report that Tesla will open Optimus reservations in December</title>
+      <link>https://tsnmedia.org/tesla-optimus-reservations-report/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-10-31-musk-denies-december-optimus-reservations</guid>
+      <pubDate>Sun, 01 Nov 2026 00:21:05 GMT</pubDate>
+      <enclosure url="https://tsnmedia.org/wp-content/uploads/2026/10/tesla-optimus-reservations-report-photo.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://tsnmedia.org/wp-content/uploads/2026/10/tesla-optimus-reservations-report-photo.jpg" alt="" />
+<p>Follow-up to yesterday's item: after <a href="https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/">The San Francisco Standard</a> reported, citing Humanoids Summit organizer Modar Alaoui, that Tesla would open Optimus reservations around the December 1 to 2 summit, Elon Musk <a href="https://x.com/elonmusk/status/2116291272604516401">replied "No" on X</a> to a post asking whether Optimus ordering was coming in December.</p>
+<p>Tesla hasn't announced any reservation window, price or delivery date. Musk's one-word reply addressed December ordering specifically, so it doesn't rule out a waitlist at some other time.</p>
+<p>More: <a href="https://tsnmedia.org/tesla-optimus-reservations-report/">TSN</a>, <a href="https://teslanewswire.com/articles/musk-says-no-optimus-orders-december-humanoids-summit-sf-standard-report-oct-31-2026">Tesla News Wire</a>.</p>]]></description>
+    </item>
+    <item>
       <title>Agility Robotics now expects about $465M from its SPAC merger, below June's $620M target, with Nasdaq listing set for Nov 5</title>
       <link>https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-30-agility-465m-spac</guid>
