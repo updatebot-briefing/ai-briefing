@@ -7,7 +7,51 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 30 Oct 2026 17:10:12 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 17:08:29 -0700</lastBuildDate>
+    <item>
+      <title>OpenAI cuts its funding round target to $20 billion, with about $11 billion committed so far</title>
+      <link>https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-31-openai-round-cut-20b</guid>
+      <pubDate>Sat, 31 Oct 2026 17:08:29 -0700</pubDate>
+      <enclosure url="https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108469835-1793120540409-Screenshot_2026-10-27_at_10008_PM.png?v=1793474850&amp;w=1920&amp;h=1080" alt="" /></p>
+<p>OpenAI is now seeking up to $20 billion in its latest round, down from an earlier target of about $30 billion, CNBC confirmed on Saturday after the Financial Times first reported the cut (<a href="https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html">CNBC</a>). The round values OpenAI at $1.25 trillion post-money, below the roughly $1.4 trillion it had hoped for.</p>
+<p>The Wall Street Journal reported that only about $11 billion had been committed so far, with some investors trimming allocations ahead of a Friday deadline; OpenAI plans to court family offices and wealthy individuals in the coming weeks (<a href="https://runtimewire.com/article/openai-11b-commitments-30b-target-125t-valuation">RuntimeWire, citing WSJ</a>).</p>
+<p>The round is still open and OpenAI hasn't commented, so the figures could change. It's a notable sign of cooling investor appetite amid a broad tech selloff, and it updates the $30 billion raise reported on Oct 22.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI releases GPT-Rosalind-6, a GPT-6 Astra-based model for biology and drug discovery, under trusted access</title>
+      <link>https://deploymentsafety.openai.com/gpt-rosalind-6</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-31-openai-gpt-rosalind-6</guid>
+      <pubDate>Sat, 31 Oct 2026 17:08:29 -0700</pubDate>
+      <enclosure url="https://deploymentsafety.openai.com/assets/deploymentsafety-social.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://deploymentsafety.openai.com/assets/deploymentsafety-social.png" alt="" /></p>
+<p>On Oct 30 OpenAI released GPT-Rosalind-6, a frontier reasoning model for biology, drug discovery and translational medicine that uses the same weights as its flagship GPT-6 Astra (<a href="https://deploymentsafety.openai.com/gpt-rosalind-6">OpenAI system card addendum</a>).</p>
+<p>It refuses fewer dual-use biology questions than Astra, so it's only offered to vetted scientists, institutes, companies and government partners after OpenAI reviews their use case, security and governance. OpenAI treats it as High capability in biology and chemistry, below Critical, and as Critical in cybersecurity.</p>
+<p>Approved Research organizations get it in Work and Codex, and through the API where separately approved, but not in the ChatGPT Chat tab. It's one of the clearest examples yet of a top lab shipping a less-restricted frontier model to a gated professional audience.</p>]]></description>
+    </item>
+    <item>
+      <title>Apple Intelligence is coming to China, with Alibaba's Qwen powering Siri, Writing Tools and Visual Intelligence</title>
+      <link>https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-31-apple-intelligence-china-qwen</guid>
+      <pubDate>Sat, 31 Oct 2026 17:08:29 -0700</pubDate>
+      <enclosure url="https://www.apple.com.cn/newsroom/images/2026/10/apple-intelligence-features-are-coming-to-users-in-china/tile/Apple-Intelligence-hero-CN-lp.jpg.og.jpg?202610302350" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.apple.com.cn/newsroom/images/2026/10/apple-intelligence-features-are-coming-to-users-in-china/tile/Apple-Intelligence-hero-CN-lp.jpg.og.jpg?202610302350" alt="" /></p>
+<p>Apple announced that Apple Intelligence features are coming to users in mainland China, starting with developer testing in the iOS 27.3 beta on Nov 4 and a public release in December (<a href="https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/">Apple Newsroom China</a>, <a href="https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/">9to5Mac</a>).</p>
+<p>Alibaba's Qwen models power the features there, including Siri, Writing Tools and Visual Intelligence, per Chinese state media (<a href="https://www.chinadaily.com.cn/a/202610/31/WS6ae54463e4b06d4aa0566359.html">China Daily</a>). The newer Siri AI isn't part of the China launch.</p>
+<p>After more than a year of regulatory delays, this makes a Chinese lab's model the AI layer for Apple's devices in its second-largest market, a major distribution win for Qwen.</p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic renames Claude Max 20x to Ultra and drops the five-hour usage limit for verified Ultra accounts</title>
+      <link>https://claude.com/pricing</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-10-31-anthropic-claude-ultra-no-5h-limit</guid>
+      <pubDate>Sat, 31 Oct 2026 17:08:29 -0700</pubDate>
+      <enclosure url="https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&amp;h=1260&amp;fit=crop" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&amp;h=1260&amp;fit=crop" alt="" /></p>
+<p>On Oct 30 Anthropic renamed its top consumer plans: Max 5x is now Max ($100/month) and Max 20x is now Ultra ($200/month), with prices unchanged and existing subscribers moved automatically (<a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://www.theverge.com/ai-artificial-intelligence/1023576/max-ultra-claude">The Verge</a>).</p>
+<p>Verified Ultra accounts no longer have the rolling five-hour session limit, though the weekly limit (10x Pro) and a separate weekly limit for Fable remain; unverified accounts keep a temporary limit until Anthropic verifies them from account and payment history (<a href="https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan">Claude Help Center</a>).</p>
+<p>Both plans now also include monthly Claude API credits equal to their price. For heavy Claude Code users, losing the five-hour cap is one of the biggest subscription changes Anthropic has made (<a href="https://thenewstack.io/claude-ultra-session-limit/">The New Stack</a>).</p>]]></description>
+    </item>
     <item>
       <title>Canada takes up to a C$1.6 billion stake in Cohere as it raises a C$7 billion round at a C$36 billion valuation</title>
       <link>https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai</link>
@@ -556,38 +600,6 @@
       <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
       <enclosure url="https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/deepseek.jpeg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://cyberscoop.com/wp-content/uploads/sites/3/2026/10/deepseek.jpeg" alt=""/><p>The Department of Homeland Security made public an <a href="https://www.federalregister.gov/public-inspection/2026-21447/order-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive-branch-information">order excluding DeepSeek</a> from federal civilian agencies. Agencies must remove DeepSeek products and any third-party services built with DeepSeek's models from their IT systems, and they can no longer buy them. The order goes into the Federal Register on Oct 20.</p><ul><li>It was issued under the Federal Acquisition Supply Chain Security Act after a Federal Acquisition Security Council review. It covers civilian agencies such as Treasury, State and Justice, but not defense, intelligence or national-security systems (<a href="https://www.bbc.com/news/articles/cjkgeq0k1wevo">BBC</a>).</li><li>Secretary Markwayne Mullin signed it months ago and the ban has quietly been in force since the summer. Reports differ on the exact date: Bloomberg says the order is dated July 24, and <a href="https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/">CyberScoop</a> cites a June 26 letter.</li><li>Mullin cites data stored on servers in China, collection of personal information, possible malware, and the risk that prompts and responses could pass sensitive data to the Chinese government. Agencies that want an exception must ask 60 days ahead with a "compelling justification."</li></ul><p>Why it matters: this is the first government-wide, formal ban on a Chinese AI lab's products. Because it also covers third-party tools built on DeepSeek, it reaches vendors using its open-weight models, not just DeepSeek's own app and API.</p>]]></description>
-    </item>
-    <item>
-      <title>One hacker used AI agents to break into more than 100 company websites, including Deere and SharkNinja</title>
-      <link>https://norforge.com/blog/inside_cairn</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-19-cairn-ai-agents-hacked-100-companies</guid>
-      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
-      <enclosure url="https://norforge.com/blog/inside_cairn/images/cover.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://norforge.com/blog/inside_cairn/images/cover.webp" alt=""/><p>Security firm NorForge published <a href="https://norforge.com/blog/inside_cairn">"Inside Cairn"</a>, based on more than 20 exposed control panels of Cairn, an open-source AI hacking platform that criminals were using. The panels gave researcher Snorre Fagerland a live view of attackers handing whole intrusions to autonomous AI agents. <a href="https://www.staradvertiser.com/2026/10/19/breaking-news/how-one-hacker-used-ai-agents-to-break-into-over-100-company-websites/">Reuters</a> independently identified the victims.</p><ul><li>The most prolific operator was a Chinese-speaking hacker. Starting Sept 25, using instructions of fewer than 100 Chinese characters, their agents tried to break into more than 1,200 e-commerce sites in the US, Canada, Australia and Japan, and got into more than 100. Victims included Deere, SharkNinja and a Cummins vendor site.</li><li>Successful intrusions typically took about 23 hours of autonomous probing. Fagerland estimates the campaign used a mix of DeepSeek and Anthropic's Claude Code and cost about $5,000 in tokens, roughly $50 per successful hack.</li><li>Other operators stole credit card data and tried to get agents to rob a crypto exchange. The exposed panels also leaked hundreds of credentials, and some legitimate red-team engagements were exposed too.</li></ul><p>Why it matters: it's some of the clearest real-world evidence so far that off-the-shelf AI agents can carry out intrusions from start to finish with almost no human work. That makes a single attacker far more dangerous. Deere says it found no sign sensitive data was accessed, and Reuters couldn't confirm how much data was taken (<a href="https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins">The Verge</a>).</p>]]></description>
-    </item>
-    <item>
-      <title>Anthropic is in talks for a second $45 billion compute deal with Nscale</title>
-      <link>https://news.bloomberglaw.com/capital-markets/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-19-anthropic-nscale-second-45b-talks</guid>
-      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
-      <enclosure url="https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp" alt=""/><p>Bloomberg <a href="https://news.bloomberglaw.com/capital-markets/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal">reports</a> that Nvidia-backed AI cloud company Nscale is negotiating a second deal with Anthropic, worth about $45 billion, for another facility at its Monarch campus in West Virginia. The Financial Times also reported the talks. Nothing has been signed, and neither company has confirmed it.</p><ul><li>Anthropic already has agreements with Nscale worth up to about $44.6 billion, signed Aug 25, according to Nscale's <a href="https://www.rackline.news/story/fimryf">IPO filing</a>. That filing also says Anthropic can cancel a tranche without liability if Nscale misses delivery dates.</li><li>Nscale's other anchor customer is pulling back. Microsoft has <a href="https://finance.yahoo.com/technology/ai/articles/microsoft-pulls-uk-data-centre-095253878.html">withdrawn</a> from its planned site in Loughton, Essex, after officials reportedly said the site might not get a grid connection until the 2030s. Microsoft and Anthropic make up about 85% of Nscale's contracts.</li></ul><p>Why it matters: if the deal goes through, Anthropic's commitments to a single neocloud would come to roughly $90 billion, another sign of how fast frontier labs are locking up compute. It would also become central to Nscale's planned NYSE listing just as one of its biggest Microsoft projects falls through.</p>]]></description>
-    </item>
-    <item>
-      <title>DeepSeek is helping design Huawei's next AI chips and plans to train on them by year-end, report says</title>
-      <link>https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-19-deepseek-shaping-huawei-ascend-chips</guid>
-      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
-      <enclosure url="https://tii.imgix.net/production/articles/17999/2ce59ff9-4776-450d-a48e-a3f481cf1064.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://tii.imgix.net/production/articles/17999/2ce59ff9-4776-450d-a48e-a3f481cf1064.png?fm=jpg&amp;auto=compress&amp;w=1200&amp;frame=0" alt=""/><p><a href="https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia">The Information</a> reports that Huawei engineers are stationed in DeepSeek's offices, feeding DeepSeek's input into future Ascend chip designs, including how chips handle model math and move data between processors. Neither company has confirmed the details publicly.</p><ul><li>DeepSeek reportedly plans to start training models on Huawei's Ascend 950DT as soon as the end of 2026. Huawei plans to give DeepSeek priority for most of its next-generation Ascend 960DT chips, expected in Q1 2027 (<a href="https://finance.yahoo.com/technology/ai/articles/deepseek-teams-huawei-challenge-nvidia-183703468.html">Investing.com summary</a>).</li><li>The gap is still large. Epoch AI estimates Nvidia's B300 has about seven times the raw compute of an Ascend 950. DeepSeek also keeps trying to get Nvidia chips and is using the open-source TileLang language to cut its dependence on CUDA.</li></ul><p>Why it matters: if DeepSeek can train a frontier model entirely on Chinese chips, it would give Beijing a working template for AI that doesn't depend on US hardware or export-control loopholes. The report landed the same day the US banned DeepSeek from federal civilian systems.</p>]]></description>
-    </item>
-    <item>
-      <title>Jim Keller's Tenstorrent raises $1.5B at a $6.2B valuation to take on Nvidia</title>
-      <link>https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-19-tenstorrent-1-5b-series-e</guid>
-      <pubDate>Mon, 19 Oct 2026 17:08:08 -0700</pubDate>
-      <enclosure url="https://cdn.sanity.io/images/jpb4ed5r/production/28e4c07c8accd02347954b425a41f599c7f3a087-2600x1857.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://cdn.sanity.io/images/jpb4ed5r/production/28e4c07c8accd02347954b425a41f599c7f3a087-2600x1857.jpg" alt=""/><p>AI chip company Tenstorrent <a href="https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e">closed a $1.5 billion Series E</a> at a $6.2 billion post-money valuation, more than doubling its valuation from its December 2024 round. Trace Capital and Innovation X led the round, joined by Fidelity, T. Rowe Price, Morgan Stanley, ARK Invest, Sandisk, Tether and others.</p><ul><li>The money goes toward volume manufacturing and deploying its Galaxy servers at scale to serve open-weight LLMs and video models. It will also fund its RISC-V CPU and Tensix AI core designs, which it licenses to chipmakers such as Samsung and LG.</li><li>CEO Jim Keller, who designed Apple's A4/A5, AMD's Zen and Tesla's self-driving chip, pitches an open software stack sold at every size, from a single card to superclusters (<a href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/">TechCrunch</a>).</li></ul><p>Why it matters: it's one of the largest raises yet for a Nvidia challenger. It shows investors are betting that inference on open-weight models, plus sovereign and custom-silicon buyers, will create room for open RISC-V alternatives to Nvidia and CUDA.</p>]]></description>
     </item>
     </channel>
 </rss>
