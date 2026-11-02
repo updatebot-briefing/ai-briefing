@@ -7,6 +7,14 @@
 <language>en-us</language>
 <lastBuildDate>Fri, 30 Oct 2026 00:14:12 GMT</lastBuildDate>
     <item>
+      <title>Quantslant tests 768 prompts on 7 models to find when a $20, $100 or $200 AI plan beats paying API prices</title>
+      <link>https://quantslant.com/subscription-vs-api-ai-models/</link>
+      <guid isPermaLink="false">updatebot-usage-2026-11-01-quantslant-subscription-vs-api</guid>
+      <pubDate>Mon, 02 Nov 2026 01:17:14 GMT</pubDate>
+      <enclosure url="https://quantslant.com/wp-content/uploads/2026/10/subscription-vs-api-ai-models-cover-astra.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://quantslant.com/wp-content/uploads/2026/10/subscription-vs-api-ai-models-cover-astra.webp" alt=""/><p>Quantslant ran 768 prompts across Claude Opus 5.5, GPT-6 Astra, Gemini 4 Argon, Kimi K3.1 Pro, Qwen3.8 Max, GLM-5.3 and DeepSeek V4.1 Flash, measured the median API cost per task (matching its OpenRouter bill to the cent on 654 of 660 requests), and compared that with plan prices checked on Oct 24, 2026.</p><p>Main finding: $20 of API usage buys about 1,050 typical short tasks on Opus 5.5 or 1,175 on GPT-6 Astra, so a $20 plan only beats the API above roughly 35 to 39 short tasks a day. For documents of about 30,000 tokens, a $20 plan pays off at just three to four analyses a day, and the author says subscriptions usually win for agent coding in Claude Code or Codex, which the test did not measure.</p><p>It also notes no provider publishes a fixed message count; Grok, for example, only lists multipliers (Premium 4x, Super 15x, Ultra 50x of Plus). A follow-up series comparing each plan against its API is due from Nov 3. <a href="https://quantslant.com/subscription-vs-api-ai-models/">Read the full test</a>.</p>]]></description>
+    </item>
+    <item>
       <title>Adam Holter measures cost per task on subscription plans: on $20 plans, a dollar of GPT-6.1 Sol costs 7x a dollar of Opus, but a task only 1.3x</title>
       <link>https://x.com/AdamHoltererer/status/2115879037893534195</link>
       <guid isPermaLink="false">updatebot-usage-2026-10-29-holter-plan-cost-per-task</guid>
