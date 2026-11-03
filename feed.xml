@@ -7,7 +7,44 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 01:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:07:27 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic's amended IPO filing says future models may &quot;imminently&quot; hit its threshold for AI-driven acceleration of AI progress</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm</link>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" alt="" /></p>
+<p>In <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm">Amendment No. 1 to its S-1</a>, filed November 2, Anthropic added a risk factor saying its internal estimates and expectations for <em>future</em> models indicate it "may imminently" meet its <a href="https://www.anthropic.com/responsible-scaling-policy">Responsible Scaling Policy</a> definition of "dramatically accelerated progress attributable to AI."</p>
+<p>The filing says no current model has been designated as over that threshold and that Anthropic is still assessing the data. It also warns that it has in the past failed to notice a significant speed-up in its own development until after it happened, and says it is considering RSP updates to keep humans in control of frontier model development (<a href="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/">TechCrunch</a>).</p>
+<p>Why it matters: this is the first time a top lab has told investors, in a legal filing, that it may be close to its own bar for recursive self-improvement, which under the RSP roughly means AI doubling the rate of overall AI progress.</p>]]></description>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" type="image/jpeg" length="0"/>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-02-anthropic-s1a-ai-acceleration-threshold</guid>
+      <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI signs four Abu Dhabi deals, making ADNOC the first energy company to deploy its Frontier platform</title>
+      <link>https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/</link>
+      <description><![CDATA[<p><img src="https://www.mediaoffice.abudhabi/assets/resized/img/Abu-Dhabi-Media-Office-0-0-0-0.webp?k=7bd1853e3f" alt="" /></p>
+<p>At the ADIPEC conference on November 2, Sam Altman met Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed, who witnessed four agreements between OpenAI and Abu Dhabi entities (<a href="https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/">Abu Dhabi Media Office</a>).</p>
+<ul>
+<li>ADNOC, G42 (through Inception42) and OpenAI will deploy OpenAI Frontier agents across ADNOC's operations, starting with full-field development planning and value-chain forecasting, on in-country UAE inference (<a href="https://www.energyconnects.com/opinion/features/2026/november/adnoc-signs-landmark-partnership-agreement-with-openai-and-g42-becoming-first-energy-company-to-deploy-openai-frontier-technology/">Energy Connects</a>).</li>
+<li>The Abu Dhabi Government and OpenAI launched a "Machine-Readable Government" initiative that turns a set of regulations into machine-readable form for AI-assisted compliance checks.</li>
+<li>Mubadala, Inception42 and OpenAI will apply AI to investment analysis, and Inception42 and OpenAI signed a five-year deal to drive adoption across UAE government, enterprise and education.</li>
+</ul>
+<p>Why it matters: it deepens OpenAI's ties to the UAE as it seeks up to $20 billion in a funding round co-led by UAE investors, per <a href="https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html">CNBC</a>.</p>]]></description>
+      <enclosure url="https://www.mediaoffice.abudhabi/assets/resized/img/Abu-Dhabi-Media-Office-0-0-0-0.webp?k=7bd1853e3f" type="image/jpeg" length="0"/>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-02-openai-abu-dhabi-adnoc-deals</guid>
+      <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>SemiAnalysis launches GDPx, a hard agentic benchmark where the best model, Claude Opus 5.5, scores 12%</title>
+      <link>https://gdpx.semianalysis.com/</link>
+      <description><![CDATA[<p><img src="https://gdpx.semianalysis.com/opengraph-image.png?opengraph-image.2l-cpfj117n69.png" alt="" /></p>
+<p>SemiAnalysis released <a href="https://gdpx.semianalysis.com/">GDPx v1.0</a> on November 2: 206 long agentic tasks (up to 8 hours each) across 11 high-value domains, including chip design, cybersecurity, biology, quant trading, finance, legal and recursive self-improvement, built with 14 expert data partners.</p>
+<p>Claude Opus 5.5 leads at 12.0% (about $51 per task), followed by Gemini 4 Carbon at 10.9% (about $16 per task) and GPT-6 Astra at 9.6%. SemiAnalysis says nearly every model scores zero on finance and legal, that GPT-6 Astra wins the self-improvement domain, and that safety classifiers drag down some scores in cyber, bio and alignment (<a href="https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities">SemiAnalysis post</a>).</p>
+<p>Why it matters: it's a fresh, unsaturated yardstick for frontier agents on real expert work, and it shows how far even the best models still are from doing it reliably. The scores are SemiAnalysis's own measurements.</p>]]></description>
+      <enclosure url="https://gdpx.semianalysis.com/opengraph-image.png?opengraph-image.2l-cpfj117n69.png" type="image/jpeg" length="0"/>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-02-semianalysis-gdpx-benchmark</guid>
+      <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
+    </item>
     <item>
       <title>Aramco closes its $2.6 billion deal for 49% of Saudi Arabia's national AI company HUMAIN</title>
       <link>https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth</link>
@@ -581,29 +618,5 @@
       <enclosure url="https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://content-media.investing.com/news/moved_LYNXMPEM9I0YO_L.jpg" alt=""/><p>A draft of Anthropic's S-1 prospectus seen by The Wall Street Journal shows $16.3 billion in revenue for the first half of 2026, up from $1.1 billion a year earlier, as it prepares an IPO that could value it at about $2 trillion (summarized by <a href="https://www.investing.com/news/stock-market-news/anthropic-revenue-hits-163-billion-as-preliminary-s1-outlines-ipo-risks--wsj-4960928">Investing.com</a>).</p><ul><li>It is committed to roughly $450 billion in noncancelable cloud compute over the next decade, including about $111 billion with Google Cloud, $110 billion with AWS and $31 billion with Microsoft, and says total compute spending could reach $750 billion.</li><li>It spent nearly $9 billion on compute in the first half alone, more than all of 2025, and says it wanted more capacity than the hyperscalers would supply, which is why it is turning to third-party data center builders.</li><li>The first-half net loss was $80.7 billion, but about $72 billion of that is non-cash accounting tied to convertible notes. About 20% of revenue came from two customers.</li></ul><p>Why it matters: these are the first audited-style numbers on how fast Anthropic is growing and how much compute it has signed for. They are from a draft seen by the WSJ, not a public filing, so figures could change before it lands on EDGAR.</p>]]></description>
     </item>
-    <item>
-      <title>SpaceX&#x27;s AI segment, including xAI and Cursor, hits $7.6B in quarterly revenue, up 830%</title>
-      <link>https://ir.spacex.com/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-20-spacex-q3-super-intelligence-7-6b</guid>
-      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
-      <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt=""/><p>SpaceX <a href="https://ir.spacex.com/files/content_files/SpaceX-Reports-Third-Quarter-2026-Results.pdf">reported Q3 2026 results</a> with $14.6 billion in revenue, up 161%, and $4.4 billion in net income. Its Super Intelligence (SI) segment, which holds Grok, X and its data centers, brought in $7.56 billion, up 830% year over year and 195% from Q2, about 52% of the company's total revenue.</p><ul><li>SpaceX credits new cloud services agreements, the acquisition of Cursor, and more Grok use by businesses and consumers. Reuters notes much of the AI money comes from renting data center capacity to labs such as Anthropic, Google and Reflection AI (via <a href="https://www.theverge.com/science/1014150/spacex-q3-2026-earnings">The Verge</a>).</li><li>Nameplate compute reached 1.7 GW, up from 0.6 GW a year ago, as Colossus II is built out. SI capex was $16.4 billion in the quarter.</li><li>The SI segment turned an operating profit of $431 million after a $1.7 billion loss a year earlier. SpaceX also posted the results <a href="https://x.com/SpaceX/status/2112641741937635789">on X</a>.</li></ul><p>Why it matters: it is the clearest look yet at the money behind xAI and Grok, and it shows SpaceX becoming a major AI compute landlord to rival labs, not just a model maker.</p>]]></description>
-    </item>
-    <item>
-      <title>Anthropic&#x27;s automated red-teamer beat human bug-bounty hunters in 23 of 24 tests on its own safeguards</title>
-      <link>https://www.anthropic.com/responsible-scaling-policy/updates</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-20-anthropic-automated-red-teamer-beats-bounties</guid>
-      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
-      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg" alt=""/><p>Anthropic <a href="https://www.anthropic.com/responsible-scaling-policy/updates">updated its Frontier Safety Roadmap</a> on Oct 19 and marked its automated red-teaming goal done, more than two months ahead of its Jan 1, 2027 target. Compared against the bug bounties it ran on its bioweapons classifiers from April to September, the automated system matched or beat the best human submission in all 24 question-and-classifier pairs and won 23, in 24 to 48 hours instead of weeks or months.</p><ul><li>It also reported a working prototype of inference verification that checks outputs come from a specific set of weights, plus early work toward air-gapped operation.</li><li>New commitments include a proposal for embedded third-party evaluators due Dec 15, 2026, and a framework for "targeting the pace of AI development" due Jan 15, 2027 (summary via <a href="https://morningtokens.com/issues/2026-10-20/">Morning Tokens</a>).</li></ul><p>Why it matters: it is the first time a frontier lab says an AI attacker measurably outperformed paid human jailbreakers against its own defenses, and the pace-of-development framework would be Anthropic's first proposal on how fast the field should move.</p>]]></description>
-    </item>
-    <item>
-      <title>AI-designed phages are given to a human patient for the first time</title>
-      <link>https://www.radicalnumerics.ai/blog/omnii-phage</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-20-radical-numerics-ai-designed-phages-patient</guid>
-      <pubDate>Tue, 20 Oct 2026 17:20:00 -0700</pubDate>
-      <enclosure url="https://www.radicalnumerics.ai/assets/blog/omnii-phage/omnii-phage-hero_v2.jpeg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://www.radicalnumerics.ai/assets/blog/omnii-phage/omnii-phage-hero_v2.jpeg" alt=""/><p>Radical Numerics <a href="https://www.radicalnumerics.ai/blog/omnii-phage">says</a> phages designed by its Omnii-1 genome model were part of a therapy cocktail given to a patient with an antibiotic-resistant E. coli infection, under an FDA-authorized single-patient compassionate-use application. In lab tests the cocktail wiped out the patient's bacterial isolate before it was administered.</p><ul><li>The company is not disclosing whether the patient improved, citing privacy, and says one case cannot establish safety or efficacy (<a href="https://www.zeniteq.com/radical-numerics-says-ai-designed-phages-reached-a-patient-a13yse">Zeniteq</a> stresses the same caveat).</li><li>It also <a href="https://www.radicalnumerics.ai/blog/omnii-1">launched Omnii-1</a>, claiming state-of-the-art results ahead of AlphaGenome on gene-regulation benchmarks and a 92.1% hit rate at picking an active phage in its top two suggestions for held-out E. coli strains. These are the company's own numbers.</li></ul><p>Why it matters: it is the first time an AI-generated living therapeutic is reported to have reached a human, an early step toward personalized treatments for infections antibiotics can no longer beat.</p>]]></description>
-    </item>
-    </channel>
+  </channel>
 </rss>
