@@ -7,8 +7,40 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 00:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:10:15 GMT</lastBuildDate>
     <item>
+<title>Hermes Agent v0.22.6 ships a migration command for Grok Bot users, and Nous pitches it at Musk's cost comment</title>
+<link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-02-hermes-v0-22-6-migrate-grok-bot</guid>
+<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
+<enclosure url="https://opengraph.githubassets.com/41d7f2c1d9a25268696007eab5bd6f1f0fd6eb9dfc3df2a6fef9fa5253e58df8/NousResearch/hermes-agent/releases/tag/v0.22.6" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://opengraph.githubassets.com/41d7f2c1d9a25268696007eab5bd6f1f0fd6eb9dfc3df2a6fef9fa5253e58df8/NousResearch/hermes-agent/releases/tag/v0.22.6" alt="Hermes Agent v0.22.6 on GitHub"/>
+<p>Nous Research released <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6">Hermes Agent v0.22.6</a> on Nov 2, a patch release that rolls up about 776 merged PRs since v0.22.5 for the CLI, installers, the Microsoft Store app, Docker and Hermes Cloud. Full curated notes are promised with v0.23.0.</p>
+<p>The listed additions include <code>hermes migrate</code> and setup steps that move Grok Bot and OpenBot users over, a web app served from the gateway (<code>hermes webapp</code>), <code>/model reset</code>, per-skill locks against autonomous edits, <code>hermes cron cancel</code> with a missed-run policy, opt-in OS keychain storage for the vault key, and a <code>pre_llm_call</code> hook that can block a turn before inference.</p>
+<p>The same day, the official @NousResearch account posted just "<a href="https://x.com/NousResearch/status/2117326444669857941">&gt; hermes migrate grok-bot</a>" quoting Elon Musk's remark that Grok Bot's serving cost was "unsustainably high relative to revenue" (about 87k views by evening). Teknium also <a href="https://x.com/Teknium/status/2117389981916512668">hinted</a> that more is "coming this thursdee."</p>]]></description>
+</item>
+<item>
+<title>OpenAI's dots lead says GPT-6 Astra and GPT-6.1 Terra will power dots, to bring dots to more people</title>
+<link>https://x.com/thsottiaux/status/2117283124833055196</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-02-dots-astra-terra-models</guid>
+<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg" alt="Tibo (@thsottiaux) on X"/>
+<p>Tibo (@thsottiaux), who leads dots at OpenAI, <a href="https://x.com/thsottiaux/status/2117283124833055196">posted on Nov 2</a> (7:50am PT) that OpenAI is "working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future." He said Terra "brings speed and a nice personality upgrade, and will help us bring dots to more people."</p>
+<p>In a <a href="https://x.com/thsottiaux/status/2117283355427495983">follow-up</a> he added that "your dot will choose the best model for the task, drawing on different models for different parts of the work." The post passed 1 million views.</p>
+<p>This is a plan, not a shipped change: OpenAI hasn't said when it lands or which plans get it. Some X coverage reads "more people" as dots coming to Plus, but that is unconfirmed. Dots still require Pro or Business Premium per the <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">help center</a>.</p>]]></description>
+</item>
+<item>
+<title>Grok Bot's GitHub and other source control integrations broke for 75 minutes early Monday</title>
+<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-02-grok-bot-source-control-incident</guid>
+<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
+<enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://x.ai/og/default.png" alt="SpaceXSI status page"/>
+<p>The <a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152">SpaceXSI status page</a> reported "Issues with source control integrations" affecting Grok Bot and the Cursor desktop IDE from 1:09am to 2:24am PT on Monday, Nov 2.</p>
+<p>During that window, source control provider integrations didn't work in either product, so bots that work with repositories could fail. The incident is marked resolved, and an <a href="https://outages.live/outages/xai-2ew0u02sdd0">outages.live record</a> puts it at 1 hour 15 minutes.</p>]]></description>
+</item>
+<item>
       <title>Amazon's Jassy says outside shopping agents like Muse are "not great" yet, and bets on Alexa for Shopping instead</title>
       <link>https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html</link>
       <guid isPermaLink="false">updatebot-agents-2026-11-01-muse-amazon-jassy-alexa-shopping</guid>
@@ -516,31 +548,5 @@
       <description><![CDATA[<img src="https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png" alt=""/><p>A new <a href="https://x.ai/news/incident-sweep">x.ai post</a> published today explains how the SpaceXSI support team uses two Grok Bot teammates during product incidents. IncidentWatch checks the last 15 minutes of support tickets every five minutes, flags spikes that don't match a known incident to the on-call engineer, and holds matching tickets.</p><p>After an incident is resolved, IncidentSweep finds the related tickets, sets aside any it can't confidently match, and shows an engineer the exact batch and message before sending anything. During a September 18 incident it cleared 204 tickets in about 10 minutes after one engineer approved the batch. It's a case study of the "give Bots jobs, not tasks" approach rather than a new feature.</p>]]></description>
     </item>
 
-<item>
-      <title>Sensor Tower: Meta's Muse hit 10.2 million US downloads in 40 days, a pace only 11 other apps have matched</title>
-      <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-20-meta-muse-10m-us-downloads</guid>
-      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024" alt=""/><p><a href="https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/">TechCrunch</a> reports Sensor Tower data showing Muse has 10.9 million downloads since its September 8 launch, 10.2 million of them in the US. Only 11 other apps have reached 10 million US downloads in their first 40 days, most recently Threads in 2023.</p><ul><li>US retention was 30% after 7 days and 23% after 14 days, versus averages of 19% and 16% for ChatGPT, Claude and Grok.</li><li>Daily active users passed 2.5 million for the first time on October 16, up 15% week over week.</li><li>Meta put 39% of its October ad spend into promoting Muse, up from 23% in September.</li></ul><p>A separate global Sensor Tower cut, covered by <a href="https://www.eweek.com/news/meta-muse-chatgpt-retention/">eWeek</a>, shows ChatGPT overtaking Muse on retention by day 14. These are third-party estimates, not Meta figures.</p>]]></description>
-    </item>
-
-<item>
-      <title>Meta releases Muse Glimmer, a 30B open-weight model built for always-on local agents</title>
-      <link>https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-20-meta-muse-glimmer-open-model</guid>
-      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
-      <enclosure url="https://dev.meta.ai/social/og-build-with-muse.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://dev.meta.ai/social/og-build-with-muse.png" alt=""/><p>Meta published <a href="https://ai.meta.com/research/publications/muse-glimmer-30b-an-on-device-agentic-model/">Muse Glimmer 30B</a>, an open-source model distilled from Muse Spark and designed to run agent workflows on a single consumer GPU. It takes text and image input, has a 128K-token context window, and is released under Apache 2.0.</p><p>Meta says it beats similar-size models such as Gemma4-31B and Qwen3.6-27B on tool use, multi-step planning and agent task completion. The <a href="https://dev.meta.ai/docs/muse-glimmer">developer docs</a> list quantized builds of about 17 to 20 GB for llama.cpp, Ollama, LM Studio, vLLM and SGLang, plus hosted access on Together AI. It's a model for builders, not a change to the Muse app itself.</p>]]></description>
-    </item>
-
-<item>
-      <title>OpenAI API adds 12-hour prompt caching, pitched for persistent agents like dots</title>
-      <link>https://x.com/OpenAIDevs/status/2112603916076781778</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-20-openai-12-hour-prompt-caching-dots</guid>
-      <pubDate>Tue, 20 Oct 2026 17:10:55 -0700</pubDate>
-      <enclosure url="https://developers.openai.com/og/api/docs/guides/prompt-caching.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://developers.openai.com/og/api/docs/guides/prompt-caching.png" alt=""/><p><a href="https://x.com/OpenAIDevs/status/2112603916076781778">@OpenAIDevs announced</a> this morning that API developers can now choose 12-hour prompt caching. The post frames it around persistent agents "like dots" that reuse the same instructions, tools and context throughout the day.</p><p>Cached prompts stay at the lower cached-input rate even when requests are hours apart. Details are in OpenAI's <a href="https://developers.openai.com/api/docs/guides/prompt-caching">prompt caching guide</a>. This is an API change for people building their own agents; it doesn't change dots pricing or limits in ChatGPT.</p>]]></description>
-    </item>
 </channel>
 </rss>
