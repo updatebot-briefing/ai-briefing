@@ -6,7 +6,46 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 00:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:13:40 GMT</lastBuildDate>
+    <item>
+      <title>Agility Robotics shareholders approve its SPAC merger; deal closes Nov 4 and AGLT starts trading on Nasdaq Nov 5</title>
+      <link>https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-agility-shareholders-approve-spac-nasdaq-aglt</guid>
+      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
+      <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" alt=""/></p><p>Churchill Capital Corp XI shareholders approved the business combination with Agility Robotics, the maker of the Digit humanoid. The deal is expected to close on November 4, 2026, and the combined company should begin trading on Nasdaq as <strong>AGLT</strong> (warrants AGLTW) on November 5.</p><ul><li>Expected gross capital is about $465M: roughly $164M from the trust account, about $201M from a $10/share PIPE led by Foxconn, and $100M already received.</li><li>Agility pitches itself as the only US-listed pure-play humanoid company with active commercial deployments, citing more than 65,000 hours of real-world Digit operation.</li><li>Separately, coverage notes a pipeline of more than 30 prospective customers and GXO adding Digit at two more US sites in early 2027.</li></ul><p>Sources: <a href="https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics">Agility press release</a>, <a href="https://roboticsandautomationnews.com/2026/11/02/agility-robotics-says-more-than-30-companies-considering-digit-humanoid-robot/106595/">Robotics &amp; Automation News</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Brett Adcock shows newly built Figure 03 humanoids walking out of the BotQ factory and across Figure's campus on their own</title>
+      <link>https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-figure-03-robots-walk-out-of-botq</guid>
+      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" alt=""/></p><p>Figure CEO Brett Adcock posted a short clip on X of freshly manufactured Figure 03 robots leaving the BotQ factory and walking across the campus parking lot, past cars and people, toward another building. "Newly manufactured F.03 robots leaving BotQ and heading across campus," he wrote.</p><p>It is a demo of the fleet growing rather than a business update: the post gives no new production total or customer-delivery figures. Figure is also developing its next-generation Figure 04.</p><p>Sources: <a href="https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video">Humanoids Daily</a>, <a href="https://x.com/CyberRobooo/status/2117322850591969749">CyberRobo on X</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>AGIBOT livestreams six G2 robots running a convenience store for 24 hours straight</title>
+      <link>https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-agibot-g2-24-hour-convenience-store-livestream</guid>
+      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" alt=""/></p><p>AGIBOT's "Robots Never Clock Out" challenge puts six G2 wheeled humanoids through a full convenience-store shift on a public livestream, from 10:00 a.m. Nov 2 to 10:00 a.m. Nov 3 China time (6:00 p.m. Nov 1 to 6:00 p.m. Nov 2 PT).</p><ul><li>Planned work covers the lunch and evening rushes, overnight duty and breakfast prep.</li><li>Tasks include stocking shelves, making coffee, preparing hot food, greeting customers and clearing rubbish.</li></ul><p>Caveat: the event length doesn't prove each robot worked continuously or fully autonomously. AGIBOT hasn't published an intervention policy or success scoring.</p><p>Source: <a href="https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream">Humanoids Daily</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Nearly 90 robot teams race up Mount Tai's 3,100 stone steps in China's first robot mountain-climbing challenge</title>
+      <link>https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-mount-tai-robot-climbing-challenge</guid>
+      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
+      <enclosure url="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" alt=""/></p><p>The CMG World Robot Mount Tai Challenge in Tai'an, Shandong, sent humanoid, quadruped and exoskeleton robots up a 3.9 km stretch of ancient trail with about 3,100 stone steps and 600 m of climb on November 2.</p><p>Legged robots dominated: according to X's news summary, a Unitree quadruped from Beijing Lingyi Technology won the legged speed race in 43 minutes 41 seconds, and robot dogs outpaced the humanoids. Some quadrupeds also carried supplies up the route.</p><p>Sources: <a href="https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge">Euronews</a>, <a href="https://x.com/i/trending/2117155779103113602">X news summary</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>ID Logistics and Terra Robotics team up to put humanoids into German warehouses, with a live pilot planned within six months</title>
+      <link>https://theroboticsmedia.com/article/id-logistics-terra-robotics-humanoid-pilot-germany</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-id-logistics-terra-robotics-humanoid-pilot</guid>
+      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
+      <description><![CDATA[<p>Contract logistics firm ID Logistics (450 sites worldwide, 17 in Germany) and Terra Robotics, a multi-brand integrator and Unitree distributor, formed a strategic partnership on November 1 to move humanoids from demos to real warehouse work.</p><ul><li>Two Unitree G1 EDU6 robots, nicknamed IDA and Heinz, already sort cardboard boxes from shipping bags using five-fingered tactile hands.</li><li>The partners will pick one of four or five candidate tasks and run a live pilot at an ID Logistics site within six months, possibly with a UBTECH or Unitree robot.</li><li>No financial terms or pilot site were disclosed.</li></ul><p>Sources: <a href="https://theroboticsmedia.com/article/id-logistics-terra-robotics-humanoid-pilot-germany">The Robotics Media</a>, <a href="https://www.logpr.de/wp-content/uploads/2026/11/PM_IDL_Terra_DE.pdf">ID Logistics press release (German PDF)</a>.</p>]]></description>
+    </item>
     <item>
       <title>DEEP Robotics humanoids join traffic police at the Hangzhou Marathon</title>
       <link>https://www.globaltimes.cn/page/202611/1373413.shtml</link>
