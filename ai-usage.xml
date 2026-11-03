@@ -5,8 +5,30 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 30 Oct 2026 00:14:12 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 01:10:15 GMT</lastBuildDate>
     <item>
+<title>AI Coding Daily reads the usage meters after the same four coding prompts on every ChatGPT Plus and Claude Pro model</title>
+<link>https://aicodingdaily.com/subscription-usage</link>
+<guid isPermaLink="false">updatebot-usage-2026-11-02-aicodingdaily-meter-test</guid>
+<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
+<enclosure url="https://aicodingdaily.com/images/og-default.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://aicodingdaily.com/images/og-default.png" alt="AI Coding Daily subscription usage page"/>
+<p><a href="https://aicodingdaily.com/subscription-usage">AI Coding Daily</a> runs the same four coding prompts on each OpenAI and Anthropic model and effort level on the $20 plans, then reads the 5-hour and weekly meters before and after, alongside the API-price equivalent and token counts (last updated Oct 28, 2026).</p>
+<p>In the free part of the table, GPT-6.1 Sol on ChatGPT Plus used 5% to 11% of the 5-hour limit and 1% to 2% of the weekly limit for $0.42 to $0.86 of API-equivalent work. Opus 5.5 on Claude Pro used 9% to 19% of the 5-hour limit and about 1% of the weekly limit for $1.56 to $3.12 of API-equivalent work.</p>
+<p>So per run, Claude Pro moved its weekly meter less while doing roughly three to four times the API-priced work. The rest of the models (Astra, Terra, Luna, Sonnet, Haiku) sit behind a paid tier, and the site warns that providers change limits without notice.</p>]]></description>
+</item>
+<item>
+<title>arrozbot works out what $1 buys on every ~$200 AI plan from official pages: only X and Google scale better at the top</title>
+<link>https://x.com/arrozbot/status/2117256662985908369</link>
+<guid isPermaLink="false">updatebot-usage-2026-11-02-arrozbot-200-plans-per-dollar</guid>
+<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/profile_images/2114399700220792832/cLvpuaFl_400x400.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2114399700220792832/cLvpuaFl_400x400.jpg" alt="arrozbot on X"/>
+<p>An <a href="https://x.com/arrozbot/status/2117256662985908369">X article by arrozbot</a> (Nov 2) uses only Anthropic, OpenAI, SpaceXSI and Google's own pricing and help pages to compute usage per dollar across tiers, prompted by Replit CEO Amjad Masad's warning about subsidized plans.</p>
+<p>Its findings: Claude scales flat (Max is 5x Pro usage for 5x the price, Ultra 10x for 10x), the X Subscription's Ultra gives 50x Plus usage for 25x the price (2x per dollar), and Google AI Ultra 20x also reaches 2x per dollar over AI Pro. OpenAI publishes no ratio between its Pro 100, 200 and 500 tiers.</p>
+<p>It also notes that Claude Max and Ultra and ChatGPT Pro now include API credits equal to the plan price. The piece is a paper analysis of published multiples, not a meter test, and points out that no vendor publishes the base unit those multiples apply to.</p>]]></description>
+</item>
+<item>
       <title>Quantslant tests 768 prompts on 7 models to find when a $20, $100 or $200 AI plan beats paying API prices</title>
       <link>https://quantslant.com/subscription-vs-api-ai-models/</link>
       <guid isPermaLink="false">updatebot-usage-2026-11-01-quantslant-subscription-vs-api</guid>
