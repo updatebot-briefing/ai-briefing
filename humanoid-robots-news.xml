@@ -6,7 +6,55 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 01:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:15:52 GMT</lastBuildDate>
+    <item>
+      <title>South Korea opens its first AI Humanoid Data Factory, with 12 teleoperated humanoids recording training data</title>
+      <link>https://www.ajupress.com/view/20261103143728182</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-korea-kimm-humanoid-data-factory</guid>
+      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
+      <enclosure url="https://image.ajunews.com/content/image/2026/11/03/20261103144135885151.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://image.ajunews.com/content/image/2026/11/03/20261103144135885151.png" alt=""/></p>
+<p>The state-funded Korea Institute of Machinery and Materials (KIMM) and ETRI opened the country's first facility built to mass-produce training data for two-legged humanoids on Tuesday. It runs 12 humanoids across about 1,000 square meters, with plans to grow to 25.</p>
+<ul><li>Researchers teleoperate the robots through tasks like pulling food from a fridge, handling laundry, tidying a sofa and working car controls; each motion trains vision-language-action models that go back onto the robots for testing.</li>
+<li>It's part of the science ministry's K-Moonshot humanoid mission, alongside the 2.3 trillion won (about $1.7B) budgeted through 2030 for the humanoid industry.</li>
+<li>The factory is due to open to outside companies, universities and institutes in stages from late 2027.</li></ul>
+<p>Source: <a href="https://www.ajupress.com/view/20261103143728182">Aju Press</a></p>]]></description>
+    </item>
+    <item>
+      <title>Carnegie Mellon unveils Pixel, an under-$15,000 wheeled humanoid and full learning stack it plans to open-source</title>
+      <link>https://pixel-robot.com/pixel/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-cmu-pixel-15k-wheeled-humanoid</guid>
+      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
+      <enclosure url="https://pixel-robot.com/images/pixel-social-v1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://pixel-robot.com/images/pixel-social-v1.jpg" alt=""/></p>
+<p>CMU researchers Tony Tao and Jason Liu, advised by Ruslan Salakhutdinov and Deepak Pathak, released Pixel: a wheeled humanoid with a 17-DoF human-proportioned upper body, holonomic base and vertical lift that can be assembled for under $15,000.</p>
+<ul><li>It ships with sensorized human-worn grippers for collecting demos without a robot, VR and leader-arm teleoperation, a shared whole-body controller and one policy pipeline for human and robot data.</li>
+<li>Policies trained from human demos reached 82.0% average task progress on three mobile-manipulation tasks, and 78.7% from robot teleop on three others.</li>
+<li>The project page says the system will be "Open Sourced Soon"; no public repo yet.</li></ul>
+<p>Read the <a href="https://arxiv.org/abs/2611.03648">paper on arXiv</a> or the <a href="https://pixel-robot.com/pixel/">project page</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Xiaomi says its humanoids worked an eight-hour shift sorting car parts at its EV factory</title>
+      <link>https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-xiaomi-humanoids-eight-hour-factory-shift</guid>
+      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp" alt=""/></p>
+<p>Xiaomi showed its humanoids autonomously sorting center-console side covers at its car factory for more than eight hours, with two charging breaks, and says they met the station's daily production needs.</p>
+<p>Xiaomi says the robots detect and recover from errors on their own and coordinate with line systems. It hasn't disclosed throughput, error rates or how often humans stepped in, so treat the result as a company demo rather than an independent test.</p>
+<p>Sources: <a href="https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting">Humanoids Daily</a> and the <a href="https://x.com/XRoboHub/status/2117569754584240308">video on X</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hyundai Mobis starts building prototype actuators for Boston Dynamics' Atlas this month, aiming for supply in 2028</title>
+      <link>https://theroboticsmedia.com/article/hyundai-mobis-atlas-actuator-prototypes-boston-dynamics</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-hyundai-mobis-atlas-actuator-prototypes</guid>
+      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
+      <description><![CDATA[<p>Hyundai Mobis is producing prototype actuators for Atlas at its Uiwang Research Center starting in November, and will validate performance and reliability with Boston Dynamics ahead of expected supply in 2028.</p>
+<ul><li>Mobis says it has a confirmed actuator order and is also developing hand grippers, perception modules and controllers to sell to other humanoid makers.</li>
+<li>It's creating a dedicated robotics-parts organization and roughly doubling staff for it.</li>
+<li>Reports that Mobis will supply all 31 Atlas actuators and build a 350,000-unit US plant are from Korean press and not confirmed by the company.</li></ul>
+<p>Sources: <a href="https://theroboticsmedia.com/article/hyundai-mobis-atlas-actuator-prototypes-boston-dynamics">The Robotics Media</a> and <a href="https://www.asiae.co.kr/en/article/2026103008380739119">The Asia Business Daily</a></p>]]></description>
+    </item>
     <item>
       <title>Agility Robotics shareholders approve its SPAC merger; deal closes Nov 4 and AGLT starts trading on Nasdaq Nov 5</title>
       <link>https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics</link>
@@ -713,5 +761,6 @@
 </ul>
 <p>Sources: <a href="https://www.koreajoongangdaily.com/business/samsungs-next-hire-a-robot-that-never-clocks-out/12928887">Korea JoongAng Daily</a>, <a href="https://x.com/CyberRobooo/status/2112973944810811720">X post with video</a>.</p>]]></description>
     </item>
+  
   </channel>
 </rss>
