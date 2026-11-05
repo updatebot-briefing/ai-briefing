@@ -6,7 +6,70 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 01:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:19:10 GMT</lastBuildDate>
+    <item>
+      <title>RoboColosseum opens 100+ real robots for free AI testing, and no policy finished a single Unitree G1 humanoid task in 625 trials</title>
+      <link>https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-robocolosseum-g1-benchmark</guid>
+      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" alt=""/></p>
+<p>RoboColosseum, an open evaluation initiative from Hugging Face, BitRobot, the Singapore Embodied AI Centre and researcher Jiafei Duan, launched with more than 100 physical robots, over 140 real-world scenes and 10,000 free evaluation hours for academic teams. Unitree backs it, and its G1 is the platform for the humanoid category.</p>
+<ul><li>In the first humanoid results, none of five vision-language-action policies fully completed any of five G1 tasks (carrying a box, folding a towel, loading a washing machine), even after fine-tuning on 100 demonstrations per task.</li>
+<li>Partial-progress scores ranged from 13.3% to 23.2% across 625 logged trials.</li>
+<li>Rollout videos of successes and failures are being shared openly on the Hugging Face Hub.</li></ul>
+<p>Source: <a href="https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1">Humanoids Daily</a>. Launch thread: <a href="https://x.com/RoboColosseum/status/2117982605274710483">@RoboColosseum on X</a>; Unitree's note: <a href="https://x.com/UnitreeRobotics/status/2117996574584574130">@UnitreeRobotics</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>JD.com launches a &quot;Physical AI Acceleration Plan&quot; focused on embodied robots, plans 10M hours of human video data in two years</title>
+      <link>https://ai123.com/newshub/17231</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-jd-physical-ai-acceleration-plan</guid>
+      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
+      <description><![CDATA[<p>At the World Internet Conference in Wuzhen on Nov. 4, JD.com technology committee chairman Cao Peng announced the "JD Physical AI Acceleration Plan," whose first phase centers on embodied-intelligence robots, with investment across data, bases, manufacturing, sales, logistics and service.</p>
+<ul><li>JD is building an embodied-AI data collection center and aims to gather more than 10 million hours of real-world human video and over 1 million hours of robot operation data within two years. It says it has already collected over 100,000 real tasks across 100+ scenarios.</li>
+<li>AGIBOT humanoids are already working in JD Logistics' "Wolf" warehouse.</li>
+<li>Cao repeated JD Logistics' target of buying 3 million robots, 1 million autonomous vehicles and 100,000 drones over five years (first announced in September).</li></ul>
+<p>Sources: <a href="https://ai123.com/newshub/17231">AI123</a>, <a href="https://finance.sina.cn/stock/jdts/2026-11-04/detail-inixqhkx8080298.d.html">IT Home via Sina (Chinese)</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Tesla shows its latest gold Optimus beside the production Cybercab at China's Import Expo, opening Nov 5</title>
+      <link>https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-tesla-optimus-ciie-shanghai</guid>
+      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
+      <enclosure url="https://www.cybercab.news/images/cybercab-ciie-shanghai-production-nov4/hero-1400.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.cybercab.news/images/cybercab-ciie-shanghai-production-nov4/hero-1400.jpg" alt=""/></p>
+<p>Tesla has its first dedicated zone at the 9th China International Import Expo in Shanghai (Nov. 5–10), part of the 2,700-square-meter Lingang showcase, the expo's largest single exhibit area. First-look photos posted Wednesday show Optimus humanoids standing next to the production Cybercab.</p>
+<ul><li>Organizers say the latest-generation gold Optimus robots will act out factory work, carry luggage and walk a dog.</li>
+<li>The display is static: Tesla has no plans to sell the Cybercab or run robotaxi rides in China.</li>
+<li>No new Optimus specs, pricing or reservation dates were announced; Elon Musk recently denied a report that Optimus reservations open in December.</li></ul>
+<p>Sources: <a href="https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4">CyberCab.News</a>, <a href="https://english.shanghai.gov.cn/en-Latest-WhatsNew/20261030/b2dfcb0b6adc4285a8bc5f23bdc58f35.html">Shanghai government</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Korea's KIST shows KAPEX, a humanoid with over 90% locally made core parts, as LG builds a supply chain around it</title>
+      <link>https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-kist-kapex-lg-local-parts</guid>
+      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
+      <enclosure url="https://wimg.sedaily.com/news/cms/2026/11/04/news-p.v1.20261103.23d77a292d494c01ac5e043d94ccfdea_P1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://wimg.sedaily.com/news/cms/2026/11/04/news-p.v1.20261103.23d77a292d494c01ac5e043d94ccfdea_P1.jpg" alt=""/></p>
+<p>South Korea's science ministry gave its November Korea Science and Technology Award to KIST's Lee Jong-won for KAPEX, a bipedal AI humanoid whose actuators, joints, sensors and control AI were built domestically, with more than 90% of core components made in Korea.</p>
+<ul><li>KAPEX walks while carrying more than 20 kg and uses fingertip slip sensors to adjust its grip, from paper cups to heavy boxes.</li>
+<li>KIST transferred the core technology to LG Electronics. LG handles the platform, LG AI Research the physical AI, LG Energy Solution solid-state batteries, and Robostar mass production.</li>
+<li>Field tests are expanding into homes and hospitals, though the team says long-duration autonomous work is still unsolved.</li></ul>
+<p>Source: <a href="https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts">Seoul Economic Daily</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Rainbow Robotics says it has sold nearly 200 RB-Y1 wheeled humanoids and plans RB-Y2 mass production by next summer</title>
+      <link>https://www.ajupress.com/view/20261104160253637</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-rainbow-robotics-rby1-200-units</guid>
+      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
+      <enclosure url="https://image.ajunews.com/content/image/2026/11/04/20261104162650729535.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://image.ajunews.com/content/image/2026/11/04/20261104162650729535.jpg" alt=""/></p>
+<p>At Robo World 2026, which opened Nov. 4 at KINTEX near Seoul with 402 companies, Samsung-owned Rainbow Robotics said it has sold nearly 200 of its RB-Y1 mobile humanoids worldwide.</p>
+<ul><li>The company aims to get safety certification for the next-generation RB-Y2 and start mass production by next summer.</li>
+<li>Rainbow keeps its working humanoids on wheels for safety and plans to focus on manufacturing until about 2030, with pilots at Daedong, Samsung Medical Center and bakery chain Sungsimdang.</li>
+<li>The show floor also featured Chinese Unitree G1 humanoids dancing and an RB-Y1 sorting flowers, which Rainbow admits still makes mistakes.</li></ul>
+<p>Source: <a href="https://www.ajupress.com/view/20261104160253637">Aju Press</a>.</p>]]></description>
+    </item>
     <item>
       <title>South Korea opens its first AI Humanoid Data Factory, with 12 teleoperated humanoids recording training data</title>
       <link>https://www.ajupress.com/view/20261103143728182</link>
@@ -745,21 +808,6 @@
 <li>A live demo is set for JIMTOF 2026 in Tokyo starting Oct 26.</li>
 </ul>
 <p>Source: <a href="https://www.mitsubishielectric.com/en/pr/2026/1021_rd/">Mitsubishi Electric press release</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Samsung tests bipedal humanoid built for 24/7 factory work, eyeing CES 2027 debut (report)</title>
-      <link>https://www.koreajoongangdaily.com/business/samsungs-next-hire-a-robot-that-never-clocks-out/12928887</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-samsung-24-hour-humanoid-ces-2027</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <enclosure url="https://image.koreajoongangdaily.com/12880998.jpg?imageId=12880998&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://image.koreajoongangdaily.com/12880998.jpg?imageId=12880998&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=100&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=100&amp;width=1200&amp;height=683" alt="" /></p>
-<p>Korea JoongAng Daily reports that Samsung Electronics is testing a bipedal humanoid at its Umyeon-dong R&amp;D campus in Seoul. The robot is being trained for repetitive manufacturing and logistics tasks like moving goods, with Samsung and partner staff monitoring it in three shifts to reach around-the-clock operation.</p>
-<ul>
-<li>The goal is continuous 24/7 work, reportedly helped by swappable batteries.</li>
-<li>Samsung is reportedly considering a public debut at CES 2027.</li>
-<li>This is an exclusive media report. Samsung has not formally announced the robot, so treat the details as unconfirmed.</li>
-</ul>
-<p>Sources: <a href="https://www.koreajoongangdaily.com/business/samsungs-next-hire-a-robot-that-never-clocks-out/12928887">Korea JoongAng Daily</a>, <a href="https://x.com/CyberRobooo/status/2112973944810811720">X post with video</a>.</p>]]></description>
     </item>
   
   </channel>
