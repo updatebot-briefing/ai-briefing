@@ -7,7 +7,22 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 01:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:36:31 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI introduces GPT-6 Cyber with Critical cyber rating and Daybreak Red access</title>
+      <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
+      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
+<p>On November 5, OpenAI formally launched <a href="https://openai.com/index/introducing-gpt-6-cyber/">GPT-6 Cyber</a>, a cybersecurity-specialized model for finding and validating exploits while staying inside researcher-set scope (<a href="https://x.com/OpenAI/status/2118390190246879554">announcement on X</a>).</p>
+<ul>
+<li>Vs GPT-5.6 Cyber on ExploitGym: 48.5% vs 32.1% (about a 51% relative gain); out-of-scope honeypot compliance rose to 99.93% without deployment prompts and 100% with them (from 94.49%).</li>
+<li>OpenAI raised its Preparedness Framework cybersecurity rating to <strong>Critical</strong> (from High), citing real-world work including the previously disclosed 948 Linux LPEs and 81 novel high-severity Firefox bugs Mozilla is shipping fixes for.</li>
+<li>Initially available via API and Codex to select Daybreak Red customers, with access expanding; Daybreak Blue alpha for GPT-6 Astra is also expanding.</li>
+</ul>
+<p>Why it matters: this is the formal top-lab cyber model product launch and Critical reclassification, not just yesterday's Linux pipeline research note.</p>]]></description>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
+      <guid isPermaLink="false">updatebot-breaking-2026-11-05-openai-gpt-6-cyber</guid>
+      <pubDate>Thu, 05 Nov 2026 17:36:31 GMT</pubDate>
+    </item>
 <item>
       <title>OpenAI launches ChatGPT Images 2.6 with GIFs, reference images, and faster API models</title>
       <link>https://openai.com/index/introducing-images-2-6/</link>
@@ -664,13 +679,5 @@
       <enclosure url="https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920&amp;format=jpeg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920&amp;format=jpeg" alt=""/><p><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">Bloomberg</a> first reported, and <a href="https://www.devdiscourse.com/article/international/3996376-deepseek-wrapping-up-15-billion-fundraising-to-fuel-ai-race-sources-say">Reuters</a> followed, that DeepSeek has raised about 100 billion yuan (roughly $15 billion) at a pre-money valuation of about 500 billion yuan. That's double its original 50 billion yuan target. DeepSeek hasn't commented, and Reuters' sources say the details could still change before it closes in the coming days.</p><ul><li>Existing shareholders CATL and Tencent are among the biggest investors. Reuters says more than 15 investors joined, including GigaDevice, Meituan, Geely, Midea, NetEase, Boyu Capital and IDG Capital.</li><li>Combined with its first round, which closed in June, DeepSeek has raised about 150 billion yuan in under six months and is preparing for an IPO on Shanghai's STAR Market (<a href="https://www.thestandard.com.hk/finance/article/345350/DeepSeek-doubles-funding-round-to-100bn-yuan-as-valuation-holds-steady">The Standard</a>).</li></ul><p>Why it matters: it's China's biggest private financing of the year and gives its leading open-weight lab real capital, much of it from chip and supply-chain companies, just days after the US banned DeepSeek from federal civilian systems.</p>]]></description>
     </item>
-<item>
-      <title>Meta shares drop about 7% as AI spending pushes its free cash flow negative</title>
-      <link>https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-22-meta-capex-negative-free-cash-flow</guid>
-      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
-      <enclosure url="https://image.cnbcfm.com/api/v1/image/108039322-17273001022024-09-25t204232z_1101917728_rc2u7aaqtwho_rtrmadp_0_meta-platforms-virtual-reality-zuckerberg.jpeg?v=1792695599&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108039322-17273001022024-09-25t204232z_1101917728_rc2u7aaqtwho_rtrmadp_0_meta-platforms-virtual-reality-zuckerberg.jpeg?v=1792695599&amp;w=1920&amp;h=1080" alt=""/><p>Meta stock fell nearly 7% on Thursday after its third-quarter report showed free cash flow of negative $2.12 billion and a higher floor for AI spending, <a href="https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html">CNBC reports</a>. Revenue rose 26% to $64.6 billion, beating estimates.</p><ul><li>Meta now expects 2026 capital expenditures of $135 billion to $145 billion, raising the bottom of the range from $130 billion.</li><li>It will create a new class of nonvoting Class C shares to "finance its growth," and the spread on its five-year credit default swaps hit a record high, a sign of rising credit worries (<a href="https://www.channelnewsasia.com/business/meta-shares-slide-default-insurance-hits-record-ai-spending-alarms-investors-6482571">Reuters via CNA</a>).</li></ul><p>Why it matters: it's the clearest sign yet that AI infrastructure spending is outrunning even Meta's cash flow, and it helped drive a broader drop in AI stocks on Thursday.</p>]]></description>
-    </item>
-  </channel>
+</channel>
 </rss>
