@@ -8,7 +8,22 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Thu, 05 Nov 2026 17:36:31 GMT</lastBuildDate>
-    <item>
+        <item>
+      <title>METR finds Anthropic's model progress ~2x faster, mostly from AI accelerating AI R&amp;D</title>
+      <link>https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/</link>
+      <description><![CDATA[<p><img src="https://metr.org/assets/images/ai-rd-acceleration-assessment/aeci-main.png" alt=""/></p>
+<p>On November 5, independent evaluator <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">METR</a> published a high-access assessment of whether AI is accelerating AI R&amp;D at Anthropic, after 11 weeks of internal data access from August through October (<a href="https://x.com/METR_Evals/status/2118412183860351084">METR on X</a>, <a href="https://apnews.com/article/anthropic-metr-ai-claude-acceleration-9cf8c590ffc1abdb489179bdccc69c23">AP</a>).</p>
+<ul>
+<li>METR judges Anthropic is likely improving capabilities on well-specified tasks at about twice the March 2024–October 2025 rate (high uncertainty; they would not be surprised by ~1.3x–3x), with AECI benchmark growth at an estimated 1.9x since October 2025 [95% CI 1.5–2.8x].</li>
+<li>It attributes a majority of the current acceleration to Anthropic’s use of AI in R&amp;D (not faster training-compute scaling), and says it saw no clear bottlenecks that would block further compounding over the next year—while noting heavy Anthropic redactions of the most informative evidence.</li>
+<li>AI is not yet making highly significant fully autonomous contributions to the most important training stages, but METR reports “signs of life” that such contributions could grow soon.</li>
+</ul>
+<p>Why it matters: this is the clearest outside evidence yet that a top lab’s capability growth is speeding up because of AI helping build the next models, with direct loss-of-control risk implications.</p>]]></description>
+      <enclosure url="https://metr.org/assets/images/ai-rd-acceleration-assessment/aeci-main.png" type="image/png" length="0"/>
+      <guid isPermaLink="false">updatebot-breaking-2026-11-05-metr-anthropic-ai-rd-acceleration</guid>
+      <pubDate>Thu, 05 Nov 2026 20:36:27 GMT</pubDate>
+    </item>
+<item>
       <title>OpenAI introduces GPT-6 Cyber with Critical cyber rating and Daybreak Red access</title>
       <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
       <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
@@ -670,14 +685,6 @@
       <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
       <enclosure url="https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1792535657&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108369620-1790703036232-gettyimages-2297209357-20090101260929-99-803103.jpeg?v=1792535657&amp;w=1920&amp;h=1080" alt=""/><p><a href="https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html">CNBC reports</a> that OpenAI is raising up to $30 billion at a $1.25 trillion pre-money valuation, with investors from the UAE leading alongside Coatue. People familiar with the deal say it's pitched as an "opportunistic" bridge before an IPO, and OpenAI told investors it wants signatures by the end of next week. OpenAI declined to comment and terms could still change.</p><ul><li>OpenAI is also reportedly negotiating a deal for more computing capacity from the UAE. Its last raise in March valued it at $852 billion, and it filed confidentially for an IPO in June (<a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">TechCrunch</a>).</li><li>A month ago Bloomberg reported a $30 billion raise at about $1.4 trillion, so the price has come down a bit.</li></ul><p>Why it matters: it would be the highest valuation ever for a private company, and it sets the bar for both OpenAI's own IPO and Anthropic's, which is reportedly seeking $1.5 to $2 trillion.</p>]]></description>
-    </item>
-<item>
-      <title>DeepSeek raises about $15 billion from Tencent, CATL and other Chinese backers</title>
-      <link>https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-22-deepseek-15b-funding-round</guid>
-      <pubDate>Thu, 22 Oct 2026 17:06:19 -0700</pubDate>
-      <enclosure url="https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920&amp;format=jpeg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&amp;width=920&amp;format=jpeg" alt=""/><p><a href="https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs">Bloomberg</a> first reported, and <a href="https://www.devdiscourse.com/article/international/3996376-deepseek-wrapping-up-15-billion-fundraising-to-fuel-ai-race-sources-say">Reuters</a> followed, that DeepSeek has raised about 100 billion yuan (roughly $15 billion) at a pre-money valuation of about 500 billion yuan. That's double its original 50 billion yuan target. DeepSeek hasn't commented, and Reuters' sources say the details could still change before it closes in the coming days.</p><ul><li>Existing shareholders CATL and Tencent are among the biggest investors. Reuters says more than 15 investors joined, including GigaDevice, Meituan, Geely, Midea, NetEase, Boyu Capital and IDG Capital.</li><li>Combined with its first round, which closed in June, DeepSeek has raised about 150 billion yuan in under six months and is preparing for an IPO on Shanghai's STAR Market (<a href="https://www.thestandard.com.hk/finance/article/345350/DeepSeek-doubles-funding-round-to-100bn-yuan-as-valuation-holds-steady">The Standard</a>).</li></ul><p>Why it matters: it's China's biggest private financing of the year and gives its leading open-weight lab real capital, much of it from chip and supply-chain companies, just days after the US banned DeepSeek from federal civilian systems.</p>]]></description>
     </item>
 </channel>
 </rss>
