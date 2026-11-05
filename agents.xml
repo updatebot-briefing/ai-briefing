@@ -9,6 +9,14 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Thu, 05 Nov 2026 01:14:09 GMT</lastBuildDate>
     <item>
+<title>Meta rolls out Muse Realtime Avatar in the US, so you can video-chat with your Muse as a live, animated avatar</title>
+<link>https://x.com/AIatMeta/status/2118412135340572850</link>
+<guid isPermaLink="false">updatebot-breaking-2026-11-05-muse-realtime-avatar-us</guid>
+<pubDate>Thu, 05 Nov 2026 18:38:14 GMT</pubDate>
+<enclosure url="https://lookaside.fbsbx.com/elementpath/media/?media_id=2462019687653837&amp;version=1790206154" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://lookaside.fbsbx.com/elementpath/media/?media_id=2462019687653837&version=1790206154" alt="Muse Realtime Avatar"/><p>Meta is rolling out Muse Realtime Avatar in the Muse app in the US starting today, <a href="https://x.com/AIatMeta/status/2118412135340572850">AI at Meta announced on X</a>. The feature, first previewed at Connect, turns Muse Realtime Voice conversations into expressive, interactive avatars with synchronized lip movement, facial expressions and gestures.</p><p>According to <a href="https://research.meta.ai/blog/bringing-your-muse-to-life">Meta's research blog</a>, the model streams 448x768 video at 25 frames per second with roughly 870 ms of latency, and generated video carries an invisible Video Seal watermark. Live video chats are for users 18 and older, and there's no developer API.</p>]]></description>
+</item>
+<item>
 <title>OpenAI starts a Nov 4–18 Enterprise dots admin preview; billing for enabled dots begins Nov 18</title>
 <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
 <guid isPermaLink="false">updatebot-agents-2026-11-04-dots-enterprise-admin-preview</guid>
@@ -531,16 +539,6 @@
 <enclosure url="https://status.openai.com/og-image.png" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://status.openai.com/og-image.png" alt="OpenAI dots had about two hours of failed messages Thursday,"/>
 <p>The <a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a> logged a "Degraded Performance of Dots on Enterprise" incident on Oct 22. Starting at 11:51am PT, users saw failures sending messages to their dots.</p><p>OpenAI identified the issue at 11:59am PT and said most of the impact was on Enterprise customers. It was marked resolved at 1:55pm PT, with all affected services fully recovered.</p>]]></description>
-</item>
-<item>
-<title>Grok Bot can now use Calendar, Reminders, Contacts, and other apps on your phone</title>
-<link>https://x.com/bot/status/2113393684209176718</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-22-grok-bot-phone-apps</guid>
-<pubDate>Thu, 22 Oct 2026 22:38:42 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/media/HVRHn--W4AAI_uQ.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/media/HVRHn--W4AAI_uQ.jpg" alt="Grok Bot phone apps"/>
-<p>Grok Bot can now work with Calendar, Reminders, Contacts, and more apps on your phone. The <a href="https://x.com/bot/status/2113393684209176718">official Grok Bot announcement</a>, posted at 3:14pm PT, says it's rolling out now on both iOS and Android.</p>
-<p>This lands on the same day as the 1Password sign-in integration, and it pushes the Bot further into everyday personal tasks on the device you already carry.</p>]]></description>
 </item>
 </channel>
 </rss>
