@@ -7,38 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 01:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:14:09 GMT</lastBuildDate>
     <item>
-<title>Nous unifies Hermes plugins, connectors, and skills in a single Hermes Marketplace</title>
-<link>https://hermes-agent.nousresearch.com/marketplace</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-hermes-marketplace</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" alt="Hermes Marketplace"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2118058453415371119">announced on Nov 4</a> (11:11am PT) that plugins, connectors, and skills for Hermes Agent are now unified in one <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a>, so you can browse and extend Hermes in a few clicks.</p>
-<p>The marketplace page describes browsing skills and plugins plus hosted connectors for the apps you already use. The post passed about 72,000 views within hours.</p>]]></description>
-</item>
-<item>
-<title>Nous opens a 7-day Hermes Agent Plugin Hackathon with $20,000 in cash prizes</title>
-<link>https://x.com/NousResearch/status/2118094256438936062</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-hermes-plugin-hackathon</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2118093752044552192/img/TefRcJ92h909qVMn.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2118093752044552192/img/TefRcJ92h909qVMn.jpg" alt="Hermes Agent Plugin Hackathon"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2118094256438936062">launched a Hermes Agent Plugin Hackathon</a> on Nov 4 (1:33pm PT), running 7 days with $20,000 in cash prizes plus neon signs, merch, and credits. Accepted entries will be listed in the new Hermes Marketplace.</p>
-<p>First place is $10,000; submissions are due 5pm EST on Nov 11 via a catalog pull request, a demo video tagging @NousResearch, and a <a href="https://form.typeform.com/to/FwJLvOln">Typeform</a>. Judges score usefulness, reliability, polish, and creativity, and favor plugins that do more than a prompt or skill could.</p>]]></description>
-</item>
-<item>
-<title>Dots iOS app update: inline notification replies, share-to-dot, and Action button shortcuts</title>
-<link>https://x.com/_samirism/status/2118103057980690771</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-dots-ios-app-improvements</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://pbs.twimg.com/media/HWT8nyYbUAAfPTk.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/media/HWT8nyYbUAAfPTk.jpg" alt="Dots iOS app updates"/>
-<p>OpenAI engineer samir (<a href="https://x.com/_samirism/status/2118103057980690771">@_samirism</a>) posted on Nov 4 (2:08pm PT) that the latest ChatGPT app release makes dots "significantly faster and more reliable," with iOS changes: reply to your dot inline from a notification, share anything directly to your dot, open your dot from the iPhone Action button, faster loading from notifications, and Gmail links that deeplink to the exact email in the Gmail app.</p>
-<p>Dots lead Tibo (<a href="https://x.com/thsottiaux/status/2118139067636568305">@thsottiaux</a>) replied that "Dots just got a massive set of improvements." There was no accompanying help-center or changelog entry.</p>]]></description>
-</item>
-<item>
 <title>OpenAI starts a Nov 4–18 Enterprise dots admin preview; billing for enabled dots begins Nov 18</title>
 <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
 <guid isPermaLink="false">updatebot-agents-2026-11-04-dots-enterprise-admin-preview</guid>
@@ -49,26 +19,6 @@
 <p>For Enterprise pricing, workspaces can pay through flat rates mapped to the type of work or scaled consumption. Dots are free to preview through November 18; billing begins November 18 for all enabled dots. Work a dot delegates to ChatGPT Work or Codex is billed separately at standard rates. Permanent personal-plan dots allowances are still unpublished; extended limits continue "for now."</p>]]></description>
 </item>
 <item>
-<title>Nous unifies Hermes plugins, connectors, and skills in a single Hermes Marketplace</title>
-<link>https://hermes-agent.nousresearch.com/marketplace</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-hermes-marketplace</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" alt="Hermes Marketplace"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2118058453415371119">announced on Nov 4</a> (11:11am PT) that plugins, connectors, and skills for Hermes Agent are now unified in one <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a>, so you can browse and extend Hermes in a few clicks.</p>
-<p>The marketplace page describes browsing skills and plugins plus hosted connectors for the apps you already use. The post passed about 72,000 views within hours.</p>]]></description>
-</item>
-<item>
-<title>Nous opens a 7-day Hermes Agent Plugin Hackathon with $20,000 in cash prizes</title>
-<link>https://x.com/NousResearch/status/2118094256438936062</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-hermes-plugin-hackathon</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2118093752044552192/img/TefRcJ92h909qVMn.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2118093752044552192/img/TefRcJ92h909qVMn.jpg" alt="Hermes Agent Plugin Hackathon"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2118094256438936062">launched a Hermes Agent Plugin Hackathon</a> on Nov 4 (1:33pm PT), running 7 days with $20,000 in cash prizes plus neon signs, merch, and credits. Accepted entries will be listed in the new Hermes Marketplace.</p>
-<p>First place is $10,000; submissions are due 5pm EST on Nov 11 via a catalog pull request, a demo video tagging @NousResearch, and a <a href="https://form.typeform.com/to/FwJLvOln">Typeform</a>. Judges score usefulness, reliability, polish, and creativity, and favor plugins that do more than a prompt or skill could.</p>]]></description>
-</item>
-<item>
 <title>Dots iOS app update: inline notification replies, share-to-dot, and Action button shortcuts</title>
 <link>https://x.com/_samirism/status/2118103057980690771</link>
 <guid isPermaLink="false">updatebot-agents-2026-11-04-dots-ios-app-improvements</guid>
@@ -77,16 +27,6 @@
 <description><![CDATA[<img src="https://pbs.twimg.com/media/HWT8nyYbUAAfPTk.jpg" alt="Dots iOS app updates"/>
 <p>OpenAI engineer samir (<a href="https://x.com/_samirism/status/2118103057980690771">@_samirism</a>) posted on Nov 4 (2:08pm PT) that the latest ChatGPT app release makes dots "significantly faster and more reliable," with iOS changes: reply to your dot inline from a notification, share anything directly to your dot, open your dot from the iPhone Action button, faster loading from notifications, and Gmail links that deeplink to the exact email in the Gmail app.</p>
 <p>Dots lead Tibo (<a href="https://x.com/thsottiaux/status/2118139067636568305">@thsottiaux</a>) replied that "Dots just got a massive set of improvements." There was no accompanying help-center or changelog entry.</p>]]></description>
-</item>
-<item>
-<title>Nous unifies Hermes plugins, connectors, and skills in a single Hermes Marketplace</title>
-<link>https://hermes-agent.nousresearch.com/marketplace</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-hermes-marketplace</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" alt="Hermes Marketplace"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2118058453415371119">announced on Nov 4</a> (11:11am PT) that plugins, connectors, and skills for Hermes Agent are now unified in one <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a>, so you can browse and extend Hermes in a few clicks.</p>
-<p>The marketplace page describes browsing skills and plugins plus hosted connectors for the apps you already use. The post passed about 72,000 views within hours.</p>]]></description>
 </item>
 <item>
 <title>Nous opens a 7-day Hermes Agent Plugin Hackathon with $20,000 in cash prizes</title>
@@ -184,7 +124,7 @@
       <enclosure url="https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&w=1920&h=1080" alt=""/><p>Amazon CEO Andy Jassy told analysts on the Q3 earnings call that few customers shop through outside AI agents yet because "the experience is still not great," and that Amazon's own <a href="https://thenextweb.com/news/alexa-for-shopping-jassy-ai-shopping-agents-meta-muse">Alexa for Shopping</a> will be "the primary shopping agent customers use to shop Amazon." He didn't name Muse, which Amazon has blocked since September.</p><p>Amazon says more than 400 million customers used Alexa for Shopping in the past year and that US users spend 50% more per order. Meta, meanwhile, says shopping is the top use of Muse, with Shopify, Walmart and Best Buy signed on as partners.</p><p>A <a href="https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html">CNBC analysis on Nov 1</a> cites an audit of 51 large US retailers that found only five, including Amazon, explicitly restrict AI agents, while 37 block them mostly by accident through old anti-scraper rules.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>DeepSeek open-sources dsh-superagent, a research prototype of an always-on agent that takes work from GitHub and chat</title>
       <link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
       <guid isPermaLink="false">updatebot-agents-2026-11-01-deepseek-dsh-superagent</guid>
@@ -192,7 +132,7 @@
       <enclosure url="https://opengraph.githubassets.com/9ae660a42d6d9c96488d65e47216194140bc40f535cd09b1a45a757322382d3e/deepseek-ai/dsh-superagent-prototype" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://opengraph.githubassets.com/9ae660a42d6d9c96488d65e47216194140bc40f535cd09b1a45a757322382d3e/deepseek-ai/dsh-superagent-prototype" alt=""/><p>DeepSeek's Harness team published <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">dsh-superagent</a> on GitHub on Oct 31 under the MIT license. It is a proactive coding agent for one repository that listens to GitHub and, optionally, Feishu, opens a work item when an allowed person asks, works in its own session and directory, and replies with results such as a pull request. A web panel shows what needs a person.</p><p>The README says it is a research prototype, "not an official DeepSeek product," and not the same as DeepSeek's internal version. It runs on your own machine through DeepSeek Harness and needs a dedicated GitHub account for the agent, per its <a href="https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/006-deployment.md">deployment guide</a>.</p><p>Posts on X are pitching it as an open-source challenger to Grok Bot, Muse, dots and Claude Duet, but for now it is a team coding agent, not a consumer personal agent. It passed about 4,100 stars within a day.</p>]]></description>
     </item>
-    <item>
+<item>
 <title>Musk says Grok Bot cost "unsustainably high" relative to revenue, signaling usage limits were tightened on purpose</title>
 <link>https://x.com/elonmusk/status/2116992258520064397</link>
 <guid isPermaLink="false">updatebot-breaking-2026-11-01-grok-bot-usage-cost-musk</guid>
@@ -212,7 +152,7 @@
       <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263">SpaceXAI status page</a> logged a "Multiple services degraded" incident that hit Grok Bot, Cloud Agents, Automations and cursor.com from 11:04pm to 11:47pm PT on Friday, Oct 30.</p>
 <p>It was rated a minor disruption and is now resolved. The status page posted only "investigating" and "resolved" updates, with no cause given.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Grok Bot engineer Lauren (poteto) shares her bot-building guide and her "dr eggbot" bot designer</title>
       <link>https://x.com/poteto/status/2116576229319233596</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-31-grok-bot-poteto-team-guide</guid>
@@ -228,7 +168,7 @@
 </ul>
 <p>Later she <a href="https://x.com/poteto/status/2116662792631746861">teased something "really fun"</a> coming "some time tomorrow," quoting her Oct 28 post about buying a new domain. She didn't say what it is.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Muse now shows up in the iPhone Share sheet, so you can send photos, links and files straight to your chat</title>
       <link>https://x.com/Muse/status/2116259784491974948</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-31-muse-ios-share-sheet</guid>
@@ -237,7 +177,7 @@
       <description><![CDATA[<img src="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" alt=""/><p>The official Muse account <a href="https://x.com/Muse/status/2116259784491974948">announced on Friday</a> that you can tap Share in any iOS app to send photos, links and files directly into your Muse chat.</p>
 <p>This lets you hand your agent material from Safari, Photos or Files without copying and pasting. The post only mentions iOS, and there was no word on Android.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Alexandr Wang nods to Muse's real-time voice mode, which has been quietly reaching users since Oct 24</title>
       <link>https://x.com/alexandr_wang/status/2116653318265291253</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-31-muse-voice-wang</guid>
@@ -246,7 +186,7 @@
 <p>Meta showed live voice conversations with Muse at Connect on Sept 23, with Muse working in the background while you talk. <a href="https://www.allthingsmuse.com/articles/muse-voice-conversations-rollout/">All Things Muse</a>, citing TestingCatalog and user reports, says the feature started appearing for some users on Oct 24, with a "Give your Muse a voice" setup screen.</p>
 <p>Meta still hasn't formally announced the rollout or said who is eligible. Wang's post is the closest thing to an official nod so far.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>OpenAI's dots help page now says you can create a dot from the ChatGPT mobile app</title>
       <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-31-dots-mobile-setup</guid>
@@ -256,7 +196,7 @@
 <p>At launch, the <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">release notes</a> said dots had to be created on desktop, and the mobile app was only for talking to one afterward. The article also says the desktop app now works on Windows, and that dots still don't work on mobile web.</p>
 <p>OpenAI hasn't posted a release note about mobile setup, so this change is only in the help center.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>OpenAI confirms ChatGPT and Codex will share one token-based usage allowance starting in December</title>
       <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-31-openai-shared-usage-december</guid>
@@ -270,7 +210,7 @@
 </ul>
 <p>The article doesn't mention dots. But according to the <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">dots help page</a>, Codex and Work tasks a dot starts already count toward your plan limits. OpenAI still hasn't published permanent usage terms for dots themselves.</p>]]></description>
     </item>
-    <item>
+<item>
 <title>Nous opens the Hermes Agent mobile app beta to everyone on iPhone and Android</title>
 <link>https://hermes-agent.nousresearch.com/mobile</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-31-hermes-mobile-open-beta</guid>
@@ -286,7 +226,7 @@
       <description><![CDATA[<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured.webp" alt=""/><p>NVIDIA's <a href="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/">Oct 30 technical blog post</a> says its open-source NemoClaw blueprints currently support three agent harnesses: OpenClaw, Hermes Agent from Nous Research, and LangChain Deep Agents. A blueprint wraps the agent with Nemotron open models, NeMo optimization tools, and NVIDIA's OpenShell runtime, which controls what the agent can touch in files, networks, credentials, and tools.</p>
 <p>There's a dedicated <a href="https://build.nvidia.com/nvidia/nemoclaw-for-hermes-agent/architecture">NemoClaw for Hermes Agent blueprint page</a>, and the <a href="https://docs.nvidia.com/nemoclaw/user-guide/hermes/get-started/quickstart">Hermes quickstart</a> sets it up with one installer command (<code>NEMOCLAW_AGENT=hermes</code>) or <code>nemohermes onboard</code>. NVIDIA says it blocks outbound network access by default and runs locally, in the cloud, on DGX Spark, or on RTX PCs.</p>]]></description>
     </item>
-    <item>
+<item>
       <title><![CDATA[OpenAI dots had elevated search errors for about 1.5 hours on Friday afternoon]]></title>
       <link>https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-30-dots-search-errors</guid>
@@ -295,7 +235,7 @@
       <description><![CDATA[<img src="https://status.openai.com/og-image.png" alt=""/><p>OpenAI's status page <a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">logged elevated errors with search</a> in dots, ChatGPT Work, and some ChatGPT thinking experiences on Friday, Oct 30. OpenAI started investigating at 12:38pm PT and marked it resolved at 2:14pm PT.</p>
 <p>OpenAI rated it a minor incident and didn't give a cause.</p>]]></description>
     </item>
-    <item>
+<item>
       <title><![CDATA[Alexandr Wang calls a user’s Muse insurance switch "personal superintelligence"]]></title>
       <link>https://x.com/alexandr_wang/status/2116183696344830235</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-30-muse-wang-personal-superintelligence</guid>
@@ -305,14 +245,14 @@
 <p>He was quoting <a href="https://x.com/MistrDeplorable/status/2115495145437093938">a user, @MistrDeplorable</a>, who says Muse moved him from a $2,123 GEICO renewal to a $1,536 Progressive policy with better coverage, then phoned GEICO to cancel and merged him into the call when GEICO asked to speak with him. Those savings figures are the user's own claim and haven't been independently checked.</p>
 <p>Wang has been promoting user stories like this one since saying Muse "can make you $1,000." A separate viral story this week, about a user who says Muse filed a small-claims case that ended in a refund, is also circulating on X.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>OpenAI keeps extended dots limits for now, separate from your plan usage, as it doubles Pro and Business Premium limits</title>
       <link>https://x.com/thsottiaux/status/2115850175868727621</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-29-dots-extended-limits-continue</guid>
       <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
       <description><![CDATA[<p>OpenAI's Tibo Sottiaux <a href="https://x.com/thsottiaux/status/2115850175868727621">said on Thursday</a> that OpenAI will "continue offering extended limits for dots for now," and that dot usage will stay separate from your default ChatGPT usage. Dots launched with extended limits for the first month only, so the permanent per-plan dots terms people expected around today still haven't been published.</p><p>In the same post, OpenAI doubled all usage limits for the Pro 100, 200 and 500 tiers and Business Premium, effective immediately, and dropped the planned cut to Pro 200's Work and Codex allowance. <a href="https://x.com/ajambrosino/status/2115855769665147254">Andrew Ambrosino</a> added that OpenAI started a sprint to make the app simpler and faster. <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/">BleepingComputer</a> notes OpenAI still gives no exact numbers per tier.</p><p>The <a href="https://help.openai.com/en/articles/20001530-getting-started-with-dots">dots help page</a> still says Pro access excludes the EEA, Switzerland and the UK, and that prices for extra dots or more speed are coming later.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>SpaceXSI launches Grok for Startups: one credit balance across Grok, Grok Build, Grok Bot and the Grok API</title>
       <link>https://x.ai/startups</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-for-startups</guid>
@@ -320,14 +260,14 @@
       <enclosure url="https://x.ai/api/og?slug=/startups" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://x.ai/api/og?slug=/startups" alt=""/><p>SpaceXSI has a new <a href="https://x.ai/startups">Grok for Startups</a> program. It gives startups credits that work across Grok, Grok Build, Grok Bot and the Grok API from one balance, plus hands-on onboarding.</p><ul><li>Credits are sized to your stage, and SpaceXSI says it aims for "six to twelve months of real usage." No dollar amount is published.</li><li>You get 20% when you're approved, and the other 80% is released once you're up and running.</li><li>To qualify you need venture backing, a live product, and a company email that matches your website. You <a href="https://x.ai/startups/apply">apply here</a> with an xAI team ID.</li></ul><p>The page went up around Oct 25, and posts about it spread widely on X on Thursday.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Similarweb: Grok Bot daily users grew 16 days in a row, and Musk points out it has no free tier</title>
       <link>https://x.com/Similarweb/status/2115724259691471150</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-similarweb-dau-streak</guid>
       <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
       <description><![CDATA[<p><a href="https://x.com/Similarweb/status/2115724259691471150">Similarweb posted</a> that as of October 26, Grok Bot's daily active users had grown for 16 days in a row, its longest growth streak so far.</p><p>Elon Musk <a href="https://x.com/elonmusk/status/2115921600658735169">quoted a post</a> about the chart and added that Grok Bot "has no free tier." That post, from <a href="https://x.com/XFreeze/status/2115779686697697557">@XFreeze</a>, reads the chart as going from under 100,000 daily users in early September to over 600,000 by October 26. That figure is a fan's reading of the chart, not a number Similarweb or SpaceXSI stated.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Grok Bot's Auto-review is degraded Thursday afternoon, according to the status page</title>
       <link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-auto-review-degraded</guid>
@@ -335,7 +275,7 @@
       <enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">status page</a> opened a minor incident, "Auto Review Degradation," at 4:44pm PT on Thursday. It marks the Grok Bot component as degraded and says the team is investigating.</p><p>A separate minor "Cloud Agent Degradation" incident opened at 4:29pm PT affects Cloud Agents, Automations and the IDE, not Grok Bot. As of about 5:15pm PT, both were still under investigation and neither had a fix posted.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Globe and Mail: Canada's big banks block AI agents like Muse, which is still Canada's most popular app</title>
       <link>https://www.theglobeandmail.com/business/article-ai-personal-assistants-meta-muse-openai-customer-access-security/</link>
       <guid isPermaLink="false">updatebot-agents-2026-10-29-muse-canada-banks-block-agents</guid>
@@ -343,7 +283,7 @@
       <enclosure url="https://www.theglobeandmail.com/resizer/v2/FDGQPP7KWNEPRH2SJWNQOFDIOM.JPG?auth=8240710b4a2075d5e9fbac5fc2d8652e5ba786df4900524b915d5bd34c6c76a0&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://www.theglobeandmail.com/resizer/v2/FDGQPP7KWNEPRH2SJWNQOFDIOM.JPG?auth=8240710b4a2075d5e9fbac5fc2d8652e5ba786df4900524b915d5bd34c6c76a0&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt=""/><p><a href="https://www.theglobeandmail.com/business/article-ai-personal-assistants-meta-muse-openai-customer-access-security/">The Globe and Mail reports</a> that a month after launch, Meta's Muse is still the most popular app in Canada. Businesses are now deciding how much access to give it and other agents.</p><ul><li>Royal Bank of Canada said this week it is blocking third-party agents from its digital properties, including online banking. Bank of Montreal and TD have also blocked them.</li><li>Scotiabank is limiting agents, and CIBC says it doesn't support agents opening or accessing accounts. Wealthsimple and Neo are more open to them.</li><li>Shopify has integrated with Muse so people can buy from Shopify stores through it. The paper's own test purchase took 30 minutes and failed several times before it worked.</li></ul>]]></description>
     </item>
-    <item>
+<item>
 <title>Grok Bot 0.78.1 adds shopping cards with order tracking, and templates that cancel trials and unused subscriptions</title>
 <link>https://x.ai/changelog/bot</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-28-grok-bot-v0-78-1</guid>
@@ -466,7 +406,7 @@
 <enclosure url="https://www.allthingsmuse.com/cover-muse-subscriptions-not-ads-nikkei.webp" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://www.allthingsmuse.com/cover-muse-subscriptions-not-ads-nikkei.webp" alt=""/><p>Meta AI chief Alexandr Wang told Nikkei Asia, in an interview published Oct 24 Japan time, that Muse will stay free of advertising as it rolls out internationally, with subscriptions paying for it instead. That's according to <a href="https://www.allthingsmuse.com/articles/muse-subscriptions-not-ads-nikkei/">All Things Muse's write-up</a>, which relies on a secondary account of the interview, so treat the exact wording as reported rather than confirmed.</p><p>The model carries over from the US: a free tier with usage limits, plus a $20/month Power plan and a $100/month Maximum plan. Japan prices still haven't been announced since Muse <a href="https://www.metaversewatcher.io/meta-muse-ai-agent-japan-launch/">launched there on Oct 23</a>.</p>]]></description>
 </item>
-    <item>
+<item>
 <title>Meta is building avatar sharing for Muse, spotted in the web app but not live yet</title>
 <link>https://www.testingcatalog.com/meta-is-working-on-avatar-sharing-for-muse-assistant/</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-25-muse-avatar-sharing</guid>
@@ -474,7 +414,7 @@
 <enclosure url="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Chat-----Minty-10-25-2026_12_49_AM.jpg" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Chat-----Minty-10-25-2026_12_49_AM.jpg" alt=""/><p><a href="https://www.testingcatalog.com/meta-is-working-on-avatar-sharing-for-muse-assistant/">TestingCatalog found</a> an unreleased Share option next to Muse's avatar editor on the web. It opens a pop-up with your animated avatar, social sharing buttons, a copyable link, and previews of four avatar states, including a working mode.</p><p>This is unconfirmed by Meta and has no release date. It could open the door to community avatar galleries, since Muse treats the avatar as central to the agent's identity.</p>]]></description>
 </item>
-    <item>
+<item>
 <title>Similarweb: Muse skews younger than Grok Bot, and Alexandr Wang calls Grok Bot users boomers</title>
 <link>https://x.com/alexandr_wang/status/2114426913842491692</link>
 <guid isPermaLink="false">updatebot-agents-2026-10-25-muse-grok-bot-age-split</guid>
@@ -482,7 +422,7 @@
 <enclosure url="https://pbs.twimg.com/media/HVd1tPEWYAAeI1G.png" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://pbs.twimg.com/media/HVd1tPEWYAAeI1G.png" alt=""/><p><a href="https://x.com/Similarweb/status/2114288790198276495">Similarweb posted</a> an age breakdown showing Muse is much stronger with users aged 18 to 34, while Grok Bot leads by almost 10 points among 35 to 44 year olds.</p><p>Meta AI chief Alexandr Wang <a href="https://x.com/alexandr_wang/status/2114426913842491692">quoted it on Sunday</a> with "muse gang, say hi to the boomers on grok bot," drawing over 120,000 views. It's the latest in his running jabs at rival agents, after Saturday's back-and-forth with OpenAI's dots lead.</p>]]></description>
 </item>
-    <item>
+<item>
 <title>Elon Musk says Grok Bot can now phone people and businesses for you, as Grok Bot 0.77 rolls out</title>
 <link>https://x.com/elonmusk/status/2114365361068138990</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-25-grok-bot-phone-calls</guid>
@@ -592,7 +532,7 @@
 <description><![CDATA[<img src="https://status.openai.com/og-image.png" alt="OpenAI dots had about two hours of failed messages Thursday,"/>
 <p>The <a href="https://status.openai.com/incidents/01M5JF8DR3EGQJNTXPZ24AKX2G">OpenAI status page</a> logged a "Degraded Performance of Dots on Enterprise" incident on Oct 22. Starting at 11:51am PT, users saw failures sending messages to their dots.</p><p>OpenAI identified the issue at 11:59am PT and said most of the impact was on Enterprise customers. It was marked resolved at 1:55pm PT, with all affected services fully recovered.</p>]]></description>
 </item>
-    <item>
+<item>
 <title>Grok Bot can now use Calendar, Reminders, Contacts, and other apps on your phone</title>
 <link>https://x.com/bot/status/2113393684209176718</link>
 <guid isPermaLink="false">updatebot-breaking-2026-10-22-grok-bot-phone-apps</guid>
