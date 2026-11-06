@@ -8,7 +8,33 @@
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Thu, 05 Nov 2026 21:38:30 GMT</lastBuildDate>
-        <item>
+<item>
+    <title>Meta launches Muse Spaces so you can design custom experiences inside the Muse app</title>
+    <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
+    <guid isPermaLink="false">updatebot-breaking-2026-11-06-muse-spaces</guid>
+    <pubDate>Fri, 06 Nov 2026 18:29:55 +0000</pubDate>
+    <enclosure url="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png?w=1200" type="image/png" length="0"/>
+    <description><![CDATA[
+<img src="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png?w=1200" alt="" />
+<p>Meta today introduced <a href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/">spaces</a> in Muse: custom experiences you create by describing an idea, such as a gift tracker, school dashboard, trip planner, or small-business order tracker.</p>
+<p>You can put spaces in the sidebar or main tabs, hide or schedule them, and keep editing with Muse after the first build. Connected apps can keep a space updated in the background.</p>
+<p>Spaces are available everywhere Muse is available starting today. Meta says it is also exploring sharing spaces with others.</p>
+]]></description>
+  </item>
+<item>
+    <title>Meta rolls Active Memory and Active Focus into Muse via Muse Wonder–trained specialized models</title>
+    <link>https://research.meta.ai/blog/specialized-models-for-muse-and-metaai</link>
+    <guid isPermaLink="false">updatebot-breaking-2026-11-06-muse-active-memory-focus</guid>
+    <pubDate>Fri, 06 Nov 2026 18:29:55 +0000</pubDate>
+    <enclosure url="https://research.meta.ai/articles/powering-a-more-intelligent-capable-muse/images/social-v2.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[
+<img src="https://research.meta.ai/articles/powering-a-more-intelligent-capable-muse/images/social-v2.jpg" alt="" />
+<p>Meta is rolling out specialized versions of its Muse and Meta AI models trained with <a href="https://research.meta.ai/blog/muse-wonder">Muse Wonder</a>, bringing Active Memory and Active Focus to everyone on those products (<a href="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai">research blog</a>).</p>
+<p>Active Memory is meant to keep critical context across conversations; Meta says the new Muse models are 2.4× less likely to forget information needed for goals, with critical-context use rising to 90% from 76% on its eval.</p>
+<p>Active Focus is meant to recover from blockers and keep working toward a goal; Meta reports a 67% improvement on everyday Muse tasks when unexpected issues arise. Mark Zuckerberg and AI at Meta also posted the rollout on X.</p>
+]]></description>
+  </item>
+<item>
 <title>Hermes Agent v0.23.0 (Hearth) ships browser Desktop workspace and one gateway for every conversation</title>
 <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.0</link>
 <guid isPermaLink="false">updatebot-breaking-2026-11-05-hermes-v0-23-0</guid>
@@ -522,22 +548,6 @@
 <enclosure url="https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" alt="SpaceXSI launches the Super Intelligence Partner Network, wi"/>
 <p>SpaceXSI <a href="https://x.ai/news/partnernetworkannouncement">announced the SpaceX Super Intelligence Partner Network</a> on Oct 22, its official program for companies building products and services with Grok.</p><p>It has two tracks: Transformation Partners, who help enterprises deploy the Grok platform, and Marketplace Partners, who build the plugins and integrations that connect the Grok product suite, including Grok Bot, to tools customers already use. More than 130 companies took part in early access, and engineers at over 30 organizations have gone through a Forward Deployed Engineer accreditation program.</p><p>Launch partners quoted in the post include Bain, Databricks, NVIDIA, and Snowflake.</p>]]></description>
-</item>
-<item>
-<title>Hermes Agent gets an official Meshy plugin for making 3D models, plus a $1 Meshy Pro month for Hermes users</title>
-<link>https://x.com/NousResearch/status/2113077994315034967</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-22-hermes-meshy-plugin</guid>
-<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
-<description><![CDATA[<p>Nous Research <a href="https://x.com/NousResearch/status/2113077994315034967">announced an official Meshy plugin</a> for Hermes Agent on the evening of Oct 21 PT. You can ask Hermes for things like a game-ready treasure chest or a printable model from a photo of a mug, and it does the work through Meshy's MCP server. In Hermes Desktop the models render right in chat.</p><p>On Oct 22, Nous <a href="https://x.com/NousResearch/status/2113375941431009526">posted that Meshy is offering Hermes users a month of Pro for $1</a>, including API access and 1,000 credits. Teknium <a href="https://x.com/Teknium/status/2113376247221022731">said Meshy provided the coupons</a> when the plugin launched.</p>]]></description>
-</item>
-<item>
-<title>Hermes Agent can now share a computer with your team through the Cua Spaces plugin</title>
-<link>https://x.com/NousResearch/status/2113391397760041329</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-22-hermes-cua-spaces-plugin</guid>
-<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/card_img/2112631837193625601/AoM31i4u?format=webp&amp;name=medium" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/card_img/2112631837193625601/AoM31i4u?format=webp&amp;name=medium" alt="Hermes Agent can now share a computer with your team through"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2113391397760041329">announced on Oct 22</a> that a new Spaces plugin from Cua gives Hermes Agent its own Linux, macOS, or Windows computer running on hardware you already own.</p><p>Anyone on your team can open that Space, watch Hermes work live, step in to take over, and hand it back while Hermes keeps going. It moves Hermes closer to the "agent with its own computer" setup that Grok Bot, Dots, and Muse offer, but on your own machines.</p>]]></description>
 </item>
 </channel>
 </rss>
