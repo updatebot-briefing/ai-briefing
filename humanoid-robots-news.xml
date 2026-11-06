@@ -6,8 +6,60 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:20:00 -0800</lastBuildDate>
     <item>
+      <title>Agility Robotics begins trading on Nasdaq as AGLT, first U.S. pure-play public humanoid company</title>
+      <link>https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-05-agility-nasdaq-aglt-debut</guid>
+      <pubDate>Thu, 05 Nov 2026 17:20:00 -0800</pubDate>
+      <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6aec6faf77fbae9b23a165ea_Press-Release_051126.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6aec6faf77fbae9b23a165ea_Press-Release_051126.jpg" alt=""/></p>
+<p>Agility Robotics said its common stock and warrants began trading today on Nasdaq under <strong>AGLT</strong> and <strong>AGLTW</strong>, after completing its SPAC merger with Churchill Capital Corp XI on Nov 4. The company calls itself the first U.S. publicly listed pure-play humanoid robotics firm with active commercial deployments.</p>
+<ul><li>Business combination and related financings provided about <strong>$465 million</strong> in gross capital before expenses.</li>
+<li>Agility cites more than <strong>65,000 hours</strong> of Digit operation in real facilities and more than <strong>$300 million</strong> in committed multi-year orders for Digit 5 (subject to milestones and specs).</li>
+<li>Independent coverage from <a href="https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/">The Robot Report</a> said shares opened above the $10 SPAC reference price.</li></ul>
+<p>Source: <a href="https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt">Agility Robotics press release</a>. Also: <a href="https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/">The Robot Report</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Apple researchers’ HALO system: Unitree G1 trained only in sim hits 91% on real-home skills (preprint claim)</title>
+      <link>https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-05-apple-halo-unitree-g1</guid>
+      <pubDate>Thu, 05 Nov 2026 17:20:00 -0800</pubDate>
+      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/apple-halo-unitree-g1-skills-grid-Hhg5DTgQoz93PPJkx3978VktLKs6p7.webp" alt=""/></p>
+<p>Apple-affiliated researchers posted <em>Perceptive Humanoid Motion from Simulation</em> (arXiv:2611.06908) introducing <strong>HALO</strong> — Humanoid Autonomy, Learned in simulation, running Onboard — for a modified Unitree G1. Motion data came from about 300 hours of synthetic trajectories in 1,000 procedurally generated homes; the authors say there was no teleoperation training data.</p>
+<ul><li><strong>Author-reported result (unconfirmed independently):</strong> 91% success across 360 single-skill real-world trials in six unmapped environments (sit, go-to-object, door sidestep, crouch/crawl, push box).</li>
+<li>Chained multi-step tasks scored lower (about 70% average on three sequences in one real room).</li>
+<li>Hardware runs untethered with a head camera and rear Mac mini; code for data generation, training and deployment is public.</li></ul>
+<p>Source: <a href="https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1">Humanoids Daily</a>. Paper: <a href="https://arxiv.org/abs/2611.06908">arXiv:2611.06908</a>. Project: <a href="https://apple-aiml-research.github.io/ml-halo/">Apple ML HALO page</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Unitree CEO says GPT-6-powered humanoids can paint and play chess with zero task training (CIIE remarks)</title>
+      <link>https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-05-unitree-gpt6-paint-chess-ciie</guid>
+      <pubDate>Thu, 05 Nov 2026 17:20:00 -0800</pubDate>
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/05/d4e61661-5ffe-4fc6-8dab-149f07f4c1f3_9da332b3.jpg?itok=zttvy0P8&amp;v=1793876255" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/05/d4e61661-5ffe-4fc6-8dab-149f07f4c1f3_9da332b3.jpg?itok=zttvy0P8&amp;v=1793876255" alt=""/></p>
+<p>At China’s Import Expo in Shanghai on Nov 5, Unitree founder Wang Xingxing said the company’s humanoids, powered by OpenAI’s GPT-6, can paint and play chess without prior task-specific training, including steps like changing brush water and blending pigments from live model inference.</p>
+<ul><li><strong>Unconfirmed company claim:</strong> remarks come from the CEO at a trade fair, not from a published benchmark or independent scorecard; no attempt counts or success rates were reported by SCMP.</li>
+<li>Wang framed the remaining industry bottleneck as a “last-millimetre” mechanical gap rather than digital planning.</li>
+<li>Separate coverage notes Unitree’s public skill demos still rely on calibrated motion tooling and (for chess) a specialist engine, so “zero training” should be read carefully.</li></ul>
+<p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo">South China Morning Post</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Speedbot unveils Weldroid-W1 bipedal humanoid welder, aims for shipyard trials this year</title>
+      <link>https://servospace.io/news/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-05-speedbot-weldroid-w1</guid>
+      <pubDate>Thu, 05 Nov 2026 17:20:00 -0800</pubDate>
+      <enclosure url="https://servospace.io/news-media/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard/photo.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://servospace.io/news-media/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard/photo.webp" alt=""/></p>
+<p>Changsha-based Speedbot unveiled the <strong>Weldroid-W1</strong> on Nov 4, a full-size two-legged humanoid aimed at welding work, and said it plans shipyard welding trials before year-end.</p>
+<ul><li>Listed specs: about 170 cm / 60 kg, 27 degrees of freedom, 10 kg arm payload and 30 kg whole-body payload.</li>
+<li>Sensing stack includes stereo cameras and LiDAR in the head plus a handheld 3D structured-light scanner; the company says an onboard AI brain handles motion and navigation.</li>
+<li>Weld speed, inspection pass rates, runtime and price were not published with the unveil.</li></ul>
+<p>Source: <a href="https://servospace.io/news/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard">ServoSpace</a>.</p>]]></description>
+    </item>
+<item>
       <title>RoboColosseum opens 100+ real robots for free AI testing, and no policy finished a single Unitree G1 humanoid task in 625 trials</title>
       <link>https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-04-robocolosseum-g1-benchmark</guid>
@@ -20,7 +72,7 @@
 <li>Rollout videos of successes and failures are being shared openly on the Hugging Face Hub.</li></ul>
 <p>Source: <a href="https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1">Humanoids Daily</a>. Launch thread: <a href="https://x.com/RoboColosseum/status/2117982605274710483">@RoboColosseum on X</a>; Unitree's note: <a href="https://x.com/UnitreeRobotics/status/2117996574584574130">@UnitreeRobotics</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>JD.com launches a &quot;Physical AI Acceleration Plan&quot; focused on embodied robots, plans 10M hours of human video data in two years</title>
       <link>https://ai123.com/newshub/17231</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-04-jd-physical-ai-acceleration-plan</guid>
@@ -31,7 +83,7 @@
 <li>Cao repeated JD Logistics' target of buying 3 million robots, 1 million autonomous vehicles and 100,000 drones over five years (first announced in September).</li></ul>
 <p>Sources: <a href="https://ai123.com/newshub/17231">AI123</a>, <a href="https://finance.sina.cn/stock/jdts/2026-11-04/detail-inixqhkx8080298.d.html">IT Home via Sina (Chinese)</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Tesla shows its latest gold Optimus beside the production Cybercab at China's Import Expo, opening Nov 5</title>
       <link>https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-04-tesla-optimus-ciie-shanghai</guid>
@@ -44,7 +96,7 @@
 <li>No new Optimus specs, pricing or reservation dates were announced; Elon Musk recently denied a report that Optimus reservations open in December.</li></ul>
 <p>Sources: <a href="https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4">CyberCab.News</a>, <a href="https://english.shanghai.gov.cn/en-Latest-WhatsNew/20261030/b2dfcb0b6adc4285a8bc5f23bdc58f35.html">Shanghai government</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Korea's KIST shows KAPEX, a humanoid with over 90% locally made core parts, as LG builds a supply chain around it</title>
       <link>https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-04-kist-kapex-lg-local-parts</guid>
@@ -57,7 +109,7 @@
 <li>Field tests are expanding into homes and hospitals, though the team says long-duration autonomous work is still unsolved.</li></ul>
 <p>Source: <a href="https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts">Seoul Economic Daily</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Rainbow Robotics says it has sold nearly 200 RB-Y1 wheeled humanoids and plans RB-Y2 mass production by next summer</title>
       <link>https://www.ajupress.com/view/20261104160253637</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-04-rainbow-robotics-rby1-200-units</guid>
@@ -70,7 +122,7 @@
 <li>The show floor also featured Chinese Unitree G1 humanoids dancing and an RB-Y1 sorting flowers, which Rainbow admits still makes mistakes.</li></ul>
 <p>Source: <a href="https://www.ajupress.com/view/20261104160253637">Aju Press</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>South Korea opens its first AI Humanoid Data Factory, with 12 teleoperated humanoids recording training data</title>
       <link>https://www.ajupress.com/view/20261103143728182</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-03-korea-kimm-humanoid-data-factory</guid>
@@ -83,7 +135,7 @@
 <li>The factory is due to open to outside companies, universities and institutes in stages from late 2027.</li></ul>
 <p>Source: <a href="https://www.ajupress.com/view/20261103143728182">Aju Press</a></p>]]></description>
     </item>
-    <item>
+<item>
       <title>Carnegie Mellon unveils Pixel, an under-$15,000 wheeled humanoid and full learning stack it plans to open-source</title>
       <link>https://pixel-robot.com/pixel/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-03-cmu-pixel-15k-wheeled-humanoid</guid>
@@ -96,7 +148,7 @@
 <li>The project page says the system will be "Open Sourced Soon"; no public repo yet.</li></ul>
 <p>Read the <a href="https://arxiv.org/abs/2611.03648">paper on arXiv</a> or the <a href="https://pixel-robot.com/pixel/">project page</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Xiaomi says its humanoids worked an eight-hour shift sorting car parts at its EV factory</title>
       <link>https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-03-xiaomi-humanoids-eight-hour-factory-shift</guid>
@@ -107,7 +159,7 @@
 <p>Xiaomi says the robots detect and recover from errors on their own and coordinate with line systems. It hasn't disclosed throughput, error rates or how often humans stepped in, so treat the result as a company demo rather than an independent test.</p>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting">Humanoids Daily</a> and the <a href="https://x.com/XRoboHub/status/2117569754584240308">video on X</a></p>]]></description>
     </item>
-    <item>
+<item>
       <title>Hyundai Mobis starts building prototype actuators for Boston Dynamics' Atlas this month, aiming for supply in 2028</title>
       <link>https://theroboticsmedia.com/article/hyundai-mobis-atlas-actuator-prototypes-boston-dynamics</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-03-hyundai-mobis-atlas-actuator-prototypes</guid>
@@ -118,7 +170,7 @@
 <li>Reports that Mobis will supply all 31 Atlas actuators and build a 350,000-unit US plant are from Korean press and not confirmed by the company.</li></ul>
 <p>Sources: <a href="https://theroboticsmedia.com/article/hyundai-mobis-atlas-actuator-prototypes-boston-dynamics">The Robotics Media</a> and <a href="https://www.asiae.co.kr/en/article/2026103008380739119">The Asia Business Daily</a></p>]]></description>
     </item>
-    <item>
+<item>
       <title>Agility Robotics shareholders approve its SPAC merger; deal closes Nov 4 and AGLT starts trading on Nasdaq Nov 5</title>
       <link>https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-02-agility-shareholders-approve-spac-nasdaq-aglt</guid>
@@ -126,7 +178,7 @@
       <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" alt=""/></p><p>Churchill Capital Corp XI shareholders approved the business combination with Agility Robotics, the maker of the Digit humanoid. The deal is expected to close on November 4, 2026, and the combined company should begin trading on Nasdaq as <strong>AGLT</strong> (warrants AGLTW) on November 5.</p><ul><li>Expected gross capital is about $465M: roughly $164M from the trust account, about $201M from a $10/share PIPE led by Foxconn, and $100M already received.</li><li>Agility pitches itself as the only US-listed pure-play humanoid company with active commercial deployments, citing more than 65,000 hours of real-world Digit operation.</li><li>Separately, coverage notes a pipeline of more than 30 prospective customers and GXO adding Digit at two more US sites in early 2027.</li></ul><p>Sources: <a href="https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics">Agility press release</a>, <a href="https://roboticsandautomationnews.com/2026/11/02/agility-robotics-says-more-than-30-companies-considering-digit-humanoid-robot/106595/">Robotics &amp; Automation News</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Brett Adcock shows newly built Figure 03 humanoids walking out of the BotQ factory and across Figure's campus on their own</title>
       <link>https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-02-figure-03-robots-walk-out-of-botq</guid>
@@ -134,7 +186,7 @@
       <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" alt=""/></p><p>Figure CEO Brett Adcock posted a short clip on X of freshly manufactured Figure 03 robots leaving the BotQ factory and walking across the campus parking lot, past cars and people, toward another building. "Newly manufactured F.03 robots leaving BotQ and heading across campus," he wrote.</p><p>It is a demo of the fleet growing rather than a business update: the post gives no new production total or customer-delivery figures. Figure is also developing its next-generation Figure 04.</p><p>Sources: <a href="https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video">Humanoids Daily</a>, <a href="https://x.com/CyberRobooo/status/2117322850591969749">CyberRobo on X</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>AGIBOT livestreams six G2 robots running a convenience store for 24 hours straight</title>
       <link>https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-02-agibot-g2-24-hour-convenience-store-livestream</guid>
@@ -142,7 +194,7 @@
       <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" alt=""/></p><p>AGIBOT's "Robots Never Clock Out" challenge puts six G2 wheeled humanoids through a full convenience-store shift on a public livestream, from 10:00 a.m. Nov 2 to 10:00 a.m. Nov 3 China time (6:00 p.m. Nov 1 to 6:00 p.m. Nov 2 PT).</p><ul><li>Planned work covers the lunch and evening rushes, overnight duty and breakfast prep.</li><li>Tasks include stocking shelves, making coffee, preparing hot food, greeting customers and clearing rubbish.</li></ul><p>Caveat: the event length doesn't prove each robot worked continuously or fully autonomously. AGIBOT hasn't published an intervention policy or success scoring.</p><p>Source: <a href="https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream">Humanoids Daily</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Nearly 90 robot teams race up Mount Tai's 3,100 stone steps in China's first robot mountain-climbing challenge</title>
       <link>https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-02-mount-tai-robot-climbing-challenge</guid>
@@ -150,14 +202,14 @@
       <enclosure url="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" alt=""/></p><p>The CMG World Robot Mount Tai Challenge in Tai'an, Shandong, sent humanoid, quadruped and exoskeleton robots up a 3.9 km stretch of ancient trail with about 3,100 stone steps and 600 m of climb on November 2.</p><p>Legged robots dominated: according to X's news summary, a Unitree quadruped from Beijing Lingyi Technology won the legged speed race in 43 minutes 41 seconds, and robot dogs outpaced the humanoids. Some quadrupeds also carried supplies up the route.</p><p>Sources: <a href="https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge">Euronews</a>, <a href="https://x.com/i/trending/2117155779103113602">X news summary</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>ID Logistics and Terra Robotics team up to put humanoids into German warehouses, with a live pilot planned within six months</title>
       <link>https://theroboticsmedia.com/article/id-logistics-terra-robotics-humanoid-pilot-germany</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-02-id-logistics-terra-robotics-humanoid-pilot</guid>
       <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
       <description><![CDATA[<p>Contract logistics firm ID Logistics (450 sites worldwide, 17 in Germany) and Terra Robotics, a multi-brand integrator and Unitree distributor, formed a strategic partnership on November 1 to move humanoids from demos to real warehouse work.</p><ul><li>Two Unitree G1 EDU6 robots, nicknamed IDA and Heinz, already sort cardboard boxes from shipping bags using five-fingered tactile hands.</li><li>The partners will pick one of four or five candidate tasks and run a live pilot at an ID Logistics site within six months, possibly with a UBTECH or Unitree robot.</li><li>No financial terms or pilot site were disclosed.</li></ul><p>Sources: <a href="https://theroboticsmedia.com/article/id-logistics-terra-robotics-humanoid-pilot-germany">The Robotics Media</a>, <a href="https://www.logpr.de/wp-content/uploads/2026/11/PM_IDL_Terra_DE.pdf">ID Logistics press release (German PDF)</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>DEEP Robotics humanoids join traffic police at the Hangzhou Marathon</title>
       <link>https://www.globaltimes.cn/page/202611/1373413.shtml</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-01-deep-robotics-hangzhou-marathon-traffic</guid>
@@ -172,7 +224,7 @@
 </ul>
 <p>Sources: <a href="https://www.globaltimes.cn/page/202611/1373413.shtml">Global Times</a>, <a href="https://robotsbeat.com/hangzhou-marathon-2026-humanoid-traffic-robots-police/">RobotsBeat</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Foxconn says more than 10 humanoid robots are already working at its Texas sites, built on Nvidia GR00T</title>
       <link>https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-01-foxconn-texas-humanoids-gr00t</guid>
@@ -187,7 +239,7 @@
 </ul>
 <p>Sources: <a href="https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396">CNA (Reuters)</a>, <a href="https://humanoidbeat.com/news/foxconn-humanoid-robots-texas-deployment-gr00t.html">HumanoidBeat</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>UK gets its first home insurance policy for domestic humanoid robots (Adrian Flux and Tokio Marine HCC)</title>
       <link>https://www.insurancebusinessmag.com/uk/news/property-insurance/adrian-flux-and-tmhcc-launch-uk-home-cover-for-humanoid-robots-595551.aspx</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-01-uk-humanoid-home-insurance</guid>
@@ -202,7 +254,7 @@
 </ul>
 <p>Sources: <a href="https://www.insurancebusinessmag.com/uk/news/property-insurance/adrian-flux-and-tmhcc-launch-uk-home-cover-for-humanoid-robots-595551.aspx">Insurance Business</a>, <a href="https://www.tmhcc.com/en/news-and-articles/company-news/tokio-marine-hcc-international-and-adrian-flux-partner-to-launch-domestic-humanoid-robot-coverage">Tokio Marine HCC announcement</a>, <a href="https://www.insurancetimes.co.uk/news/tokio-marine-teams-up-with-broker-on-first-humanoid-robot-cover/1460129.article">Insurance Times</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Meta reportedly built a humanoid prototype called Max with China's Fourier in three months, and Max 2 is underway (report)</title>
       <link>https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-31-meta-fourier-max-humanoid-prototype</guid>
@@ -216,7 +268,7 @@
 </ul>
 <p>Coverage: <a href="https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max">The Robotics Media</a>, <a href="https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306">Investing.com</a>, <a href="https://aiweekly.co/alerts/meta-built-humanoid-prototype-max-with-fourier-in-three-months">AI Weekly</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Lightberry's Lumi becomes the first humanoid cleared by the US Department of War and exempted from the FCC's foreign-robot ban</title>
       <link>https://lightberry.com/press/dow-approval</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-31-lightberry-lumi-dow-approval-fcc-exemption</guid>
@@ -232,7 +284,7 @@
 </ul>
 <p>Sources: <a href="https://lightberry.com/press/dow-approval">Lightberry announcement</a>, <a href="https://humanoidbeat.com/news/lightberry-lumi-dow-conditional-approval-fcc-covered-list-exemption.html">HumanoidBeat</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Elon Musk says "No" to the report that Tesla will open Optimus reservations in December</title>
       <link>https://tsnmedia.org/tesla-optimus-reservations-report/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-31-musk-denies-december-optimus-reservations</guid>
@@ -243,7 +295,7 @@
 <p>Tesla hasn't announced any reservation window, price or delivery date. Musk's one-word reply addressed December ordering specifically, so it doesn't rule out a waitlist at some other time.</p>
 <p>More: <a href="https://tsnmedia.org/tesla-optimus-reservations-report/">TSN</a>, <a href="https://teslanewswire.com/articles/musk-says-no-optimus-orders-december-humanoids-summit-sf-standard-report-oct-31-2026">Tesla News Wire</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Agility Robotics now expects about $465M from its SPAC merger, below June's $620M target, with Nasdaq listing set for Nov 5</title>
       <link>https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-30-agility-465m-spac</guid>
@@ -259,7 +311,7 @@
 <p>Churchill XI shareholders vote on Nov 2. If approved, the deal is expected to close Nov 4 and the combined company would start trading on Nasdaq as <strong>AGLT</strong> on Nov 5, pitching itself as the first U.S.-listed pure-play humanoid maker with commercial deployments. Agility says it has more than $300 million in committed Digit 5 orders, with early-access deliveries in the first half of 2027.</p>
 <p>Sources: <a href="https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/">The Robot Report</a> and <a href="https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination">Agility's press release</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Tesla reportedly plans to open Optimus reservations in early December, timed to the Humanoids Summit (unconfirmed)</title>
       <link>https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-30-tesla-optimus-reservations-december</guid>
@@ -274,7 +326,7 @@
 </ul>
 <p>Source: <a href="https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/">The San Francisco Standard</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Beijing startup SynDexy delivers its first small batch of C1 humanoids for precision electronics assembly</title>
       <link>https://robottoday.com/industry-briefing/syndexy-completes-initial-delivery-of-c1-humanoids-for-electronics-assembly/17130</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-30-syndexy-c1-first-delivery</guid>
@@ -285,7 +337,7 @@
 <p>The company says the C1 hit over 98% success in key task tests. It plans to refine the robot and expand deployments in electronics plants but gave no further timeline. The figures are company-reported.</p>
 <p>Source: <a href="https://robottoday.com/industry-briefing/syndexy-completes-initial-delivery-of-c1-humanoids-for-electronics-assembly/17130">RobotToday</a>, citing PanDaily.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>AGIBOT unveils AHA3 humanoid platform and GO-3 Preview model, proposes "Worken" metric for real robot work</title>
       <link>https://www.prnewswire.com/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-29-agibot-innovation-day-aha3-go3-worken</guid>
@@ -301,7 +353,7 @@
 </ul>
 <p>The G2 Max industrial robot was also formally launched (it was first shown last week). More detail from <a href="https://www.humanoidsdaily.com/news/agibot-innovation-day-2026-worken-ai-models-g2-max">Humanoids Daily</a> and <a href="https://korthosrobotics.com/research/agibot-aha3-omnihand-link-u-os-robot-platform-2026">Korthos</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Paris startup Bleu Robotics raises a €5M pre-seed to teach factory humanoids new tasks from about ten demonstrations</title>
       <link>https://www.eu-startups.com/2026/10/french-startup-bleu-robotics-secures-e5-million-to-teach-humanoid-robots-new-tasks-with-fewer-demonstrations/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-29-bleu-robotics-5m-pre-seed</guid>
@@ -316,7 +368,7 @@
 </ul>
 <p>Initial deployments are underway with automotive manufacturers and paper maker WEPA. <a href="https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training">Sifted</a> has more on the approach.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Rokae delivers its 10,000th humanoid force-controlled arm; five Helios wheeled humanoids work at Schaeffler's Taicang plant</title>
       <link>https://theaiinsider.tech/2026/10/29/chinas-rokae-robotics-announces-delivery-of-its-10000th-humanoid-force-controlled-arm/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-29-rokae-10000th-humanoid-arm-schaeffler</guid>
@@ -331,7 +383,7 @@
 </ul>
 <p>It's a sign of the component supply chain behind humanoids scaling quickly in China.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Trump's Section 232 proclamation calls robot and machinery imports a security threat, citing humanoids, but imposes no tariffs yet</title>
       <link>https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-29-us-section-232-robotics-proclamation</guid>
@@ -345,7 +397,7 @@
 </ul>
 <p>For humanoid makers that rely on Chinese actuators and components, nothing changes at the border today, but the threat of future duties is now formally on the record.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Boston Dynamics reportedly lines up an all-Korean Atlas supply chain and tells suppliers to prepare parts for 10,000 humanoids</title>
       <link>https://www.kedglobal.com/robotics/newsView/ked202610270008</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-28-atlas-korean-suppliers-10000</guid>
@@ -358,7 +410,7 @@
 </ul>
 <p>Final quantities and prices aren't set, and first orders are expected around late 2027 or early 2028. Early Atlas units are slated for Hyundai's own Metaplant in Georgia. <a href="https://machineeconomy.co.uk/briefings/atlas-korean-suppliers">Machine Economy's breakdown</a> stresses that the 10,000 figure is a planning number, not a shipment or contract.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Unitree&#x27;s first earnings since its IPO: Q3 revenue up 70% to 665M yuan, but net profit falls 17% as R&amp;D spending jumps</title>
       <link>https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-28-unitree-q3-earnings</guid>
@@ -374,7 +426,7 @@
 </ul>
 <p>It's an early market test for China's best-known humanoid maker amid a tech-sector selloff.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>XPeng&#x27;s dedicated solid-state battery for the IRON humanoid enters small-batch production ahead of robot mass production</title>
       <link>https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-28-xpeng-iron-solid-state-battery</guid>
@@ -388,7 +440,7 @@
 <li><strong>Unclear:</strong> XPeng didn't say whether this is the all-solid-state chemistry it promised in 2025; a September report said the production IRON would use semi-solid-state cells instead. No volume or energy-density figures were given.</li>
 </ul>]]></description>
     </item>
-    <item>
+<item>
       <title>Westlake Robotics shows an upgraded WR1 model running humanoids through multi-room household chores without resets</title>
       <link>https://vuntum.com/en/news/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-28-westlake-wr1-household</guid>
@@ -402,7 +454,7 @@
 </ul>
 <p>The company says the tasks run in sequence with no human resets or step-by-step prompting. These are company-made demo videos, and the cooking stops at the fryer basket.</p>]]></description>
     </item>
-    <item>
+<item>
   <title>Reward AI shows its glove-trained OM-1 model driving humanoids on last-mile delivery and stairs</title>
   <link>https://x.com/RewardAI_/status/2115134330578272418</link>
   <guid isPermaLink="false">updatebot-humanoid-2026-10-27-reward-ai-om1-humanoid-delivery-stairs</guid>
@@ -512,7 +564,7 @@
 </ul>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record">Humanoids Daily</a>, <a href="https://www.globaltimes.cn/page/202610/1372888.shtml">Global Times</a>, <a href="https://x.com/thePandaily/status/2114203850013888595">Pandaily on X</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>ETH Zürich teaches a Unitree G1 humanoid to climb, vault and get up from falls with one contact-planning policy</title>
       <link>https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-25-eth-zurich-acp-contact-planning</guid>
@@ -527,7 +579,7 @@
 </ul>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning">Humanoids Daily</a>, <a href="https://x.com/XRoboHub/status/2113861844678869172">RoboHub demo clip on X</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Alibaba's Amap open-sources λ0, a whole-body humanoid model trained mostly on first-person human video</title>
       <link>https://tsnmedia.org/amap-alibaba-lambda0-humanoid/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-24-alibaba-amap-lambda0-humanoid-model</guid>
@@ -541,7 +593,7 @@
 </ul>
 <p>Sources: <a href="https://tsnmedia.org/amap-alibaba-lambda0-humanoid/">TSN</a>, <a href="https://arxiv.org/abs/2610.18950">arXiv preprint</a>, <a href="https://github.com/LambdaHumanoid/openlambda">GitHub repo</a>, <a href="https://huggingface.co/lambda-humanoid/lambda0-midtrain-100k">Hugging Face checkpoint</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Tesla says its first production Optimus robots will go to an "Optimus Academy" of 10,000 to 20,000 bots learning by self-play</title>
       <link>https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-24-tesla-optimus-academy-self-play</guid>
@@ -556,7 +608,7 @@
 </ul>
 <p>Sources: <a href="https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk">The Next Web</a>, <a href="https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy">Fierce Sensors</a>, <a href="https://x.com/i/trending/2114095338852159758">X trending story</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Generative Bionics plans Europe's largest physical AI data factory for its Gene.01 humanoids, with AMD</title>
       <link>https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-24-generative-bionics-physical-ai-data-factory</guid>
@@ -571,7 +623,7 @@
 </ul>
 <p>Source: <a href="https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/">Robotics &amp; Automation News</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>South Korea names Mobilint to lead humanoid-robot chip work in its $606M on-device AI semiconductor program</title>
       <link>https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-24-korea-mobilint-humanoid-ai-chip-program</guid>
@@ -586,7 +638,7 @@
 </ul>
 <p>Source: <a href="https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm">Tech Times</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>NEURA Robotics unveils 4NE1 Gen 4 humanoid for serial production and opens TUM RoboGym near Munich</title>
       <link>https://interestingengineering.com/ai-robotics/neuras-lighter-humanoid-unveiled</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-23-neura-4ne1-gen-4-tum-robogym</guid>
@@ -602,7 +654,7 @@
 </ul>
 <p>Source: <a href="https://interestingengineering.com/ai-robotics/neuras-lighter-humanoid-unveiled">Interesting Engineering</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>LG hires Hyundai's former Robotics Lab chief Hyun Dong-jin to lead group physical AI and humanoid push (report)</title>
       <link>https://www.kedglobal.com/people-on-the-move/newsView/ked202610230005</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-23-lg-hires-hyundai-robotics-chief-hyun-dong-jin</guid>
@@ -618,7 +670,7 @@
 <p><strong>Unconfirmed:</strong> neither LG nor Hyundai has officially announced the appointment.</p>
 <p>Sources: <a href="https://www.kedglobal.com/people-on-the-move/newsView/ked202610230005">KED Global</a>, <a href="https://mekawire.com/news/lg-hires-hyun-dong-jin-ex-hyundai-robotics-lab-head-physical-ai-evp-lg-science-park-reported-20261023">MEKAWIRE</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Figure 03 keeps walking: 13 straight days, 422 miles and 1.5 million steps on a treadmill stress test</title>
       <link>https://x.com/adcock_brett/status/2113655817501393215</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-23-figure-03-13-day-treadmill-walk</guid>
@@ -633,7 +685,7 @@
 </ul>
 <p>Sources: <a href="https://x.com/adcock_brett/status/2113655817501393215">Brett Adcock's update on X</a>, <a href="https://x.com/adcock_brett/status/2112227583643509174">his original Oct 19 post</a>, <a href="https://x.com/coreylynch/status/2113763551861178777">Corey Lynch on Figure's video data scale</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>XPENG's IRON humanoid switches between handshakes, fist bumps and high-fives in real time with VLA 2.0</title>
       <link>https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-23-xpeng-iron-vla-2-gesture-demo</guid>
@@ -648,7 +700,7 @@
 </ul>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo">Humanoids Daily</a>, <a href="https://news.cocoloop.cn/en/2026/10/xpeng-iron-vla-realtime-reasoning/">Cocoloop</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Figure 04 humanoid hits full design lock as Figure shares its internal all-hands publicly</title>
       <link>https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-22-figure-04-design-lock</guid>
@@ -663,7 +715,7 @@
 </ul>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock">Humanoids Daily</a>, <a href="https://humanoid.guide/figure-roadmap-has-completely-changed-brett-adcock-says/">Humanoid Guide</a>, <a href="https://x.com/adcock_brett/status/2113291696725516506">Brett Adcock's post on X</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Google DeepMind's Gemini 4 Argon teaches Apptronik's Apollo humanoid a skill straight from video</title>
       <link>https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-22-deepmind-gemini-4-argon-apollo</guid>
@@ -678,7 +730,7 @@
 </ul>
 <p>Source: <a href="https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/">Robotics &amp; Automation News</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Agility standardizes Digit 5 on NVIDIA IGX Thor; reports over $300M in Digit 5 orders</title>
       <link>https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-22-agility-digit-5-nvidia-igx-thor</guid>
@@ -693,7 +745,7 @@
 </ul>
 <p>Sources: <a href="https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale">Agility press release</a>, <a href="https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor">The Next Web</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Unitree unveils "Unitree Rehearsal," a self-improving AI loop for humanoid development</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-22-unitree-rehearsal-self-evolving</guid>
@@ -704,7 +756,7 @@
 <p>The goal is a feedback loop where AI searches research papers, writes robot code, tests it in simulation, and then runs trials on physical robots, with humans still able to judge results and give feedback. Wang said the aim is an automated cycle that could greatly speed up robotics algorithm development. The system is still in development.</p>
 <p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves">South China Morning Post</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Danish grocer Føtex pilots humanoid robots restocking shelves after hours with HIVE Robots</title>
       <link>https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-22-fotex-hive-humanoid-shelf-pilot</guid>
@@ -719,7 +771,7 @@
 </ul>
 <p>Source: <a href="https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091">ESM Magazine</a> (citing Euronews).</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Tesla starts early Optimus production on Fremont high-volume line; 20,000/week rate at least a year away</title>
       <link>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-21-tesla-optimus-fremont-early-production</guid>
@@ -734,7 +786,7 @@
 </ul>
 <p>Sources: <a href="https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/">TechCrunch</a>, <a href="https://eletric-vehicles.com/tesla/musk-says-optimus-will-take-at-least-a-year-to-reach-20000-units-a-week/">EV coverage of the earnings call</a>, <a href="https://x.com/i/trending/2113015007072092289">X story</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>NVIDIA and Agile Robots unveil Agile ONE SN reference humanoid at GTC Berlin; up to 2,000 units in 2027</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-10-21-nvidia-agile-one-sn-reference-humanoid</guid>
@@ -750,65 +802,5 @@
 </ul>
 <p>Sources: <a href="https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data">NVIDIA Newsroom</a>, <a href="https://www.channelnewsasia.com/business/germanys-agile-make-up-2000-humanoid-robots-nvidia-ceo-says-6478936">Reuters via CNA</a>, <a href="https://x.com/NVIDIARobotics/status/2112854462708519013">@NVIDIARobotics on X</a>.</p>]]></description>
     </item>
-    <item>
-      <title>Unitree reveals H2-X "Kung Fu Legend Guardian" humanoid with about 8-hour endurance</title>
-      <link>https://x.com/UnitreeRobotics/status/2112819774573179175</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-unitree-h2-x-kung-fu-guardian</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <enclosure url="https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-2000-80.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-2000-80.jpg" alt="" /></p>
-<p>Unitree introduced the H2-X "Kung Fu Legend Guardian," a full-size variant of its H2 humanoid. Its launch video shows spinning kicks, flips, a 4-meter drop onto mats, and staged bodyguard and rescue scenes, including lifting a car to free a dummy. The official post passed 3.5 million views within hours.</p>
-<ul>
-<li>Unitree claims "maximum endurance of approximately 8 hours." Reports say this is standing endurance, compared with about 3 hours for the base H2.</li>
-<li>Third-party posts list the robot at about 182 cm and 70 kg with 31 DoF. These specs are unconfirmed by Unitree.</li>
-<li>This is a promotional demo. No price, full spec sheet, or release date has been announced, and the guardian scenes are staged.</li>
-</ul>
-<p>Sources: <a href="https://x.com/UnitreeRobotics/status/2112819774573179175">@UnitreeRobotics on X</a>, <a href="https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills">TechRadar</a>, <a href="https://www.humanoidsdaily.com/news/unitree-h2-x-kung-fu-guardian-video">Humanoids Daily</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>AGCO signs commercial deal to pilot Agility Digit humanoids at Hesston, Kansas factory from 2027</title>
-      <link>https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-agco-agility-digit-hesston-pilot</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7bf23c6ceee5f2dd0b820_Press-Release_191026.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7bf23c6ceee5f2dd0b820_Press-Release_191026.jpg" alt="" /></p>
-<p>Agricultural equipment maker AGCO (Fendt, Massey Ferguson, Valtra) has signed a commercial agreement with Agility Robotics to pilot the Digit humanoid at its Hesston, Kansas, production facility. The pilot is expected to begin in 2027.</p>
-<ul>
-<li>Initial tasks are parts sorting and stacking, plus placing totes for storage, managed through Agility Arc fleet software.</li>
-<li>The robot count, contract value, and Digit generation have not been disclosed.</li>
-<li>The plant makes large, low-volume, highly variable equipment, which Agility pitches as a harder test than an auto line.</li>
-</ul>
-<p>Sources: <a href="https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility">Agility press release</a>, <a href="https://news.agcocorp.com/2026-10-20-AGCO-and-Agility-Robotics-Advance-Smart-Manufacturing-with-Humanoid-Robot-Pilot-in-Hesston,-Kansas,-Facility">AGCO newsroom</a>, <a href="https://x.com/agilityrobotics/status/2113017315847819653">@agilityrobotics on X</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>UC Berkeley SuperMimic trains humanoid whole-body control on one GPU in 3 hours, beating 128-GPU SONIC</title>
-      <link>https://supermimic.github.io/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-berkeley-supermimic-humanoid-control</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <enclosure url="https://supermimic.github.io/media/share/og.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://supermimic.github.io/media/share/og.jpg" alt="" /></p>
-<p>UC Berkeley researchers (Qiayuan Liao, Kevin Zakka, Pieter Abbeel, Koushil Sreenath and others) released SuperMimic, a humanoid motion tracker that trains through a learned differentiable world model instead of model-free RL. The preprint has been accepted at CoRL 2026.</p>
-<ul>
-<li>It surpassed the return of the SONIC tracker after 3 hours on one H100. SONIC reported 7 days on 128 L40 GPUs, so this is more than 1,000x fewer GPU-hours.</li>
-<li>It failed on 25 of 129,514 benchmark motions, versus 179 for SONIC, and reached zero failures after 9.8 hours on two GPUs.</li>
-<li>The policy ran flips, rolls, and jumps zero-shot on a real Unitree G1.</li>
-<li>Caveats: the comparison uses different hardware and data sizes, training covered flat ground only, and the real-robot test shows a few motions rather than a measured success rate.</li>
-</ul>
-<p>Sources: <a href="https://supermimic.github.io/">project page</a>, <a href="https://www.alphaxiv.org/abs/2610.28480">paper (arXiv 2610.28480)</a>, <a href="https://x.com/i/trending/2112971190847647871">X story</a>.</p>]]></description>
-    </item>
-    <item>
-      <title>Mitsubishi Electric unveils machining system where humanoid robots work with CNC machine tools via physical AI</title>
-      <link>https://www.mitsubishielectric.com/en/pr/2026/1021_rd/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-mitsubishi-electric-humanoid-cnc-system</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <description><![CDATA[<p>Mitsubishi Electric announced what it calls the industry's first machining system in which general-purpose humanoid robots and CNC machine tools collaborate through physical AI. The humanoids take over operator tasks such as setup, cleaning, removing and transporting finished parts, inspection, and troubleshooting.</p>
-<ul>
-<li>An AI task planner takes natural-language instructions from operators, generates machining tasks, and splits the work between the CNC machine and the humanoid.</li>
-<li>The CNC machine exchanges status with the robot in natural language, using Mitsubishi's Maisart AI.</li>
-<li>A live demo is set for JIMTOF 2026 in Tokyo starting Oct 26.</li>
-</ul>
-<p>Source: <a href="https://www.mitsubishielectric.com/en/pr/2026/1021_rd/">Mitsubishi Electric press release</a>.</p>]]></description>
-    </item>
-  
   </channel>
 </rss>
