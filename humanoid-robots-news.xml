@@ -6,8 +6,40 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:20:00 -0800</lastBuildDate>
-    <item>
+    <lastBuildDate>Fri, 06 Nov 2026 17:15:00 -0800</lastBuildDate>
+      <item>
+    <title>Musk says Tesla will probably rent Optimus robots, with build cost ~$30K falling toward $20K</title>
+    <link>https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them</link>
+    <guid isPermaLink="false">updatebot-humanoid-2026-11-06-musk-optimus-rent-baron</guid>
+    <pubDate>Fri, 06 Nov 2026 17:15:00 -0800</pubDate>
+    <enclosure url="https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<img src="https://www.notateslaapp.com/img/containers/article_images/optimus/optimus-gen-3-eth-zurich.webp/104cfdf0eecac83331e34fe1cec7ea74/optimus-gen-3-eth-zurich.jpg"/>
+<p>At the 33rd Annual Baron Investment Conference on Nov 6, Elon Musk said Tesla will <strong>probably rent</strong> Optimus humanoid robots rather than sell them outright, when asked whether the company would rent or sell the bots.</p>
+<ul>
+<li>Build-cost estimate: about as much as a car at first (~$30,000), falling toward ~$20,000 over time — these are manufacturing costs, not rental prices.</li>
+<li>No rental price, term length or customer eligibility has been announced.</li>
+<li>External company deliveries remain targeted around late 2027; early Fremont production is already running on a line sized for up to 1 million units a year.</li>
+<li>Musk also said a sufficiently capable humanoid should deliver at least five times a human's weekly productivity by working continuously (company target, not demonstrated at scale).</li>
+</ul>
+<p>Label the rental preference as a conference remark with a hedge ("probably"), not a locked commercial program. Sources: <a href="https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them">Not a Tesla App</a>; Baron conference coverage on X.</p>]]></description>
+  </item>
+  <item>
+    <title>Swiss startup Embodied AI unveils AIR wheeled factory humanoid at Humanoid Europe, opens orders</title>
+    <link>https://www.humanoidsdaily.com/news/embodied-ai-air-wheeled-humanoid-factory-humanoid-europe</link>
+    <guid isPermaLink="false">updatebot-humanoid-2026-11-06-embodied-ai-air-humanoid-europe</guid>
+    <pubDate>Fri, 06 Nov 2026 17:15:00 -0800</pubDate>
+    <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/embodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp" type="image/webp" length="0"/>
+    <description><![CDATA[<img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/embodied-ai-air-robot-mountain-road-mzXEzro6EWIAmS5Dm7g0a20oJq000s.webp"/>
+<p>Lausanne-based Embodied AI (EPFL spinout) unveiled <strong>AIR</strong> on Nov 6 at Humanoid Europe 2026 in Munich: a wheeled, two-armed upper-body robot built to work beside factory staff without a safety cage. Orders open after the unveil.</p>
+<ul>
+<li>Design: heavy components in the torso with light, tendon-driven compliant arms that yield on contact; investor notes cite a ~2 kg arm lifting ~5 kg (company has not published height, weight, full payload or price).</li>
+<li>Deployment model: remote teleoperation from the first shift, with the company saying the robot takes over the task on its own within about a month using recorded shift data.</li>
+<li>Company-reported claim (unconfirmed independently): ~95% average task success across paid pilots with unnamed consumer-electronics and automotive/industrial customers.</li>
+<li>CE marking targeted for 2027 under the EU Machinery Regulation; no delivery schedule published.</li>
+</ul>
+<p>Sources: <a href="https://www.humanoidsdaily.com/news/embodied-ai-air-wheeled-humanoid-factory-humanoid-europe">Humanoids Daily</a>; <a href="https://www.businesswire.com/news/home/20261106661068/en/Embodied-AI-Unveils-AIR-a-Physically-Safe-Humanoid-Robot-That-Learns-on-the-Job">BusinessWire</a>.</p>]]></description>
+  </item>
+<item>
       <title>Agility Robotics begins trading on Nasdaq as AGLT, first U.S. pure-play public humanoid company</title>
       <link>https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-05-agility-nasdaq-aglt-debut</guid>
@@ -771,36 +803,5 @@
 </ul>
 <p>Source: <a href="https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091">ESM Magazine</a> (citing Euronews).</p>]]></description>
     </item>
-<item>
-      <title>Tesla starts early Optimus production on Fremont high-volume line; 20,000/week rate at least a year away</title>
-      <link>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-tesla-optimus-fremont-early-production</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800" alt="" /></p>
-<p>Tesla's Q3 2026 results on Oct 21 confirmed that Optimus production has started on its high-volume line in Fremont. The shareholder deck says the bots coming off the line are "the first production-quality bots" Tesla has built, and that the manufacturing process has been proven suitable for a commercial product.</p>
-<ul>
-<li>Musk called it "early production": most of a one-million-unit-per-year line is already installed in Fremont.</li>
-<li>He expects it will take "at least a year, maybe a little longer" to reach about 20,000 units a week. Parts of the design, reliability, and the robot AI are still being worked on.</li>
-<li>Deliveries to outside companies are still targeted for around the end of 2027.</li>
-</ul>
-<p>Sources: <a href="https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/">TechCrunch</a>, <a href="https://eletric-vehicles.com/tesla/musk-says-optimus-will-take-at-least-a-year-to-reach-20000-units-a-week/">EV coverage of the earnings call</a>, <a href="https://x.com/i/trending/2113015007072092289">X story</a>.</p>]]></description>
-    </item>
-<item>
-      <title>NVIDIA and Agile Robots unveil Agile ONE SN reference humanoid at GTC Berlin; up to 2,000 units in 2027</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-21-nvidia-agile-one-sn-reference-humanoid</guid>
-      <pubDate>Wed, 21 Oct 2026 17:17:50 -0700</pubDate>
-      <enclosure url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_ea97245c-b97b-4ba5-a30e-d4aed319c5d8-prv.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" alt="" /></p>
-<p>At GTC Berlin, NVIDIA expanded its Isaac robotics platform, and Munich's Agile Robots announced Agile ONE SN, a full-stack research humanoid preconfigured with Isaac GR00T and powered by Jetson Thor.</p>
-<ul>
-<li>1.40 m tall, about 40 kg, 31 degrees of freedom, and dual 20-DoF WUJI Hand 2 hands with tactile sensing.</li>
-<li>Jetson Thor onboard compute, plus planned integration of the NVIDIA Halos safety stack.</li>
-<li>Agile's CEO told Reuters that production starts by the end of this year, with 1,000 to 2,000 units planned for next year. Stanford and ETH Zurich are among potential customers.</li>
-<li>NVIDIA also announced the Isaac OS runtime, Isaac Lab 3.0, and new open data and simulation workflows.</li>
-</ul>
-<p>Sources: <a href="https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data">NVIDIA Newsroom</a>, <a href="https://www.channelnewsasia.com/business/germanys-agile-make-up-2000-humanoid-robots-nvidia-ceo-says-6478936">Reuters via CNA</a>, <a href="https://x.com/NVIDIARobotics/status/2112854462708519013">@NVIDIARobotics on X</a>.</p>]]></description>
-    </item>
-  </channel>
+</channel>
 </rss>
