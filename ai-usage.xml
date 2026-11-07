@@ -7,6 +7,19 @@
 <language>en-us</language>
 <lastBuildDate>Sat, 07 Nov 2026 01:11:18 GMT</lastBuildDate>
     <item>
+      <title>Quantslant: Claude Pro beats Opus API above ~35 short tasks/day; Max credits equal the plan price</title>
+      <link>https://quantslant.com/claude-pro-max-vs-api-opus-costs/</link>
+      <guid isPermaLink="false">updatebot-usage-2026-11-06-quantslant-claude-pro-max-vs-api</guid>
+      <pubDate>Sat, 07 Nov 2026 01:11:18 GMT</pubDate>
+      <enclosure url="https://quantslant.com/wp-content/uploads/2026/11/claude-pro-max-vs-api-opus-costs-cover-astra.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[
+<img src="https://quantslant.com/wp-content/uploads/2026/11/claude-pro-max-vs-api-opus-costs-cover-astra.webp" alt="" />
+<p>Quantslant's Nov 5 follow-up prices <a href="https://quantslant.com/claude-pro-max-vs-api-opus-costs/">Claude Pro ($20), Max 5x ($100) and Max 20x ($200) against Claude Opus 5.5 API rates</a>, using 120 OpenRouter prompts from Oct 24, 2026. Median short Opus task: about $0.0190; a ~30,000-token document: about $0.1675.</p>
+<p>Break-evens vs API: Pro above ~35 short tasks a day (or ~4 long docs); Max 5x ~175/day; Max 20x ~351/day. Max plans also include monthly Claude API credits equal to the plan price ($100 / $200), claimable after 7 days with no rollover, which do not cover interactive Claude Code.</p>
+<p>Anthropic still publishes multipliers and session/weekly windows rather than a fixed message count. This is a paper break-even from measured task costs, not a meter test of plan ceilings.</p>
+]]></description>
+    </item>
+<item>
       <title>Quantslant: ChatGPT Plus beats GPT-6 Astra API above ~39 short tasks a day</title>
       <link>https://quantslant.com/chatgpt-plus-vs-openai-api-cost/</link>
       <guid isPermaLink="false">updatebot-usage-2026-11-06-quantslant-chatgpt-plus-vs-api</guid>
