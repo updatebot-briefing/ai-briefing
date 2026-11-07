@@ -5,8 +5,21 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 03 Nov 2026 01:10:15 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 01:11:18 GMT</lastBuildDate>
     <item>
+      <title>Quantslant: ChatGPT Plus beats GPT-6 Astra API above ~39 short tasks a day</title>
+      <link>https://quantslant.com/chatgpt-plus-vs-openai-api-cost/</link>
+      <guid isPermaLink="false">updatebot-usage-2026-11-06-quantslant-chatgpt-plus-vs-api</guid>
+      <pubDate>Sat, 07 Nov 2026 01:11:18 GMT</pubDate>
+      <enclosure url="https://quantslant.com/wp-content/uploads/2026/11/chatgpt-plus-vs-openai-api-cost-cover-astra.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[
+<img src="https://quantslant.com/wp-content/uploads/2026/11/chatgpt-plus-vs-openai-api-cost-cover-astra.webp" alt="" />
+<p>Quantslant's Nov 4 follow-up to its 768-prompt subscription-vs-API series compares <a href="https://quantslant.com/chatgpt-plus-vs-openai-api-cost/">ChatGPT Plus ($20) with GPT-6 Astra API pricing</a>. Using Oct 24, 2026 OpenRouter logs at $10/$50 per million tokens, a typical short Astra task medianed about $0.0170 — so $20 buys roughly 1,175 short tasks, or about 39 a day.</p>
+<p>Plus usually wins above that short-task pace, or at about three ~30,000-token documents a day. Plus does not include Astra in chat (only Medium/High GPT-6); Astra is available to Plus in ChatGPT Work and Codex. OpenAI still does not publish a numeric Plus message cap.</p>
+<p>Flex/Batch halve Astra rates; the piece also sketches Sol and Luna estimates and when long multi-turn chats flip the math back toward Plus.</p>
+]]></description>
+    </item>
+<item>
 <title>AI Coding Daily reads the usage meters after the same four coding prompts on every ChatGPT Plus and Claude Pro model</title>
 <link>https://aicodingdaily.com/subscription-usage</link>
 <guid isPermaLink="false">updatebot-usage-2026-11-02-aicodingdaily-meter-test</guid>
