@@ -6,7 +6,56 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:15:00 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:25:00 -0800</lastBuildDate>
+  <item>
+    <title>Figure's San Jose HQ fills with dozens of walking Figure 03 robots in new campus videos</title>
+    <link>https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos</link>
+    <guid isPermaLink="false">updatebot-humanoid-2026-11-07-figure-03-hq-campus-videos</guid>
+    <pubDate>Sat, 07 Nov 2026 17:25:00 -0800</pubDate>
+    <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp" type="image/webp" length="0"/>
+    <description><![CDATA[<img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-03-robots-hq-lawn-CnpbEmuIQ1tox5pgNL1fXzNWzfNtkJ.webp"/>
+<p>Figure founder Brett Adcock posted two roughly 90-second campus walkthroughs on Nov 6 and Nov 7 showing dozens of Figure 03 humanoids walking and standing around the company's San Jose headquarters — on the lawn, along outdoor paths, in the lobby beside employees with coffee, and on wireless charging pads by the entrance.</p>
+<ul>
+<li>The Nov 6 clip, captioned "One day the entire world will look like this," had drawn more than 5,000 likes and about 387,000 views by this evening. A second clip on Nov 7, captioned "F.03 humanoid robots," covers the same ground in the opposite direction.</li>
+<li>Adcock said in the spring that Figure had about 500 employees and wanted more humanoids than people walking the halls. <a href="https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos">Humanoids Daily</a> says the new videos suggest that goal is close, if it has not already been met.</li>
+<li>Figure marked its 1,000th Figure 03 in July and said in April that BotQ had reached one robot per hour. It has not published a production total since July, and Adcock did not say how many robots were on campus in the videos.</li>
+<li>Almost none of the robots in the clips are doing a task beyond walking or standing. Figure has named a few customer sites, including BMW's Spartanburg plant and Catalyst Brands in Reno, but has not said how many robots are doing paid work.</li>
+</ul>
+<p>These videos are a fleet-scale campus demo, not a new customer deployment. Sources: <a href="https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos">Humanoids Daily</a>; <a href="https://x.com/adcock_brett/status/2118830039710285953">Adcock's Nov 6 post on X</a>; <a href="https://x.com/adcock_brett/status/2119127304265949511">his Nov 7 follow-up</a>.</p>]]></description>
+  </item>
+  <item>
+    <title>Atlas battery pack to use 70 Samsung SDI 2170 cells totaling about 1.3 kWh, report says</title>
+    <link>https://www.thelec.net/news/articleView.html?idxno=15385</link>
+    <guid isPermaLink="false">updatebot-humanoid-2026-11-07-atlas-samsung-sdi-70-cells</guid>
+    <pubDate>Sat, 07 Nov 2026 17:25:00 -0800</pubDate>
+    <enclosure url="https://cdn.thelec.net/news/photo/202611/15385_15707_5411.png" type="image/png" length="0"/>
+    <description><![CDATA[<img src="https://cdn.thelec.net/news/photo/202611/15385_15707_5411.png"/>
+<p><strong>Unconfirmed industry report.</strong> <a href="https://www.thelec.net/news/articleView.html?idxno=15385">The Elec</a>, citing industry sources on Nov 6, says Hyundai Motor has finalized battery specs for Boston Dynamics' Atlas humanoid: each robot will use 70 cylindrical Samsung SDI 2170 cells (21 mm by 70 mm, 5,000 mAh each), for a pack of about 1.3 kWh.</p>
+<ul>
+<li>LG Energy Solution has also been selected as a supplier, but Samsung SDI is expected to handle most of the initial volume while production remains small.</li>
+<li>A capacity figure is not a runtime. How long Atlas can work still depends on the task, payload, motion and onboard compute. The Elec cites a typical humanoid operating window of about two to four hours; that has not been demonstrated publicly for this pack.</li>
+<li>Boston Dynamics has previously said Atlas can navigate to a charging station, swap its own batteries and return to work.</li>
+<li>The report repeats that Atlas mass production is scheduled for 2028 or later. Neither Boston Dynamics nor Samsung SDI has confirmed the cell count or pack size.</li>
+</ul>
+<p>The Oct 28 coverage that Samsung SDI and LG Energy Solution were in the Atlas battery lineup still stands; this is the first published pack specification. Also: <a href="https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh">Humanoids Daily</a>.</p>]]></description>
+  </item>
+  <item>
+    <title>Inside Unitree's Hangzhou factory, robots are still mostly built by hand, visitor notes and filings show</title>
+    <link>https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen</link>
+    <guid isPermaLink="false">updatebot-humanoid-2026-11-07-unitree-hangzhou-factory-manual</guid>
+    <pubDate>Sat, 07 Nov 2026 17:25:00 -0800</pubDate>
+    <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp" type="image/webp" length="0"/>
+    <description><![CDATA[<img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/unitree-g1-motor-assembly-factory-KiyQYpX5vycVnGuHpDC6rxYhCRlTX2.webp"/>
+<p>Investor Josef Chen toured Unitree's Hangzhou factory and found that most robots are still put together by hand. In the actuator building he saw "one or two new automated lines"; the rest of the floor was people running winding machines. Visitors were not allowed to take photos inside.</p>
+<ul>
+<li>Unitree's filings put all of its machinery at about $1.7 million on the books at the end of 2025. The company made almost 32,000 robots that year (about 26,000 of them quadrupeds), or roughly $50 of machinery per robot.</li>
+<li>Direct labour was 8.1% of 2025 cost of goods, versus 81.7% materials. Chen estimates labour would be about 40% of costs at US wages.</li>
+<li>A February Unitree video of G1 humanoids assembling parts in its own factory, billed as "an actual deployment," passed 28 million views. The IPO prospectus is more cautious: it calls that work a pilot and says assembly is "currently mainly manual."</li>
+<li>Three quarters of Unitree's humanoid revenue in the first nine months of 2025 came from research and education, and less than 5% from factories or other industrial customers. Chen notes that half or more of the "industry" category was robots giving guided tours.</li>
+</ul>
+<p>Chen discloses investments in several US hardware firms, including Minerva, a US humanoid maker. Sources: <a href="https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen">Humanoids Daily</a>; <a href="https://josef.cn/blog/unitree">Chen's factory notes</a>.</p>]]></description>
+  </item>
+
       <item>
     <title>Musk says Tesla will probably rent Optimus robots, with build cost ~$30K falling toward $20K</title>
     <link>https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them</link>
@@ -762,46 +811,8 @@
 </ul>
 <p>Source: <a href="https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/">Robotics &amp; Automation News</a>.</p>]]></description>
     </item>
-<item>
-      <title>Agility standardizes Digit 5 on NVIDIA IGX Thor; reports over $300M in Digit 5 orders</title>
-      <link>https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-agility-digit-5-nvidia-igx-thor</guid>
-      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
-      <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image.jpg" alt="" /></p>
-<p>Agility Robotics said on Oct 22 that the general-availability version of Digit 5 will use NVIDIA IGX Thor modules as its only onboard computer, making NVIDIA the exclusive compute supplier. Agility is also folding more NVIDIA Halos safety models into Digit's human-detection system, and NVIDIA's Halos inspection lab will review Digit's safety software ahead of third-party certification.</p>
-<ul>
-<li>Early access to Digit 5 is expected in the first half of 2027, with wider availability over the following six to nine months.</li>
-<li>Agility says it has more than $300 million in multi-year Digit 5 orders (subject to contract milestones), four new customers, and a new 50,000 sq ft Pittsburgh site.</li>
-<li>It's the company's fourth announcement in four days as it heads toward a Nasdaq listing (ticker AGLT) via its Churchill Capital XI merger.</li>
-</ul>
-<p>Sources: <a href="https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale">Agility press release</a>, <a href="https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor">The Next Web</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Unitree unveils "Unitree Rehearsal," a self-improving AI loop for humanoid development</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-unitree-rehearsal-self-evolving</guid>
-      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/22/9decc5ea-7f75-4d73-916b-d658b861d101_f3cb8822.jpg?itok=EqXHmIAC&amp;v=1792674453" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/22/9decc5ea-7f75-4d73-916b-d658b861d101_f3cb8822.jpg?itok=EqXHmIAC&amp;v=1792674453" alt="" /></p>
-<p>Unitree founder Wang Xingxing, speaking at the company's physical AI conference in Hangzhou on Oct 22, unveiled "Unitree Rehearsal," which he called Unitree's most important project of the year.</p>
-<p>The goal is a feedback loop where AI searches research papers, writes robot code, tests it in simulation, and then runs trials on physical robots, with humans still able to judge results and give feedback. Wang said the aim is an automated cycle that could greatly speed up robotics algorithm development. The system is still in development.</p>
-<p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3371818/unitree-developing-ai-system-let-humanoid-robots-improve-themselves">South China Morning Post</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Danish grocer Føtex pilots humanoid robots restocking shelves after hours with HIVE Robots</title>
-      <link>https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-fotex-hive-humanoid-shelf-pilot</guid>
-      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
-      <enclosure url="https://i.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMTBcXFwvMjAxMjU3MDlcXFwvSkJOX0hJVkVfMDA5NzAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2ltZy5yZXNpemVkLmNvXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzZjliOGJkZDcxYjA3ZGIxZjRlMDBlMmIxY2JhZTMzMTFhNjY4OGUwIn0=/salling-group-s-ftex-tests-humanoid-robots.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://i.resized.co/esmmagazine/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL21lZGlhLm1hZGlzb25wdWJsaWNhdGlvbnMuZXVcXFwvZXNtbWFnYXppbmUtcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMTBcXFwvMjAxMjU3MDlcXFwvSkJOX0hJVkVfMDA5NzAuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL2ltZy5yZXNpemVkLmNvXFxcL25vLWltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiIzZjliOGJkZDcxYjA3ZGIxZjRlMDBlMmIxY2JhZTMzMTFhNjY4OGUwIn0=/salling-group-s-ftex-tests-humanoid-robots.jpg" alt="" /></p>
-<p>Salling Group's Føtex chain has started training humanoid robots to restock grocery shelves after closing time at a store in Lyngby, north of Copenhagen, through a multi-year partnership with Danish startup HIVE Robots.</p>
-<ul>
-<li>Unitree builds the hardware; HIVE writes the control software and runs the machine learning, using human "robot pilots" in VR headsets to teach tasks like shelving bags of pasta.</li>
-<li>Føtex says shelf replenishment takes 40 to 50% of staff time. The robots are still slower than people.</li>
-<li>HIVE targets commercial deployment by early 2027 on an hourly service fee; Føtex says a full rollout could take up to five years.</li>
-</ul>
-<p>Source: <a href="https://www.esmmagazine.com/technology/salling-groups-fotex-pilots-humanoid-robots-via-multi-year-hive-partnership-324091">ESM Magazine</a> (citing Euronews).</p>]]></description>
-    </item>
+
+
+
 </channel>
 </rss>
