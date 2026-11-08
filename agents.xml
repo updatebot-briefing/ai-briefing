@@ -7,7 +7,18 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Nov 2026 21:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:14:16 GMT</lastBuildDate>
+<item>
+<title>Meta launches Muse in Mexico, its first Latin American market, with local shopping and travel connectors</title>
+<link>https://about.fb.com/ltam/news/2026/09/presentamos-muse-el-primer-agente-de-ia-personal-del-mundo-creado-para-todos/</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-07-muse-mexico-launch</guid>
+<pubDate>Sun, 08 Nov 2026 01:14:16 GMT</pubDate>
+<enclosure url="https://about.fb.com/ltam/wp-content/uploads/sites/14/2026/09/Muse-Neswsroom-Banner.jpg?w=1200" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://about.fb.com/ltam/wp-content/uploads/sites/14/2026/09/Muse-Neswsroom-Banner.jpg?w=1200" alt="Meta Muse"/>
+<p>Meta has launched Muse in Mexico, the first Latin American country to get its personal AI agent, according to a Nov 5 update to <a href="https://about.fb.com/ltam/news/2026/09/presentamos-muse-el-primer-agente-de-ia-personal-del-mundo-creado-para-todos/">Meta's Latin America newsroom post</a>. People 18 and older can use it in Spanish on iOS, Android, muse.ai, and through WhatsApp.</p>
+<p>Muse arrives with local connectors for Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, Rappi and Walmart México, so it can compare prices, track orders, check flights or buy movie tickets from one conversation. <a href="https://es.wired.com/articulos/muse-el-agente-de-ia-de-meta-llega-a-mexico-que-puede-hacer-y-como-utilizarlo">WIRED en Español</a> notes some of those brand features will turn on gradually.</p>
+<p>Basic use is free, with optional paid plans, matching the US model. Mexico follows Japan (Oct 23) and Singapore (Oct 27) as Muse expands outside the US; <a href="https://mexiconewsdaily.com/business/meta-launches-its-muse-ai-agent-mexico-first-for-latin-american-market/">Mexico News Daily</a> has an English write-up.</p>]]></description>
+</item>
 <item>
     <title>Meta launches Muse Spaces so you can design custom experiences inside the Muse app</title>
     <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
@@ -539,15 +550,6 @@
 <enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot v0.75.2: video creation, Shop Pay and X Money check"/>
 <p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> now lists v0.75.2, dated Oct 22, which rolls up versions 0.72.0 through 0.75.1. Pages already shipped earlier this week, but the release adds a lot more:</p><ul><li>Bots can create videos from a description or from an image you share.</li><li>Bots can pay with Shop Pay, and you can connect X Money in one tap from a chat, the connector page, or checkout.</li><li>You can pin Library pages, files, and links to a Pinned section that syncs across devices.</li><li>What a personal Bot saves to memory in one chat is now remembered in all your chats with it.</li><li>Routines can read the Bot's inboxes, voice calls can draw on earlier calls and recent chat, and the Bot checks links before sending them.</li></ul><p>It also adds a Zoho CRM connector, more GitHub, Gmail, and Google Calendar abilities, new Team admin controls, a redesign of chat cards, and many fixes.</p>]]></description>
-</item>
-<item>
-<title>SpaceXSI launches the Super Intelligence Partner Network, with 130+ companies building on Grok</title>
-<link>https://x.ai/news/partnernetworkannouncement</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-22-spacexsi-partner-network</guid>
-<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
-<enclosure url="https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png" alt="SpaceXSI launches the Super Intelligence Partner Network, wi"/>
-<p>SpaceXSI <a href="https://x.ai/news/partnernetworkannouncement">announced the SpaceX Super Intelligence Partner Network</a> on Oct 22, its official program for companies building products and services with Grok.</p><p>It has two tracks: Transformation Partners, who help enterprises deploy the Grok platform, and Marketplace Partners, who build the plugins and integrations that connect the Grok product suite, including Grok Bot, to tools customers already use. More than 130 companies took part in early access, and engineers at over 30 organizations have gone through a Forward Deployed Engineer accreditation program.</p><p>Launch partners quoted in the post include Bain, Databricks, NVIDIA, and Snowflake.</p>]]></description>
 </item>
 </channel>
 </rss>
