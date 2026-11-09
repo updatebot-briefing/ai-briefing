@@ -7,7 +7,30 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Nov 2026 01:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:14:45 GMT</lastBuildDate>
+<item>
+<title>Nous ships an official Security plugin that has Hermes Agent hunt for exploitable bugs in your codebase</title>
+<link>https://x.com/NousResearch/status/2119501958981857543</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-08-hermes-security-plugin</guid>
+<pubDate>Mon, 09 Nov 2026 01:14:45 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2119501177792376832/img/kd1t8r7sAPh7U_Wd.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2119501177792376832/img/kd1t8r7sAPh7U_Wd.jpg" alt="Hermes Agent Security plugin"/>
+<p>Nous Research released a new official Security plugin for Hermes Agent on Nov 8, built by @mark_s from his security review experience, <a href="https://x.com/NousResearch/status/2119501958981857543">Nous announced on X</a>.</p>
+<p>Hermes first maps what an attacker could reach and which inputs it trusts, then splits the code across parallel subagents, checks every candidate finding against the code, and traces whether it can actually be exploited.</p>
+<p>With test confirmation turned on, Hermes writes a small reproduction for each finding and runs it in a temporary copy of the repo. Each report records the evidence and the findings it ruled out, and exports to SARIF for existing security tools.</p>
+<p>You can run it from chat, the CLI, or a new Security page in Hermes Desktop. Cofounder <a href="https://x.com/Teknium/status/2119504222622474308">Teknium called it</a> a new official plugin to help analyze codebases for security bugs; it joins the <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a> of official plugins.</p>]]></description>
+</item>
+<item>
+<title>OpenAI dots can now use sign-in codes from your connected inbox to log in for you</title>
+<link>https://x.com/JamesZmSun/status/2119147164039618879</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-08-dots-sign-in-code-autofill</guid>
+<pubDate>Mon, 09 Nov 2026 01:14:45 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2119147052764729344/img/2fMsojRw7iNXdeJx.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2119147052764729344/img/2fMsojRw7iNXdeJx.jpg" alt="dots sign-in code prompt"/>
+<p>OpenAI's James Sun, who works on browser use for Codex and ChatGPT, <a href="https://x.com/JamesZmSun/status/2119147164039618879">announced on Nov 7</a> that a dot can now use sign-in codes sent to your connected inbox to log in on your behalf.</p>
+<p>When a site sends a code, the dot asks first: you can let it use the code once or always allow it to fill codes in. Sun said "lots more sign-in improvements" are coming soon.</p>
+<p>OpenAI's <a href="https://help.openai.com/en/articles/20001529-dots-privacy-security-and-safety-faqs">dots security FAQ</a> still says you may need to provide a code or take over for some security checks, and <a href="https://bytefwd.com/openai-dots-connected-apps-availability/">ByteForward</a> notes this covers emailed codes, not every sign-in method. Early users quoted by <a href="https://cryptobriefing.com/openai-dots-agents-2fa-email-codes/">Crypto Briefing</a> report dots sometimes still pause before entering codes.</p>]]></description>
+</item>
 <item>
 <title>Meta launches Muse in Mexico, its first Latin American market, with local shopping and travel connectors</title>
 <link>https://about.fb.com/ltam/news/2026/09/presentamos-muse-el-primer-agente-de-ia-personal-del-mundo-creado-para-todos/</link>
@@ -528,28 +551,6 @@
 <guid isPermaLink="false">updatebot-agents-2026-10-23-dots-faster-calls</guid>
 <pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
 <description><![CDATA[<p>OpenAI's Tibo Sottiaux, who leads Codex and ChatGPT work, <a href="https://x.com/thsottiaux/status/2113770573994299544">said in his Day 19 update</a> that calls now connect much faster for dots.</p><p>The same post says changing the reasoning level mid-conversation in Codex and ChatGPT Work no longer invalidates the cache, and that the Codex CLI was updated. Dots pricing and post-launch usage limits are still unpublished on <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's dots help page</a>.</p>]]></description>
-</item>
-<item>
-<title>Grok Bot adds a Vault to save your logins, cards, and contact info</title>
-<link>https://x.ai/changelog/bot</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-23-grok-bot-vault</guid>
-<pubDate>Fri, 23 Oct 2026 21:35:06 GMT</pubDate>
-<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot"/>
-<p>Grok Bot v0.75.5, out today, adds a Vault in Settings where Bots save your logins, payment cards, and contact info once, then fill them in to sign in or check out for you. The <a href="https://x.com/bot/status/2113717946019397910">@bot announcement</a> says Bot "securely remembers them for the future," and the feature needs Grok Bot 0.75.2 or later.</p>
-<ul><li>Bots can now forward an email from their own inbox with its original formatting, images, and attachments.</li>
-<li>Auto-review asks less often for actions you requested in your own words, and Bots stop retrying after you deny an approval card.</li>
-<li>Routines can run up to 300 times an hour in total, up from 100.</li></ul>
-<p>Full notes are in the <a href="https://x.ai/changelog/bot">Grok Bot changelog</a>.</p>]]></description>
-</item>
-<item>
-<title>Grok Bot v0.75.2: video creation, Shop Pay and X Money checkout, pinned Library items, and shared memory across chats</title>
-<link>https://x.ai/changelog/bot</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-22-grok-bot-v0-75-2</guid>
-<pubDate>Fri, 23 Oct 2026 00:13:26 GMT</pubDate>
-<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot v0.75.2: video creation, Shop Pay and X Money check"/>
-<p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> now lists v0.75.2, dated Oct 22, which rolls up versions 0.72.0 through 0.75.1. Pages already shipped earlier this week, but the release adds a lot more:</p><ul><li>Bots can create videos from a description or from an image you share.</li><li>Bots can pay with Shop Pay, and you can connect X Money in one tap from a chat, the connector page, or checkout.</li><li>You can pin Library pages, files, and links to a Pinned section that syncs across devices.</li><li>What a personal Bot saves to memory in one chat is now remembered in all your chats with it.</li><li>Routines can read the Bot's inboxes, voice calls can draw on earlier calls and recent chat, and the Bot checks links before sending them.</li></ul><p>It also adds a Zoho CRM connector, more GitHub, Gmail, and Google Calendar abilities, new Team admin controls, a redesign of chat cards, and many fixes.</p>]]></description>
 </item>
 </channel>
 </rss>
