@@ -5,8 +5,19 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 07 Nov 2026 01:11:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 01:14:47 GMT</lastBuildDate>
     <item>
+<title>Franz Geffke prices one heavy month of agentic coding across subscriptions and APIs: frontier APIs cost 15 to 110x the plans</title>
+<link>https://gofranz.com/blog/what-a-month-of-coding-agent-tokens-costs/</link>
+<guid isPermaLink="false">updatebot-usage-2026-11-08-gofranz-month-of-tokens</guid>
+<pubDate>Mon, 09 Nov 2026 01:14:47 GMT</pubDate>
+<enclosure url="https://gofranz.com/assets/images/og/what-a-month-of-coding-agent-tokens-costs.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://gofranz.com/assets/images/og/what-a-month-of-coding-agent-tokens-costs.png" alt="Coding-agent tokens: subscriptions vs API"/>
+<p>Developer Franz Geffke took a real heavy month of agentic coding from his tku stats (about 500M uncached input, 15B cache reads, 50M output tokens, 100K requests) and <a href="https://gofranz.com/blog/what-a-month-of-coding-agent-tokens-costs/">priced it across subscriptions and pay-per-token APIs</a> as of Nov 3, 2026.</p>
+<p>At API rates that month costs about $6,500 on Claude Opus 5.5 and $12,500 on Fable 5.1. He measured Claude Max 20x ($200) as carrying about $2,000 of API-priced usage a week, and estimates ChatGPT Pro 200 plausibly carries the whole month on GPT-6.1 Sol (about $3,000 at API rates), though OpenAI doesn't publish its weekly allowance.</p>
+<p>His conclusion: for frontier models the API costs 15 to 110 times the subscription, while for cheaper open models (DeepSeek V4.1 Flash, GLM, Kimi via Ollama Cloud, Alibaba and others) the subscription advantage shrinks to about 2 to 4x. It complements <a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x">SemiAnalysis's plan-value study</a> with a single real workload priced end to end.</p>]]></description>
+</item>
+<item>
       <title>Quantslant: Claude Pro beats Opus API above ~35 short tasks/day; Max credits equal the plan price</title>
       <link>https://quantslant.com/claude-pro-max-vs-api-opus-costs/</link>
       <guid isPermaLink="false">updatebot-usage-2026-11-06-quantslant-claude-pro-max-vs-api</guid>
