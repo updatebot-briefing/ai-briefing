@@ -6,8 +6,52 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:25:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:20:25 GMT</lastBuildDate>
   <item>
+<title>PrimeBOT says its 10,000th personal robot rolled off the line, doubling output in two weeks</title>
+<link>https://www.globaltimes.cn/page/202611/1373887.shtml</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-11-08-primebot-10000th-robot</guid>
+<pubDate>Mon, 09 Nov 2026 01:20:25 GMT</pubDate>
+<enclosure url="https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-08/9c396eb6-1740-4cbf-aabd-871d29b940c2.jpeg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www.globaltimes.cn/Portals/0/attachment/2026/2026-11-08/9c396eb6-1740-4cbf-aabd-871d29b940c2.jpeg" alt="PrimeBOT personal robot">
+<p>Chinese robotics company PrimeBOT said on Sunday, Nov 8, that its 10,000th personal robot has come off the production line, just 14 days after it announced the 5,000th unit on Oct 25. The figures come from a company statement to the <a href="https://www.globaltimes.cn/page/202611/1373887.shtml">Global Times</a> and have not been independently verified.</p>
+<ul>
+<li>PrimeBOT began handing over its first Q1 and T1 personal robots on Oct 1 in seven Chinese cities, including Shanghai, Shenzhen and Hangzhou.</li>
+<li>Both models reportedly start at 19,999 yuan, about $3,000.</li>
+<li>The same report cites market researcher SAG saying Chinese makers took more than 97% of global humanoid shipments in the first half of 2026, with AgiBot (about 8,400 units) passing Unitree (about 5,900) for the first time.</li>
+</ul>
+<p>Why it matters: it is one of the fastest consumer embodied-AI production ramps reported so far, though the company hasn't said how many units have actually been delivered to customers.</p>]]></description>
+</item>
+<item>
+<title>Tau Robotics' teleoperated humanoid house cleaners go viral as it adds weekly subscriptions at $60 a visit</title>
+<link>https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-11-08-tau-robotics-home-cleaning-subscriptions</guid>
+<pubDate>Mon, 09 Nov 2026 01:20:25 GMT</pubDate>
+<enclosure url="https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://wp.technologyreview.com/wp-content/uploads/2026/11/TauRobot-3up.jpg?resize=1200,600" alt="Tau Robotics humanoid cleaning an apartment">
+<p>Videos of Tau Robotics' humanoid "Sergey" scrubbing a toilet in a San Francisco home were among the most-shared robot clips on X this weekend. The San Francisco startup runs an invite-only home-cleaning service using modified Unitree G1 humanoids, and it has now moved past its $30-per-robot-hour pilot pricing.</p>
+<ul>
+<li>Tau's <a href="https://www.tau-robotics.com/service-terms">service terms</a> now list $50 per humanoid per hour, with two robots normally sent, so a one-hour visit is $100.</li>
+<li>Recurring plans are cheaper: <a href="https://the-gadgeteer.com/2026/11/06/tau-robotics-robot-cleaner-subscriptions/">The Gadgeteer</a> reports $60 a visit weekly, $80 every two weeks and $90 every four weeks.</li>
+<li>The robots are not autonomous. A trained operator drives each one remotely through head and wrist cameras, and every visit is recorded to train future autonomous models.</li>
+</ul>
+<p>An <a href="https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/">MIT Technology Review</a> reporter who booked a visit found the robots thorough but slow, and a <a href="https://read.corematter.com/p/tau-robotics-humanoid-house-cleaning-review-san-francisco">customer review</a> said two robots finished about 80% of one floor in an hour before batteries needed swapping.</p>]]></description>
+</item>
+<item>
+<title>ATI Robotics' Sherpa Mecha factory humanoid cleared for continued U.S. sale after national-security review</title>
+<link>https://www.prnewswire.com/news-releases/ati-robotics-sherpa-mecha-humanoid-sherpa-10k-tugger-and-sherpa-flexfork-cleared-for-continued-us-sale-following-national-security-review-302932093.html</link>
+<guid isPermaLink="false">updatebot-humanoid-2026-11-08-ati-sherpa-mecha-us-clearance</guid>
+<pubDate>Mon, 09 Nov 2026 01:20:25 GMT</pubDate>
+<enclosure url="https://mmx.prnewswire.com/media/MS1831632/Ati-Robotics-Logo-002-Logo.jpg?id=OA3063051&amp;p=facebook" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://mmx.prnewswire.com/media/MS1831632/Ati-Robotics-Logo-002-Logo.jpg?id=OA3063051&amp;p=facebook" alt="ATI Robotics logo">
+<p>ATI Robotics says five of its platforms, including the Sherpa Mecha factory humanoid, the Sherpa 10K tugger and the Sherpa FlexFork, have been cleared from the FCC Covered List, the list that blocks foreign-built connected robots from new U.S. sales, under a notice dated Oct 30. The company announced it in a <a href="https://www.prnewswire.com/news-releases/ati-robotics-sherpa-mecha-humanoid-sherpa-10k-tugger-and-sherpa-flexfork-cleared-for-continued-us-sale-following-national-security-review-302932093.html">press release on Nov 6</a>.</p>
+<ul>
+<li>ATI says Sherpa Mecha is one of only two humanoids cleared so far and the only one built for factory work, so it can keep selling and servicing robots in the U.S. while most imported rivals can't.</li>
+<li>That "one of only two" claim and its deployment figures are company-reported, as the <a href="https://servobrief.com/briefing/2026-11-08">Servo briefing</a> notes.</li>
+</ul>
+<p>Why it matters: U.S. security rules are quickly becoming a market filter for humanoids, and clearance is now a selling point on its own.</p>]]></description>
+</item>
+<item>
     <title>Figure's San Jose HQ fills with dozens of walking Figure 03 robots in new campus videos</title>
     <link>https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos</link>
     <guid isPermaLink="false">updatebot-humanoid-2026-11-07-figure-03-hq-campus-videos</guid>
@@ -55,7 +99,6 @@
 </ul>
 <p>Chen discloses investments in several US hardware firms, including Minerva, a US humanoid maker. Sources: <a href="https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen">Humanoids Daily</a>; <a href="https://josef.cn/blog/unitree">Chen's factory notes</a>.</p>]]></description>
   </item>
-
       <item>
     <title>Musk says Tesla will probably rent Optimus robots, with build cost ~$30K falling toward $20K</title>
     <link>https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them</link>
@@ -766,53 +809,5 @@
 </ul>
 <p>Sources: <a href="https://x.com/adcock_brett/status/2113655817501393215">Brett Adcock's update on X</a>, <a href="https://x.com/adcock_brett/status/2112227583643509174">his original Oct 19 post</a>, <a href="https://x.com/coreylynch/status/2113763551861178777">Corey Lynch on Figure's video data scale</a>.</p>]]></description>
     </item>
-<item>
-      <title>XPENG's IRON humanoid switches between handshakes, fist bumps and high-fives in real time with VLA 2.0</title>
-      <link>https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-23-xpeng-iron-vla-2-gesture-demo</guid>
-      <pubDate>Fri, 23 Oct 2026 17:14:10 -0700</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xpeng-iron-interaction-hero-ddCiAPQmkEuuBnzuVzt0FVULICe9R3.webp" alt="" /></p>
-<p>XPENG released an R&amp;D test video of its IRON humanoid reading a person's hand gestures and changing its response mid-motion, with no voice commands.</p>
-<ul>
-<li>As the person switches between offering a handshake, a fist bump and a high-five, IRON adapts, including switching hands for a high-five.</li>
-<li>XPENG says IRON's VLA 2.0 model re-evaluates what it sees every 0.2 seconds and predicts motion over the next six seconds.</li>
-<li>This is a company-produced demo of social interaction, not a deployment, and XPENG hasn't shared independent test results.</li>
-</ul>
-<p>Sources: <a href="https://www.humanoidsdaily.com/news/xpeng-iron-vla-2-gesture-interaction-demo">Humanoids Daily</a>, <a href="https://news.cocoloop.cn/en/2026/10/xpeng-iron-vla-realtime-reasoning/">Cocoloop</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Figure 04 humanoid hits full design lock as Figure shares its internal all-hands publicly</title>
-      <link>https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-figure-04-design-lock</guid>
-      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-04-design-review.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-04-design-review.webp" alt="" /></p>
-<p>Figure CEO Brett Adcock published the company's internal all-hands meeting on X on Oct 22, saying Figure's roadmap "has completely changed over the last year" and the team has doubled.</p>
-<ul>
-<li>The headline milestone: Figure 04, the company's fourth-generation humanoid, has reached full design lock, and Figure has started shipping parts for it.</li>
-<li>Adcock calls it Figure's biggest hardware leap yet, an "iPhone 1 moment," aimed at easier manufacturing at the BotQ plant, lower cost, and home safety.</li>
-<li>No specs, price, or launch date were given, and the robot was shown blurred. Figure 03 stays the commercial product for now.</li>
-</ul>
-<p>Sources: <a href="https://www.humanoidsdaily.com/news/the-iphone-1-moment-figure-04-reaches-full-design-lock">Humanoids Daily</a>, <a href="https://humanoid.guide/figure-roadmap-has-completely-changed-brett-adcock-says/">Humanoid Guide</a>, <a href="https://x.com/adcock_brett/status/2113291696725516506">Brett Adcock's post on X</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Google DeepMind's Gemini 4 Argon teaches Apptronik's Apollo humanoid a skill straight from video</title>
-      <link>https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-22-deepmind-gemini-4-argon-apollo</guid>
-      <pubDate>Thu, 22 Oct 2026 17:15:10 -0700</pubDate>
-      <enclosure url="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/google-deepmind-argon-apollo-1.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/google-deepmind-argon-apollo-1.png" alt="" /></p>
-<p>As part of the Gemini 4 Argon launch, Google DeepMind showed a "Video-to-Sim-to-Real" pipeline: Argon watched raw video of a person playing cornhole, mapped the scene, worked out the whole-body joint motions, and wrote its own simulation code. The learned behavior was then transferred to Apptronik's Apollo humanoid.</p>
-<ul>
-<li>DeepMind says Apollo landed seven consecutive shots in a real-world trial.</li>
-<li>It says the pipeline compresses weeks of manual simulation modeling into a few hours.</li>
-<li>Argon scored 87% on DeepMind's Embodied Reasoning (ERQA) benchmark. These results are DeepMind's own internal tests.</li>
-</ul>
-<p>Source: <a href="https://roboticsandautomationnews.com/2026/10/22/google-deepmind-uses-gemini-4-argon-to-teach-apptroniks-apollo-humanoid-new-skills-from-video/106227/">Robotics &amp; Automation News</a>.</p>]]></description>
-    </item>
-
-
-
 </channel>
 </rss>
