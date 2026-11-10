@@ -5,8 +5,20 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 09 Nov 2026 01:14:47 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 01:09:57 GMT</lastBuildDate>
     <item>
+<title>PlanLimits dashboard compares published limits for 44 AI plans across 14 vendors, with a dated change log</title>
+<link>https://aiplanlimits.dev/</link>
+<guid isPermaLink="false">updatebot-usage-2026-11-09-aiplanlimits-dashboard</guid>
+<pubDate>Tue, 10 Nov 2026 01:09:57 GMT</pubDate>
+<enclosure url="https://aiplanlimits.dev/og.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://aiplanlimits.dev/og.png" alt="PlanLimits"/>
+<p><a href="https://aiplanlimits.dev/">PlanLimits (aiplanlimits.dev)</a> is a new comparison site that tracks the published usage limits and prices of 44 AI plans from 14 vendors, including ChatGPT, Claude, Gemini, the X Subscription (Grok and Cursor), GitHub Copilot, Perplexity and Windsurf.</p>
+<p>Every number links to the vendor's official page with the date it was last checked, and the site refuses to invent message caps that vendors don't publish. It also logs plan changes, such as Claude Max 20x becoming Ultra on Oct 30 and OpenAI doubling Pro Codex allowances on Oct 29.</p>
+<p>It has 30 head-to-head pages, such as <a href="https://aiplanlimits.dev/compare/claude-max-vs-chatgpt-pro/">Claude Max vs ChatGPT Pro</a>, which notes that neither lab publishes the size of its weekly allowance. Unlike SemiAnalysis, it doesn't measure limits itself, so it complements rather than replaces API-equivalent value testing.</p>
+]]></description>
+</item>
+<item>
 <title>Franz Geffke prices one heavy month of agentic coding across subscriptions and APIs: frontier APIs cost 15 to 110x the plans</title>
 <link>https://gofranz.com/blog/what-a-month-of-coding-agent-tokens-costs/</link>
 <guid isPermaLink="false">updatebot-usage-2026-11-08-gofranz-month-of-tokens</guid>
