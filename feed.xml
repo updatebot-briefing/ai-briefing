@@ -10,6 +10,60 @@
     <lastBuildDate>Sun, 08 Nov 2026 01:06:13 GMT</lastBuildDate>
             
     <item>
+      <title>Anthropic releases Claude Fable 5.2 and Mythos 5.2, topping Opus 5.5 on most benchmarks</title>
+      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-09-claude-fable-mythos-5-2</guid>
+      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
+      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" alt=""></p>
+<p>Anthropic <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">released Claude Fable 5.2 and Claude Mythos 5.2</a> on November 9. They are the same underlying model: Fable ships to all users with cyber and biology safeguards, while Mythos is reserved for vetted organizations through Anthropic's Cyber and Life Sciences Verification Programs.</p>
+<ul><li>Pricing drops to $8 per million input and $40 per million output tokens, with output up to 30% faster than the 5.1 models and an optional fast mode (up to 2.5x speed at $16/$80).</li>
+<li>Anthropic's table shows Fable 5.2 ahead of Opus 5.5, GPT-6 Astra and Gemini 4 Carbon on most tests, including 49.1% on FrontierCode 2.0, 69.9% on FrontierSWE v2 and 74.2% on Humanity's Last Exam with tools.</li>
+<li>In prerelease testing, 1,000 Fable 5.2 agents formalized Fermat's Last Theorem in Lean in 30 hours, and the model solved two open black-hole physics problems.</li></ul>
+<p>Anthropic says it deliberately held back AI-R&amp;D capabilities like kernel optimization to about Opus 5.5 level. Announced on X by <a href="https://x.com/AnthropicAI/status/2119867707546071125">@AnthropicAI</a>; Hacker News and Artificial Analysis coverage put it at the top of current leaderboards.</p>]]></description>
+    </item>
+    <item>
+      <title>Nvidia's board opens an independent investigation after reports Jensen Huang was targeted by Chinese intelligence</title>
+      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-09-nvidia-board-probe-jensen-huang</guid>
+      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
+      <enclosure url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-alice-huang-rs-1ce3dd.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-alice-huang-rs-1ce3dd.jpg" alt=""></p>
+<p>Nvidia's board <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">said on November 8</a> that a committee of independent directors, with outside counsel, will investigate reporting that CEO Jensen Huang was the target of a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised and that it still has confidence in Huang.</p>
+<p>According to <a href="https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148">NBC News</a>, the New York Times and Financial Times reported that Huang had a relationship with Alice Huang, a Chinese businesswoman whose company bought Nvidia chips and who US intelligence believes was recruited by China's spy agency; Huang admitted the affair in a memo to staff, and China called the allegation a smear.</p>
+<p>It matters because Nvidia supplies most of the world's AI compute and Huang has lobbied to loosen China chip export limits. <a href="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html">CNBC</a> reports investors are watching for governance fallout and the lack of a public succession plan.</p>]]></description>
+    </item>
+    <item>
+      <title>Meta launches Muse Ember, its smallest and cheapest Muse model at $0.10/$0.50 per million tokens</title>
+      <link>https://research.meta.ai/blog/muse-ember</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-09-meta-muse-ember</guid>
+      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
+      <enclosure url="https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp" alt=""></p>
+<p>Meta Superintelligence Labs <a href="https://research.meta.ai/blog/muse-ember">introduced Muse Ember</a>, a small multimodal model built for the high-volume steps agents repeat: tool calls, coding subtasks, routing, extraction and long-document parsing. It costs $0.10 per million input and $0.50 per million output tokens, with a 1M-token context and up to 512K output tokens, on the Meta Model API and Muse Code.</p>
+<p>Meta says Ember matches Claude Haiku 5.5's top Artificial Analysis score at about a third of the cost and beats GPT-6 Luna at every setting; it is the first model trained using Muse Wonder Full. Meta also <a href="https://x.com/AIatMeta/status/2119912647034642817">brought Ember, Wonder and Spark 1.3 to Google Cloud</a>. Benchmarks are Meta's own or Artificial Analysis figures Meta cited. Coverage: <a href="https://www.theverge.com/tech/1029979/meta-is-launching-its-smallest-and-most-efficient-ai-model-muse-ember">The Verge</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>Anthropic buys $3.4 billion of gas generators for 1.7 GW of data-center power</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-09-anthropic-3-4b-gas-generators</guid>
+      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
+      <enclosure url="https://media.datacenterdynamics.com/media/images/Anthropic.2e16d0ba.fill-1200x630.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://media.datacenterdynamics.com/media/images/Anthropic.2e16d0ba.fill-1200x630.jpg" alt=""></p>
+<p>Anthropic took over about $3.4 billion of Caterpillar gas-generator orders originally placed by Texas supplier OnePWR Solutions, securing up to 1.7 GW of power for its data centers, according to a Financial Times report covered by <a href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/">TechCrunch</a> and <a href="https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html">CNBC</a>. The deal reportedly closed in late September; Anthropic did not buy OnePWR, which will help install the equipment.</p>
+<p>It's a shift for a lab that has mostly rented compute, and <a href="https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/">DCD</a> calls it the largest known single power-equipment purchase by a frontier lab. Anthropic hasn't publicly commented, so details rest on the FT's sourcing.</p>]]></description>
+    </item>
+    <item>
+      <title>OpenAI deploys Control Room to halt any research model workload within 35 seconds</title>
+      <link>https://openai.com/index/control-room</link>
+      <guid isPermaLink="false">updatebot-ainews-2026-11-09-openai-control-room</guid>
+      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""></p>
+<p>OpenAI <a href="https://openai.com/index/control-room">described Control Room</a>, a central service that every research inference workload must check with before getting model output. If a person or a misalignment monitor stops a job, its next requests are refused within 35 seconds, even if the job's own code keeps running.</p>
+<p>The system fails closed, so if Control Room goes down or is tampered with, research inference stops; that is live for frontier research workloads now and finishing rollout elsewhere in the next few days. Every agentic research job must also be tied to an approved safety case. It's a concrete safety control aimed at runaway or misaligned training runs, announced on <a href="https://x.com/OpenAI/status/2119913172039868579">X</a>.</p>]]></description>
+    </item>
+    <item>
       <title>AI system running an unreleased Anthropic model proves the 18-year-old Aaronson–Ambainis quantum conjecture</title>
       <link>https://psi.inc/research/aaronson-ambainis/</link>
       <description><![CDATA[<p><img src="https://psi.inc/og/ring-arch-2.png" alt=""/></p>
@@ -636,62 +690,5 @@
 <p>What's new versus the leaked draft is the full prospectus: an $80.7 billion first-half net loss on $16.3 billion of revenue, though most of that loss is a non-cash charge on convertible notes and the operating loss was $693 million. It also lays out an unusual governance setup: a Long-Term Benefit Trust that elects a board majority, and a single Class F share held by the seven co-founders that carries 50.1% of the general voting power.</p>
 <p>This would be one of the biggest IPOs ever and the first public listing of a frontier lab, ahead of OpenAI. Read <a href="https://www.anthropic.com/news/s1-sec">Anthropic's announcement</a>, the <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm">S-1 on the SEC site</a>, and <a href="https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec">The Verge's writeup</a>.</p>]]></description>
 </item>
-<item>
-<title>Banks and Blackstone line up $63 billion to buy Broadcom AI chips and lease them to Anthropic</title>
-<link>https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce</link>
-<guid isPermaLink="false">updatebot-ainews-2026-10-26-broadcom-63b-financing-anthropic-compute</guid>
-<pubDate>Mon, 26 Oct 2026 17:14:28 -0700</pubDate>
-<enclosure url="https://investors.broadcom.com/sites/g/files/knoqqb13036/themes/site/nir_pid1211/client/images/broadcom-logo.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://investors.broadcom.com/sites/g/files/knoqqb13036/themes/site/nir_pid1211/client/images/broadcom-logo.png" alt="Broadcom logo"/>
-<p>Bank of America, Citi, Morgan Stanley and Blackstone announced a $63 billion financing for a new special-purpose company that will buy Broadcom's custom XPU accelerators and networking gear and lease them to Anthropic, with deliveries starting in 2027.</p>
-<p>The deal covers about 1.7 gigawatts of the 3.5-gigawatt compute agreement Broadcom has with Anthropic, according to Broadcom's lawyers at Sullivan &amp; Cromwell. Broadcom is guaranteeing the asset value up to the size of the senior debt, so the chipmaker carries much of the risk if the hardware loses value.</p>
-<p>It's one of the largest debt deals yet tied to the AI buildout, and it landed the same day as Anthropic's IPO filing. Read <a href="https://investors.broadcom.com/news-releases/news-release-details/bank-america-blackstone-citi-and-morgan-stanley-announce">the announcement</a>, <a href="https://www.sullcrom.com/About/News-and-Events/Highlights/2026/October/SC-Advises-Broadcom-63-Billion-Landmark-AI-Compute-Financing-Structure">Sullivan &amp; Cromwell's note</a>, and <a href="https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662">Reuters' report</a>.</p>]]></description>
-</item>
-<item>
-<title>Microsoft offers buyouts to about 60,000 employees, roughly 27% of its workforce, as AI spending climbs</title>
-<link>https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/</link>
-<guid isPermaLink="false">updatebot-ainews-2026-10-26-microsoft-buyouts-60000-ai-spending</guid>
-<pubDate>Mon, 26 Oct 2026 17:14:28 -0700</pubDate>
-<enclosure url="https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108464648-1793029800901-gettyimages-2225682496-MICROSOFT_HACK.jpeg?v=1793029842&amp;w=1920&amp;h=1080" alt="Microsoft"/>
-<p>Microsoft announced a Voluntary Exit Offer for employees at level 70 and below on participating teams in the US, Canada, India and the UK. About 60,000 people are eligible, roughly 27% of its 223,000 staff, according to CNBC and AP. Some sales, marketing, security and engineering teams are not taking part.</p>
-<p>Employees have until early December to decide and would leave on December 31. Business Insider reports that US offers match Microsoft's standard severance. The move comes as Microsoft's quarterly capital spending tops $50 billion for AI data centers, and it is one of the clearest signs yet of a giant tech company reshaping its workforce around AI costs.</p>
-<p>Read <a href="https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/">Microsoft's memo</a> and <a href="https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html">CNBC's coverage</a>.</p>]]></description>
-</item>
-<item>
-<title>OpenAI says its AI disproved the Exponential Time Hypothesis, proved the Kakeya conjecture in all dimensions, and proved QCD exists</title>
-<link>https://openai.com/index/building-scientific-understanding-with-academic-communities/</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-26-openai-ai-proofs-eth-kakeya-qcd</guid>
-<pubDate>Mon, 26 Oct 2026 22:30:05 GMT</pubDate>
-<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://images.ctfassets.net/kftzwdyauwt9/5HKwJOTURosg0IoKJA21s8/88eefd210a578266fca1a9d9454daadc/from-ai-results-to-scientific-understanding-social.png?w=1600&amp;h=900&amp;fit=fill" alt="OpenAI announcement image"/>
-<p>OpenAI says its internal models produced three major results, each formalized or being written up, and is handing them to outside experts to verify and explain. It is not claiming academic credit.</p>
-<ul>
-<li><b>Math:</b> a proof of Sogge's local smoothing conjecture in every dimension, which would also settle the Kakeya and Stein restriction conjectures in all dimensions. The AI writeup and a Lean proof are public on GitHub.</li>
-<li><b>Computer science:</b> a disproof of the Exponential Time Hypothesis, verified in Lean. A group led by Russell Impagliazzo and Ramamohan Paturi (who proposed the ETH) and Ryan Williams will shepherd it, and OpenAI will fund a conference on it.</li>
-<li><b>Physics:</b> a rigorous existence proof for 4D quantum chromodynamics and a completion of the Standard Model, including pure Yang–Mills existence (part of a Clay Millennium Prize problem). A group led by Nobel laureate David Gross will write it up before materials are released.</li>
-</ul>
-<p>None of this has been independently confirmed yet. Read <a href="https://openai.com/index/building-scientific-understanding-with-academic-communities/">OpenAI's announcement</a> and <a href="https://x.com/gdb/status/2114837059462627533">Greg Brockman's post</a>.</p>]]></description>
-</item>
-<item>
-      <title>Meta plans to raise up to $95 billion in stock to pay for its AI buildout, one of the largest equity raises ever</title>
-      <link>https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-26-meta-95b-equity-raise-ai</guid>
-      <pubDate>Mon, 26 Oct 2026 12:36:17 -0700</pubDate>
-      <enclosure url="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://s21.q4cdn.com/399680738/files/design/2022/Meta_Symbol_PositivePrimary_RGB-(2).png" alt=""/><p>Meta <a href="https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx">announced today</a> a financing plan to raise up to $95 billion in equity for AI infrastructure and what it calls personal superintelligence. It launched about $35 billion in underwritten offerings right away, roughly $22.5 billion of Class A stock and $12.5 billion of mandatory convertible preferred shares, and plans a separate $60 billion at-the-market program in its new non-voting Class C shares, expected to start in early 2027.</p>
-<p>Nvidia, AMD and Broadcom have indicated interest in buying up to $5 billion of the Class A shares. Meta says it expects $135 to $145 billion of capital spending in 2026, covering its apps, its Muse agent and its data centers (<a href="https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html">CNBC</a>, <a href="https://qz.com/meta-raising-95-billion-equity-ai-spending-102626">Quartz</a>).</p>
-<p>Why it matters: Bloomberg calls it one of the largest equity offerings in history, and it shows even the richest AI spenders are now selling stock, not just borrowing, to keep up with compute costs.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI launches GPT-6.1 Terra, a fast computer-use model at $1/$5 per million tokens</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra/</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-26-openai-gpt-6-1-terra</guid>
-      <pubDate>Mon, 26 Oct 2026 11:31:38 -0700</pubDate>
-      <enclosure url="https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://developers.openai.com/og/api/docs/models/gpt-6.1-terra.png" alt=""/><p>OpenAI <a href="https://openai.com/index/introducing-gpt-6-1-terra/">launched GPT-6.1 Terra</a> today, a fast, lower-cost model built for visual reasoning, precise computer use, and more natural writing. It's rolling out now to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex, and to developers in the API as <code>gpt-6.1-terra</code> with a 1.05M-token context window (<a href="https://developers.openai.com/api/docs/models/gpt-6.1-terra">model docs</a>).</p>
-<p>API pricing is $1 per million input tokens and $5 per million output tokens, which OpenAI says is 50% below GPT-5.6 Terra and GPT-6.1 Sol. OpenAI claims it matches GPT-6 Astra on its Agents' Last Exam computer-use benchmark at about one-tenth the price per token, runs over three times faster than Astra and Sol, and more than doubles GPT-5.6 Terra on Terminal-Bench 4.0 (50.3% vs 21.5%). OpenAI still recommends Sol and Astra for the hardest coding work.</p>
-<p>Why it matters: it's a cheap, fast computer-use model aimed squarely at high-volume agent work, and the same ChatGPT plan allowance now covers more tasks (<a href="https://x.com/OpenAI/status/2114780711664398349">OpenAI on X</a>).</p>]]></description>
-    </item>
 </channel>
 </rss>
