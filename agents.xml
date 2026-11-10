@@ -7,7 +7,63 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 09 Nov 2026 01:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:09:57 GMT</lastBuildDate>
+<item>
+<title>Grok Bot resets weekly usage limits for every user</title>
+<link>https://x.com/bot/status/2119871982946971659</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-09-grok-bot-weekly-limit-reset</guid>
+<pubDate>Tue, 10 Nov 2026 01:09:57 GMT</pubDate>
+<description><![CDATA[<p>The official Grok Bot account <a href="https://x.com/bot/status/2119871982946971659">posted on Nov 9 around 11:17am PT</a> that it has reset weekly limits for all Grok Bot users.</p>
+<p>The reset follows a week of complaints on X about tighter Grok Bot usage caps, after Elon Musk said running the agent costs far more than subscriptions bring in.</p>
+<p>The post gave no sign that the caps themselves changed, so this looks like a one-time reset rather than a new allowance. The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> is still on v0.79.3 from Nov 6.</p>
+]]></description>
+</item>
+<item>
+<title>OpenAI dots can now connect to several of your computers and pick which one runs each task</title>
+<link>https://x.com/OpenAIDevs/status/2119883176726409645</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-09-dots-multiple-local-computers</guid>
+<pubDate>Tue, 10 Nov 2026 01:09:57 GMT</pubDate>
+<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2119883144707047424/img/CxuDM2R-jRXJG53z.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2119883144707047424/img/CxuDM2R-jRXJG53z.jpg" alt="dots multiple computers"/>
+<p><a href="https://x.com/OpenAIDevs/status/2119883176726409645">OpenAI Developers announced on Nov 9</a> that you can now connect multiple local computers to the same dot and choose which one it uses for a task.</p>
+<p>OpenAI's example is having the dot build and test your app on a dedicated machine while you keep coding on your laptop. Before this, a dot could link to only one desktop besides its own cloud computer.</p>
+<p>You add each machine from the dot's profile in the ChatGPT desktop app, and each task still runs on one computer at a time, according to <a href="https://hermes-ai.net/news/openai-s-dots-agents-can-now-control-multiple-computers-at-once/">a summary of the updated docs</a>. There is no extra charge beyond the existing dots plans.</p>
+]]></description>
+</item>
+<item>
+<title>Meta's Muse agent arrives on Apple Watch and Wear OS</title>
+<link>https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-09-muse-smartwatches</guid>
+<pubDate>Tue, 10 Nov 2026 01:09:57 GMT</pubDate>
+<enclosure url="https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://images.macrumors.com/t/Xim5fv6t6cpkTIwvTX8EpK9xui8=/1874x/article-new/2026/11/muse-apple-watch-app.jpg" alt="Muse on Apple Watch"/>
+<p>Meta launched Muse on Apple Watch and Android Wear OS on Nov 9, which <a href="https://x.com/alexandr_wang/status/2119918987543032038">Alexandr Wang announced on X</a> as a "Muse launch alert."</p>
+<p>On the watch you can text Muse, dictate to it, or call it, and a watch-face complication opens it in one tap, <a href="https://www.macrumors.com/2026/11/09/meta-muse-apple-watch/">MacRumors reports</a>. The Apple Watch app ships in version 15.0 of the Muse iOS app.</p>
+<p><a href="https://www.theverge.com/tech/1030492/muse-is-now-available-on-smartwatches">The Verge</a> also confirmed Wear OS support, while <a href="https://appleinsider.com/articles/26/11/09/metas-muse-ai-now-has-an-apple-watch-app-which-you-shouldnt-install">AppleInsider</a> urged readers to skip it over privacy concerns.</p>
+]]></description>
+</item>
+<item>
+<title>Hermes Cloud agents now open in a browser tab with the full Hermes Desktop interface</title>
+<link>https://x.com/NousResearch/status/2119851439904510217</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-09-hermes-cloud-browser-tab</guid>
+<pubDate>Tue, 10 Nov 2026 01:09:57 GMT</pubDate>
+<enclosure url="https://web-assets.nousresearch.com/marketing/06307482b9b93bbbf8172fdbdae5073cab3326bb/assets/hermes-landing/cloud/cloud-card.png" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://web-assets.nousresearch.com/marketing/06307482b9b93bbbf8172fdbdae5073cab3326bb/assets/hermes-landing/cloud/cloud-card.png" alt="Hermes Cloud"/>
+<p><a href="https://x.com/NousResearch/status/2119851439904510217">Nous Research said on Nov 9</a> that Hermes Cloud agents now open in a browser tab with the same interface as Hermes Desktop.</p>
+<p>You launch a personal agent in <a href="https://portal.nousresearch.com/cloud">Nous Portal</a> by picking a name and a model. Nous hosts it 24/7 in its own container, so it can run scheduled jobs and answer you on any channel while your laptop is closed.</p>
+<p>Chats, Group Chats, plugins and settings work the same as on your own computer, and you can connect Hermes Desktop to the cloud agent to continue the same chats. Plus, Super and Ultra plans each include one Cloud agent.</p>
+]]></description>
+</item>
+<item>
+<title>China Telecom's TeleAgent 3.0 gives its agent its own Windows cloud PC</title>
+<link>https://www.stdaily.com/web/gdxw/2026-11/09/content_610688.html</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-09-teleagent-v3-cloud-pc</guid>
+<pubDate>Tue, 10 Nov 2026 01:09:57 GMT</pubDate>
+<description><![CDATA[<p>China Telecom's AI unit upgraded its TeleAgent super-agent to version 3.0, with the headline change being a dedicated cloud computer for the agent, <a href="https://www.stdaily.com/web/gdxw/2026-11/09/content_610688.html">Science and Technology Daily reported on Nov 9</a>.</p>
+<p>Tasks keep running in the cloud even when your own computer is off, and the agent can install software and handle work like Blender 3D modeling, documents and spreadsheets, coding and video editing. You can send tasks from the desktop app, watch progress on your phone, or log in from a web browser.</p>
+<p>The release also syncs memory across devices, adds connectors for Chinese office apps like Tencent Meeting and QQ Mail, and isolates the cloud machine from your local device. <a href="https://readmex.ai/story/ai-6f67a5b4">Hands-on tests by Synced</a> had it install WeCom and build a Blender car model on its own.</p>
+]]></description>
+</item>
 <item>
 <title>Nous ships an official Security plugin that has Hermes Agent hunt for exploitable bugs in your codebase</title>
 <link>https://x.com/NousResearch/status/2119501958981857543</link>
@@ -513,44 +569,6 @@
 <pubDate>Sun, 25 Oct 2026 00:16:37 GMT</pubDate>
 <enclosure url="https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_200x200.jpg" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1642401912648777728/2KFikPsE_200x200.jpg" alt=""/><p>Nous Research co-founder Teknium <a href="https://x.com/Teknium/status/2114074719788101828">replied on X on Saturday</a> that Hermes Agent now has a TestFlight build and an Android beta out, answering a user who said Hermes had no mobile app.</p><p>Until now Hermes was used from the terminal, desktop, and chat apps like Telegram, and Teknium had only teased that an official app was coming. Nous hasn't published a public sign-up link, release notes, or a launch date, so treat this as an early beta confirmed by a team member rather than a general release. The latest tagged Hermes release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.22.5</a>.</p>]]></description>
-</item>
-<item>
-<title>OpenAI's dots lead says he's hiring to scale dots to 1 billion users, and Meta's Alexandr Wang fires back</title>
-<link>https://x.com/thsottiaux/status/2114074885622501706</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-24-dots-1b-users-wang-jab</guid>
-<pubDate>Sun, 25 Oct 2026 00:16:37 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg" alt=""/><p>OpenAI's Tibo Sottiaux, who leads Codex and ChatGPT Work, <a href="https://x.com/thsottiaux/status/2114074885622501706">posted on Saturday</a> asking people who have done it before to DM him if they want to help scale dots to 1 billion users. The post drew about 480,000 views in a few hours.</p><p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2114091409485828200">replied "oops you misspelled muse"</a>, and Sottiaux <a href="https://x.com/thsottiaux/status/2114125293124542632">shot back</a> with a jab about Muse having "12 users." It's a public sign of how directly OpenAI and Meta now see dots and Muse as rivals, not a product change. Dots is still limited to Pro and Business Premium plans, and its post-launch usage terms are still unpublished on <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's dots help page</a>.</p>]]></description>
-</item>
-<item>
-<title>Grok models went down across Grok Bot and Cursor Friday afternoon, with a fix now rolling out</title>
-<link>https://stspg.io/gr52z37rn6l2</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-23-grok-models-outage</guid>
-<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
-<description><![CDATA[<p>Cursor's status page <a href="https://stspg.io/gr52z37rn6l2">posted a service outage</a> at 4:39pm PT Friday saying Grok models were unavailable. The incident lists Grok Bot along with Cloud Agents, Automations, the CLI, the IDE, and cursor.com as affected.</p><p>At 4:50pm PT the team said a fix had been implemented and Grok models were recovering; as of about 5:10pm PT the incident is still in monitoring, not marked resolved. Live status is at <a href="https://status.cursor.com">status.cursor.com</a>.</p>]]></description>
-</item>
-<item>
-<title>Hermes Agent v0.22.5 rolls up 81 PRs, including reworked Nous sign-in and usage-window plan gauges</title>
-<link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-23-hermes-v0-22-5</guid>
-<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
-<enclosure url="https://opengraph.githubassets.com/1d7e3caae490e6b8bc0644933e041b72abac432d061ef3f87ffbd84c7848941b/NousResearch/hermes-agent/releases/tag/v0.22.5" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://opengraph.githubassets.com/1d7e3caae490e6b8bc0644933e041b72abac432d061ef3f87ffbd84c7848941b/NousResearch/hermes-agent/releases/tag/v0.22.5" alt="Hermes Agent v0.22.5"/>
-<p>Nous Research tagged <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.5">Hermes Agent v0.22.5</a> on Oct 22, a patch release that rolls up about 81 merged PRs since v0.22.4 for the CLI, installers, the Microsoft Store app, Docker, and Hermes Cloud. Full curated notes are promised with v0.23.0.</p><p>Changes the release names include:</p><ul><li>Nous sign-in reworked so every sign-in uses the plain device login, and the free-tier guest hands over to your account.</li><li>Plan gauges, limit cards, and model-switch recovery for usage-window plans.</li><li>Pluggable delegation backends that route subagents by model map or profile, plus <code>hermes import-agent</code> and OpenClaw migration.</li><li>Hermes Desktop drag-to-pin in the sidebar and one-click plugin installs with tier badges.</li></ul><p>Update with <code>hermes update</code> or the <a href="https://github.com/NousResearch/hermes-agent/compare/v0.22.4...v0.22.5">full changelog</a>.</p>]]></description>
-</item>
-<item>
-<title>Meta's Muse launches in Japan and hits #1 on the app charts a day later</title>
-<link>https://x.com/alexandr_wang/status/2113430642440736859</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-23-meta-muse-japan-launch</guid>
-<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
-<description><![CDATA[<p>Meta launched Muse in Japan on Oct 22, with Alexandr Wang <a href="https://x.com/alexandr_wang/status/2113430642440736859">announcing</a> it was available in app stores there and the official <a href="https://x.com/Muse/status/2113404740931670283">@Muse account greeting Japan</a>.</p><p>A day later Wang <a href="https://x.com/alexandr_wang/status/2113682089166184649">posted that Muse was the #1 app in Japan</a>, sharing a chart screenshot. That ranking comes from Wang's post and hasn't been confirmed by an independent tracker yet.</p>]]></description>
-</item>
-<item>
-<title>OpenAI says calls with dots now connect much faster</title>
-<link>https://x.com/thsottiaux/status/2113770573994299544</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-23-dots-faster-calls</guid>
-<pubDate>Sat, 24 Oct 2026 00:08:16 GMT</pubDate>
-<description><![CDATA[<p>OpenAI's Tibo Sottiaux, who leads Codex and ChatGPT work, <a href="https://x.com/thsottiaux/status/2113770573994299544">said in his Day 19 update</a> that calls now connect much faster for dots.</p><p>The same post says changing the reasoning level mid-conversation in Codex and ChatGPT Work no longer invalidates the cache, and that the Codex CLI was updated. Dots pricing and post-launch usage limits are still unpublished on <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">OpenAI's dots help page</a>.</p>]]></description>
 </item>
 </channel>
 </rss>
