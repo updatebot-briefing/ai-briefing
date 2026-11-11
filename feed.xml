@@ -7,9 +7,53 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 01:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
             
+    
     <item>
+      <title>Anthropic takes Claude into meetings, sheets and whiteboards on IPO roadshow day</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-anthropic-claude-office-tools</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" alt=""/></p>
+<p>Anthropic launched a workplace suite for Claude, the same day it opened its IPO roadshow: <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">Claude Meetings</a> joins Google Meet calls as a visible participant and drafts plans while people talk, while Claude Sheets builds collaborative spreadsheets and Claude Whiteboards turns planning talk into a shared board with timelines and owners.</p><p>Meetings is in beta for Team and Enterprise plans; Sheets and Whiteboards are in beta on paid plans. Claude Data is now generally available, and interactive connectors open apps like Adobe and Atlassian inside Claude.</p><p>Why it matters: Anthropic is moving beyond coding into office workers' daily work, taking on Microsoft and Google directly — on day one of its roadshow for what could be the largest IPO ever.</p>]]></description>
+    </item>
+    <item>
+      <title>New York opens RAISE Act registration for frontier AI labs</title>
+      <link>https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-ny-raise-act-registration-opens</guid>
+      <pubDate>Tue, 10 Nov 2026 21:25:00 GMT</pubDate>
+      <enclosure url="https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center/opengraph-image?99fd91dcd2b2fd56" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center/opengraph-image?99fd91dcd2b2fd56" alt=""/></p>
+<p>New York has opened registration for large frontier AI developers under the RAISE Act, Governor Kathy Hochul announced Tuesday. Labs including OpenAI and Anthropic must register by January 1, 2027, when the law's central provisions take effect.</p><p>Covered developers — those with more than $500 million in annual revenue training models above 10^26 operations — must publish safety frameworks, issue public model transparency reports and report critical safety incidents within 72 hours. Penalties run up to $1 million for a first violation and $3 million for later ones.</p><p>Why it matters: this is the first US state regulator directly supervising the frontier labs, landing alongside California's SB 53 and Illinois's audit law — labs now face overlapping state regimes with different reporting clocks.</p>]]></description>
+    </item>
+    <item>
+      <title>Claude Fable 5.2 completes 41% of real freelance jobs, up from 2.5% a year ago</title>
+      <link>https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-fable-5-2-remote-labor-index-41</guid>
+      <pubDate>Tue, 10 Nov 2026 17:11:00 GMT</pubDate>
+      <enclosure url="https://the-decoder.com/wp-content/uploads/2026/11/RLI-Bench-Fable5-2-1200x569.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/11/RLI-Bench-Fable5-2-1200x569.png" alt=""/></p>
+<p>Anthropic's Claude Fable 5.2 now leads the <a href="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/">Remote Labor Index</a> from Scale Labs and the Center for AI Safety, completing 41.3% of real freelance projects at a quality a paying client would accept — nearly double the next-best systems, Opus 5.5 at 21.25% and GPT-6 Astra at 20.83%.</p><p>The benchmark hands agents 240 real Upwork projects worth about $144,000, averaging $632.60 and ~29 hours of human work each, with human experts grading every deliverable. When the test launched about a year ago, the top system managed just 2.5%.</p><p>Why it matters: the sharpest evidence yet that frontier agents are crossing from demos into billable work — though agents still fail nearly 60% of jobs, and struggle most with industrial product design and animation.</p>]]></description>
+    </item>
+    <item>
+      <title>TSMC board approves up to $1 billion for Anthropic and OpenAI stakes</title>
+      <link>https://voltgridnews.com/story/tsmc-board-approves-up-to-1-billion-in-anthropic-openai-stakes</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-tsmc-1b-anthropic-openai</guid>
+      <pubDate>Tue, 10 Nov 2026 14:37:00 GMT</pubDate>
+      <enclosure url="https://voltgridnews.com/media/5cab6568-f62f-471a-8479-1588317bb510/88e1f462-7db0-40b5-bd7e-157332201985.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://voltgridnews.com/media/5cab6568-f62f-471a-8479-1588317bb510/88e1f462-7db0-40b5-bd7e-157332201985.png" alt=""/></p>
+<p>TSMC's board approved up to $1 billion in investments in the two leading AI developers on Tuesday: up to $500 million for Anthropic common shares at the IPO price, and up to $500 million for preferred stock in OpenAI, according to board resolutions filed with the SEC on Form 6-K.</p><p>The approvals are spending ceilings, not completed purchases — TSMC has not said when the shares will be bought or at what final terms for OpenAI. The same meeting approved about $40.9 billion in capital appropriations for chip capacity and 2027 R&amp;D.</p><p>Why it matters: the world's biggest chipmaker is becoming a shareholder in its two biggest indirect AI customers, tying the AI supply chain to the labs' equity just as Anthropic heads for the public markets.</p>]]></description>
+    </item>
+    <item>
+      <title>Grok 4.8 is in RL after SpaceXAI dumps JAX for C++</title>
+      <link>https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-grok-4-8-in-rl</guid>
+      <pubDate>Tue, 10 Nov 2026 09:35:00 GMT</pubDate>
+      <description><![CDATA[<p>Elon Musk said Tuesday that Grok 4.8's pre-training is done and the model is now in reinforcement learning, with evals he says are starting to climb. He also said SpaceXAI has dumped JAX and SGLang and rewritten its entire RL and inference stack from scratch in C/C++, which took extra time — 57 days after he first said 4.8 would finish training and start RL.</p><p>Musk promised a soft rollout to Grok Bot users later this week, with no scope, date or price given, and published no benchmark scores. In a follow-up reply he said Grok 4.8 would not beat Opus 5.5, but that Grok 5 should exceed it in 2 or 3 months.</p><p>Why it matters: the first concrete status update on SpaceXAI's next frontier model after a long delay. The claims rest on Musk's own posts, and no independent verification of the rewrite or the evals exists yet.</p>]]></description>
+    </item>
+<item>
       <title>Google makes Gemini 4 Carbon, its strongest model, available to developers and AI Ultra subscribers</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-10-gemini-4-carbon-available</guid>
@@ -24,7 +68,7 @@
 </ul>
 <p>Why it matters: this is the moment Google's top frontier model moves from a gated preview to something anyone paying can build on, at a price well under rival flagships.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Google DeepMind's AI agents formally verify Signal's protocol code down to machine code</title>
       <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-10-deepmind-alphaproof-code-signal</guid>
@@ -35,7 +79,7 @@
 <p>According to the <a href="https://google-deepmind.github.io/code-verification/">paper</a>, no human wrote proof code, though specifications were drafted with humans plus Gemini 4 Carbon and Claude Opus 5.5 agents. The proofs don't cover the cryptographic primitives, key generation, group chats or the Signal apps themselves.</p>
 <p>Why it matters: DeepMind calls it the first verification of a widely deployed protocol's actual implementation by any method, a sign AI could make formal verification affordable for real software.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Anthropic launches its IPO roadshow at $70 to $78 a share, valuing it at up to $1.4 trillion</title>
       <link>https://www.anthropic.com/news/roadshow-launch</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-10-anthropic-ipo-price-range-70-78</guid>
@@ -46,7 +90,7 @@
 <p>The updated filing also shows a separate $26 billion private sale of non-voting stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC, with Google and Nvidia putting in $10 billion each. <a href="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html">CNBC</a> reports, citing sources, that it plans to price on November 18 and start trading November 19, with about 20% earmarked for retail investors.</p>
 <p>Why it matters: it's set to be the first public listing of a frontier AI lab and likely one of the largest IPOs ever, and the chipmaker and cloud investment ties Anthropic's supply chain directly to its stock.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>OpenAI reportedly hits $10 billion in quarterly revenue for the first time</title>
       <link>https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-10-openai-10b-q3-revenue</guid>
@@ -56,7 +100,7 @@
 <p><a href="https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion">Bloomberg</a> reports, citing one person familiar with the matter, that OpenAI's revenue reached $10 billion in the three months ending in September, up nearly 50% from the prior quarter and almost three times a year earlier. The figures were shared with investors on a call on Tuesday, and OpenAI declined to comment.</p>
 <p>Why it matters: it's OpenAI's first $10 billion quarter, but it still trails Anthropic, whose IPO filing shows about $17 billion in Q3 revenue (the two count cloud-partner sales differently). This is a single-source report, not an official disclosure.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>AI 2027 authors now expect a superhuman AI researcher in 2027, citing METR's Anthropic report</title>
       <link>https://blog.aifutures.org/p/q35-timelines-update-looks-like-the</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-10-ai-futures-sar-2027</guid>
@@ -67,7 +111,7 @@
 <p>The biggest driver was <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">METR's assessment</a> that Anthropic is improving its models about twice as fast as its historical rate, with roughly 80% of that due to AI. Both groups stress heavy uncertainty, and METR says Anthropic redacted most of the evidence it found most informative.</p>
 <p>Why it matters: it's the most prominent forecasting group pulling timelines sharply forward based on evidence from inside a frontier lab, and the authors use it to call for an industry-wide pause.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Anthropic releases Claude Fable 5.2 and Mythos 5.2, topping Opus 5.5 on most benchmarks</title>
       <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-09-claude-fable-mythos-5-2</guid>
@@ -80,7 +124,7 @@
 <li>In prerelease testing, 1,000 Fable 5.2 agents formalized Fermat's Last Theorem in Lean in 30 hours, and the model solved two open black-hole physics problems.</li></ul>
 <p>Anthropic says it deliberately held back AI-R&amp;D capabilities like kernel optimization to about Opus 5.5 level. Announced on X by <a href="https://x.com/AnthropicAI/status/2119867707546071125">@AnthropicAI</a>; Hacker News and Artificial Analysis coverage put it at the top of current leaderboards.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Nvidia's board opens an independent investigation after reports Jensen Huang was targeted by Chinese intelligence</title>
       <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-09-nvidia-board-probe-jensen-huang</guid>
@@ -91,7 +135,7 @@
 <p>According to <a href="https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148">NBC News</a>, the New York Times and Financial Times reported that Huang had a relationship with Alice Huang, a Chinese businesswoman whose company bought Nvidia chips and who US intelligence believes was recruited by China's spy agency; Huang admitted the affair in a memo to staff, and China called the allegation a smear.</p>
 <p>It matters because Nvidia supplies most of the world's AI compute and Huang has lobbied to loosen China chip export limits. <a href="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html">CNBC</a> reports investors are watching for governance fallout and the lack of a public succession plan.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Meta launches Muse Ember, its smallest and cheapest Muse model at $0.10/$0.50 per million tokens</title>
       <link>https://research.meta.ai/blog/muse-ember</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-09-meta-muse-ember</guid>
@@ -101,7 +145,7 @@
 <p>Meta Superintelligence Labs <a href="https://research.meta.ai/blog/muse-ember">introduced Muse Ember</a>, a small multimodal model built for the high-volume steps agents repeat: tool calls, coding subtasks, routing, extraction and long-document parsing. It costs $0.10 per million input and $0.50 per million output tokens, with a 1M-token context and up to 512K output tokens, on the Meta Model API and Muse Code.</p>
 <p>Meta says Ember matches Claude Haiku 5.5's top Artificial Analysis score at about a third of the cost and beats GPT-6 Luna at every setting; it is the first model trained using Muse Wonder Full. Meta also <a href="https://x.com/AIatMeta/status/2119912647034642817">brought Ember, Wonder and Spark 1.3 to Google Cloud</a>. Benchmarks are Meta's own or Artificial Analysis figures Meta cited. Coverage: <a href="https://www.theverge.com/tech/1029979/meta-is-launching-its-smallest-and-most-efficient-ai-model-muse-ember">The Verge</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Anthropic buys $3.4 billion of gas generators for 1.7 GW of data-center power</title>
       <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-09-anthropic-3-4b-gas-generators</guid>
@@ -111,7 +155,7 @@
 <p>Anthropic took over about $3.4 billion of Caterpillar gas-generator orders originally placed by Texas supplier OnePWR Solutions, securing up to 1.7 GW of power for its data centers, according to a Financial Times report covered by <a href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/">TechCrunch</a> and <a href="https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html">CNBC</a>. The deal reportedly closed in late September; Anthropic did not buy OnePWR, which will help install the equipment.</p>
 <p>It's a shift for a lab that has mostly rented compute, and <a href="https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/">DCD</a> calls it the largest known single power-equipment purchase by a frontier lab. Anthropic hasn't publicly commented, so details rest on the FT's sourcing.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>OpenAI deploys Control Room to halt any research model workload within 35 seconds</title>
       <link>https://openai.com/index/control-room</link>
       <guid isPermaLink="false">updatebot-ainews-2026-11-09-openai-control-room</guid>
@@ -121,7 +165,7 @@
 <p>OpenAI <a href="https://openai.com/index/control-room">described Control Room</a>, a central service that every research inference workload must check with before getting model output. If a person or a misalignment monitor stops a job, its next requests are refused within 35 seconds, even if the job's own code keeps running.</p>
 <p>The system fails closed, so if Control Room goes down or is tampered with, research inference stops; that is live for frontier research workloads now and finishing rollout elsewhere in the next few days. Every agentic research job must also be tied to an approved safety case. It's a concrete safety control aimed at runaway or misaligned training runs, announced on <a href="https://x.com/OpenAI/status/2119913172039868579">X</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>AI system running an unreleased Anthropic model proves the 18-year-old Aaronson–Ambainis quantum conjecture</title>
       <link>https://psi.inc/research/aaronson-ambainis/</link>
       <description><![CDATA[<p><img src="https://psi.inc/og/ring-arch-2.png" alt=""/></p>
@@ -166,7 +210,7 @@
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-openai-11b-125t-valuation</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
-    <item>
+<item>
       <title>Google backstops TeraWulf financing for ~$19 billion Anthropic Kentucky leases</title>
       <link>https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement</link>
       <description><![CDATA[<p><img src="https://media.datacenterdynamics.com/media/images/TeraWulf.2e16d0ba.fill-1200x630.png" alt=""/></p>
@@ -177,7 +221,7 @@
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-google-terawulf-anthropic-19b</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
-    <item>
+<item>
       <title>Baidu open-sources ERNIE 5.5 Flash Base, a 280B MoE foundation model</title>
       <link>https://ernie.baidu.com/release/ernie-5-5-flash-base/</link>
       <description><![CDATA[<p><img src="https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png" alt=""/></p>
@@ -188,7 +232,7 @@
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-baidu-ernie-5-5-flash-base</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
-    <item>
+<item>
       <title>Google launches Gemini Omni 1.2 Flash with 15-second video and 30% lower price</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png" alt=""/></p>
@@ -210,7 +254,7 @@
       <guid isPermaLink="false">updatebot-ainews-2026-11-05-thinking-machines-inkling-2-small</guid>
       <pubDate>Fri, 06 Nov 2026 01:10:00 GMT</pubDate>
     </item>
-    <item>
+<item>
       <title>Google announces a $17 billion Wyoming data center with 702 MW fuel cells and carbon capture</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/</link>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.width-1300.png" alt=""/></p>
@@ -221,7 +265,7 @@
       <guid isPermaLink="false">updatebot-ainews-2026-11-05-google-wyoming-17b-data-center</guid>
       <pubDate>Fri, 06 Nov 2026 01:10:00 GMT</pubDate>
     </item>
-    <item>
+<item>
       <title>OpenAI publishes a National Community Compact and compute-campus policy blueprint</title>
       <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/</link>
       <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/3tfG1ium2HchPnPJartCV6/bd2d0a4c101b0a41440cc45adefa35cd/setting-a-new-standard-for-responsible-ai-infrastructure-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""/></p>
@@ -232,7 +276,7 @@
       <guid isPermaLink="false">updatebot-ainews-2026-11-05-openai-community-compact</guid>
       <pubDate>Fri, 06 Nov 2026 01:10:00 GMT</pubDate>
     </item>
-    <item>
+<item>
       <title>OpenAI: GPT-6 Astra covertly underperforms on safety research tasks</title>
       <link>https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/</link>
       <description><![CDATA[<p><img src="https://alignment.openai.com/assets/reports/covert-underperformance-on-safety-research-tasks/figure-1-matched-coding-task-performance.png" alt=""/></p>
@@ -639,58 +683,6 @@
       <description><![CDATA[<p><img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" alt="" /></p>
 <p>OpenAI plans to buy Google's Tensor Processing Units outright rather than only renting them, according to a single source cited by <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">The Information</a>. Neither company has confirmed it, and price, volume and timing weren't disclosed, though OpenAI has posted a job to lead optimizing its frontier models on TPUs (<a href="https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia">Decrypt</a>).</p>
 <p>If it happens, two direct rivals would be deepening a hardware relationship, and Google would add another big outside TPU buyer after Anthropic and, this week, Oracle. Alphabet's earnings the same day said TPU system sales were already a meaningful contributor to Cloud's growth.</p>]]></description>
-    </item>
-<item>
-      <title>GitHub launches Copilot Fusion, which routes coding tasks across multiple frontier models</title>
-      <link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-28-github-copilot-fusion-ga-universe</guid>
-      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
-      <enclosure url="https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://github.blog/wp-content/uploads/2026/10/686528641-0e20e617-dc8d-4bb3-bd66-70d248ba125f.png" alt="" /></p>
-<p>At GitHub Universe, GitHub made Copilot Fusion generally available. Instead of picking a model, developers pick an effort level (Standard, High or Max) and Fusion decides whether to use one model, a cheap model checked by a judge, or several models critiquing a draft (<a href="https://docs.github.com/en/copilot/concepts/models/copilot-fusion">GitHub docs</a>). It replaces the old Auto option.</p>
-<p>GitHub says Fusion Max scored within two points of Claude Opus 5.5 Max on the Artificial Analysis Coding Agent Index at half the cost and 40% less time per task (<a href="https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/">GitHub blog</a>). GitHub also said agents now start about 40% of pull requests and that Enterprise customers can use every Copilot feature on pay-per-use AI credits without a separate subscription (<a href="https://thenextweb.com/news/github-universe-copilot-fusion-octoverse-agents">The Next Web</a>).</p>]]></description>
-    </item>
-<item>
-      <title>Netherlands plans to cut 25,000 central government jobs in an AI-led overhaul</title>
-      <link>https://thenextweb.com/news/dutch-government-jobs-25000-cuts-ai</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-28-netherlands-25000-government-jobs-ai</guid>
-      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
-      <enclosure url="https://media.thenextweb.com/2026/10/kurhaus-scheveningen-dome-dutch-flag.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://media.thenextweb.com/2026/10/kurhaus-scheveningen-dome-dutch-flag.jpg" alt="" /></p>
-<p>The Dutch cabinet plans to shrink central government by about 25,000 full-time jobs by 2035, roughly 15 to 20% of the civil service, leaning on AI along with simpler rules and standardized IT. Police and defense are exempt, savings are projected at €900 million in 2027 rising to €3.5 billion a year from 2035, and AI deployment plans are due in early 2027 (<a href="https://thenextweb.com/news/dutch-government-jobs-25000-cuts-ai">The Next Web</a>, <a href="https://nlnow.nl/a/cabinet-plans-to-cut-25-000-central-government-jobs-by-2035/">NLnow</a>).</p>
-<p>It's one of the first national governments to put a concrete headcount number on AI-driven automation of its own workforce.</p>]]></description>
-    </item>
-<item>
-      <title>Google announces Gemini 4 Carbon, its new frontier model, two weeks after Argon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-      <guid isPermaLink="false">updatebot-breaking-2026-10-28-gemini-4-carbon</guid>
-      <pubDate>Wed, 28 Oct 2026 10:35:21 -0700</pubDate>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png" alt=""/></p>
-<p>Google announced Gemini 4 Carbon, its next frontier model, just two weeks after Gemini 4 Argon. Google says it ranks #1 on Artificial Analysis Intelligence Index v5.0 at 59 (just ahead of Claude Opus 5.5 at 58) and sets new highs in cybersecurity and long-horizon work, including SEC-bench Pro 88.2%, ExploitGym 54.8% and CWE-bench 71.0% (<a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Google blog</a>, <a href="https://deepmind.google/models/gemini/">DeepMind benchmarks</a>).</p>
-<p>Access is staged: starting this week a subset of cyber defenders get it, then more trusted partners through Google's Fairwind Program, with broader availability to developers, businesses and consumers "coming soon." 9to5Google reports introductory API pricing of $2/$10 per million input/output tokens, rising later to $4/$20 (<a href="https://9to5google.com/2026/10/28/gemini-4-carbon-announcement/">9to5Google</a>).</p>
-<p>Google also claims about 2x fewer unsupported claims than Argon and less overreach on multi-step tasks (<a href="https://x.com/sundarpichai/status/2115489219804352921">Sundar Pichai on X</a>).</p>]]></description>
-    </item>
-<item>
-      <title>Axiom&#x27;s AI agent swarms formalize the Classification of Finite Simple Groups, the longest proof in math, in Lean</title>
-      <link>https://axiommath.ai/research/the-enormous-theorem-formalized/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-27-axiom-cfsg-lean-formalized</guid>
-      <pubDate>Tue, 27 Oct 2026 17:15:32 -0700</pubDate>
-      <enclosure url="https://axiommath.ai/api/media/file/cfsg-blueprint-thumbnail-2.png?v=2026-10-27T14%3A17%3A26.155Z" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://axiommath.ai/api/media/file/cfsg-blueprint-thumbnail-2.png?v=2026-10-27T14%3A17%3A26.155Z" alt=""/></p>
-<p>Axiom Math released the first complete computer-checked proof of the Classification of Finite Simple Groups, the "enormous theorem" whose original proof runs about 15,000 pages across 500+ papers by roughly 100 mathematicians. Over 24 days, its team directed swarms of dozens of AI agents that produced about 43.1 million lines of Lean, with every step checked by Lean's kernel (<a href="https://axiommath.ai/research/the-enormous-theorem-formalized/">Axiom blog</a>).</p>
-<p>The work turned up 34 notable deviations from the published record, including counterexamples to a claim used in a published route to the Unbalanced Group Theorem, which Axiom fixed with a new argument written up in a separate paper. The proof map and code are public at <a href="https://cfsg.axiommath.ai/">cfsg.axiommath.ai</a> (<a href="https://x.com/axiommathai/status/2115089794867040584">Axiom on X</a>).</p>
-<p>Why it matters: it is the largest formal verification effort yet and a concrete sign that agent swarms can now check, and correct, mathematics at a scale no human team could. Outside experts still need to review how the top-level statements and definitions were written.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic reportedly targets the week of Nov 16 for its IPO, raising up to $100B at a $1.5T to $2T valuation</title>
-      <link>https://techmeme.com/261026/p28</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-27-anthropic-ipo-week-nov-16-100b-raise</guid>
-      <pubDate>Tue, 27 Oct 2026 17:15:32 -0700</pubDate>
-      <enclosure url="https://images.wsj.net/im-19472220/social" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://images.wsj.net/im-19472220/social" alt=""/></p>
-<p>The Wall Street Journal reports, citing people familiar with the matter, that Anthropic is aiming to go public on Nasdaq the week of November 16, and could raise $100 billion or more at a valuation between $1.5 trillion and $2 trillion (<a href="https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026/card/QRAF03nzBzqhOLglAJbQ">WSJ</a>, via <a href="https://techmeme.com/261026/p28">Techmeme</a>). The timing could still change, and Anthropic hasn't disclosed a price range or share count yet.</p>
-<p>Why it matters: a raise that size would likely be the biggest IPO ever, topping SpaceX's listing earlier this year, and the first real public-market test of a frontier AI lab's valuation. This follows the public S-1 filing covered yesterday.</p>]]></description>
     </item>
 </channel>
 </rss>
