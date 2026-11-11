@@ -6,8 +6,56 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:12:45 GMT</lastBuildDate>
 
+    <item>
+      <title>Google DeepMind launches Gemini Robotics 2.5; Apptronik Apollo 2 humanoids hit 96% kitting car parts on Mercedes-Benz lines</title>
+      <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-10-gemini-robotics-2-5-apollo-mercedes</guid>
+      <pubDate>Wed, 11 Nov 2026 01:12:45 GMT</pubDate>
+      <enclosure url="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w1200-h630-n-nu-rw" alt="" /></p>
+<p>Google DeepMind released Gemini Robotics 2.5, its newest vision-language-action model, and paired the launch with a factory proof of concept: Apptronik's Apollo 2 humanoid, fitted with a five-finger SharpaWave hand, sorted metal brackets from bulk bins into vehicle-specific sequencing trays on active Mercedes-Benz production lines in Kecskemét, Hungary, and Sindelfingen, Germany.</p>
+<ul>
+<li><strong>96% success</strong> on the kitting task, per DeepMind. The company did not say how many robots ran, how many attempts were counted, or for how long.</li>
+<li>Gemini Robotics ER tracked the job while Gemini Robotics 2.5 drove the arms and hands.</li>
+<li>Across more than 200 evaluated tasks (tying bows, serving with tongs, pipetting), DeepMind reports 30% to 100% higher success and 20% to 30% faster completion than the previous version. These are company figures with no independent evaluation yet.</li>
+<li>DeepMind says Gemini 4 Argon accelerated development, including generating simulated practice runs, and it open-sourced an ASIMOV-Jailbreak robot safety benchmark.</li>
+<li>Access is rolling out to robotics partners only, with no public download or API.</li>
+</ul>
+<p>Sources: <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/">Google DeepMind blog</a>, <a href="https://x.com/GoogleDeepMind/status/2120169787896525104">DeepMind on X</a>, <a href="https://www.unite.ai/apollo-2-humanoids-hit-96-in-mercedes-benz-sorting-proof-of-concept/">Unite.AI</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>China's UniX AI raises RMB 500M (~$70M) Pre-A for service humanoids, with customer Greenland Group joining as investor</title>
+      <link>https://www.spectrumweb.co/news/unix-ai-500m-yuan-pre-a-humanoids</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-10-unix-ai-500m-yuan-pre-a</guid>
+      <pubDate>Wed, 11 Nov 2026 01:12:45 GMT</pubDate>
+      <enclosure url="https://www.spectrumweb.co/news/unix-ai-500m-yuan-pre-a-humanoids/opengraph-image?5faf2755b58664e1" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.spectrumweb.co/news/unix-ai-500m-yuan-pre-a-humanoids/opengraph-image?5faf2755b58664e1" alt="" /></p>
+<p>Suzhou-based UniX AI, which makes the Wanda and Panther wheeled dual-arm humanoids and the Martian biped, closed a RMB 500 million Pre-A round, eight months after a RMB 300 million raise. Existing backers Xienuo and Yonghua added again; new investors include property developer Greenland Group, sensor maker Keli Sensing and Huagong Venture Capital.</p>
+<ul>
+<li>Greenland is already a customer and joins as a strategic investor, with plans to deploy robots in building security, hotels and elder care.</li>
+<li>The company claims more than 100 deliveries a month since late 2025, with a peak above 300, and deployments at Hilton and other hotel chains. These figures are company claims.</li>
+<li>No valuation was disclosed.</li>
+</ul>
+<p>Sources: <a href="https://www.spectrumweb.co/news/unix-ai-500m-yuan-pre-a-humanoids">Spectrum</a>, <a href="https://eastfrontier.com/2026/11/10/chinas-unix-ai-raises-rmb500-million-as-greenland-group-joins-its-robot-investors/">EastFrontier</a>, <a href="https://www.zhidx.com/p/608289.html">Zhidx (Chinese)</a>.</p>]]></description>
+    </item>
+    <item>
+      <title>LG Electronics targets late-2027 sales of its Nvidia-built bipedal humanoid, starting with research labs, and opens a Silicon Valley robotics hub</title>
+      <link>https://en.fnnews.com/news/202611100809176510</link>
+      <guid isPermaLink="false">updatebot-humanoid-2026-11-10-lg-nvidia-biped-humanoid-2027</guid>
+      <pubDate>Wed, 11 Nov 2026 01:12:45 GMT</pubDate>
+      <enclosure url="https://image.fnnews.com/resource/media/image/2026/10/29/202610290927464715_l.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://image.fnnews.com/resource/media/image/2026/10/29/202610290927464715_l.jpg" alt="" /></p>
+<p>At a Robotics Investor Forum on Nov 9, LG Electronics laid out its humanoid roadmap with Nvidia: unveil the bipedal robot in the first quarter of 2027 (Korean press expects CES 2027) and commercialize it in the second half of 2027, selling first to universities and research institutes along with developer tools.</p>
+<ul>
+<li>LG builds the hardware, including its AXIUM actuators, while Nvidia supplies the software stack. AXIUM is slated for outside sales next year.</li>
+<li>Its wheeled CLOiD robot is being validated at LG's Tennessee washing-machine plant, trained with Nvidia's Isaac GR00T to hang 4 kg top panels, and in Changwon.</li>
+<li>LG has 170,000 hours of robot training data and aims for over 500,000 hours by year end.</li>
+<li>Korean press reports a new North American robotics research base in Santa Clara opening this month, and current humanoid capacity of only a few hundred units a year (an industry estimate).</li>
+</ul>
+<p>Sources: <a href="https://en.fnnews.com/news/202611100809176510">Financial News</a>, <a href="https://www.mk.co.kr/en/business/12204171">Maeil Business</a>, <a href="https://biz.heraldcorp.com/article/10931609">Herald Business</a>.</p>]]></description>
+    </item>
 <item>
 <title>Nvidia unveils GR00T 2, an open world action model for humanoids, with an onboard Turbo version running on Unitree G1</title>
 <link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
@@ -765,51 +813,6 @@
 <li>The code is open under Apache 2.0, and a mid-training checkpoint built on Qwen3.5-2B is on Hugging Face. The training datasets and the full deployment workflow are not released yet, and the model card says it is not a deployment-ready robot policy.</li>
 </ul>
 <p>Sources: <a href="https://tsnmedia.org/amap-alibaba-lambda0-humanoid/">TSN</a>, <a href="https://arxiv.org/abs/2610.18950">arXiv preprint</a>, <a href="https://github.com/LambdaHumanoid/openlambda">GitHub repo</a>, <a href="https://huggingface.co/lambda-humanoid/lambda0-midtrain-100k">Hugging Face checkpoint</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Tesla says its first production Optimus robots will go to an "Optimus Academy" of 10,000 to 20,000 bots learning by self-play</title>
-      <link>https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-tesla-optimus-academy-self-play</guid>
-      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
-      <enclosure url="https://media.thenextweb.com/2026/10/elon-musk-microphone-stage-signature-t-shirt.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://media.thenextweb.com/2026/10/elon-musk-microphone-stage-signature-t-shirt.jpg" alt="" /></p>
-<p>The first Optimus robots coming off Tesla's new Fremont line won't go to customers. Tesla says they will be used in an "Optimus Academy" to collect training data, and Elon Musk said on the Q3 earnings call that Tesla needs on the order of 10,000 to 20,000 robots practicing a wide range of tasks through self-play to make Optimus useful in the real world. The plan became one of X's top robotics stories today.</p>
-<ul>
-<li>Musk compared it to raising a toddler: robots start wobbly and learn by playing at scale, since Optimus has no equivalent of Tesla's car fleet generating data.</li>
-<li>Tesla AI lead Ashok Elluswamy said the robots will first learn by watching humans, then bootstrap with self-play.</li>
-<li>Musk said the hands still aren't perfected, reaching 20,000 robots a week will take at least a year, the AI5 chip should reach the robot around April 2027, and deliveries to other companies are targeted for late 2027. These are company targets, not confirmed timelines.</li>
-</ul>
-<p>Sources: <a href="https://thenextweb.com/news/tesla-optimus-academy-training-toddler-musk">The Next Web</a>, <a href="https://www.fiercesensors.com/ai/musk-spills-optimus-hand-teslas-planned-optimus-academy">Fierce Sensors</a>, <a href="https://x.com/i/trending/2114095338852159758">X trending story</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Generative Bionics plans Europe's largest physical AI data factory for its Gene.01 humanoids, with AMD</title>
-      <link>https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-generative-bionics-physical-ai-data-factory</guid>
-      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
-      <enclosure url="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/generative-bionics-1.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://roboticsandautomationnews.com/wp-content/uploads/2026/10/generative-bionics-1.png" alt="" /></p>
-<p>Italian humanoid maker Generative Bionics says it will build what it calls Europe's largest physical AI training facility, using AMD computing to pair real robot work with large-scale digital twin simulation.</p>
-<ul>
-<li>The first 5,000-square-meter site will be in Italy and is scheduled to open by Q4 2027, the first of a planned three-site network.</li>
-<li>Fleets of its Gene.01 humanoids will run tasks continuously in recreated industrial settings to generate data for training World Action Models, with simulated variations fed back to the physical robots in a real-to-sim-to-real loop.</li>
-<li>AMD Ventures took part in the company's €70 million seed round, and AMD chips already run on board Gene.01.</li>
-</ul>
-<p>Source: <a href="https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/">Robotics &amp; Automation News</a>.</p>]]></description>
-    </item>
-<item>
-      <title>South Korea names Mobilint to lead humanoid-robot chip work in its $606M on-device AI semiconductor program</title>
-      <link>https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-korea-mobilint-humanoid-ai-chip-program</guid>
-      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
-      <enclosure url="https://d.techtimes.com/en/full/477120/mobilint-logo.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://d.techtimes.com/en/full/477120/mobilint-logo.jpg" alt="" /></p>
-<p>Seoul NPU startup Mobilint was named lead research organization for the humanoid robotics arm of South Korea's ₩800.2 billion (about $606 million) K-On-Device AI Semiconductor program, which runs from 2026 to 2030.</p>
-<ul>
-<li>Mobilint is responsible for a co-designed NPU and software stack for running AI on the robot itself, covering the chip, compiler and a module that can be installed in robot bodies.</li>
-<li>The platform will be tested in stages inside LG Electronics' home robot platform.</li>
-<li>Mobilint raised a ₩70 billion (about $53 million) Series C in April 2026.</li>
-</ul>
-<p>Source: <a href="https://www.techtimes.com/articles/329411/20261023/mobilint-tapped-lead-koreas-606m-device-ai-chip-program-humanoid-robots.htm">Tech Times</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
