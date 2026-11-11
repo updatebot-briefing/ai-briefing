@@ -6,10 +6,20 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
 
     
+    
     <item>
+      <title>Humanoid shipments topped 22,000 in H1 2026, up nearly 300% year on year, Counterpoint says</title>
+      <link>https://www.intelligentcio.com/me/2026/11/10/gitex-world-robotix-2026-brings-humanoid-debuts-and-next-gen-embodied-ai-to-dubai/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-10-gitex-counterpoint-shipments</guid>
+      <pubDate>Tue, 10 Nov 2026 11:45:00 GMT</pubDate>
+      <enclosure url="https://www.intelligentcio.com/me/wp-content/uploads/sites/12/2026/11/Untitled-November-10-2026-at-11.54.21.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://www.intelligentcio.com/me/wp-content/uploads/sites/12/2026/11/Untitled-November-10-2026-at-11.54.21.webp" alt="" /></p>
+<p>Over 22,000 humanoid robots shipped globally in the first half of 2026, up nearly 300% year on year, according to Counterpoint Research, with shipments expected to top 50,000 by year-end. Unitree leads with 31% share.</p><p>The figures came with the announcement of GITEX World RobotiX in Dubai (Dec 8-11), where Unitree, UBTECH, Chery's AiMOGA and others will show new humanoids and embodied-AI systems.</p><p>Why it matters: the clearest market-wide yardstick yet for 2026 — shipments are scaling fast and Chinese makers dominate volume, though most deployments remain pilots. <a href="https://www.intelligentcio.com/me/2026/11/10/gitex-world-robotix-2026-brings-humanoid-debuts-and-next-gen-embodied-ai-to-dubai/">Intelligent CIO</a></p>]]></description>
+    </item>
+<item>
       <title>UBTECH partners with China Telecom's Tianyi to push humanoids into homes, targeting 100,000 units in three years</title>
       <link>https://www.unite.ai/ubtech-partners-with-tianyi-to-scale-humanoid-robot-adoption/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-10-ubtech-tianyi</guid>
@@ -791,21 +801,6 @@
 <li>The demo lands as China's industry ministry says Chinese firms built more than 40,000 humanoids in the first half of 2026, though Global Times notes most real-world uses are still pilots.</li>
 </ul>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record">Humanoids Daily</a>, <a href="https://www.globaltimes.cn/page/202610/1372888.shtml">Global Times</a>, <a href="https://x.com/thePandaily/status/2114203850013888595">Pandaily on X</a>.</p>]]></description>
-    </item>
-<item>
-      <title>ETH Zürich teaches a Unitree G1 humanoid to climb, vault and get up from falls with one contact-planning policy</title>
-      <link>https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-25-eth-zurich-acp-contact-planning</guid>
-      <pubDate>Sun, 25 Oct 2026 17:17:24 -0700</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eth-acp-climbing-3Km2rxNdLXw5KQjJxrmW19mnHnX4oL.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/eth-acp-climbing-3Km2rxNdLXw5KQjJxrmW19mnHnX4oL.webp" alt="" /></p>
-<p>Researchers at ETH Zürich's Robotic Systems Lab, with Apple, the ETH AI Center and NVIDIA, showed a Unitree G1 climbing ladders, scaling obstacles, crossing sparse footholds and recovering from falls using a single learned policy called Attention-based Contact Planning (ACP).</p>
-<ul>
-<li>Instead of scripting each move, ACP decides where the robot's hands, feet and body should touch the environment, and the controller works out the motion between those contacts.</li>
-<li>It was trained on just 13.2 minutes of human motion data plus reinforcement learning, and runs without reference motions once deployed.</li>
-<li>The team reports 92.5% average success on eight simulated obstacle courses versus 58.8% for its baseline. That is a simulation number, not a measured real-world rate, and the paper (submitted to arXiv October 22) is still under review.</li>
-</ul>
-<p>Sources: <a href="https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning">Humanoids Daily</a>, <a href="https://x.com/XRoboHub/status/2113861844678869172">RoboHub demo clip on X</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
