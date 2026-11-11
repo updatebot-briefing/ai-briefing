@@ -5,8 +5,17 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 10 Nov 2026 01:09:57 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:43:23 GMT</lastBuildDate>
+    
     <item>
+<title>One heavy month of Codex: $100 Pro plan covered $745 of API-priced work</title>
+<link>https://flaviocopes.com/ai-subscription-vs-api-pricing/</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-10-copes-codex-month</guid>
+<pubDate>Wed, 11 Nov 2026 02:14:32 GMT</pubDate>
+<enclosure url="https://flaviocopes.com/images/ai-subscription-vs-api-pricing/og.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://flaviocopes.com/images/ai-subscription-vs-api-pricing/og.jpg" alt=""/><p>Developer Flavio Copes priced 30 days of his real Codex usage at public API rates and found his $100-a-month ChatGPT Pro plan covered $745.16 of API-equivalent work. Without prompt caching, the same month would have cost $8,234.34.</p><p>The math comes from Codex's own session logs: 11,899 model calls across 25 active days, mostly GPT-6.1 Sol, with a median call sending about 150,000 input tokens — and 98% of it cached at 5% of the input price. Caching is the whole story: output was the smallest line on the bill, and 2,024 calls went over the 272K-token long-context tier, where the API charges 2x input and 1.5x output — a surcharge subscriptions don't have.</p>]]></description>
+    </item>
+<item>
 <title>PlanLimits dashboard compares published limits for 44 AI plans across 14 vendors, with a dated change log</title>
 <link>https://aiplanlimits.dev/</link>
 <guid isPermaLink="false">updatebot-usage-2026-11-09-aiplanlimits-dashboard</guid>
@@ -85,7 +94,7 @@
       <enclosure url="https://quantslant.com/wp-content/uploads/2026/10/subscription-vs-api-ai-models-cover-astra.webp" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://quantslant.com/wp-content/uploads/2026/10/subscription-vs-api-ai-models-cover-astra.webp" alt=""/><p>Quantslant ran 768 prompts across Claude Opus 5.5, GPT-6 Astra, Gemini 4 Argon, Kimi K3.1 Pro, Qwen3.8 Max, GLM-5.3 and DeepSeek V4.1 Flash, measured the median API cost per task (matching its OpenRouter bill to the cent on 654 of 660 requests), and compared that with plan prices checked on Oct 24, 2026.</p><p>Main finding: $20 of API usage buys about 1,050 typical short tasks on Opus 5.5 or 1,175 on GPT-6 Astra, so a $20 plan only beats the API above roughly 35 to 39 short tasks a day. For documents of about 30,000 tokens, a $20 plan pays off at just three to four analyses a day, and the author says subscriptions usually win for agent coding in Claude Code or Codex, which the test did not measure.</p><p>It also notes no provider publishes a fixed message count; Grok, for example, only lists multipliers (Premium 4x, Super 15x, Ultra 50x of Plus). A follow-up series comparing each plan against its API is due from Nov 3. <a href="https://quantslant.com/subscription-vs-api-ai-models/">Read the full test</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Adam Holter measures cost per task on subscription plans: on $20 plans, a dollar of GPT-6.1 Sol costs 7x a dollar of Opus, but a task only 1.3x</title>
       <link>https://x.com/AdamHoltererer/status/2115879037893534195</link>
       <guid isPermaLink="false">updatebot-usage-2026-10-29-holter-plan-cost-per-task</guid>
