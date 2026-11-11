@@ -6,9 +6,19 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 01:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:42:30 GMT</lastBuildDate>
 
+    
     <item>
+      <title>UBTECH partners with China Telecom's Tianyi to push humanoids into homes, targeting 100,000 units in three years</title>
+      <link>https://www.unite.ai/ubtech-partners-with-tianyi-to-scale-humanoid-robot-adoption/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-10-ubtech-tianyi</guid>
+      <pubDate>Mon, 09 Nov 2026 10:25:38 GMT</pubDate>
+      <enclosure url="https://www.unite.ai/wp-content/uploads/2026/11/ubtech-partners-with-tianyi-to-scale-humanoid-robot-adoption.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.unite.ai/wp-content/uploads/2026/11/ubtech-partners-with-tianyi-to-scale-humanoid-robot-adoption.jpg" alt="" /></p>
+<p>UBTECH and Tianyi Telecom Terminal, a China Telecom subsidiary, signed a deal on Nov 9 aiming to help the home-companion robot market pass 1 million units and the humanoid terminal market pass 100,000 units within three years.</p><p>The partners will sell through telecom stores, offer robot rentals and service bundles, and run hands-on trials in shops, plus a joint lab on product validation and standards.</p><p>Why it matters: a major carrier's retail network is now aimed at getting humanoids into homes — though the 1M and 100K figures are industry targets, not UBTECH's own deliveries. <a href="https://www.unite.ai/ubtech-partners-with-tianyi-to-scale-humanoid-robot-adoption/">Unite.AI</a></p>]]></description>
+    </item>
+<item>
       <title>Google DeepMind launches Gemini Robotics 2.5; Apptronik Apollo 2 humanoids hit 96% kitting car parts on Mercedes-Benz lines</title>
       <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-10-gemini-robotics-2-5-apollo-mercedes</guid>
@@ -25,7 +35,7 @@
 </ul>
 <p>Sources: <a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/">Google DeepMind blog</a>, <a href="https://x.com/GoogleDeepMind/status/2120169787896525104">DeepMind on X</a>, <a href="https://www.unite.ai/apollo-2-humanoids-hit-96-in-mercedes-benz-sorting-proof-of-concept/">Unite.AI</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>China's UniX AI raises RMB 500M (~$70M) Pre-A for service humanoids, with customer Greenland Group joining as investor</title>
       <link>https://www.spectrumweb.co/news/unix-ai-500m-yuan-pre-a-humanoids</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-10-unix-ai-500m-yuan-pre-a</guid>
@@ -40,7 +50,7 @@
 </ul>
 <p>Sources: <a href="https://www.spectrumweb.co/news/unix-ai-500m-yuan-pre-a-humanoids">Spectrum</a>, <a href="https://eastfrontier.com/2026/11/10/chinas-unix-ai-raises-rmb500-million-as-greenland-group-joins-its-robot-investors/">EastFrontier</a>, <a href="https://www.zhidx.com/p/608289.html">Zhidx (Chinese)</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>LG Electronics targets late-2027 sales of its Nvidia-built bipedal humanoid, starting with research labs, and opens a Silicon Valley robotics hub</title>
       <link>https://en.fnnews.com/news/202611100809176510</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-10-lg-nvidia-biped-humanoid-2027</guid>
@@ -72,7 +82,6 @@
 </ul>
 <p>More: <a href="https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/">The Robot Report</a>.</p>]]></description>
 </item>
-
 <item>
 <title>Boston Dynamics puts scooter wheels on Atlas to stress-test its learned whole-body controller</title>
 <link>https://www.theverge.com/tech/1029779/boston-dynamics-atlas-robot-balance-wheels</link>
@@ -88,7 +97,6 @@
 </ul>
 <p>More: <a href="https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/">The Robot Report</a>.</p>]]></description>
 </item>
-
 <item>
 <title>Industrial-equipment maker Topstar unveils Star, a full-size bipedal humanoid for factory sorting and material handling</title>
 <link>https://tech.yahoo.com/ai/meta-ai/articles/159-pound-humanoid-robot-handle-161941958.html</link>
@@ -103,7 +111,6 @@
 <li>Its machine-tool subsidiary also launched the S400 five-axis machine for making humanoid parts such as joints and housings.</li>
 </ul>]]></description>
 </item>
-
 <item>
 <title>PrimeBOT says its 10,000th personal robot rolled off the line, doubling output in two weeks</title>
 <link>https://www.globaltimes.cn/page/202611/1373887.shtml</link>
@@ -164,7 +171,7 @@
 </ul>
 <p>These videos are a fleet-scale campus demo, not a new customer deployment. Sources: <a href="https://www.humanoidsdaily.com/news/figure-hq-crawling-with-figure-03-robots-adcock-videos">Humanoids Daily</a>; <a href="https://x.com/adcock_brett/status/2118830039710285953">Adcock's Nov 6 post on X</a>; <a href="https://x.com/adcock_brett/status/2119127304265949511">his Nov 7 follow-up</a>.</p>]]></description>
   </item>
-  <item>
+<item>
     <title>Atlas battery pack to use 70 Samsung SDI 2170 cells totaling about 1.3 kWh, report says</title>
     <link>https://www.thelec.net/news/articleView.html?idxno=15385</link>
     <guid isPermaLink="false">updatebot-humanoid-2026-11-07-atlas-samsung-sdi-70-cells</guid>
@@ -180,7 +187,7 @@
 </ul>
 <p>The Oct 28 coverage that Samsung SDI and LG Energy Solution were in the Atlas battery lineup still stands; this is the first published pack specification. Also: <a href="https://www.humanoidsdaily.com/news/samsung-sdi-atlas-battery-70-cells-1-3-kwh">Humanoids Daily</a>.</p>]]></description>
   </item>
-  <item>
+<item>
     <title>Inside Unitree's Hangzhou factory, robots are still mostly built by hand, visitor notes and filings show</title>
     <link>https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen</link>
     <guid isPermaLink="false">updatebot-humanoid-2026-11-07-unitree-hangzhou-factory-manual</guid>
@@ -196,7 +203,7 @@
 </ul>
 <p>Chen discloses investments in several US hardware firms, including Minerva, a US humanoid maker. Sources: <a href="https://www.humanoidsdaily.com/news/unitree-hangzhou-factory-manual-assembly-josef-chen">Humanoids Daily</a>; <a href="https://josef.cn/blog/unitree">Chen's factory notes</a>.</p>]]></description>
   </item>
-      <item>
+<item>
     <title>Musk says Tesla will probably rent Optimus robots, with build cost ~$30K falling toward $20K</title>
     <link>https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them</link>
     <guid isPermaLink="false">updatebot-humanoid-2026-11-06-musk-optimus-rent-baron</guid>
@@ -212,7 +219,7 @@
 </ul>
 <p>Label the rental preference as a conference remark with a hedge ("probably"), not a locked commercial program. Sources: <a href="https://www.notateslaapp.com/news/4959/musk-tesla-will-rent-optimus-robots-instead-of-selling-them">Not a Tesla App</a>; Baron conference coverage on X.</p>]]></description>
   </item>
-  <item>
+<item>
     <title>Swiss startup Embodied AI unveils AIR wheeled factory humanoid at Humanoid Europe, opens orders</title>
     <link>https://www.humanoidsdaily.com/news/embodied-ai-air-wheeled-humanoid-factory-humanoid-europe</link>
     <guid isPermaLink="false">updatebot-humanoid-2026-11-06-embodied-ai-air-humanoid-europe</guid>
@@ -241,7 +248,7 @@
 <li>Independent coverage from <a href="https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/">The Robot Report</a> said shares opened above the $10 SPAC reference price.</li></ul>
 <p>Source: <a href="https://www.agilityrobotics.com/content/agility-becomes-first-u-s-publicly-listed-pure-play-humanoid-robotics-company-begins-trading-today-on-nasdaq-as-aglt">Agility Robotics press release</a>. Also: <a href="https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/">The Robot Report</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Apple researchers’ HALO system: Unitree G1 trained only in sim hits 91% on real-home skills (preprint claim)</title>
       <link>https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-05-apple-halo-unitree-g1</guid>
@@ -254,7 +261,7 @@
 <li>Hardware runs untethered with a head camera and rear Mac mini; code for data generation, training and deployment is public.</li></ul>
 <p>Source: <a href="https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1">Humanoids Daily</a>. Paper: <a href="https://arxiv.org/abs/2611.06908">arXiv:2611.06908</a>. Project: <a href="https://apple-aiml-research.github.io/ml-halo/">Apple ML HALO page</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Unitree CEO says GPT-6-powered humanoids can paint and play chess with zero task training (CIIE remarks)</title>
       <link>https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-05-unitree-gpt6-paint-chess-ciie</guid>
@@ -267,7 +274,7 @@
 <li>Separate coverage notes Unitree’s public skill demos still rely on calibrated motion tooling and (for chess) a specialist engine, so “zero training” should be read carefully.</li></ul>
 <p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo">South China Morning Post</a>.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Speedbot unveils Weldroid-W1 bipedal humanoid welder, aims for shipyard trials this year</title>
       <link>https://servospace.io/news/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard</link>
       <guid isPermaLink="false">updatebot-humanoid-2026-11-05-speedbot-weldroid-w1</guid>
@@ -799,20 +806,6 @@
 <li>The team reports 92.5% average success on eight simulated obstacle courses versus 58.8% for its baseline. That is a simulation number, not a measured real-world rate, and the paper (submitted to arXiv October 22) is still under review.</li>
 </ul>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/eth-zurich-acp-humanoid-contact-planning">Humanoids Daily</a>, <a href="https://x.com/XRoboHub/status/2113861844678869172">RoboHub demo clip on X</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Alibaba's Amap open-sources λ0, a whole-body humanoid model trained mostly on first-person human video</title>
-      <link>https://tsnmedia.org/amap-alibaba-lambda0-humanoid/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-24-alibaba-amap-lambda0-humanoid-model</guid>
-      <pubDate>Sat, 24 Oct 2026 17:17:27 -0700</pubDate>
-      <enclosure url="https://tsnmedia.org/wp-content/uploads/2026/10/amap-alibaba-lambda0-humanoid.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://tsnmedia.org/wp-content/uploads/2026/10/amap-alibaba-lambda0-humanoid.jpg" alt="" /></p>
-<p>Amap, Alibaba's mapping business, and Alibaba's Token Hub team have released λ0 (lambda zero), a model that controls a humanoid robot's whole body for walking plus manipulation. Most of what it learns comes from about 500 hours of first-person video of people doing everyday tasks rather than from robot data.</p>
-<ul>
-<li>On the team's own real-world tests with a Unitree G1, λ0 finished 62.5% of trials versus 40% for π0.5, the strongest rival model they tested. These are the team's own numbers and haven't been reproduced independently.</li>
-<li>The code is open under Apache 2.0, and a mid-training checkpoint built on Qwen3.5-2B is on Hugging Face. The training datasets and the full deployment workflow are not released yet, and the model card says it is not a deployment-ready robot policy.</li>
-</ul>
-<p>Sources: <a href="https://tsnmedia.org/amap-alibaba-lambda0-humanoid/">TSN</a>, <a href="https://arxiv.org/abs/2610.18950">arXiv preprint</a>, <a href="https://github.com/LambdaHumanoid/openlambda">GitHub repo</a>, <a href="https://huggingface.co/lambda-humanoid/lambda0-midtrain-100k">Hugging Face checkpoint</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
