@@ -7,7 +7,37 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 10 Nov 2026 01:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:12:42 GMT</lastBuildDate>
+<item>
+<title>Hermes Agent v0.23.1 rolls up 618 PRs and fixes plugin installs that silently used a stale catalog</title>
+<link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.1</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-10-hermes-v0-23-1</guid>
+<pubDate>Wed, 11 Nov 2026 01:12:42 GMT</pubDate>
+<description><![CDATA[<p>Nous Research shipped <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.1">Hermes Agent v0.23.1</a> on Nov 9 (about 5:42pm PT), a patch that rolls up roughly 618 merged PRs since v0.23.0 into a stable build for the CLI, installers, the Microsoft Store app, Docker and Hermes Cloud.</p>
+<p>The headline fix: since Nov 9 the published plugin catalog had grown past the 2 MiB size cap clients accept, so <code>hermes plugins install</code> silently fell back to the bundled catalog, missing new plugins and newer pins. v0.23.1 raises the cap to 16 MiB (<a href="https://github.com/NousResearch/hermes-agent/pull/151860">PR #151860</a>); older installs keep falling back until they update.</p>
+<p>Also in the window but not yet documented: Esc backtrack in the TUI and CLI, group chats that run on a gateway without Desktop and can seat bots from other computers, signing the in-app browser in with your real browser profile and filling saved logins, <code>hermes gateway attach</code>, and new plugin API hooks. Nous says full curated notes come with v0.24.0. Update with <code>hermes update</code>; the .exe/.dmg desktop app is unchanged in this release.</p>
+]]></description>
+</item>
+<item>
+<title>You can now use a ChatGPT Business plan to power Hermes Agent through Sign in with ChatGPT</title>
+<link>https://x.com/OpenAIDevs/status/2120212596850663712</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-10-hermes-chatgpt-business-signin</guid>
+<pubDate>Wed, 11 Nov 2026 01:12:42 GMT</pubDate>
+<description><![CDATA[<p>OpenAI Developers <a href="https://x.com/OpenAIDevs/status/2120212596850663712">announced on Nov 10</a> that ChatGPT Business plans now work with Sign in with ChatGPT in outside tools, naming Hermes from Nous Research alongside Notion, v0, Amp, Kilo Code, Warp, OpenClaw and OpenCode.</p>
+<p>Nous Research <a href="https://x.com/NousResearch/status/2120215605123178671">confirmed</a> that the Sign in with ChatGPT flow in Nous Portal now supports Business plans, so a team's ChatGPT Business seat can drive Hermes Agent without a separate API key.</p>
+<p>Until now this route was limited to eligible Plus and Pro personal plans, per OpenAI's <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">release notes</a>. Usage counts against the plan's existing allowance.</p>
+]]></description>
+</item>
+<item>
+<title>Perplexity launches Teammates, always-on personal agents that each work in their own Computer environment</title>
+<link>https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work</link>
+<guid isPermaLink="false">updatebot-agents-2026-11-10-perplexity-teammates</guid>
+<pubDate>Wed, 11 Nov 2026 01:12:42 GMT</pubDate>
+<description><![CDATA[<p>Perplexity <a href="https://www.perplexity.ai/hub/blog/teammates-are-agents-for-complex-ongoing-work">launched Teammates</a>, personal agents that own ongoing work: they plan projects, run tasks in parallel, remember goals and files across runs, and bring results back for review. It's Perplexity's direct answer to Grok Bot, OpenAI dots and Claude Duet.</p>
+<p>Teammates are built on Perplexity Computer. Each one runs in a separate environment with its own browser sessions, saved credentials are encrypted, and you can take over the desktop or redirect a teammate mid-task. They can coordinate other teammates and message coworkers in Slack, per the <a href="https://www.perplexity.ai/changelog/teammates-fully-local-computer-on-mac-and-voice-mode">Nov 6 changelog</a>.</p>
+<p>Access is limited to the $200/month Perplexity Max plan on the web, with iOS coming soon, as <a href="https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work">The Verge</a> notes. The same release added a fully local Computer mode on Apple-silicon Macs.</p>
+]]></description>
+</item>
 <item>
 <title>Grok Bot can now join your Tailscale tailnets to reach private MCP servers and internal tools</title>
 <link>https://x.com/bot/status/2120279511707386263</link>
@@ -545,30 +575,6 @@
 <pubDate>Mon, 26 Oct 2026 00:09:57 GMT</pubDate>
 <enclosure url="https://www.allthingsmuse.com/cover-muse-subscriptions-not-ads-nikkei.webp" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://www.allthingsmuse.com/cover-muse-subscriptions-not-ads-nikkei.webp" alt=""/><p>Meta AI chief Alexandr Wang told Nikkei Asia, in an interview published Oct 24 Japan time, that Muse will stay free of advertising as it rolls out internationally, with subscriptions paying for it instead. That's according to <a href="https://www.allthingsmuse.com/articles/muse-subscriptions-not-ads-nikkei/">All Things Muse's write-up</a>, which relies on a secondary account of the interview, so treat the exact wording as reported rather than confirmed.</p><p>The model carries over from the US: a free tier with usage limits, plus a $20/month Power plan and a $100/month Maximum plan. Japan prices still haven't been announced since Muse <a href="https://www.metaversewatcher.io/meta-muse-ai-agent-japan-launch/">launched there on Oct 23</a>.</p>]]></description>
-</item>
-<item>
-<title>Meta is building avatar sharing for Muse, spotted in the web app but not live yet</title>
-<link>https://www.testingcatalog.com/meta-is-working-on-avatar-sharing-for-muse-assistant/</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-25-muse-avatar-sharing</guid>
-<pubDate>Mon, 26 Oct 2026 00:09:57 GMT</pubDate>
-<enclosure url="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Chat-----Minty-10-25-2026_12_49_AM.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://storage.ghost.io/c/2a/1b/2a1b1782-8506-4d7d-bf53-ad3fb52e2a0f/content/images/size/w1200/2026/10/Chat-----Minty-10-25-2026_12_49_AM.jpg" alt=""/><p><a href="https://www.testingcatalog.com/meta-is-working-on-avatar-sharing-for-muse-assistant/">TestingCatalog found</a> an unreleased Share option next to Muse's avatar editor on the web. It opens a pop-up with your animated avatar, social sharing buttons, a copyable link, and previews of four avatar states, including a working mode.</p><p>This is unconfirmed by Meta and has no release date. It could open the door to community avatar galleries, since Muse treats the avatar as central to the agent's identity.</p>]]></description>
-</item>
-<item>
-<title>Similarweb: Muse skews younger than Grok Bot, and Alexandr Wang calls Grok Bot users boomers</title>
-<link>https://x.com/alexandr_wang/status/2114426913842491692</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-25-muse-grok-bot-age-split</guid>
-<pubDate>Mon, 26 Oct 2026 00:09:57 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/media/HVd1tPEWYAAeI1G.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/media/HVd1tPEWYAAeI1G.png" alt=""/><p><a href="https://x.com/Similarweb/status/2114288790198276495">Similarweb posted</a> an age breakdown showing Muse is much stronger with users aged 18 to 34, while Grok Bot leads by almost 10 points among 35 to 44 year olds.</p><p>Meta AI chief Alexandr Wang <a href="https://x.com/alexandr_wang/status/2114426913842491692">quoted it on Sunday</a> with "muse gang, say hi to the boomers on grok bot," drawing over 120,000 views. It's the latest in his running jabs at rival agents, after Saturday's back-and-forth with OpenAI's dots lead.</p>]]></description>
-</item>
-<item>
-<title>Elon Musk says Grok Bot can now phone people and businesses for you, as Grok Bot 0.77 rolls out</title>
-<link>https://x.com/elonmusk/status/2114365361068138990</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-25-grok-bot-phone-calls</guid>
-<pubDate>Sun, 25 Oct 2026 16:36:17 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" alt=""/><p>Elon Musk <a href="https://x.com/elonmusk/status/2114365361068138990">posted on Sunday morning</a> that Grok Bot "can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation." The post passed about 900,000 views within two hours.</p><p>He was quoting <a href="https://x.com/alexmichaelio/status/2114056103373758724">a breakdown of Grok Bot 0.77 prerelease builds</a> that says your Bot can dial a number, sit on hold, press keys on phone menus, and get transferred while you watch a live transcript. The same builds also show Tailscale private-network support, a payments settings screen, and Bot sharing and invites for Premium and Ultra plans.</p><p>The official <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> still lists v0.75.5 as the latest release, and some users replying to Musk say their Bot doesn't have calling yet, so expect it to arrive with the 0.77 update over the coming days.</p>]]></description>
 </item>
 </channel>
 </rss>
