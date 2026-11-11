@@ -5,9 +5,18 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 11 Nov 2026 02:43:23 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
+    
     
     <item>
+<title>16 AI coding plans compared: prices, limits, and reset rules, updated Nov 10</title>
+<link>https://www.scriptbyai.com/ai-coding-plan-comparison/</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-10-scriptbyai-coding-plans</guid>
+<pubDate>Wed, 11 Nov 2026 02:14:32 GMT</pubDate>
+<enclosure url="https://www.scriptbyai.com/wp-content/uploads/2026/08/ai-coding-plan-comparison.webp" type="image/webp" length="0"/>
+<description><![CDATA[<img src="https://www.scriptbyai.com/wp-content/uploads/2026/08/ai-coding-plan-comparison.webp" alt=""/><p>Script by AI updated its comparison of 16 AI coding subscription and token-plan families on Nov 10, 2026, covering ChatGPT with Codex, Claude Code, Google Antigravity, xAI's Cursor and Grok Build, GitHub Copilot, Devin, and lower-priced multi-model options like GLM, QwenCloud, MiniMax, and OpenCode.</p><p>The tables lay out price per month, how usage is limited, and when charges increase — for example, ChatGPT Pro at $100/$200/$500 with a shared Work/Codex allowance, Claude Pro/Max/Ultra at $20/$100/$200 with 5-hour and weekly caps, Copilot's monthly AI Credits, and xAI's single weekly pool shared across Grok, Cursor, and Grok Bot.</p>]]></description>
+    </item>
+<item>
 <title>One heavy month of Codex: $100 Pro plan covered $745 of API-priced work</title>
 <link>https://flaviocopes.com/ai-subscription-vs-api-pricing/</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-10-copes-codex-month</guid>
