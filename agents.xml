@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 20:35:05 GMT</lastBuildDate>
+<item>
+<title>SpaceXAI launches Grok Bot 1.0: Team Bots join Slack, Teams and video calls</title>
+<link>https://x.ai/news/grok-bot-1-0</link>
+<guid isPermaLink="false">updatebot-muse-breaking-2026-11-11-grok-bot-1-0</guid>
+<pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/grok-bot-1-0-og-2.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://x.ai/images/news/grok-bot-1-0-og-2.png" alt=""/></p>
+<p>SpaceXAI has launched <a href="https://x.ai/news/grok-bot-1-0">Grok Bot 1.0</a>, a major update that makes its AI teammates multiplayer: Team Bots can be shared with specific people or groups and brought into Slack, Microsoft Teams and video calls, where they follow discussions and offer to pick up work.</p><p>Bots can join Google Meet, Zoom and Microsoft Teams calls from a link, answer in the meeting chat and send a summary afterward. Owners can also share app logins as shared connectors. Meetings are on Team, Enterprise and Ultra plans.</p><p>Bots now act more proactively too, spotting unfinished work and following up, with safeguards that respect each person's permissions in shared spaces.</p>]]></description>
+</item>
 <item>
 <title>Meta's Muse now has its own email address: CC it on a thread or forward it a bill</title>
 <link>https://agentstacklist.com/trending/muse/</link>
@@ -568,14 +577,6 @@
 <p>Nous Research has revamped its Hermes Agent subscriptions. Every new plan now includes a cloud agent out of the box, and included usage now resets on daily and weekly limits instead of one monthly block of credits.</p>
 <p>The <a href="https://portal.nousresearch.com/">Nous Portal</a> lists Free, Plus, Super, and Ultra tiers. Paid tiers include a cloud agent (4 GB RAM with 25 GB disk on Plus, 100 GB disk on Super, and 8 GB RAM with 100 GB disk on Ultra); bigger sizes and extra agents use credits, large models have their own monthly limit, and API keys still bill pay-as-you-go.</p>
 <p>Existing subscribers can switch to the new plans any time. Teknium added that every paid Nous Portal subscription now comes with a Hermes Agent instance and a computer for it, so the agent keeps running without a laptop left open. <a href="https://x.com/NousResearch/status/2115120531611787323">Announcement on X</a></p>]]></description>
-</item>
-<item>
-<title>Grok Bot 0.75.8 is stable: add Auto-review rules from chat, and fewer approval cards</title>
-<link>https://x.ai/changelog/bot</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-26-grok-bot-v0-75-8</guid>
-<pubDate>Tue, 27 Oct 2026 00:13:28 GMT</pubDate>
-<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt=""/><p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> lists v0.75.8 (which also rolls up 0.75.6 and 0.75.7), and SpaceXSI's Eric Zakariasson <a href="https://x.com/ericzakariasson/status/2114833082956321095">said on Monday</a> it is now stable and rolling out.</p><p>The headline change is that a Bot can offer to add, change, or remove one of your Auto-review rules on a card you confirm, right in chat. Other changes:</p><ul><li>Auto-review takes a second look before showing an approval card, and no longer treats a Bot editing its own routines as risky by itself.</li><li>Plugin skills work as soon as a Bot installs the plugin, and new connector tools show up without reconnecting.</li><li>Slack approval cards now describe the action, and routine posts to Slack no longer notify your phone.</li><li>Scheduling uses whichever calendar you connected, Google or Outlook.</li></ul>]]></description>
 </item>
 </channel>
 </rss>
