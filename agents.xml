@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 02:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
+<item>
+<title>Meta's Muse now has its own email address: CC it on a thread or forward it a bill</title>
+<link>https://agentstacklist.com/trending/muse/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-10-muse-email-address</guid>
+<pubDate>Wed, 11 Nov 2026 02:14:32 GMT</pubDate>
+<enclosure url="https://agentstacklist.com/og/trending--muse.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://agentstacklist.com/og/trending--muse.png" alt=""/></p>
+<p>Meta's Muse agent now has a dedicated email address that can send and receive email on your behalf. You can add it to an existing thread so it follows the conversation, or forward it a booking, a bill, or a form and ask it to deal with the follow-ups.</p><p>Alexandr Wang announced it as “out now to paid subscribers in the US and Canada,” and <a href="https://agentstacklist.com/trending/muse/">The Verge reports</a> Meta first showed the feature at Connect in September. Other regions and exact limits weren't announced.</p><p>This matters because it changes what you hand the agent: instead of connecting your whole personal mailbox, you can give Muse its own inbox and let vendors write to it directly. It's the same pattern Grok Bot already uses with its own email, and it makes Muse a plausible owner of back-and-forth email chores like chasing bookings, quotes, and bills.</p>]]></description>
+</item>
 <item>
 <title>Grok Bot can now make phone calls, shop with promo codes, and work as a shared Team Bot</title>
 <link>https://www.webpronews.com/grok-bot-update-phone-calls-gift-planning-team-bots-analytics/</link>
@@ -567,14 +576,6 @@
 <pubDate>Tue, 27 Oct 2026 00:13:28 GMT</pubDate>
 <enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt=""/><p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> lists v0.75.8 (which also rolls up 0.75.6 and 0.75.7), and SpaceXSI's Eric Zakariasson <a href="https://x.com/ericzakariasson/status/2114833082956321095">said on Monday</a> it is now stable and rolling out.</p><p>The headline change is that a Bot can offer to add, change, or remove one of your Auto-review rules on a card you confirm, right in chat. Other changes:</p><ul><li>Auto-review takes a second look before showing an approval card, and no longer treats a Bot editing its own routines as risky by itself.</li><li>Plugin skills work as soon as a Bot installs the plugin, and new connector tools show up without reconnecting.</li><li>Slack approval cards now describe the action, and routine posts to Slack no longer notify your phone.</li><li>Scheduling uses whichever calendar you connected, Google or Outlook.</li></ul>]]></description>
-</item>
-<item>
-<title>Hermes Agent's new Advanced Delegation plugin lets each subagent run on its own model or profile</title>
-<link>https://x.com/NousResearch/status/2114753914939863260</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-26-hermes-advanced-delegation-plugin</guid>
-<pubDate>Tue, 27 Oct 2026 00:13:28 GMT</pubDate>
-<enclosure url="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e404b6816b20237a82f6fbe2749b5a576cf75dba/assets/advanced-delegation.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e404b6816b20237a82f6fbe2749b5a576cf75dba/assets/advanced-delegation.jpg" alt=""/><p>Nous Research <a href="https://x.com/NousResearch/status/2114753914939863260">announced on Monday</a> an official Advanced Delegation plugin for Hermes Agent, so the orchestrator can pick a different model or profile for each subagent it starts.</p><p>According to the <a href="https://hermes-agent.nousresearch.com/docs/plugins/advanced-delegation">plugin docs</a>, it adds two modes next to the default: model routes, where you name routes like "fast" or "deep" and the agent picks one per task, and profile routes, where a subagent runs as one of your Hermes profiles with its own model, credentials, skills, and SOUL.md. Only the names and descriptions you write reach the model, so it cannot invent a route.</p><p>It needs Hermes v0.22.5 or newer. Co-founder Teknium <a href="https://x.com/Teknium/status/2114755154977395012">compared</a> profile-based delegation to how Hermes's kanban already works.</p>]]></description>
 </item>
 </channel>
 </rss>
