@@ -7,13 +7,23 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 01:08:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:08:56 GMT</lastBuildDate>
             
     
     
     
     
+    
     <item>
+      <title>US and China set up a 'superintelligence' dialogue and incident alert channel</title>
+      <link>https://wdsm710.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-us-china-superintelligence-dialogue</guid>
+      <pubDate>Wed, 11 Nov 2026 01:27:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T012734Z_2_LYNXNPEMAA02X_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T012734Z_2_LYNXNPEMAA02X_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG" alt=""/></p>
+<p>The US and China have established a bilateral dialogue on 'superintelligence,' Treasury Secretary Scott Bessent said in prepared remarks in New York on Nov 10. The two sides will exchange best practices for testing advanced models before release and alert each other to serious incidents.</p><p>The dialogue, agreed by Trump and Xi in September, advances at their meeting in Shenzhen on Nov 18–19, on the sidelines of the APEC summit. Bessent stressed the US harbors 'no illusions' about differences with Beijing — the channel manages shared risks, not competition.</p><p>Neither side has committed to slowing development of advanced AI.</p>]]></description>
+    </item>
+<item>
       <title>Google launches Gemini Decision 1, a model that answers instead of writing</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-google-gemini-decision-1</guid>
@@ -671,16 +681,6 @@
       <description><![CDATA[<p><img src="https://bl-i.thgim.com/public/incoming/efwbm8/article71638966.ece/alternates/LANDSCAPE_1200/2026-10-22T160354Z_473746185_RC2B6OACN2ND_RTRMADP_3_OPENAI-VULNERABILITIES.JPG" alt="" /></p>
 <p>The Information reports, citing people with direct knowledge, that DeepSeek and Moonshot AI relied heavily on outputs from OpenAI's GPT-6 Astra to train Kimi K3.1 Pro and DeepSeek's V4.1-Flash 1017 update, a technique called distillation (<a href="https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs">The Information</a>, via <a href="https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece">Reuters</a>).</p>
 <p>The shift reportedly followed Anthropic's new defenses, which it says cut distillation harvesting of Claude by 90% to 99%. OpenAI, DeepSeek and Moonshot didn't immediately comment, so this rests on anonymous sourcing, but it puts pressure on OpenAI to lock down Astra the way Anthropic did and sharpens the US-China fight over copying.</p>]]></description>
-    </item>
-<item>
-      <title>AWS revenue grows 39% to $46 billion as Amazon holds 2026 capex near $220 billion</title>
-      <link>https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-29-amazon-aws-39pct-220b-capex</guid>
-      <pubDate>Thu, 29 Oct 2026 17:11:18 -0700</pubDate>
-      <enclosure url="https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&amp;w=1920&amp;h=1080" alt="" /></p>
-<p>Amazon's third-quarter results showed AWS revenue up 39% to $46.0 billion, with AWS operating income of $17.8 billion (<a href="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/">Amazon</a>).</p>
-<p>Cash capex was $75.9 billion in the quarter, mostly for AWS and AI infrastructure, and Amazon kept its 2026 outlook at about $220 billion, while Andy Jassy told investors AWS aims to become a trillion-dollar revenue business (<a href="https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html">CNBC</a>). It rounds out a week where Google Cloud doubled and Azure grew 48%, showing AI demand is now driving all three big clouds, along with huge spending.</p>]]></description>
     </item>
 </channel>
 </rss>
