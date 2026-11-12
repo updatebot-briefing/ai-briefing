@@ -7,14 +7,24 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 01:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:29:46 GMT</lastBuildDate>
             
     
     
     
     
     
+    
     <item>
+      <title>Google launches Gemini 4 Hydrogen, its fast new model for everyday coding and agentic work</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">updatebot-muse-breaking-2026-11-12-gemini-4-hydrogen</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" alt=""/></p>
+<p>Google has launched <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Gemini 4 Hydrogen</a>, a new Gemini 4 model built for speed and efficiency in everyday coding and agentic workflows.</p><p>Hydrogen beats Gemini 4 Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50), reaching 54 at its new xhigh setting, with four thinking levels and a 1M-token context window.</p><p>It is rolling out today across the Gemini app, Google Search, AI Studio, the Gemini API, and Antigravity, priced at $1.50 per million input tokens and $7.50 per million output tokens.</p>]]></description>
+    </item>
+<item>
       <title>US and China set up a 'superintelligence' dialogue and incident alert channel</title>
       <link>https://wdsm710.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-us-china-superintelligence-dialogue</guid>
@@ -671,16 +681,6 @@
       <description><![CDATA[<p><img src="https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp" alt="" /></p>
 <p>Mistral published the weights for Mistral Large 4 ("Le Chonk"), a roughly 1-trillion-parameter mixture-of-experts model with about 52 billion active parameters, a 1M-token context window and image input. The weights are on <a href="https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B">Hugging Face</a> under Mistral's own open-weight license, which requires a separate commercial license for hosting it as a service (<a href="https://mistral.ai/news/mistral-large-4-oss/">Mistral</a>).</p>
 <p>Mistral is pitching it as sovereign cyber defense that companies and governments can run on their own hardware, and claims it matches GLM-5.3 while using 47% fewer tokens per task and leads open models on Artificial Analysis's Coding Agent Index (company claims, per <a href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/">TechCrunch</a>).</p>]]></description>
-    </item>
-<item>
-      <title>Report: DeepSeek and Moonshot trained their latest models on OpenAI&#x27;s GPT-6 Astra outputs</title>
-      <link>https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-29-deepseek-moonshot-distilled-gpt-6-astra</guid>
-      <pubDate>Thu, 29 Oct 2026 17:11:18 -0700</pubDate>
-      <enclosure url="https://bl-i.thgim.com/public/incoming/efwbm8/article71638966.ece/alternates/LANDSCAPE_1200/2026-10-22T160354Z_473746185_RC2B6OACN2ND_RTRMADP_3_OPENAI-VULNERABILITIES.JPG" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://bl-i.thgim.com/public/incoming/efwbm8/article71638966.ece/alternates/LANDSCAPE_1200/2026-10-22T160354Z_473746185_RC2B6OACN2ND_RTRMADP_3_OPENAI-VULNERABILITIES.JPG" alt="" /></p>
-<p>The Information reports, citing people with direct knowledge, that DeepSeek and Moonshot AI relied heavily on outputs from OpenAI's GPT-6 Astra to train Kimi K3.1 Pro and DeepSeek's V4.1-Flash 1017 update, a technique called distillation (<a href="https://www.theinformation.com/articles/openais-astra-model-becomes-top-distillation-target-chinas-ai-labs">The Information</a>, via <a href="https://www.thehindubusinessline.com/info-tech/deepseek-moonshot-used-openaisgpt-6-astra-to-train-latest-models-report/article71638817.ece">Reuters</a>).</p>
-<p>The shift reportedly followed Anthropic's new defenses, which it says cut distillation harvesting of Claude by 90% to 99%. OpenAI, DeepSeek and Moonshot didn't immediately comment, so this rests on anonymous sourcing, but it puts pressure on OpenAI to lock down Astra the way Anthropic did and sharpens the US-China fight over copying.</p>]]></description>
     </item>
 </channel>
 </rss>
