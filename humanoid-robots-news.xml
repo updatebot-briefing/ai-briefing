@@ -6,12 +6,20 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:16:25 GMT</lastBuildDate>
 
     
     
     
+    
     <item>
+      <title>Xinhua and UBTECH unveil Xinyan and Xinyu, billed as the first bionic humanoid news anchors</title>
+      <link>https://www.wcia.com/business/press-releases/globenewswire/9875236/worlds-first-bionic-humanoid-robot-news-anchors-unveiled/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-xinhua-ubtech-robot-news-anchors</guid>
+      <pubDate>Wed, 11 Nov 2026 04:27:00 GMT</pubDate>
+      <description><![CDATA[<p>Xinhua News Agency and UBTECH unveiled Xinyan and Xinyu, described as the <a href="https://www.wcia.com/business/press-releases/globenewswire/9875236/worlds-first-bionic-humanoid-robot-news-anchors-unveiled/">world's first bionic humanoid robot news anchors</a>, at a forum during the 7th World Media Summit in Beijing on Nov 5; the announcement was released Nov 11.</p><p>The human-scale anchors, visually designed with director Zhang Yimou, are built to deliver on-site news broadcasts, powered by Xinhua's “Xinhua Yudian” newsbot and UBTECH's biomimetic skin, embodied-AI hardware and emotion-driven language models.</p><p>Xinhua says the anchors will assist journalists with news presentation, multilingual delivery and on-site interaction — not replace them — with future uses planned in education, public venues and cultural exchange.</p>]]></description>
+    </item>
+<item>
       <title>Matrix Robotics' MATRIX-3 debuts at CIIE as an autonomous humanoid tour guide</title>
       <link>https://www.globenewswire.com/news-release/2026/11/11/3400917/0/en/matrix-robotics-matrix-3-makes-its-ciie-debut-as-a-humanoid-tour-guide-in-a-real-world-setting-for-the-first-time.html</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-matrix-robotics-matrix-3-ciie</guid>
@@ -785,17 +793,6 @@
 <ul><li>Tabletop Echo: $11,950, 17 degrees of freedom, 225 units planned for 2027.</li><li>Full-body Echo: $59,950, 39 degrees of freedom with articulated fingers, 25 units planned for 2027.</li><li>A required AI subscription starts at $19.99 a month; an optional on-device Vinci vision add-on costs $24,950.</li><li>Four personas (Aria, Mila, Dave, Amar); U.S.-only deliveries expected in the second half of 2027.</li></ul>
 <p>Some people on X questioned whether the promo video and images were AI-generated; Realbotix says it will show Echo in person at CES 2027.</p>
 <p>Sources: <a href="https://www.robotics247.com/article/realbotix-launches-echo-humanoid-robot-line-built-to-support-human-to-robot-interaction">Robotics 24/7</a>, <a href="https://www.realbotix.com/pricing">Realbotix pricing page</a></p>]]></description>
-</item>
-<item>
-<title>Unitree&#x27;s new H2-X security humanoid loses a leg after a failed side flip at a public demo</title>
-<link>https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/</link>
-<guid isPermaLink="false">updatebot-humanoid-2026-10-26-unitree-h2-x-loses-leg-demo</guid>
-<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
-<enclosure url="https://technode.com/wp-content/uploads/2026/10/H2-X.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<p><img src="https://technode.com/wp-content/uploads/2026/10/H2-X.png" alt=""/></p>
-<p>Unitree's H2-X humanoid, launched on October 21 as the "Kung Fu Legend: Guardian" for security patrols and emergency rescue, fell while landing a side flip at the World Physical AI Conference in Hangzhou. One lower leg detached completely at the joint, and attendee footage spread quickly across social media.</p>
-<p>Unitree had promoted the H2-X with videos of it denting car doors, lifting the front of a vehicle and backflipping off a four-meter platform, and claims about eight hours of battery life. As of TechNode's report, Unitree had not publicly explained the failure.</p>
-<p>Source: <a href="https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/">TechNode</a></p>]]></description>
 </item>
 </channel>
 </rss>
