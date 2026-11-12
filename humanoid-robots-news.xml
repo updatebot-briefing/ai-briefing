@@ -6,14 +6,24 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:19:54 GMT</lastBuildDate>
 
     
     
     
     
     
+    
     <item>
+      <title>GENTO unveils a 21-DoF dexterous hand at CoRL 2026 as its Marvin Pro powers NVIDIA's GR00T 2 demos</title>
+      <link>https://gizmodo.com/at-corl-2026-gento-unveils-a-21-dof-hand-as-nvidia-introduces-gr00t-2-with-tianji-marvin-pro-2000833526</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-gento-21-dof-hand-corl</guid>
+      <pubDate>Wed, 11 Nov 2026 09:40:49 GMT</pubDate>
+      <enclosure url="https://gizmodo.com/app/uploads/2026/11/03_CoRL_Dexterous_Hands_1920x1280.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://gizmodo.com/app/uploads/2026/11/03_CoRL_Dexterous_Hands_1920x1280.jpg" alt="" /></p>
+<p>GENTO, a humanoid brand incubated by Tianji Intelligence, showed its first <a href="https://gizmodo.com/at-corl-2026-gento-unveils-a-21-dof-hand-as-nvidia-introduces-gr00t-2-with-tianji-marvin-pro-2000833526">21-degree-of-freedom dexterous hand prototype</a> at the Conference on Robot Learning (CoRL 2026) in Austin, alongside its Luna humanoid and the TIANJI Marvin Pro dual-arm platform.</p><p>The hand uses a single linkage architecture aimed at four long-standing problems — backlash, fragility, backdrivability and fingertip force — while the Marvin Pro, running on NVIDIA Jetson AGX Orin, demonstrated voice-command grasping.</p><p>NVIDIA also used a Marvin Pro to demo its new GR00T 2 world action model, including transferring human hand skills to the robot for two-handed tasks like preparing banana yogurt.</p>]]></description>
+    </item>
+<item>
       <title>NeodraDynamics unveils Neo1, a 4-metre hydraulic humanoid for dangerous industrial jobs</title>
       <link>https://www.femalefirst.co.uk/bizarre/transformer-robot-unveiled-china-1453532.html</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-neodradynamics-neo1-hydraulic</guid>
@@ -779,18 +789,6 @@
 <ul><li>A global automaker that sells more than three million vehicles a year</li><li>One of the world's largest automotive technology and components developers</li><li>A leading global consumer products manufacturer</li></ul>
 <p>Agility also says it has more than 30 prospective customers in its pipeline, including two early-stage potential subcontractor deals for a branch of the U.S. Armed Services (no agreements signed). It repeated its previously disclosed figure of more than $300 million in multi-year Digit 5 orders and expects its SPAC merger with Churchill Capital Corp XI to close in Q4 2026, trading on Nasdaq as AGLT.</p>
 <p>Sources: <a href="https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot">Agility press release</a>, <a href="https://www.agilityrobotics.com/content/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations">GXO and Agility announcement</a>, <a href="https://x.com/agilityrobotics/status/2114673401235181690">Agility on X</a></p>]]></description>
-</item>
-<item>
-<title>China publishes its first six national humanoid robot standards, effective April 2027</title>
-<link>https://robot24.com/china-launches-first-national-standards-for-humanoid-robots</link>
-<guid isPermaLink="false">updatebot-humanoid-2026-10-26-china-first-national-humanoid-standards</guid>
-<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
-<enclosure url="https://cdn.sanity.io/images/h746i9zm/production/0a51c51fc39278c06cf5977e51c64bce31ae43d8-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;fit=crop&amp;auto=format" type="image/jpeg" length="0"/>
-<description><![CDATA[<p><img src="https://cdn.sanity.io/images/h746i9zm/production/0a51c51fc39278c06cf5977e51c64bce31ae43d8-3840x2160.jpg?rect=0,72,3840,2016&amp;w=1200&amp;h=630&amp;fit=crop&amp;auto=format" alt=""/></p>
-<p>China's State Administration for Market Regulation has released the country's first six national standards for humanoid robots. They take effect on April 1, 2027.</p>
-<ul><li>Five documents form the GB/T 48317 series: general technical requirements, environmental perception, decision-making and planning, movement control, and task execution.</li><li>A sixth, GB/T 48316-2026, sets specifications for humanoid simulation testing platforms.</li></ul>
-<p>The standards are voluntary (GB/T) rather than mandatory, but they give buyers and makers a common way to measure and compare humanoid capabilities across very different hardware and control stacks. Major Chinese robot makers took part in drafting them.</p>
-<p>Source: <a href="https://robot24.com/china-launches-first-national-standards-for-humanoid-robots">Robot24</a></p>]]></description>
 </item>
 </channel>
 </rss>
