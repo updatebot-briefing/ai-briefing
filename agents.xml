@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 01:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:10:05 GMT</lastBuildDate>
+<item>
+<title>Claude will soon join your team meetings and work on tasks live</title>
+<link>https://thetechstreetnow.com/claude-can-collaborate-in-your-team-meetings-soon-like-an-intern/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-11-claude-meetings</guid>
+<pubDate>Wed, 11 Nov 2026 17:15:20 GMT</pubDate>
+<enclosure url="https://www.zdnet.com/wp-content/uploads/sites/3/Claude-Meetings.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://www.zdnet.com/wp-content/uploads/sites/3/Claude-Meetings.png" alt=""/></p>
+<p>Anthropic announced <a href="https://thetechstreetnow.com/claude-can-collaborate-in-your-team-meetings-soon-like-an-intern/">Claude Meetings</a>: soon you will be able to add Claude to a call to take notes and update the documents your team is working on during the conversation, and start on the tasks being discussed live.</p><p>It goes beyond transcription tools that only list action items, because Claude would act on them in the meeting. The feature is planned for Team and Enterprise plans; Anthropic gave no launch date yet, so this is an announcement, not a shipped feature.</p>]]></description>
+</item>
 <item>
 <title>Gopuff launches fully integrated delivery inside Grok Bot</title>
 <link>https://www.gopuff.com/newsroom/company-news/gopuff-launches-first-fully-integrated-delivery-experience-on-spacexsi%E2%80%99s-grok-bot</link>
@@ -565,14 +574,6 @@
 <pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
 <enclosure url="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e4e40398c4d46f86dba3bbdcbfa5ef02d2675988/assets/elevenlabs-sound-effects.jpg" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e4e40398c4d46f86dba3bbdcbfa5ef02d2675988/assets/elevenlabs-sound-effects.jpg" alt=""/><p>Teknium <a href="https://x.com/Teknium/status/2115219694622040322">announced</a> an official <a href="https://hermes-agent.nousresearch.com/docs/plugins/elevenlabs-sound-effects">ElevenLabs Sound Effects plugin</a> for Hermes Agent on Tuesday afternoon, as part of a growing set of game-dev tools.</p><p>It adds one tool that turns a text description into a 0.5 to 30 second audio clip, optionally a seamless loop, and sends it to you in chat on Telegram, Discord, Slack, and other apps. It also ships a sound-design skill with a local ffmpeg script for trimming, loudness, loop fixes, and game sound packs, and in Hermes Desktop you get an inline sound card and a sound library tab.</p><p>You need your own ElevenLabs API key, and it installs with <code>hermes plugins install elevenlabs-sound-effects</code>.</p>]]></description>
-</item>
-<item>
-<title>NVIDIA invests $3 billion and AMD $1 billion in Meta as both expand work on the Muse agent</title>
-<link>https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-27-muse-nvidia-amd-investment</guid>
-<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
-<enclosure url="https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png" alt=""/><p>NVIDIA and Meta <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx">announced on Tuesday</a> that they'll expand their work on Muse and the Muse models, and NVIDIA will put $3 billion into Meta's equity offering. They're also looking at NVIDIA's OpenShell for safely deploying agents and NVIDIA Sentry for monitoring agent behavior.</p><p>AMD <a href="https://ir.amd.com/news-events/press-releases/detail/1302/amd-and-meta-advance-strategic-partnership-to-power-metas-superintelligence-infrastructure">said separately</a> that its EPYC processors power the dedicated computers behind Muse, and <a href="https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html">CNBC reports</a> AMD is investing $1 billion. Zuckerberg called Muse "how we bring personal superintelligence to everyone."</p><p>The investments come as Meta raises up to $95 billion for AI infrastructure.</p>]]></description>
 </item>
 </channel>
 </rss>
