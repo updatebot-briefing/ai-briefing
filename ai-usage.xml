@@ -5,10 +5,19 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 01:11:09 GMT</lastBuildDate>
+    
     
     
     <item>
+<title>Grok Bot vs Dots vs Duet: prices are close — data access decides</title>
+<link>https://www.ai-officer.com/post/ai-agent-pricing-secure-data-access</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-11-ai-officer-agent-pricing</guid>
+<pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://www.ai-officer.com/images/og-ai-agent-pricing-secure-data-access.webp" type="image/webp" length="0"/>
+<description><![CDATA[<img src="https://www.ai-officer.com/images/og-ai-agent-pricing-secure-data-access.webp" alt=""/><p><a href="https://www.ai-officer.com/post/ai-agent-pricing-secure-data-access">AI Officer compared</a> the three always-on agents as of Nov 11: Grok Bot from $30 a month (Premium) to $200 (Ultra); a first Dot included with ChatGPT Pro at $100, $200 or $500 a month, or Business Premium at $125 per user a month; Claude Duet included with Claude Pro, Max and Ultra in a US waitlisted preview.</p><p>For a team of ten that is $300 to $2,000 a month on Grok Bot versus $1,250 on Dots. The piece argues price will not decide the buy: what matters is a secure MCP door onto the company’s central database, since all three draw on a usage allowance and background work eats into it.</p>]]></description>
+    </item>
+<item>
 <title>16 AI coding plans compared: prices, limits, and reset rules, updated Nov 10</title>
 <link>https://www.scriptbyai.com/ai-coding-plan-comparison/</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-10-scriptbyai-coding-plans</guid>
