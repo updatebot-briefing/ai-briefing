@@ -7,10 +7,18 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:08:14 GMT</lastBuildDate>
             
     
+    
     <item>
+      <title>Alibaba opens preview of Qwen4-Max, its next flagship model</title>
+      <link>https://apidog.com/blog/what-is-qwen-4-max/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-qwen4-max-preview</guid>
+      <pubDate>Wed, 11 Nov 2026 02:01:00 GMT</pubDate>
+      <description><![CDATA[<p>Alibaba's Qwen team announced Qwen4-Max on Nov 11, the first model of its next-generation Qwen4 family, as a preview. It is a multimodal reasoning model pitched at coding, agentic work and front-end builds.</p><p>It is available through Alibaba Cloud's Token Plan subscription and in early access on QwenWork, Qoder, the Qwen app and QwenStudio. The Token Plan preview runs until Nov 25, and Alibaba says the preview model will be retired after that.</p><p>No benchmarks, model card, parameter count or per-token price have been published, and no open weights were announced — so capability claims rest on Alibaba's own word for now.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic takes Claude into meetings, sheets and whiteboards on IPO roadshow day</title>
       <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-anthropic-claude-office-tools</guid>
@@ -19,7 +27,7 @@
       <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" alt=""/></p>
 <p>Anthropic launched a workplace suite for Claude, the same day it opened its IPO roadshow: <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">Claude Meetings</a> joins Google Meet calls as a visible participant and drafts plans while people talk, while Claude Sheets builds collaborative spreadsheets and Claude Whiteboards turns planning talk into a shared board with timelines and owners.</p><p>Meetings is in beta for Team and Enterprise plans; Sheets and Whiteboards are in beta on paid plans. Claude Data is now generally available, and interactive connectors open apps like Adobe and Atlassian inside Claude.</p><p>Why it matters: Anthropic is moving beyond coding into office workers' daily work, taking on Microsoft and Google directly — on day one of its roadshow for what could be the largest IPO ever.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>New York opens RAISE Act registration for frontier AI labs</title>
       <link>https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-ny-raise-act-registration-opens</guid>
@@ -28,7 +36,7 @@
       <description><![CDATA[<p><img src="https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center/opengraph-image?99fd91dcd2b2fd56" alt=""/></p>
 <p>New York has opened registration for large frontier AI developers under the RAISE Act, Governor Kathy Hochul announced Tuesday. Labs including OpenAI and Anthropic must register by January 1, 2027, when the law's central provisions take effect.</p><p>Covered developers — those with more than $500 million in annual revenue training models above 10^26 operations — must publish safety frameworks, issue public model transparency reports and report critical safety incidents within 72 hours. Penalties run up to $1 million for a first violation and $3 million for later ones.</p><p>Why it matters: this is the first US state regulator directly supervising the frontier labs, landing alongside California's SB 53 and Illinois's audit law — labs now face overlapping state regimes with different reporting clocks.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Claude Fable 5.2 completes 41% of real freelance jobs, up from 2.5% a year ago</title>
       <link>https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-fable-5-2-remote-labor-index-41</guid>
@@ -37,7 +45,7 @@
       <description><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/11/RLI-Bench-Fable5-2-1200x569.png" alt=""/></p>
 <p>Anthropic's Claude Fable 5.2 now leads the <a href="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/">Remote Labor Index</a> from Scale Labs and the Center for AI Safety, completing 41.3% of real freelance projects at a quality a paying client would accept — nearly double the next-best systems, Opus 5.5 at 21.25% and GPT-6 Astra at 20.83%.</p><p>The benchmark hands agents 240 real Upwork projects worth about $144,000, averaging $632.60 and ~29 hours of human work each, with human experts grading every deliverable. When the test launched about a year ago, the top system managed just 2.5%.</p><p>Why it matters: the sharpest evidence yet that frontier agents are crossing from demos into billable work — though agents still fail nearly 60% of jobs, and struggle most with industrial product design and animation.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>TSMC board approves up to $1 billion for Anthropic and OpenAI stakes</title>
       <link>https://voltgridnews.com/story/tsmc-board-approves-up-to-1-billion-in-anthropic-openai-stakes</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-tsmc-1b-anthropic-openai</guid>
@@ -46,7 +54,7 @@
       <description><![CDATA[<p><img src="https://voltgridnews.com/media/5cab6568-f62f-471a-8479-1588317bb510/88e1f462-7db0-40b5-bd7e-157332201985.png" alt=""/></p>
 <p>TSMC's board approved up to $1 billion in investments in the two leading AI developers on Tuesday: up to $500 million for Anthropic common shares at the IPO price, and up to $500 million for preferred stock in OpenAI, according to board resolutions filed with the SEC on Form 6-K.</p><p>The approvals are spending ceilings, not completed purchases — TSMC has not said when the shares will be bought or at what final terms for OpenAI. The same meeting approved about $40.9 billion in capital appropriations for chip capacity and 2027 R&amp;D.</p><p>Why it matters: the world's biggest chipmaker is becoming a shareholder in its two biggest indirect AI customers, tying the AI supply chain to the labs' equity just as Anthropic heads for the public markets.</p>]]></description>
     </item>
-    <item>
+<item>
       <title>Grok 4.8 is in RL after SpaceXAI dumps JAX for C++</title>
       <link>https://fourweekmba.com/ai-grok-4-8-in-rl-after-a-57-day-wait-as-xai-dumps-jax-for-cpp/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-grok-4-8-in-rl</guid>
@@ -673,16 +681,6 @@
       <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800" alt="" /></p>
 <p>Microsoft said in a regulatory filing that it earned $10 billion from commercial arrangements with OpenAI, including revenue sharing, in the quarter ended September 30. That's nearly 11% of its $92.3 billion quarterly revenue, and a pace of about $40 billion a year (<a href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/">TechCrunch</a>).</p>
 <p>Azure revenue grew 48% to $33.2 billion, now Microsoft's biggest single business, and commercial remaining performance obligations rose 73% to $677 billion (<a href="https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/">Microsoft results</a>). It's the clearest number yet on how much of Microsoft's AI growth still runs through OpenAI, even as the two compete.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI reportedly plans to buy Google's TPU chips, loosening its reliance on Nvidia</title>
-      <link>https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-28-openai-plans-buy-google-tpus</guid>
-      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
-      <enclosure url="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg" alt="" /></p>
-<p>OpenAI plans to buy Google's Tensor Processing Units outright rather than only renting them, according to a single source cited by <a href="https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips">The Information</a>. Neither company has confirmed it, and price, volume and timing weren't disclosed, though OpenAI has posted a job to lead optimizing its frontier models on TPUs (<a href="https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia">Decrypt</a>).</p>
-<p>If it happens, two direct rivals would be deepening a hardware relationship, and Google would add another big outside TPU buyer after Anthropic and, this week, Oracle. Alphabet's earnings the same day said TPU system sales were already a meaningful contributor to Cloud's growth.</p>]]></description>
     </item>
 </channel>
 </rss>
