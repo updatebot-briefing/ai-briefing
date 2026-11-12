@@ -7,11 +7,21 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 01:08:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:08:28 GMT</lastBuildDate>
             
     
     
+    
     <item>
+      <title>Anthropic's IPO is multiple times oversubscribed; bankers weigh pricing above the $70–$78 range</title>
+      <link>https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-anthropic-ipo-oversubscribed</guid>
+      <pubDate>Wed, 11 Nov 2026 15:19:00 GMT</pubDate>
+      <enclosure url="https://api.stockanalysis.com/api/assets/cms/2e8ce88a-f5d9-4a43-b6c9-b4e2290af9bb.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://api.stockanalysis.com/api/assets/cms/2e8ce88a-f5d9-4a43-b6c9-b4e2290af9bb.jpg" alt=""/></p>
+<p>Anthropic's IPO has drawn orders for multiple times the 825 million shares on offer at $70 to $78 each, Bloomberg reports, driven by large anchor-size orders from institutions.</p><p>The Financial Times, citing five people familiar with the matter, reports bankers expect to price above the filed range after strong first-day demand, which could lift the valuation to $1.5 trillion or more. Nothing new has been filed with the SEC, and Anthropic has not commented.</p><p>Anthropic plans to price on Wednesday, Nov 18, and start trading on Nasdaq on Nov 19 under the ticker ANT.</p>]]></description>
+    </item>
+<item>
       <title>Alibaba opens preview of Qwen4-Max, its next flagship model</title>
       <link>https://apidog.com/blog/what-is-qwen-4-max/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-qwen4-max-preview</guid>
@@ -671,16 +681,6 @@
       <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/q3_earnings.width-1300.png" alt="" /></p>
 <p>Alphabet reported third-quarter revenue of $127.6 billion, up 25%, with Google Cloud up 103% to $30.7 billion, driven by AI infrastructure, AI solutions and, for the first time in a big way, direct TPU system sales. Sundar Pichai said the Gemini app has reached one billion users and Google's model APIs now process nearly 32 billion tokens per minute, more than four times a year ago (<a href="https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/">Google CEO remarks</a>).</p>
 <p>The cost side is the other headline: Q3 capex was $51.4 billion, free cash flow was negative $9.1 billion, and the CFO said capex will rise significantly in 2027, with CNBC reporting it is expected to exceed $300 billion. Shares fell more than 10% after hours on the revenue miss and cash burn (<a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html">CNBC</a>).</p>]]></description>
-    </item>
-<item>
-      <title>Microsoft books $10 billion in quarterly revenue from OpenAI as Azure grows 48%</title>
-      <link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-28-microsoft-10b-openai-revenue-azure-48pct</guid>
-      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800" alt="" /></p>
-<p>Microsoft said in a regulatory filing that it earned $10 billion from commercial arrangements with OpenAI, including revenue sharing, in the quarter ended September 30. That's nearly 11% of its $92.3 billion quarterly revenue, and a pace of about $40 billion a year (<a href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/">TechCrunch</a>).</p>
-<p>Azure revenue grew 48% to $33.2 billion, now Microsoft's biggest single business, and commercial remaining performance obligations rose 73% to $677 billion (<a href="https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/">Microsoft results</a>). It's the clearest number yet on how much of Microsoft's AI growth still runs through OpenAI, even as the two compete.</p>]]></description>
     </item>
 </channel>
 </rss>
