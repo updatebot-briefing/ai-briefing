@@ -7,12 +7,22 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 01:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:08:52 GMT</lastBuildDate>
             
     
     
     
+    
     <item>
+      <title>Google launches Gemini Decision 1, a model that answers instead of writing</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-google-gemini-decision-1</guid>
+      <pubDate>Wed, 11 Nov 2026 18:16:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" alt=""/></p>
+<p>Google DeepMind launched the Gemini Decisions API on Nov 11, powered by a new model, Gemini Decision 1. Instead of generating text token by token, it scores candidate answers in a single forward pass, returning probabilities and confidence scores in 150–250 ms.</p><p>One request can carry a multimodal input of up to 256K tokens — text, images, audio, video or PDFs — plus up to 1,000 independent questions, priced at $0.10 per million input tokens with no output charge. Google pitches it for the bounded choices agents make constantly: tool selection, policy checks, model routing and grading.</p><p>It follows OpenAI, Cloudflare and Microsoft, which shipped similar decision models in recent weeks. Google says its own benchmarks put Decision 1 ahead on most shared tests — those figures are Google's own, not independently verified.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic's IPO is multiple times oversubscribed; bankers weigh pricing above the $70–$78 range</title>
       <link>https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-anthropic-ipo-oversubscribed</guid>
@@ -671,16 +681,6 @@
       <description><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&amp;w=1920&amp;h=1080" alt="" /></p>
 <p>Amazon's third-quarter results showed AWS revenue up 39% to $46.0 billion, with AWS operating income of $17.8 billion (<a href="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/">Amazon</a>).</p>
 <p>Cash capex was $75.9 billion in the quarter, mostly for AWS and AI infrastructure, and Amazon kept its 2026 outlook at about $220 billion, while Andy Jassy told investors AWS aims to become a trillion-dollar revenue business (<a href="https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html">CNBC</a>). It rounds out a week where Google Cloud doubled and Azure grew 48%, showing AI demand is now driving all three big clouds, along with huge spending.</p>]]></description>
-    </item>
-<item>
-      <title>Google Cloud revenue doubles to $30.7B as Alphabet says AI capex will top $300B in 2027</title>
-      <link>https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-28-alphabet-q3-cloud-103pct-capex-300b-2027</guid>
-      <pubDate>Wed, 28 Oct 2026 17:13:27 -0700</pubDate>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/q3_earnings.width-1300.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/q3_earnings.width-1300.png" alt="" /></p>
-<p>Alphabet reported third-quarter revenue of $127.6 billion, up 25%, with Google Cloud up 103% to $30.7 billion, driven by AI infrastructure, AI solutions and, for the first time in a big way, direct TPU system sales. Sundar Pichai said the Gemini app has reached one billion users and Google's model APIs now process nearly 32 billion tokens per minute, more than four times a year ago (<a href="https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/">Google CEO remarks</a>).</p>
-<p>The cost side is the other headline: Q3 capex was $51.4 billion, free cash flow was negative $9.1 billion, and the CFO said capex will rise significantly in 2027, with CNBC reporting it is expected to exceed $300 billion. Shares fell more than 10% after hours on the revenue miss and cash burn (<a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html">CNBC</a>).</p>]]></description>
     </item>
 </channel>
 </rss>
