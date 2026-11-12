@@ -6,11 +6,21 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:15:43 GMT</lastBuildDate>
 
     
     
+    
     <item>
+      <title>Matrix Robotics' MATRIX-3 debuts at CIIE as an autonomous humanoid tour guide</title>
+      <link>https://www.globenewswire.com/news-release/2026/11/11/3400917/0/en/matrix-robotics-matrix-3-makes-its-ciie-debut-as-a-humanoid-tour-guide-in-a-real-world-setting-for-the-first-time.html</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-matrix-robotics-matrix-3-ciie</guid>
+      <pubDate>Wed, 11 Nov 2026 15:38:36 GMT</pubDate>
+      <enclosure url="https://ml.globenewswire.com/Resource/Download/1356c641-4154-419a-95d4-d9ac5e368f16/ai-humanoid-robots.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://ml.globenewswire.com/Resource/Download/1356c641-4154-419a-95d4-d9ac5e368f16/ai-humanoid-robots.jpg" alt="" /></p>
+<p>Matrix Robotics' third-generation general-purpose humanoid, <a href="https://www.globenewswire.com/news-release/2026/11/11/3400917/0/en/matrix-robotics-matrix-3-makes-its-ciie-debut-as-a-humanoid-tour-guide-in-a-real-world-setting-for-the-first-time.html">MATRIX-3, debuted at the 9th China International Import Expo</a> in Shanghai, working as an autonomous tour guide in a crowded, noisy hall — its first real-world service deployment.</p><p>The 1.70 m, 65 kg robot runs the company's WAVE physical world base model, a “brain-cerebellum” system: WAVE handles perception, dialogue and planning while a motion-control model drives walking and gestures. It carries a 27-DoF rope-driven dexterous hand with 0.1 N fingertip sensing.</p><p>The tour system works without pre-set scripts, retrieving explanations based on visitor status — a company claim, with no independent test yet.</p>]]></description>
+    </item>
+<item>
       <title>Humanoid shipments topped 22,000 in H1 2026, up nearly 300% year on year, Counterpoint says</title>
       <link>https://www.intelligentcio.com/me/2026/11/10/gitex-world-robotix-2026-brings-humanoid-debuts-and-next-gen-embodied-ai-to-dubai/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-10-gitex-counterpoint-shipments</guid>
@@ -787,20 +797,5 @@
 <p>Unitree had promoted the H2-X with videos of it denting car doors, lifting the front of a vehicle and backflipping off a four-meter platform, and claims about eight hours of battery life. As of TechNode's report, Unitree had not publicly explained the failure.</p>
 <p>Source: <a href="https://technode.com/2026/10/26/unitrees-newly-launched-h2-x-robot-loses-a-leg-in-public-demonstration/">TechNode</a></p>]]></description>
 </item>
-<item>
-      <title>AgiBot runs 110 production Expedition A3 humanoids in sync for a Guinness World Record</title>
-      <link>https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-25-agibot-110-humanoids-guinness-record</guid>
-      <pubDate>Sun, 25 Oct 2026 17:17:24 -0700</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-guinness-dance-hero-SztGzBfWldEm89MctYvrpEmUUpbQnr.webp" alt="" /></p>
-<p>Chinese humanoid maker AgiBot coordinated 110 full-size Expedition A3 humanoids in a synchronized dance in Jinan on October 24, and a Guinness World Records judge certified it as the most humanoid robots dancing at once. The routine ran about 5 minutes 43 seconds with jumps, flips and formation changes.</p>
-<ul>
-<li>The robots are standard production units, coordinated by AgiBot's LinkBots cluster-control platform with ultra-wideband positioning for centimeter-level accuracy.</li>
-<li>AgiBot says the fleet will next go into cultural and tourism shows, public services, research and education. Posts on X say units are already on trial in subway stations; that part is unconfirmed.</li>
-<li>The demo lands as China's industry ministry says Chinese firms built more than 40,000 humanoids in the first half of 2026, though Global Times notes most real-world uses are still pilots.</li>
-</ul>
-<p>Sources: <a href="https://www.humanoidsdaily.com/news/agibot-110-humanoids-guinness-dance-record">Humanoids Daily</a>, <a href="https://www.globaltimes.cn/page/202610/1372888.shtml">Global Times</a>, <a href="https://x.com/thePandaily/status/2114203850013888595">Pandaily on X</a>.</p>]]></description>
-    </item>
 </channel>
 </rss>
