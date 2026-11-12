@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 01:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:34:11 GMT</lastBuildDate>
+<item>
+<title>Grok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location and Contacts</title>
+<link>https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/</link>
+<guid isPermaLink="false">updatebot-muse-breaking-2026-11-12-grok-bot-mac-apple-apps</guid>
+<pubDate>Thu, 12 Nov 2026 18:40:00 GMT</pubDate>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600" type="image/webp" length="0"/>
+<description><![CDATA[<p><img src="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?w=1600" alt=""/></p>
+<p>SpaceXAI's Grok Bot on Mac can now work directly with Apple's built-in apps. The official @bot account announced it can use Messages, Mail, Notes, Reminders, Calendar, Location and Contacts.</p><p>Once you grant access per app, the Bot can read and send messages, search and draft emails, read and write notes, and check reminders, pulling context from your own records instead of relying on prompts alone.</p><p>The rollout is gradual, so some users may see only some apps at first. It lands a day after Grok Bot 1.0 left beta on Nov 11.</p>]]></description>
+</item>
 <item>
 <title>Claude will soon join your team meetings and work on tasks live</title>
 <link>https://thetechstreetnow.com/claude-can-collaborate-in-your-team-meetings-soon-like-an-intern/</link>
@@ -566,14 +575,6 @@
 <pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
 <enclosure url="https://pbs.twimg.com/media/HVm0j4RaUAA9O9Q.jpg" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://pbs.twimg.com/media/HVm0j4RaUAA9O9Q.jpg" alt=""/><p>Nous Research co-founder Teknium <a href="https://x.com/Teknium/status/2114920088357032109">said Monday evening</a> that OpenAI's new GPT-6.1 Terra can now be picked as a model in Hermes Agent, through Nous Portal or OpenRouter.</p><p>OpenAI <a href="https://x.com/OpenAI/status/2114780711664398349">pitched Terra</a> as a cheaper model with fast, capable computer use that can read what's on screen and act across apps, which suits an always-on agent like Hermes.</p>]]></description>
-</item>
-<item>
-<title>Hermes Agent gets an official ElevenLabs sound effects plugin, with a sound library in Hermes Desktop</title>
-<link>https://hermes-agent.nousresearch.com/docs/plugins/elevenlabs-sound-effects</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-27-hermes-elevenlabs-sfx-plugin</guid>
-<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
-<enclosure url="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e4e40398c4d46f86dba3bbdcbfa5ef02d2675988/assets/elevenlabs-sound-effects.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://raw.githubusercontent.com/NousResearch/hermes-official-plugins/e4e40398c4d46f86dba3bbdcbfa5ef02d2675988/assets/elevenlabs-sound-effects.jpg" alt=""/><p>Teknium <a href="https://x.com/Teknium/status/2115219694622040322">announced</a> an official <a href="https://hermes-agent.nousresearch.com/docs/plugins/elevenlabs-sound-effects">ElevenLabs Sound Effects plugin</a> for Hermes Agent on Tuesday afternoon, as part of a growing set of game-dev tools.</p><p>It adds one tool that turns a text description into a 0.5 to 30 second audio clip, optionally a seamless loop, and sends it to you in chat on Telegram, Discord, Slack, and other apps. It also ships a sound-design skill with a local ffmpeg script for trimming, loudness, loop fixes, and game sound packs, and in Hermes Desktop you get an inline sound card and a sound library tab.</p><p>You need your own ElevenLabs API key, and it installs with <code>hermes plugins install elevenlabs-sound-effects</code>.</p>]]></description>
 </item>
 </channel>
 </rss>
