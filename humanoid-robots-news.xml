@@ -6,13 +6,23 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:16:33 GMT</lastBuildDate>
 
     
     
     
     
+    
     <item>
+      <title>NeodraDynamics unveils Neo1, a 4-metre hydraulic humanoid for dangerous industrial jobs</title>
+      <link>https://www.femalefirst.co.uk/bizarre/transformer-robot-unveiled-china-1453532.html</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-neodradynamics-neo1-hydraulic</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.femalefirst.co.uk/image-library/partners/bang/land/500/t/transformer-robot-unveiled-in-china-image-is-not-the-actual-.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.femalefirst.co.uk/image-library/partners/bang/land/500/t/transformer-robot-unveiled-in-china-image-is-not-the-actual-.jpg" alt="" /></p>
+<p>NeodraDynamics Robotics and <a href="https://www.femalefirst.co.uk/bizarre/transformer-robot-unveiled-china-1453532.html">JD Industrial unveiled Neo1</a>, a four-metre-class heavy-duty hydraulic humanoid, at the 2026 China International Industry Fair (CIIF). It is built for “4D” jobs: dangerous, dirty, difficult and dull.</p><p>Unlike most humanoids, Neo1 uses a hybrid hydraulic-electric drive, with 41 active degrees of freedom and 39 joints on miniature digital hydraulic actuators. The company claims a 500 kg dual-arm payload and ±0.005 mm repeat positioning accuracy — company figures, not independently verified.</p><p>The robot is aimed at mining, disaster zones, nuclear facilities and deep-sea work, with JD Industrial helping match it to pilot projects.</p>]]></description>
+    </item>
+<item>
       <title>Xinhua and UBTECH unveil Xinyan and Xinyu, billed as the first bionic humanoid news anchors</title>
       <link>https://www.wcia.com/business/press-releases/globenewswire/9875236/worlds-first-bionic-humanoid-robot-news-anchors-unveiled/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-xinhua-ubtech-robot-news-anchors</guid>
@@ -781,18 +791,6 @@
 <ul><li>Five documents form the GB/T 48317 series: general technical requirements, environmental perception, decision-making and planning, movement control, and task execution.</li><li>A sixth, GB/T 48316-2026, sets specifications for humanoid simulation testing platforms.</li></ul>
 <p>The standards are voluntary (GB/T) rather than mandatory, but they give buyers and makers a common way to measure and compare humanoid capabilities across very different hardware and control stacks. Major Chinese robot makers took part in drafting them.</p>
 <p>Source: <a href="https://robot24.com/china-launches-first-national-standards-for-humanoid-robots">Robot24</a></p>]]></description>
-</item>
-<item>
-<title>Realbotix opens reservations for Echo companion humanoids at $11,950 tabletop and $59,950 full-body</title>
-<link>https://www.robotics247.com/article/realbotix-launches-echo-humanoid-robot-line-built-to-support-human-to-robot-interaction</link>
-<guid isPermaLink="false">updatebot-humanoid-2026-10-26-realbotix-echo-humanoid-line</guid>
-<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
-<enclosure url="https://www.robotics247.com/images/2026_article/Realbotix-Echo-humanoid-main-Robotics247-2026.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<p><img src="https://www.robotics247.com/images/2026_article/Realbotix-Echo-humanoid-main-Robotics247-2026.jpg" alt=""/></p>
-<p>Realbotix (TSXV: XBOT) launched Echo, a line of conversational humanoid robots aimed at companionship, education and wellness, and opened $199 reservations.</p>
-<ul><li>Tabletop Echo: $11,950, 17 degrees of freedom, 225 units planned for 2027.</li><li>Full-body Echo: $59,950, 39 degrees of freedom with articulated fingers, 25 units planned for 2027.</li><li>A required AI subscription starts at $19.99 a month; an optional on-device Vinci vision add-on costs $24,950.</li><li>Four personas (Aria, Mila, Dave, Amar); U.S.-only deliveries expected in the second half of 2027.</li></ul>
-<p>Some people on X questioned whether the promo video and images were AI-generated; Realbotix says it will show Echo in person at CES 2027.</p>
-<p>Sources: <a href="https://www.robotics247.com/article/realbotix-launches-echo-humanoid-robot-line-built-to-support-human-to-robot-interaction">Robotics 24/7</a>, <a href="https://www.realbotix.com/pricing">Realbotix pricing page</a></p>]]></description>
 </item>
 </channel>
 </rss>
