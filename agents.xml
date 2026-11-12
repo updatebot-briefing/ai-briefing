@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 20:35:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:09:29 GMT</lastBuildDate>
+<item>
+<title>Gopuff launches fully integrated delivery inside Grok Bot</title>
+<link>https://www.gopuff.com/newsroom/company-news/gopuff-launches-first-fully-integrated-delivery-experience-on-spacexsi%E2%80%99s-grok-bot</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-11-gopuff-grok-bot-delivery</guid>
+<pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+<description><![CDATA[<p><a href="https://www.gopuff.com/newsroom/company-news/gopuff-launches-first-fully-integrated-delivery-experience-on-spacexsi%E2%80%99s-grok-bot">Gopuff</a> is the first company to offer a fully integrated delivery experience inside SpaceXAI’s Grok Bot: browse thousands of everyday essentials, build an order, pick a payment method and check out without ever leaving the chat. Orders come from local micro-fulfillment centers and arrive in as fast as 15 minutes.</p><p>Connect it from Grok Bot’s Connect Apps button or by saying “Connect to Gopuff”, then ask for a weekly grocery order or a last-minute snack run. Gopuff cites a 99.5% order accuracy rate. It extends the pair’s earlier collaboration on Go, Gopuff’s AI shopping helper.</p>]]></description>
+</item>
 <item>
 <title>SpaceXAI launches Grok Bot 1.0: Team Bots join Slack, Teams and video calls</title>
 <link>https://x.ai/news/grok-bot-1-0</link>
@@ -566,17 +573,6 @@
 <pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
 <enclosure url="https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://ml.globenewswire.com/media/915679a6-3b0b-41f7-8fac-5f6958b3ae3e/medium/meta-and-nvidia.png" alt=""/><p>NVIDIA and Meta <a href="https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Meta-to-Expand-Collaboration-on-Muse-and-Muse-Family-of-Models-Amid-Robust-Growth/default.aspx">announced on Tuesday</a> that they'll expand their work on Muse and the Muse models, and NVIDIA will put $3 billion into Meta's equity offering. They're also looking at NVIDIA's OpenShell for safely deploying agents and NVIDIA Sentry for monitoring agent behavior.</p><p>AMD <a href="https://ir.amd.com/news-events/press-releases/detail/1302/amd-and-meta-advance-strategic-partnership-to-power-metas-superintelligence-infrastructure">said separately</a> that its EPYC processors power the dedicated computers behind Muse, and <a href="https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html">CNBC reports</a> AMD is investing $1 billion. Zuckerberg called Muse "how we bring personal superintelligence to everyone."</p><p>The investments come as Meta raises up to $95 billion for AI infrastructure.</p>]]></description>
-</item>
-<item>
-<title>Hermes Agent subscriptions revamped: every plan gets a cloud agent, and usage limits now reset daily and weekly</title>
-<link>https://x.com/NousResearch/status/2115120531611787323</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-27-hermes-agent-subscriptions-revamp</guid>
-<pubDate>Tue, 27 Oct 2026 17:36:57 GMT</pubDate>
-<enclosure url="https://web-assets.nousresearch.com/portal/441cf77a3ff97e0e473e8144cef6c04488af4242/hermes-og-image-blue.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://web-assets.nousresearch.com/portal/441cf77a3ff97e0e473e8144cef6c04488af4242/hermes-og-image-blue.png" alt="Hermes Agent subscriptions"/>
-<p>Nous Research has revamped its Hermes Agent subscriptions. Every new plan now includes a cloud agent out of the box, and included usage now resets on daily and weekly limits instead of one monthly block of credits.</p>
-<p>The <a href="https://portal.nousresearch.com/">Nous Portal</a> lists Free, Plus, Super, and Ultra tiers. Paid tiers include a cloud agent (4 GB RAM with 25 GB disk on Plus, 100 GB disk on Super, and 8 GB RAM with 100 GB disk on Ultra); bigger sizes and extra agents use credits, large models have their own monthly limit, and API keys still bill pay-as-you-go.</p>
-<p>Existing subscribers can switch to the new plans any time. Teknium added that every paid Nous Portal subscription now comes with a Hermes Agent instance and a computer for it, so the agent keeps running without a laptop left open. <a href="https://x.com/NousResearch/status/2115120531611787323">Announcement on X</a></p>]]></description>
 </item>
 </channel>
 </rss>
