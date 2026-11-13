@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Nov 2026 01:09:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:09:34 GMT</lastBuildDate>
+<item>
+<title>CopilotKit releases OpenBot 1.0, a self-hostable agent workspace where each Bot gets its own computer</title>
+<link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/?amp=1</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-12-openbot-1-0</guid>
+<pubDate>Thu, 12 Nov 2026 21:45:36 GMT</pubDate>
+<description><![CDATA[<p>CopilotKit released OpenBot 1.0 on Nov 9, an MIT-licensed, self-hostable agent workspace, <a href="https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/?amp=1">MarkTechPost reports</a>. Each Bot gets its own computer — a container with its own Chromium browser, logins and files — and any agent that speaks the AG-UI protocol can plug in.</p><p>Personal use is free and runs locally; OpenBot for Business costs up to $29 per active user a month. It supports OpenAI, Claude, Gemini, Grok and open models via subscriptions or API keys.</p>]]></description>
+</item>
 <item>
 <title>Meta's Muse can now call US businesses for paid subscribers</title>
 <link>https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/</link>
@@ -568,14 +575,6 @@
 <pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
 <enclosure url="https://docs.x.ai/api/og?t=eyJ0aXRsZSI6IlJlZmVyIGZyaWVuZHMgdG8gR3JvayBCb3QiLCJ2IjoiNyIsInNjb3BlIjoieC1zdWJzY3JpcHRpb24iLCJzZWN0aW9uIjoiR3JvayBCb3QifQ.iZ2WoL-8nKzweMPGBWLKHTfTMmDqzcFZg5QYQ5TjhL8" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://docs.x.ai/api/og?t=eyJ0aXRsZSI6IlJlZmVyIGZyaWVuZHMgdG8gR3JvayBCb3QiLCJ2IjoiNyIsInNjb3BlIjoieC1zdWJzY3JpcHRpb24iLCJzZWN0aW9uIjoiR3JvayBCb3QifQ.iZ2WoL-8nKzweMPGBWLKHTfTMmDqzcFZg5QYQ5TjhL8" alt=""/><p>SpaceXSI posted a <a href="https://docs.x.ai/x-subscription/referral-program">Refer friends to Grok Bot</a> help page and new <a href="https://x.ai/legal/referral-program-terms">referral program terms</a> on Tuesday. Your friend gets a 2-week free trial of Premium (a credit card is required), and once they become a paid subscriber you get one usage reset, which restores your included usage for the current weekly period.</p><ul><li>To refer, you need a paid Premium, Super, or Ultra plan on The X Subscription, be in the US, and have checked out at least 7 days ago. Plus, Team, and legacy Cursor or SuperGrok plans can't refer yet.</li><li>The reward shows as pending, then is added 7 days after your friend pays, and each reset expires 6 months after it's added.</li><li>Friends can be in any country except China, and App Store or Google Play sign-ups don't count.</li><li>Your link is behind the gift icon in the Grok Bot app, or at grok.com/dashboard/referrals.</li></ul>]]></description>
-</item>
-<item>
-<title>SpaceXSI shows three Shared Bots its sales team uses to update the CRM, draft quotes, and review deal terms</title>
-<link>https://x.com/bot/status/2115130760009273501</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-27-grok-bot-sales-shared-bots</guid>
-<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/media/HVpzo8GbIAAr5ar.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/media/HVpzo8GbIAAr5ar.jpg" alt=""/><p>The official Grok Bot account <a href="https://x.com/bot/status/2115130760009273501">posted on Tuesday</a> how SpaceXSI's own sales operations team uses Shared Bots to help reps move deals faster.</p><ul><li>Account Intel Bot updates the CRM after calls.</li><li>Quote Bot prepares proposals and order forms.</li><li>Deal Bot reviews non-standard terms and routes exceptions for approval.</li></ul><p>It follows last week's support-team example, and drew over 1,500 bookmarks in its first seven hours.</p>]]></description>
 </item>
 </channel>
 </rss>
