@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Nov 2026 01:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:10:10 GMT</lastBuildDate>
+<item>
+<title>Tuya connects Meta's Muse to smart-home devices through cloud APIs</title>
+<link>https://www.unite.ai/tuya-connects-metas-muse-to-smart-home-devices-through-cloud-apis/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-12-tuya-muse-smart-home</guid>
+<pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+<enclosure url="https://www.unite.ai/wp-content/uploads/2026/11/tuya-connects-metas-muse-to-smart-home-devices-through-cloud-apis.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://www.unite.ai/wp-content/uploads/2026/11/tuya-connects-metas-muse-to-smart-home-devices-through-cloud-apis.jpg" alt=""/></p>
+<p>Tuya Smart announced on Nov 12 an open-source skill, gadget-tuya-cloud-devices, that lets Meta's Muse query and control devices in a user's Tuya account through cloud APIs, <a href="https://www.unite.ai/tuya-connects-metas-muse-to-smart-home-devices-through-cloud-apis/">Unite.AI reports</a>. No local device keys, shared network or firmware changes are needed.</p><p>Tuya says its platform covers more than 3,000 device categories, though the skill's API endpoints are still trial-phase with rate limits, and its submission to Meta's Muse Gadgets project (PR #61) is still in review.</p>]]></description>
+</item>
 <item>
 <title>CopilotKit releases OpenBot 1.0, a self-hostable agent workspace where each Bot gets its own computer</title>
 <link>https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/?amp=1</link>
@@ -567,14 +576,6 @@
 <pubDate>Wed, 28 Oct 2026 18:35:43 GMT</pubDate>
 <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115494759447904257/img/gnlEjizTFyuOlfML.jpg" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2115494759447904257/img/gnlEjizTFyuOlfML.jpg" alt="OpenAI dots texting"/><p>OpenAI says you can now text your dot over iMessage or RCS. You can hand it a task or something to keep an eye on using text, photos, or voice notes, and it will text you proactively with relevant updates.</p><p>OpenAI says only you can text your dot, and your dot can only text you. It's rolling out now as a preview for Pro users in the US.</p><p>Source: <a href="https://x.com/ChatGPT/status/2115496387613786374">ChatGPT on X</a></p>]]></description>
-</item>
-<item>
-<title>Grok Bot gets a referral program: refer a friend who pays and earn a free weekly usage reset</title>
-<link>https://docs.x.ai/x-subscription/referral-program</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-27-grok-bot-referral-usage-reset</guid>
-<pubDate>Wed, 28 Oct 2026 00:15:52 GMT</pubDate>
-<enclosure url="https://docs.x.ai/api/og?t=eyJ0aXRsZSI6IlJlZmVyIGZyaWVuZHMgdG8gR3JvayBCb3QiLCJ2IjoiNyIsInNjb3BlIjoieC1zdWJzY3JpcHRpb24iLCJzZWN0aW9uIjoiR3JvayBCb3QifQ.iZ2WoL-8nKzweMPGBWLKHTfTMmDqzcFZg5QYQ5TjhL8" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://docs.x.ai/api/og?t=eyJ0aXRsZSI6IlJlZmVyIGZyaWVuZHMgdG8gR3JvayBCb3QiLCJ2IjoiNyIsInNjb3BlIjoieC1zdWJzY3JpcHRpb24iLCJzZWN0aW9uIjoiR3JvayBCb3QifQ.iZ2WoL-8nKzweMPGBWLKHTfTMmDqzcFZg5QYQ5TjhL8" alt=""/><p>SpaceXSI posted a <a href="https://docs.x.ai/x-subscription/referral-program">Refer friends to Grok Bot</a> help page and new <a href="https://x.ai/legal/referral-program-terms">referral program terms</a> on Tuesday. Your friend gets a 2-week free trial of Premium (a credit card is required), and once they become a paid subscriber you get one usage reset, which restores your included usage for the current weekly period.</p><ul><li>To refer, you need a paid Premium, Super, or Ultra plan on The X Subscription, be in the US, and have checked out at least 7 days ago. Plus, Team, and legacy Cursor or SuperGrok plans can't refer yet.</li><li>The reward shows as pending, then is added 7 days after your friend pays, and each reset expires 6 months after it's added.</li><li>Friends can be in any country except China, and App Store or Google Play sign-ups don't count.</li><li>Your link is behind the gift icon in the Grok Bot app, or at grok.com/dashboard/referrals.</li></ul>]]></description>
 </item>
 </channel>
 </rss>
