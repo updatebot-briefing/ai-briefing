@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:15:24 GMT</lastBuildDate>
 
     
     
@@ -15,7 +15,17 @@
     
     
     
+    
     <item>
+      <title>Agility Robotics goes public as first U.S. specialist humanoid maker</title>
+      <link>https://www.techtarget.com/news/agility-robotics-goes-public-as-first-us-specialist-humanoid-maker/874567/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-12-agility-nasdaq-aglt-listing</guid>
+      <pubDate>Thu, 12 Nov 2026 15:58:25 GMT</pubDate>
+      <enclosure url="https://imgproxy.divecdn.com/RxtFP27pIMXFMhIpuS-meLhPisD4TcrXzIC3-HVvWco/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IdW1hbm9pZC5qcGc=.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://imgproxy.divecdn.com/RxtFP27pIMXFMhIpuS-meLhPisD4TcrXzIC3-HVvWco/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IdW1hbm9pZC5qcGc=.webp" alt="" /></p>
+<p>Agility Robotics has become the first publicly listed humanoid robotics company in the U.S., trading on Nasdaq as AGLT after completing its merger with Churchill Capital Corp XI. The deal raised about $465 million before expenses to accelerate commercialization of its Digit humanoid.</p><p>Analysts call Agility the most commercially mature U.S. humanoid maker, with live warehouse deployments - Gartner research cited by TechTarget puts about 100 Digit robots at work today. The challenge now is proving repeatable, commercially viable operations at scale.</p>]]></description>
+    </item>
+<item>
       <title>GXO and Apptronik sign LOI to deploy up to 1,000 Apollo humanoids over four years</title>
       <link>https://gxo.com/news_article/gxo-apptronik-expand-humanoid-robotics-partnership/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-12-gxo-apptronik-apollo-1000-loi</guid>
@@ -774,18 +784,6 @@
 <li>Hot-swappable dual batteries and self-charging for round-the-clock work.</li></ul>
 <p>AgiBot says the robot already depalletizes 80 cases and palletizes 75 cases an hour at a JD Logistics warehouse with over 99% success, and feeds parts on its own humanoid production line. Those figures are the company's own, and no price was given. The robot will be shown at AgiBot Innovation Day on Oct 29.</p>
 <p>Source: <a href="https://robrief.com/en/articles/agibot-genie-g2-max-heavy-payload-launch">Robrief</a>.</p>]]></description>
-</item>
-<item>
-  <title>Humanoid maker CASBOT closes A++ round worth several hundred million yuan, citing over RMB 400M in shoemaking-robot orders</title>
-  <link>https://humanoidbeat.com/news/casbot-a-plus-plus-round-shoemaking-mining-robots.html</link>
-  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-casbot-a-plus-plus-round-shoe-orders</guid>
-  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
-  <enclosure url="https://humanoidbeat.com/img/casbot-a-plus-plus-round-shoemaking-mining-robots.jpg" type="image/jpeg" length="0"/>
-  <description><![CDATA[<p><img src="https://humanoidbeat.com/img/casbot-a-plus-plus-round-shoemaking-mining-robots.jpg" alt=""/></p>
-<p>Beijing-based CASBOT, maker of the full-size CASBOT 02 humanoid, the wheeled-arm W2 and the half-size Mini, completed an A++ round worth "several hundred million yuan," according to China Securities Journal and Science and Technology Daily. The exact amount was not disclosed.</p>
-<p>The company says it holds more than RMB 400 million (about $56M) in 2026 orders for shoemaking robots, with production planned in the thousands of units. At a footwear factory in Putian, its lightweight perception-to-action model runs arms that stamp an outsole every 7 seconds. Its claimed 50% to 70% annual ROI for customers has not been independently verified.</p>
-<p>The money goes to mass-production delivery, model development and market expansion.</p>
-<p>Source: <a href="https://humanoidbeat.com/news/casbot-a-plus-plus-round-shoemaking-mining-robots.html">Humanoid Beat</a>.</p>]]></description>
 </item>
 </channel>
 </rss>
