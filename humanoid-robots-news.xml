@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:16:14 GMT</lastBuildDate>
 
     
     
@@ -17,7 +17,17 @@
     
     
     
+    
     <item>
+      <title>J.P. Morgan projects U.S. humanoid output of up to 400,000 units by 2030</title>
+      <link>https://www.unite.ai/j-p-morgan-projects-u-s-humanoid-robot-output-of-up-to-400-000/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-12-jpmorgan-us-humanoid-400k-2030</guid>
+      <pubDate>Thu, 12 Nov 2026 10:10:29 GMT</pubDate>
+      <enclosure url="https://www.unite.ai/wp-content/uploads/2026/11/jp-morgan-projects-us-humanoid-robot-output-of-up-to-400000.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.unite.ai/wp-content/uploads/2026/11/jp-morgan-projects-us-humanoid-robot-output-of-up-to-400000.jpg" alt="" /></p>
+<p>J.P. Morgan expects U.S. humanoid robot production to reach 300,000-400,000 units by 2030 and about 1.5 million by 2035, as the industry shifts from demos to commercial deployment, Reuters reported Nov. 12. Labor shortages, nearing cost parity with labor and rising capacity are driving adoption.</p><p>The bank says near-term progress is still supply constrained - hands, actuators, AI and factory capacity - and most U.S. makers outside Tesla target 10,000-30,000 units a year. It sees component suppliers as the biggest near-term opportunity, with the parts market nearing $30B by 2035.</p>]]></description>
+    </item>
+<item>
       <title>Agility Robotics goes public as first U.S. specialist humanoid maker</title>
       <link>https://www.techtarget.com/news/agility-robotics-goes-public-as-first-us-specialist-humanoid-maker/874567/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-12-agility-nasdaq-aglt-listing</guid>
@@ -771,15 +781,6 @@
 <p>OM-1 is trained only on data from people wearing Reward AI's 7-degree-of-freedom Omnibody Hand glove, with no teleoperation and no on-robot data, and the company says one policy runs across arms and humanoids. The post drew about 430 likes and 64,000 views within hours.</p>
 <ul><li>These are company-run stress tests, not a commercial rollout.</li><li>No weights, code or API have been released.</li></ul>
 <p>Sources: <a href="https://x.com/RewardAI_/status/2115134330578272418">Reward AI on X</a>, <a href="https://www.rewardai.com/blog/OM-1/">Reward AI OM-1 blog post</a>.</p>]]></description>
-</item>
-<item>
-  <title>Shanghai's International Embodied Intelligence Competition puts about 1,000 humanoid robots through real-world tasks</title>
-  <link>https://www.chinadaily.com.cn/a/202610/27/WS6ae0973de4b06d4aa0565764.html</link>
-  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-shanghai-1000-humanoid-competition</guid>
-  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
-  <description><![CDATA[<p>The International Embodied Intelligence Competition wrapped up in Shanghai on Sunday, with about 1,000 humanoid robots from more than 800 teams competing across 23 categories spanning industrial production, services, special operations and everyday life.</p>
-<p>The event was the centerpiece of the 2026 Global Developer Pioneers Summit, which drew more than 300 robot hardware companies and over 200 supply-chain firms. A Pudong official said more than 30 humanoid models have launched in the district, calling it the world's densest cluster of mass-produced humanoids (an official claim, not independently verified).</p>
-<p>Source: <a href="https://www.chinadaily.com.cn/a/202610/27/WS6ae0973de4b06d4aa0565764.html">China Daily</a>.</p>]]></description>
 </item>
 </channel>
 </rss>
