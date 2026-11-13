@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 01:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 01:15:10 GMT</lastBuildDate>
 
     
     
@@ -14,7 +14,17 @@
     
     
     
+    
     <item>
+      <title>GXO and Apptronik sign LOI to deploy up to 1,000 Apollo humanoids over four years</title>
+      <link>https://gxo.com/news_article/gxo-apptronik-expand-humanoid-robotics-partnership/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-12-gxo-apptronik-apollo-1000-loi</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://gxo.com/wp-content/uploads/2026/11/Apptronik-pr-news-1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://gxo.com/wp-content/uploads/2026/11/Apptronik-pr-news-1.jpg" alt="" /></p>
+<p>GXO Logistics signed a letter of intent with Apptronik to expand live trials of the Apollo humanoid in warehouses, with a path to a global rollout of up to 1,000 robots over four years. Trials starting in 2027 will test picking, packing, case and tote movement and sortation.</p><p>The rollout is conditional on the robots meeting agreed productivity, safety and operational targets, with first commercial deployment in North America targeted for late 2027 under a Robotics-as-a-Service model. The pair have worked together since 2024 and already ran a successful U.S. picking pilot.</p>]]></description>
+    </item>
+<item>
       <title>GENTO unveils a 21-DoF dexterous hand at CoRL 2026 as its Marvin Pro powers NVIDIA's GR00T 2 demos</title>
       <link>https://gizmodo.com/at-corl-2026-gento-unveils-a-21-dof-hand-as-nvidia-introduces-gr00t-2-with-tianji-marvin-pro-2000833526</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-11-gento-21-dof-hand-corl</guid>
@@ -776,19 +786,6 @@
 <p>The company says it holds more than RMB 400 million (about $56M) in 2026 orders for shoemaking robots, with production planned in the thousands of units. At a footwear factory in Putian, its lightweight perception-to-action model runs arms that stamp an outsole every 7 seconds. Its claimed 50% to 70% annual ROI for customers has not been independently verified.</p>
 <p>The money goes to mass-production delivery, model development and market expansion.</p>
 <p>Source: <a href="https://humanoidbeat.com/news/casbot-a-plus-plus-round-shoemaking-mining-robots.html">Humanoid Beat</a>.</p>]]></description>
-</item>
-<item>
-<title>Agility expands Digit to two more GXO warehouses and adds three unnamed manufacturing customers</title>
-<link>https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot</link>
-<guid isPermaLink="false">updatebot-humanoid-2026-10-26-agility-gxo-expansion-three-manufacturing-customers</guid>
-<pubDate>Tue, 27 Oct 2026 00:16:54 +0000</pubDate>
-<enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" alt=""/></p>
-<p>Agility Robotics says GXO, the first company to put its Digit humanoid into live commercial work, will deploy Digit at two more U.S. facilities in Statesville, North Carolina, and Lebanon, Tennessee, starting in early 2027. Those sites start on Digit 4 and move to Digit 5 once it ships. Digit has moved more than 100,000 totes at GXO's Flowery Branch, Georgia site since June 2024.</p>
-<p>In the same update, Agility described three new paid manufacturing customers that asked not to be named:</p>
-<ul><li>A global automaker that sells more than three million vehicles a year</li><li>One of the world's largest automotive technology and components developers</li><li>A leading global consumer products manufacturer</li></ul>
-<p>Agility also says it has more than 30 prospective customers in its pipeline, including two early-stage potential subcontractor deals for a branch of the U.S. Armed Services (no agreements signed). It repeated its previously disclosed figure of more than $300 million in multi-year Digit 5 orders and expects its SPAC merger with Churchill Capital Corp XI to close in Q4 2026, trading on Nasdaq as AGLT.</p>
-<p>Sources: <a href="https://www.agilityrobotics.com/content/agility-robotics-highlights-commercial-momentum-and-growing-enterprise-demand-for-digit-humanoid-robot">Agility press release</a>, <a href="https://www.agilityrobotics.com/content/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations">GXO and Agility announcement</a>, <a href="https://x.com/agilityrobotics/status/2114673401235181690">Agility on X</a></p>]]></description>
 </item>
 </channel>
 </rss>
