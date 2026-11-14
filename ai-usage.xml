@@ -5,11 +5,20 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 12 Nov 2026 01:11:09 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 01:08:34 GMT</lastBuildDate>
+    
     
     
     
     <item>
+<title>$100 vs $200 AI coding plans compared: Cursor and Grok Ultra give 2x usage per dollar</title>
+<link>https://limitdex.com/ai-coding-plans-100-vs-200-dollars</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-13-limitdex-100-200-plans</guid>
+<pubDate>Fri, 13 Nov 2026 06:56:00 GMT</pubDate>
+<enclosure url="https://limitdex.com/og.png" type="image/png" length="0"/>
+<description><![CDATA[<img src="https://limitdex.com/og.png" alt=""/><p>Limitdex re-checked 41 AI coding plans across 10 tools on Nov 13, quoting each vendor's own limit wording. At $100 a month, Claude Max gives 5x Pro usage, Cursor Super and Grok Super 15x their entry plans, and GitHub Copilot Max $200 of monthly AI credits.</p><p>At $200, Cursor Ultra and Grok Ultra both offer 50x their entry plans — 2x the usage per dollar — while Claude Ultra gives 10x Pro weekly usage for 10x the price, just 0.2x per dollar. Only Copilot Max, Antigravity Ultra and Replit Pro state a dollar allowance; no vendor publishes a weekly token or message count.</p>]]></description>
+    </item>
+<item>
 <title>Grok Bot vs Dots vs Duet: prices are close — data access decides</title>
 <link>https://www.ai-officer.com/post/ai-agent-pricing-secure-data-access</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-11-ai-officer-agent-pricing</guid>
