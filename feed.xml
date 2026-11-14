@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Nov 2026 01:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:08:06 GMT</lastBuildDate>
             
     
     
@@ -20,7 +20,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI launches Daybreak Red Team and Defense Factory, agent teams that attack and patch code</title>
+      <link>https://timesof.ai/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-openai-daybreak-red-team-defense-factory</guid>
+      <pubDate>Fri, 13 Nov 2026 03:56:00 GMT</pubDate>
+      <enclosure url="https://cdn.timesof.ai/covers/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing.jpg?w=1200&amp;q=80" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.timesof.ai/covers/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing.jpg?w=1200&amp;q=80" alt=""/></p>
+<p>OpenAI launched two security products on Nov 12 at its “Cyber at the Frontier” event: <a href="https://timesof.ai/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing">Daybreak Red Team</a>, agent teams that probe web apps, validate vulnerabilities and test patches, and Defense Factory, which traces flaws through code and prepares merge-ready pull requests for engineers to review.</p><p>Red Team is in early access by application; Defense Factory is a preview for workspaces with Daybreak access. OpenAI published no pricing or independent performance results, and the agents run on its GPT-6 Cyber model, according to The Register.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic rolls out Claude Meetings beta, putting Claude inside Google Meet calls</title>
       <link>https://justbeingresourceful.com/2026/11/13/anthropic-adds-claude-meetings-to-google-meet/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-claude-meetings-beta</guid>
@@ -672,14 +682,6 @@
       <description><![CDATA[<p><img src="https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2195802149-300x200.jpg" alt="" /></p>
 <p>Amazon's quarterly filing discloses a secured supplier-financing facility of up to about $80 billion for data center gear such as servers and chips, which it can draw from early 2027 through 2028, with each loan maturing five years after it is drawn (<a href="https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm">Amazon 10-Q</a>).</p>
 <p>Lenders get a security interest in the purchased hardware, a shift from funding the AI buildout with cash and bonds (<a href="https://qz.com/amazon-80-billion-loan-facility-ai-hardware-103026">Quartz</a>). It is another sign of how much debt the hyperscalers are taking on to keep up AI spending.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI will honor a shared robots.txt signal that lets sites opt out of AI training across providers</title>
-      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-30-openai-robots-ai-training-signal</guid>
-      <pubDate>Fri, 30 Oct 2026 17:10:12 -0700</pubDate>
-      <description><![CDATA[<p>OpenAI says it will honor a common robots.txt signal, developed through the IETF's AI Preferences working group, that lets websites state one preference about generative AI training for all participating providers instead of blocking each crawler separately (<a href="https://openai.com/index/helping-websites-express-ai-training-preferences">OpenAI</a>).</p>
-<p>It plans to implement the signal in the coming months, and its existing per-crawler controls stay in place. If other labs adopt it too, it becomes the first cross-industry opt-out standard for training data.</p>]]></description>
     </item>
 </channel>
 </rss>
