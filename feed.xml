@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Nov 2026 01:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:07:52 GMT</lastBuildDate>
             
     
     
@@ -18,7 +18,17 @@
     
     
     
+    
     <item>
+      <title>SpaceX plans $74 billion of AI supercomputing campuses in Texas and Arizona</title>
+      <link>https://ktwb.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-spacex-74b-ai-campuses</guid>
+      <pubDate>Fri, 13 Nov 2026 01:23:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T161524Z_1_LYNXNPEMAB1UF_RTROPTP_3_SPACEX-IPO-STARBASE.JPG" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T161524Z_1_LYNXNPEMAB1UF_RTROPTP_3_SPACEX-IPO-STARBASE.JPG" alt=""/></p>
+<p>SpaceX said on Nov 12 it plans to invest more than $74 billion in two AI supercomputing campuses: over $24 billion at its Starbase site in Texas and roughly $50 billion in Cochise County, Arizona, <a href="https://ktwb.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/">Reuters reported</a>.</p><p>The Arizona campus could draw up to 6 gigawatts at full build-out, and SpaceX's AI segment generated more than half of its third-quarter revenue. Neither project is approved yet: both face local votes on Dec 9, and a petition with about 2,400 signatures asks Cochise County to deny the permit.</p>]]></description>
+    </item>
+<item>
       <title>Baidu unveils ERNIE 5.5 Flash Preview, its latest open-weight foundation model</title>
       <link>https://www.prnewswire.com/news-releases/baidu-unveils-latest-ernie-models-amid-broader-full-stack-ai-lineup-and-debuts-token-exchange-to-power-intelligent-organizations-302937959.html</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-12-baidu-ernie-5-5-flash</guid>
@@ -672,15 +682,5 @@
 <p>Cursor pulled the package, shut down and rebuilt the marketplace, rotated its keys, and got the attacker's server taken offline. It says no other extensions, Grok Bot, or Grok were affected, and Anthropic has since shipped 2.1.314 on Open VSX and the Microsoft marketplace. Anyone who installed or updated the extension in Cursor during that window should check for the <code>svc-telemetry</code> key, remove the persistence, and rotate credentials from a clean machine, since uninstalling alone doesn't remove the backdoor.</p>
 <ul><li><a href="https://cursor.com/blog/claude-code-extension-security-notice">Cursor security notice</a></li><li><a href="https://www.theverge.com/ai-artificial-intelligence/1023096/cursor-says-around-5000-people-may-have-installed-a-malicious-claude-code-extension">The Verge</a></li><li><a href="https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html">The Hacker News analysis</a></li></ul>]]></description>
 </item>
-<item>
-      <title>OpenAI rewrites its Model Spec around five core values and starts calling the model &quot;GPT&quot;</title>
-      <link>https://openai.com/index/updated-model-spec/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-29-openai-model-spec-five-values</guid>
-      <pubDate>Thu, 29 Oct 2026 17:11:18 -0700</pubDate>
-      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
-<p>OpenAI published a major revision of its Model Spec, the public rulebook for how its models should behave. It is now organized around five values: faithfulness to human intent, minimizing harm, honesty and transparency, human agency, and care, with faithfulness as the foundation (<a href="https://openai.com/index/updated-model-spec/">OpenAI</a>).</p>
-<p>The update adds guidance on using context and memory, supporting human oversight, and controlling side effects, retires most of the detailed style rules, and renames the subject of the Spec from "the assistant" to "GPT" (<a href="https://raw.githubusercontent.com/openai/model_spec/main/CHANGELOG.md">changelog</a>). OpenAI says current models don't yet fully follow it and that it is testing new training methods to teach the values directly (<a href="https://model-spec.openai.com/2026-10-29.html">full Spec</a>).</p>]]></description>
-    </item>
 </channel>
 </rss>
