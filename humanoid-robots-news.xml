@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:14:35 GMT</lastBuildDate>
 
     
     
@@ -19,7 +19,17 @@
     
     
     
+    
     <item>
+      <title>Humanoids could outnumber people by 2083 — if robots start building each other, study finds</title>
+      <link>https://www.zmescience.com/future/humanoid-robot-population-projection/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-13-humanoid-population-2083-study</guid>
+      <pubDate>Fri, 13 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://cdn.zmescience.com/wp-content/uploads/2026/11/608ff250-0044-485f-a878-35483f3717f4.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.zmescience.com/wp-content/uploads/2026/11/608ff250-0044-485f-a878-35483f3717f4.jpg" alt="" /></p>
+<p>A new arXiv preprint by researchers at the University of Milan, University of Exeter and Rockefeller University models humanoid population growth — and finds robots could match the human population around 2083, when it is projected to peak near 10.3 billion.</p><p>The catch: parity only happens if deployed robots start helping manufacture their own successors. Human-run factories alone, the model says, will never produce enough machines.</p><p>It is a mathematical model, not a forecast — reaching parity by 2050 in the fastest scenario would need about 73.5% annual growth for 25 straight years.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI disbands its standalone robotics team, betting GPT-6 Astra can run robots directly</title>
       <link>https://explainx.ai/blog/openai-disbands-robotics-team-gpt-6-astra-robots-fortune-2026</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-13-openai-disbands-robotics-team</guid>
@@ -765,20 +775,6 @@
 <li>Gu reportedly said it's about 30% lighter with about 30% more capacity than the previous pack (<a href="https://x.com/CyberRobooo/status/2115446448104124639">per a post on X</a>).</li>
 <li><strong>Unclear:</strong> XPeng didn't say whether this is the all-solid-state chemistry it promised in 2025; a September report said the production IRON would use semi-solid-state cells instead. No volume or energy-density figures were given.</li>
 </ul>]]></description>
-    </item>
-<item>
-      <title>Westlake Robotics shows an upgraded WR1 model running humanoids through multi-room household chores without resets</title>
-      <link>https://vuntum.com/en/news/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-westlake-wr1-household</guid>
-      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
-      <enclosure url="https://vuntum.com/en/actualites/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it/opengraph-image?0cc4909f80027184" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://vuntum.com/en/actualites/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it/opengraph-image?0cc4909f80027184" alt=""/></p>
-<p>Hangzhou start-up Westlake Robotics, spun out of Westlake University, released videos of an improved version of its WR1 AI model, <a href="https://vuntum.com/en/news/humanoid-brings-in-the-laundry-then-puts-corn-in-an-air-fryer-without-cooking-it">Vuntum reports</a>.</p>
-<ul>
-<li>A humanoid takes trousers and a T-shirt off a rack, then folds the trousers together with a second humanoid.</li>
-<li>In a second run across kitchen, living room and bedroom, it moves corn from the fridge to an air-fryer basket, kneels to pick up toys, and straightens a duvet.</li>
-</ul>
-<p>The company says the tasks run in sequence with no human resets or step-by-step prompting. These are company-made demo videos, and the cooking stops at the fryer basket.</p>]]></description>
     </item>
 </channel>
 </rss>
