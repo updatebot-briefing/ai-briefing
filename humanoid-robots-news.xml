@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 01:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:14:27 GMT</lastBuildDate>
 
     
     
@@ -18,7 +18,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI disbands its standalone robotics team, betting GPT-6 Astra can run robots directly</title>
+      <link>https://explainx.ai/blog/openai-disbands-robotics-team-gpt-6-astra-robots-fortune-2026</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-13-openai-disbands-robotics-team</guid>
+      <pubDate>Fri, 13 Nov 2026 18:16:00 GMT</pubDate>
+      <enclosure url="https://explainx.ai/images/blog-library/humanoid-robot-walk.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://explainx.ai/images/blog-library/humanoid-robot-walk.webp" alt="" /></p>
+<p>Fortune reported Nov. 13 that OpenAI has disbanded its standalone robotics team, confirmed by a company spokesperson. Researchers moved to chief research officer Mark Chen's main research team; applied robotics and hardware staff went to president Greg Brockman's Applied org.</p><p>OpenAI's stated reason: general-purpose models like GPT-6 Astra can now be applied to robots directly. Fortune cites an Nvidia study in which an Astra-powered agent hit 74.8% on a simulated manipulation benchmark, vs 51.0% for the best specialized models — a simulation, not a physical robot.</p><p>OpenAI says robotics remains core to its vision and a humanoid demo is still targeted for 2027. This is its second robotics-team shutdown; the first came in 2020-21.</p>]]></description>
+    </item>
+<item>
       <title>J.P. Morgan projects U.S. humanoid output of up to 400,000 units by 2030</title>
       <link>https://www.unite.ai/j-p-morgan-projects-u-s-humanoid-robot-output-of-up-to-400-000/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-12-jpmorgan-us-humanoid-400k-2030</guid>
@@ -770,17 +780,5 @@
 </ul>
 <p>The company says the tasks run in sequence with no human resets or step-by-step prompting. These are company-made demo videos, and the cooking stops at the fryer basket.</p>]]></description>
     </item>
-<item>
-  <title>Reward AI shows its glove-trained OM-1 model driving humanoids on last-mile delivery and stairs</title>
-  <link>https://x.com/RewardAI_/status/2115134330578272418</link>
-  <guid isPermaLink="false">updatebot-humanoid-2026-10-27-reward-ai-om1-humanoid-delivery-stairs</guid>
-  <pubDate>Wed, 28 Oct 2026 00:15:01 +0000</pubDate>
-  <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2115134202865967104/img/ztcQGS_UNbo6lM6K?format=webp&amp;name=large" type="image/jpeg" length="0"/>
-  <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2115134202865967104/img/ztcQGS_UNbo6lM6K?format=webp&amp;name=large" alt=""/></p>
-<p>Robotics startup Reward AI, whose team previously built DexCap, HumanPlus and ALOHA, posted new videos of its OM-1 robot model running humanoids indoors and outdoors: unloading Amazon, Walmart and DHL packages from a Cybertruck bed for last-mile delivery, and picking things up while standing on stairs.</p>
-<p>OM-1 is trained only on data from people wearing Reward AI's 7-degree-of-freedom Omnibody Hand glove, with no teleoperation and no on-robot data, and the company says one policy runs across arms and humanoids. The post drew about 430 likes and 64,000 views within hours.</p>
-<ul><li>These are company-run stress tests, not a commercial rollout.</li><li>No weights, code or API have been released.</li></ul>
-<p>Sources: <a href="https://x.com/RewardAI_/status/2115134330578272418">Reward AI on X</a>, <a href="https://www.rewardai.com/blog/OM-1/">Reward AI OM-1 blog post</a>.</p>]]></description>
-</item>
 </channel>
 </rss>
