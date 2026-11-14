@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Nov 2026 01:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:08:02 GMT</lastBuildDate>
             
     
     
@@ -19,7 +19,17 @@
     
     
     
+    
     <item>
+      <title>Anthropic rolls out Claude Meetings beta, putting Claude inside Google Meet calls</title>
+      <link>https://justbeingresourceful.com/2026/11/13/anthropic-adds-claude-meetings-to-google-meet/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-claude-meetings-beta</guid>
+      <pubDate>Fri, 13 Nov 2026 13:55:00 GMT</pubDate>
+      <enclosure url="https://justbeingresourceful.com/wp-content/uploads/2026/11/just-being-resourceful-6af6d93e0fa3b.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://justbeingresourceful.com/wp-content/uploads/2026/11/just-being-resourceful-6af6d93e0fa3b.jpg" alt=""/></p>
+<p>Anthropic started rolling out <a href="https://justbeingresourceful.com/2026/11/13/anthropic-adds-claude-meetings-to-google-meet/">Claude Meetings</a> in beta on Nov 12 for Team and Enterprise plans. Claude joins a Google Meet call as a visible participant, takes notes, answers questions and builds docs and whiteboards while the meeting is still going.</p><p>Notes and transcripts are free during the beta, and artifacts made in calls are free through Feb 10, 2027. Google Meet is the only platform for now, and the beta excludes organizations with zero data retention, HIPAA-ready setups or customer-managed keys.</p>]]></description>
+    </item>
+<item>
       <title>SpaceX plans $74 billion of AI supercomputing campuses in Texas and Arizona</title>
       <link>https://ktwb.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-spacex-74b-ai-campuses</guid>
@@ -671,16 +681,5 @@
       <description><![CDATA[<p>OpenAI says it will honor a common robots.txt signal, developed through the IETF's AI Preferences working group, that lets websites state one preference about generative AI training for all participating providers instead of blocking each crawler separately (<a href="https://openai.com/index/helping-websites-express-ai-training-preferences">OpenAI</a>).</p>
 <p>It plans to implement the signal in the coming months, and its existing per-crawler controls stay in place. If other labs adopt it too, it becomes the first cross-industry opt-out standard for training data.</p>]]></description>
     </item>
-<item>
-<title>Tampered Claude Code extension in Cursor's marketplace tried to backdoor up to 5,000 machines</title>
-<link>https://cursor.com/blog/claude-code-extension-security-notice</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-30-cursor-claude-code-extension-backdoor</guid>
-<pubDate>Fri, 30 Oct 2026 16:29:51 GMT</pubDate>
-<enclosure url="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png" alt="Cursor security notice"/>
-<p>Cursor says a tampered build of Anthropic's Claude Code extension (<code>anthropic.claude-code</code> 2.1.313) was live in the Cursor extension marketplace from about 2:27am to 1:35pm PT on Thursday, Oct 29, and up to 5,000 users may have installed it. The malicious loader collected host details (hostname, username, public IP, Git email, and the names of secret-looking environment variables), added an attacker SSH key labeled <code>svc-telemetry</code> to <code>~/.ssh/authorized_keys</code>, and tried to set up a persistent reverse SSH tunnel.</p>
-<p>Cursor pulled the package, shut down and rebuilt the marketplace, rotated its keys, and got the attacker's server taken offline. It says no other extensions, Grok Bot, or Grok were affected, and Anthropic has since shipped 2.1.314 on Open VSX and the Microsoft marketplace. Anyone who installed or updated the extension in Cursor during that window should check for the <code>svc-telemetry</code> key, remove the persistence, and rotate credentials from a clean machine, since uninstalling alone doesn't remove the backdoor.</p>
-<ul><li><a href="https://cursor.com/blog/claude-code-extension-security-notice">Cursor security notice</a></li><li><a href="https://www.theverge.com/ai-artificial-intelligence/1023096/cursor-says-around-5000-people-may-have-installed-a-malicious-claude-code-extension">The Verge</a></li><li><a href="https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html">The Hacker News analysis</a></li></ul>]]></description>
-</item>
 </channel>
 </rss>
