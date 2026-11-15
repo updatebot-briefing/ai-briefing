@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 01:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:07:12 GMT</lastBuildDate>
             
     
     
@@ -24,7 +24,15 @@
     
     
     
+    
     <item>
+      <title>Cursor traces poisoned Claude Code extension to a leaked Fireworks AI key; up to 5,000 users exposed</title>
+      <link>https://www.2-spyware.com/cursor-confirms-breach-behind-fake-claude-code-extension</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-cursor-claude-code-postmortem</guid>
+      <pubDate>Sat, 14 Nov 2026 21:03:54 GMT</pubDate>
+      <description><![CDATA[<p>Cursor published its full investigation on Nov 13 into the Oct 29 incident. An access key Cursor issued to Fireworks AI was exposed by Fireworks; the attacker copied data from a shared read-only bucket, found unredacted credentials in old coding-agent traces, and planted tampered copies of Anthropic's Claude Code extension, versions 2.1.312 and 2.1.313, in the cache behind Cursor's extension marketplace.</p><p>At most 5,000 users may have received the malicious build during an 11-hour window. The payload tried to install a persistent SSH backdoor, and Cursor warns uninstalling the extension alone may not be enough. Anthropic says its own systems were not compromised.</p>]]></description>
+    </item>
+<item>
       <title>Claude went down twice on Nov 13 as Microsoft's 365 outage broke its Outlook tools</title>
       <link>https://vandatateam.com/blog/claude-microsoft-outages</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-claude-outages-nov13</guid>
@@ -669,17 +677,6 @@
 <p>Apple announced that Apple Intelligence features are coming to users in mainland China, starting with developer testing in the iOS 27.3 beta on Nov 4 and a public release in December (<a href="https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/">Apple Newsroom China</a>, <a href="https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china/">9to5Mac</a>).</p>
 <p>Alibaba's Qwen models power the features there, including Siri, Writing Tools and Visual Intelligence, per Chinese state media (<a href="https://www.chinadaily.com.cn/a/202610/31/WS6ae54463e4b06d4aa0566359.html">China Daily</a>). The newer Siri AI isn't part of the China launch.</p>
 <p>After more than a year of regulatory delays, this makes a Chinese lab's model the AI layer for Apple's devices in its second-largest market, a major distribution win for Qwen.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic renames Claude Max 20x to Ultra and drops the five-hour usage limit for verified Ultra accounts</title>
-      <link>https://claude.com/pricing</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-31-anthropic-claude-ultra-no-5h-limit</guid>
-      <pubDate>Sat, 31 Oct 2026 17:08:29 -0700</pubDate>
-      <enclosure url="https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&amp;h=1260&amp;fit=crop" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://assets.claude.com/f66071070c4701ea2c37fc01b3c0f83623cf29d3.jpg?w=2400&amp;h=1260&amp;fit=crop" alt="" /></p>
-<p>On Oct 30 Anthropic renamed its top consumer plans: Max 5x is now Max ($100/month) and Max 20x is now Ultra ($200/month), with prices unchanged and existing subscribers moved automatically (<a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://www.theverge.com/ai-artificial-intelligence/1023576/max-ultra-claude">The Verge</a>).</p>
-<p>Verified Ultra accounts no longer have the rolling five-hour session limit, though the weekly limit (10x Pro) and a separate weekly limit for Fable remain; unverified accounts keep a temporary limit until Anthropic verifies them from account and payment history (<a href="https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan">Claude Help Center</a>).</p>
-<p>Both plans now also include monthly Claude API credits equal to their price. For heavy Claude Code users, losing the five-hour cap is one of the biggest subscription changes Anthropic has made (<a href="https://thenewstack.io/claude-ultra-session-limit/">The New Stack</a>).</p>]]></description>
     </item>
 </channel>
 </rss>
