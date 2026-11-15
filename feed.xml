@@ -23,7 +23,17 @@
     
     
     
+    
     <item>
+      <title>Claude went down twice on Nov 13 as Microsoft's 365 outage broke its Outlook tools</title>
+      <link>https://vandatateam.com/blog/claude-microsoft-outages</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-claude-outages-nov13</guid>
+      <pubDate>Fri, 13 Nov 2026 15:38:00 GMT</pubDate>
+      <enclosure url="https://vandatateam.com/images/blog/claude-microsoft-outages/claude-microsoft-outages-cover-og.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://vandatateam.com/images/blog/claude-microsoft-outages/claude-microsoft-outages-cover-og.png" alt=""/></p>
+<p>Anthropic's status page lists two Claude incidents on Nov 13: a sign-in failure from 09:58 to 11:58 UTC that locked users out of claude.ai and Claude Code, then a wider outage from 13:09 to 15:38 UTC hitting claude.ai, the Claude API, Claude Code, connectors and Managed Agents. Some scheduled routines ran more than two hours late or were skipped.</p><p>Anthropic has not published a cause for either incident. Separately, the global Microsoft 365 outage that began Nov 12 broke Claude's Microsoft 365 connector and Claude for Outlook for about 24 hours.</p>]]></description>
+    </item>
+<item>
       <title>Claude went down twice on Nov 13 as Microsoft's 365 outage broke its Outlook tools</title>
       <link>https://vandatateam.com/blog/claude-microsoft-outages</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-claude-outages-nov13</guid>
@@ -670,17 +680,6 @@
 <p>On Oct 30 Anthropic renamed its top consumer plans: Max 5x is now Max ($100/month) and Max 20x is now Ultra ($200/month), with prices unchanged and existing subscribers moved automatically (<a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://www.theverge.com/ai-artificial-intelligence/1023576/max-ultra-claude">The Verge</a>).</p>
 <p>Verified Ultra accounts no longer have the rolling five-hour session limit, though the weekly limit (10x Pro) and a separate weekly limit for Fable remain; unverified accounts keep a temporary limit until Anthropic verifies them from account and payment history (<a href="https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan">Claude Help Center</a>).</p>
 <p>Both plans now also include monthly Claude API credits equal to their price. For heavy Claude Code users, losing the five-hour cap is one of the biggest subscription changes Anthropic has made (<a href="https://thenewstack.io/claude-ultra-session-limit/">The New Stack</a>).</p>]]></description>
-    </item>
-<item>
-      <title>Canada takes up to a C$1.6 billion stake in Cohere as it raises a C$7 billion round at a C$36 billion valuation</title>
-      <link>https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-30-canada-cohere-stake</guid>
-      <pubDate>Fri, 30 Oct 2026 17:10:12 -0700</pubDate>
-      <enclosure url="https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_NewsRelease_EN.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://www.pm.gc.ca/sites/pm/files/media/override_sharing/2025-11/PM_NewsRelease_EN.png" alt="" /></p>
-<p>Prime Minister Mark Carney announced on Oct 29 that the Canadian government will make a staged equity investment of up to C$1.6 billion in Cohere, alongside Nvidia, Bell and Germany's Schwarz Group (<a href="https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai">Prime Minister of Canada</a>).</p>
-<p>It is part of a planned C$7 billion Series E that would value Cohere at about C$36 billion, which would be the largest funding round in Canadian startup history; only an initial close is done so far (<a href="https://www.cbc.ca/news/business/canada-cohere-ai-investment-9.7401367">CBC/Reuters</a>).</p>
-<p>In return Cohere must stay Canadian-headquartered, create at least 1,000 technical jobs and put at least C$1.7 billion into Canadian compute by 2030. It is one of the biggest direct government bets yet on a national frontier-model company.</p>]]></description>
     </item>
 </channel>
 </rss>
