@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:17:18 GMT</lastBuildDate>
 
     
     
@@ -20,7 +20,17 @@
     
     
     
+    
     <item>
+      <title>ASUS unveils Gallop, its first humanoid, and puts it to work packing motherboard parts</title>
+      <link>https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-14-asus-gallop</guid>
+      <pubDate>Fri, 13 Nov 2026 18:30:00 GMT</pubDate>
+      <enclosure url="https://press.asus.com/assets/w_1200,h_630/a20cb302-3313-499d-8ddc-4d565eaaadf0/Factory-Proven%20Physical%20AI_%20Why%20ASUS%20Is%20Building%20a%20Humanoid%20Robot.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://press.asus.com/assets/w_1200,h_630/a20cb302-3313-499d-8ddc-4d565eaaadf0/Factory-Proven%20Physical%20AI_%20Why%20ASUS%20Is%20Building%20a%20Humanoid%20Robot.jpg" alt="" /></p>
+<p>ASUS has unveiled Gallop, its first humanoid robot, and put it straight to work on a real production line at an ASUS-group electronics plant, packing 15 motherboard accessories per board. The program began in early 2026 and was introduced by co-CEO S.Y. Hsu on CNBC.</p><p>Gallop runs on a single NVIDIA Jetson AGX Thor computer and learns by watching skilled workers via head cameras, simulation and VR teleoperation. ASUS says its target is 99.5% success within 20 seconds per board, the same standard it holds a person to — a target, not a measured result, and no success rate has been published.</p><p>The robot is currently a fixed-base, two-arm unit; a wheeled version and the in-house dexterous hand follow. Customer pilots are planned for 2027, with market availability targeted for the second half of 2028.</p>]]></description>
+    </item>
+<item>
       <title>Humanoids could outnumber people by 2083 — if robots start building each other, study finds</title>
       <link>https://www.zmescience.com/future/humanoid-robot-population-projection/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-13-humanoid-population-2083-study</guid>
@@ -761,20 +771,6 @@
 <li>For the first nine months, revenue grew 55.7% to 1.82 billion yuan.</li>
 </ul>
 <p>It's an early market test for China's best-known humanoid maker amid a tech-sector selloff.</p>]]></description>
-    </item>
-<item>
-      <title>XPeng&#x27;s dedicated solid-state battery for the IRON humanoid enters small-batch production ahead of robot mass production</title>
-      <link>https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-xpeng-iron-solid-state-battery</guid>
-      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
-      <enclosure url="https://cnevpost.com/wp-content/uploads/2026/10/2026102809070433.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cnevpost.com/wp-content/uploads/2026/10/2026102809070433.jpg" alt=""/></p>
-<p>XPeng vice president Gu Jie said at the Society of Automotive Engineers of China annual conference on Oct 28 that solid-state batteries built for the IRON humanoid have started rolling off the line in small batches, <a href="https://cnevpost.com/2026/10/28/solid-state-batteries-xpeng-iron-small-batch-production/">CnEVPost reports</a>. IRON itself is still before start of production, with mass production planned by the end of 2026 and commercial deployment in stores from 2027.</p>
-<ul>
-<li>The pack uses a high-energy-density design for the robot's tight internal space and is built to stop thermal runaway from spreading; it passes impact and nail-penetration tests.</li>
-<li>Gu reportedly said it's about 30% lighter with about 30% more capacity than the previous pack (<a href="https://x.com/CyberRobooo/status/2115446448104124639">per a post on X</a>).</li>
-<li><strong>Unclear:</strong> XPeng didn't say whether this is the all-solid-state chemistry it promised in 2025; a September report said the production IRON would use semi-solid-state cells instead. No volume or energy-density figures were given.</li>
-</ul>]]></description>
     </item>
 </channel>
 </rss>
