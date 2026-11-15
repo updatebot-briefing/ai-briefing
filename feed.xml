@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 01:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:08:23 GMT</lastBuildDate>
             
     
     
@@ -26,7 +26,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI disbands its standalone robotics team, betting general models can run robots</title>
+      <link>https://dailymech.com/articles/openai-disbands-standalone-robotics-team.html</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-openai-disbands-robotics-team</guid>
+      <pubDate>Sat, 14 Nov 2026 02:34:55 GMT</pubDate>
+      <enclosure url="https://dailymech.com/images/openai-disbands-standalone-robotics-team.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://dailymech.com/images/openai-disbands-standalone-robotics-team.jpg" alt=""/></p>
+<p>Fortune confirmed on Nov 13 that OpenAI has disbanded its standalone robotics team. Researchers now report to Chief Research Officer Mark Chen, and applied robotics and hardware staff moved into the Applied organization under Greg Brockman.</p><p>OpenAI's reason: general-purpose models like GPT-6 Astra can now be applied directly to robots. In an Nvidia study, Astra scored 74.8% on a simulated manipulation benchmark versus 51.0% for the best specialist model. The company says robotics remains core to its vision, with a humanoid demo still targeted for 2027.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI launches ChatGPT Wallet, letting agents pay without seeing card details</title>
       <link>https://openai.com/index/introducing-chatgpt-wallet/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-openai-chatgpt-wallet</guid>
@@ -663,17 +673,6 @@
 <p>OpenAI is now seeking up to $20 billion in its latest round, down from an earlier target of about $30 billion, CNBC confirmed on Saturday after the Financial Times first reported the cut (<a href="https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html">CNBC</a>). The round values OpenAI at $1.25 trillion post-money, below the roughly $1.4 trillion it had hoped for.</p>
 <p>The Wall Street Journal reported that only about $11 billion had been committed so far, with some investors trimming allocations ahead of a Friday deadline; OpenAI plans to court family offices and wealthy individuals in the coming weeks (<a href="https://runtimewire.com/article/openai-11b-commitments-30b-target-125t-valuation">RuntimeWire, citing WSJ</a>).</p>
 <p>The round is still open and OpenAI hasn't commented, so the figures could change. It's a notable sign of cooling investor appetite amid a broad tech selloff, and it updates the $30 billion raise reported on Oct 22.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI releases GPT-Rosalind-6, a GPT-6 Astra-based model for biology and drug discovery, under trusted access</title>
-      <link>https://deploymentsafety.openai.com/gpt-rosalind-6</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-10-31-openai-gpt-rosalind-6</guid>
-      <pubDate>Sat, 31 Oct 2026 17:08:29 -0700</pubDate>
-      <enclosure url="https://deploymentsafety.openai.com/assets/deploymentsafety-social.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://deploymentsafety.openai.com/assets/deploymentsafety-social.png" alt="" /></p>
-<p>On Oct 30 OpenAI released GPT-Rosalind-6, a frontier reasoning model for biology, drug discovery and translational medicine that uses the same weights as its flagship GPT-6 Astra (<a href="https://deploymentsafety.openai.com/gpt-rosalind-6">OpenAI system card addendum</a>).</p>
-<p>It refuses fewer dual-use biology questions than Astra, so it's only offered to vetted scientists, institutes, companies and government partners after OpenAI reviews their use case, security and governance. OpenAI treats it as High capability in biology and chemistry, below Critical, and as Critical in cybersecurity.</p>
-<p>Approved Research organizations get it in Work and Codex, and through the API where separately approved, but not in the ChatGPT Chat tab. It's one of the clearest examples yet of a top lab shipping a less-restricted frontier model to a gated professional audience.</p>]]></description>
     </item>
 </channel>
 </rss>
