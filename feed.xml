@@ -59,15 +59,6 @@
 <p>Meituan has open-sourced the weights of LongCat-2.5, a 1.6-trillion-parameter mixture-of-experts model built for long-horizon agent work, under the MIT licence. About 48 billion parameters activate per token.</p><p>The headline is the hardware: Meituan says it was trained entirely on Chinese accelerators, and its self-hosting guide describes a 194-chip Huawei Ascend Atlas A2 cluster with no Nvidia guidance. Meituan reports 88.4 on Terminal-Bench v2.1, just below Claude Opus 5 — its own number, not yet independently verified.</p>]]></description>
     </item>
 <item>
-      <title>Meituan open-sources LongCat-2.5, a 1.6T-parameter agent model trained without Nvidia GPUs</title>
-      <link>https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-15-meituan-longcat-2-5-open-weights</guid>
-      <pubDate>Sun, 15 Nov 2026 11:03:00 GMT</pubDate>
-      <enclosure url="https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg" alt=""/></p>
-<p>Meituan has open-sourced the weights of LongCat-2.5, a 1.6-trillion-parameter mixture-of-experts model built for long-horizon agent work, under the MIT licence. About 48 billion parameters activate per token.</p><p>The headline is the hardware: Meituan says it was trained entirely on Chinese accelerators, and its self-hosting guide describes a 194-chip Huawei Ascend Atlas A2 cluster with no Nvidia guidance. Meituan reports 88.4 on Terminal-Bench v2.1, just below Claude Opus 5 — its own number, not yet independently verified.</p>]]></description>
-    </item>
-<item>
       <title>OpenAI disbands its standalone robotics team, betting general models can run robots</title>
       <link>https://dailymech.com/articles/openai-disbands-standalone-robotics-team.html</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-openai-disbands-robotics-team</guid>
@@ -89,15 +80,6 @@
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-cursor-claude-code-postmortem</guid>
       <pubDate>Sat, 14 Nov 2026 21:03:54 GMT</pubDate>
       <description><![CDATA[<p>Cursor published its full investigation on Nov 13 into the Oct 29 incident. An access key Cursor issued to Fireworks AI was exposed by Fireworks; the attacker copied data from a shared read-only bucket, found unredacted credentials in old coding-agent traces, and planted tampered copies of Anthropic's Claude Code extension, versions 2.1.312 and 2.1.313, in the cache behind Cursor's extension marketplace.</p><p>At most 5,000 users may have received the malicious build during an 11-hour window. The payload tried to install a persistent SSH backdoor, and Cursor warns uninstalling the extension alone may not be enough. Anthropic says its own systems were not compromised.</p>]]></description>
-    </item>
-<item>
-      <title>Claude went down twice on Nov 13 as Microsoft's 365 outage broke its Outlook tools</title>
-      <link>https://vandatateam.com/blog/claude-microsoft-outages</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-claude-outages-nov13</guid>
-      <pubDate>Fri, 13 Nov 2026 15:38:00 GMT</pubDate>
-      <enclosure url="https://vandatateam.com/images/blog/claude-microsoft-outages/claude-microsoft-outages-cover-og.png" type="image/png" length="0"/>
-      <description><![CDATA[<p><img src="https://vandatateam.com/images/blog/claude-microsoft-outages/claude-microsoft-outages-cover-og.png" alt=""/></p>
-<p>Anthropic's status page lists two Claude incidents on Nov 13: a sign-in failure from 09:58 to 11:58 UTC that locked users out of claude.ai and Claude Code, then a wider outage from 13:09 to 15:38 UTC hitting claude.ai, the Claude API, Claude Code, connectors and Managed Agents. Some scheduled routines ran more than two hours late or were skipped.</p><p>Anthropic has not published a cause for either incident. Separately, the global Microsoft 365 outage that began Nov 12 broke Claude's Microsoft 365 connector and Claude for Outlook for about 24 hours.</p>]]></description>
     </item>
 <item>
       <title>Claude went down twice on Nov 13 as Microsoft's 365 outage broke its Outlook tools</title>
