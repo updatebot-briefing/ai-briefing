@@ -5,12 +5,21 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 14 Nov 2026 01:08:34 GMT</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 01:09:59 GMT</lastBuildDate>
+    
     
     
     
     
     <item>
+<title>Measured Lab copies official usage-limit wording for 35 AI plans from 8 providers</title>
+<link>https://measuredlab.com/ai-limits/</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-15-measuredlab-limits</guid>
+<pubDate>Sun, 15 Nov 2026 17:00:00 GMT</pubDate>
+<enclosure url="https://measuredlab.com/og/ai-limits.png?v=3be3c3ab08" type="image/png" length="0"/>
+<description><![CDATA[<img src="https://measuredlab.com/og/ai-limits.png?v=3be3c3ab08" alt=""/><p><a href="https://measuredlab.com/ai-limits/">Measured Lab</a> is a new comparison site that copies the official usage-limit wording for 35 AI plans from 8 providers, with the date each was read: Claude Pro ($20) has a 5-hour and weekly limit, Max is 5x Pro, Ultra 10x Pro weekly; Copilot Pro+ lists 7,000 monthly AI credits.</p><p>It refuses to turn vague wording into numbers and logs wording changes; its first check found no changes in the 7 days to Nov 15, and 87.5% of tracked plans state at least one number.</p>]]></description>
+    </item>
+<item>
 <title>$100 vs $200 AI coding plans compared: Cursor and Grok Ultra give 2x usage per dollar</title>
 <link>https://limitdex.com/ai-coding-plans-100-vs-200-dollars</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-13-limitdex-100-200-plans</guid>
