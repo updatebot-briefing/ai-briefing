@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 01:06:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:06:55 GMT</lastBuildDate>
             
     
     
@@ -29,7 +29,17 @@
     
     
     
+    
     <item>
+      <title>Petition to reinstate Jensen Huang as Nvidia CEO passes 135,000 signatures; Musk signs</title>
+      <link>https://www.tradingview.com/news/benzinga:ae86e8d11094b:0-elon-musk-backs-jensen-huang-comeback-as-petition-to-reinstate-ex-nvidia-ceo-surpasses-135-000-signatures/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-15-huang-reinstatement-petition-135k</guid>
+      <pubDate>Sun, 15 Nov 2026 06:46:49 GMT</pubDate>
+      <enclosure url="https://s.tradingview.com/static/images/illustrations/news-story.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://s.tradingview.com/static/images/illustrations/news-story.jpg" alt=""/></p>
+<p>A petition asking Nvidia's board to reinstate Jensen Huang as CEO passed 135,000 signatures on Sunday, days after his Nov 12 resignation. Elon Musk said on X he signed it, and Y Combinator CEO Garry Tan said he signed too. The site's signer counts are self-reported and unverified.</p><p>Separately, investors Brad Gerstner and Gavin Baker asked the board for a slow CEO search that keeps Huang's return on the table. The board has not publicly responded; Nvidia reports earnings Tuesday, Nov 17.</p>]]></description>
+    </item>
+<item>
       <title>Meituan open-sources LongCat-2.5, a 1.6T-parameter agent model trained without Nvidia GPUs</title>
       <link>https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-15-meituan-longcat-2-5-open-weights</guid>
@@ -662,17 +672,6 @@
       <enclosure url="https://gdpx.semianalysis.com/opengraph-image.png?opengraph-image.2l-cpfj117n69.png" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-02-semianalysis-gdpx-benchmark</guid>
       <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
-    </item>
-<item>
-      <title>Aramco closes its $2.6 billion deal for 49% of Saudi Arabia's national AI company HUMAIN</title>
-      <link>https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth</link>
-      <description><![CDATA[<p><img src="https://d1epq84pwgteub.cloudfront.net/0f2307dea885483b89a6da854d41503b.jpeg" alt="" /></p>
-<p>Saudi Aramco and the Public Investment Fund (PIF) <a href="https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth">announced on November 1</a> that they have closed the deal giving Aramco a 49% stake in HUMAIN, the kingdom's national AI company, while PIF keeps 51%.</p>
-<p>Aramco is contributing about SAR 9.9 billion ($2.6 billion) in cash during 2026, plus its own AI, compute and digital assets. The deal formalizes a term sheet the two signed in October 2025 (<a href="https://www.argaam.com/en/article/articledetail/id/1948981">Argaam</a>).</p>
-<p>Why it matters: it puts the world's largest oil company's balance sheet behind HUMAIN's plan to deploy 3 gigawatts of AI data center capacity by 2030, making Saudi Arabia one of the biggest state-backed bets on AI compute outside the US and China (<a href="https://www.forbesmiddleeast.com/industry/business/aramco-acquires-49-stake-in-humain-commits-%2426-billion-in-cash">Forbes Middle East</a>).</p>]]></description>
-      <enclosure url="https://d1epq84pwgteub.cloudfront.net/0f2307dea885483b89a6da854d41503b.jpeg" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-01-aramco-humain-49pct</guid>
-      <pubDate>Mon, 02 Nov 2026 01:09:14 GMT</pubDate>
     </item>
 </channel>
 </rss>
