@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 01:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:31:54 GMT</lastBuildDate>
             
     
     
@@ -30,7 +30,17 @@
     
     
     
+    
     <item>
+      <title>Alibaba launches Qwen4-Max, its new flagship model with 2.4T parameters and a 1M-token context</title>
+      <link>https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783</link>
+      <guid isPermaLink="false">updatebot-muse-breaking-2026-11-16-qwen4-max</guid>
+      <pubDate>Mon, 16 Nov 2026 06:20:15 GMT</pubDate>
+      <enclosure url="https://yqintl.alicdn.com/5ce929bcb11bf8dd978023d5d3b05b709b1cf85e.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://yqintl.alicdn.com/5ce929bcb11bf8dd978023d5d3b05b709b1cf85e.png" alt=""/></p>
+<p>Alibaba has launched <a href="https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783">Qwen4-Max</a>, the first model of the new Qwen 4 generation and the most capable Qwen model to date. It is a sparse mixture-of-experts model with 2.4 trillion total parameters, 71 billion active per token, native vision, and a 1-million-token context window.</p><p>The model is available now through QwenCloud's API and Token Plan, plus QwenWork and QwenStudio, at $1.50 per million input tokens and $4.50 output. Alibaba says it beats its predecessor on its own Work360 benchmark while cutting average task cost by about 62%. Smaller open-weight Qwen 4 models are promised soon; Qwen4-Max itself is API-only.</p>]]></description>
+    </item>
+<item>
       <title>Petition to reinstate Jensen Huang as Nvidia CEO passes 135,000 signatures; Musk signs</title>
       <link>https://www.tradingview.com/news/benzinga:ae86e8d11094b:0-elon-musk-backs-jensen-huang-comeback-as-petition-to-reinstate-ex-nvidia-ceo-surpasses-135-000-signatures/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-15-huang-reinstatement-petition-135k</guid>
@@ -660,17 +670,6 @@
 <p>Why it matters: it deepens OpenAI's ties to the UAE as it seeks up to $20 billion in a funding round co-led by UAE investors, per <a href="https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html">CNBC</a>.</p>]]></description>
       <enclosure url="https://www.mediaoffice.abudhabi/assets/resized/img/Abu-Dhabi-Media-Office-0-0-0-0.webp?k=7bd1853e3f" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-02-openai-abu-dhabi-adnoc-deals</guid>
-      <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
-    </item>
-<item>
-      <title>SemiAnalysis launches GDPx, a hard agentic benchmark where the best model, Claude Opus 5.5, scores 12%</title>
-      <link>https://gdpx.semianalysis.com/</link>
-      <description><![CDATA[<p><img src="https://gdpx.semianalysis.com/opengraph-image.png?opengraph-image.2l-cpfj117n69.png" alt="" /></p>
-<p>SemiAnalysis released <a href="https://gdpx.semianalysis.com/">GDPx v1.0</a> on November 2: 206 long agentic tasks (up to 8 hours each) across 11 high-value domains, including chip design, cybersecurity, biology, quant trading, finance, legal and recursive self-improvement, built with 14 expert data partners.</p>
-<p>Claude Opus 5.5 leads at 12.0% (about $51 per task), followed by Gemini 4 Carbon at 10.9% (about $16 per task) and GPT-6 Astra at 9.6%. SemiAnalysis says nearly every model scores zero on finance and legal, that GPT-6 Astra wins the self-improvement domain, and that safety classifiers drag down some scores in cyber, bio and alignment (<a href="https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities">SemiAnalysis post</a>).</p>
-<p>Why it matters: it's a fresh, unsaturated yardstick for frontier agents on real expert work, and it shows how far even the best models still are from doing it reliably. The scores are SemiAnalysis's own measurements.</p>]]></description>
-      <enclosure url="https://gdpx.semianalysis.com/opengraph-image.png?opengraph-image.2l-cpfj117n69.png" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-02-semianalysis-gdpx-benchmark</guid>
       <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
     </item>
 </channel>
