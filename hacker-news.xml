@@ -7,12 +7,21 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 01:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:18:04 GMT</lastBuildDate>
+    
     
     
     
     
     <item>
+      <title>Hacker News top 10 — Sun, Nov 15</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-15</guid>
+      <pubDate>Mon, 16 Nov 2026 01:16:24 GMT</pubDate>
+      <enclosure url="https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png" type="image/png" length="0"/>
+      <description><![CDATA[<img src="https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Sunday, Nov 15, 2026, in front-page order.</p><ol><li><p><strong><a href="https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/">Old Bitly Links Are Being Hijacked</a></strong> · ransomnews.com</p><p>Old Bitly links hijacked — a Burger King tweet link redirected to a scam</p><p><a href="https://news.ycombinator.com/item?id=50511395">150 points · 79 comments</a></p></li><li><p><strong><a href="https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/">Preserving 30 Years of Salon Journalism</a></strong> · blog.archive.org</p><p>Archive.org preserves 30 years of Salon journalism</p><p><a href="https://news.ycombinator.com/item?id=50511806">63 points · 11 comments</a></p></li><li><p><strong><a href="https://steveblank.com/2026/11/15/whats-next-for-nvidia/">What's Next for Nvidia?</a></strong> · steveblank.com</p><p>Steve Blank on what's next for Nvidia</p><p><a href="https://news.ycombinator.com/item?id=50512235">25 points · 15 comments</a></p></li><li><p><strong><a href="https://tangled.org/nvim-mini.org/mini.nvim">Mini.nvim Is Now on Tangled</a></strong> · tangled.org</p><p>Mini.nvim moves to Tangled, the Git-based forge</p><p><a href="https://news.ycombinator.com/item?id=50512231">25 points · 7 comments</a></p></li><li><p><strong><a href="https://bruceroettgers.eu/blog/protomaps/">Protomaps: Self-hosting map tiles has gotten cheap and easy</a></strong> · bruceroettgers.eu</p><p>Self-hosting map tiles with Protomaps is now cheap and easy</p><p><a href="https://news.ycombinator.com/item?id=50509837">154 points · 34 comments</a></p></li><li><p><strong><a href="https://www.youtube.com/watch?v=7_JF3etiAv8">A short explainer on how El Niño works [video]</a></strong> · youtube.com</p><p>Short video explainer on how El Niño works</p><p><a href="https://news.ycombinator.com/item?id=50509308">174 points · 71 comments</a></p></li><li><p><strong><a href="https://baron.by.dai.studio/">WebGL Flight Simulator with seed generated terrain</a></strong> · baron.by.dai.studio</p><p>WebGL flight simulator with seed-generated terrain</p><p><a href="https://news.ycombinator.com/item?id=50510296">84 points · 11 comments</a></p></li><li><p><strong><a href="https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html">'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can</a></strong> · nytimes.com</p><p>Crows make decisions faster than we can, NYT reports</p><p><a href="https://news.ycombinator.com/item?id=50509023">163 points · 122 comments</a></p></li><li><p><strong><a href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/">The MacBook Pro's OLED PWM problem</a></strong> · macanorak.com</p><p>MacBook Pro OLED PWM flicker makes the display worse for some</p><p><a href="https://news.ycombinator.com/item?id=50506719">417 points · 233 comments</a></p></li><li><p><strong><a href="https://ductus.sorenblank.com">Handwriting, as a Font</a></strong> · ductus.sorenblank.com</p><p>Handwriting as a font — a variable typeface from real handwriting</p><p><a href="https://news.ycombinator.com/item?id=50509972">120 points · 30 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Sat, Nov 14</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-14</guid>
