@@ -7,13 +7,22 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 01:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:16:54 GMT</lastBuildDate>
+    
     
     
     
     
     
     <item>
+      <title>Hacker News top 10 — Mon, Nov 16</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-16</guid>
+      <pubDate>Tue, 17 Nov 2026 01:16:02 GMT</pubDate>
+      <enclosure url="https://www.cs.cmu.edu/site-images/gates_web.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://www.cs.cmu.edu/site-images/gates_web.jpg" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Monday, Nov 16, 2026, in front-page order.</p><ol><li><p><strong><a href="https://www.cs.cmu.edu/learn/">Carnegie Mellon is putting computer science courses on YouTube for free</a></strong> · cs.cmu.edu</p><p>Carnegie Mellon puts its computer science courses on YouTube for free</p><p><a href="https://news.ycombinator.com/item?id=50522980">642 points · 107 comments</a></p></li><li><p><strong><a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/">Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use</a></strong> · xusheng.dev</p><p>Windows 11 reportedly collects data on which coding agents and dev tools you use</p><p><a href="https://news.ycombinator.com/item?id=50524736">177 points · 82 comments</a></p></li><li><p><strong><a href="https://www.bugmenot.com/">BugMeNot has closed</a></strong> · bugmenot.com</p><p>BugMeNot, the shared-login site, has closed</p><p><a href="https://news.ycombinator.com/item?id=50523601">291 points · 151 comments</a></p></li><li><p><strong><a href="https://amirulcyber.com/2026/11/16/optimjack-optimizely-skimmer/">World's Largest Brands Infected With Malware Via Optimizely</a></strong> · amirulcyber.com</p><p>Major brands served malware via a compromised Optimizely script</p><p><a href="https://news.ycombinator.com/item?id=50523300">184 points · 2 comments</a></p></li><li><p><strong><a href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/">Optimizely Compromised, Served Malware on Zoom, GitLab</a></strong> · blog.report-uri.com</p><p>Optimizely compromise hit Zoom and GitLab with injected malware</p><p><a href="https://news.ycombinator.com/item?id=50524767">79 points · 61 comments</a></p></li><li><p><strong><a href="https://opencode.ai/product/browse">OpenCode Browse</a></strong> · opencode.ai</p><p>OpenCode Browse: a new browser product from the OpenCode team</p><p><a href="https://news.ycombinator.com/item?id=50523459">101 points · 46 comments</a></p></li><li><p><strong><a href="https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/">How to Break into Security, Ptacek Edition (2012)</a></strong> · krebsonsecurity.com</p><p>Ptacek's 2012 guide to breaking into security, resurfaced</p><p><a href="https://news.ycombinator.com/item?id=50524225">69 points · 18 comments</a></p></li><li><p><strong><a href="https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry">Chemistry is Actually Geometry</a></strong> · chillphysicsenjoyer.substack.com</p><p>Chemistry is actually geometry, argues a physics essay</p><p><a href="https://news.ycombinator.com/item?id=50522643">92 points · 23 comments</a></p></li><li><p><strong><a href="https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains">Grazing sheep in fields with solar arrays</a></strong> · news.cornell.edu</p><p>Grazing sheep under solar panels helps farmers and the land</p><p><a href="https://news.ycombinator.com/item?id=50520182">210 points · 218 comments</a></p></li><li><p><strong><a href="https://trmnl.com/blog/introducing-frame">Frame – 31.5" color ePaper display</a></strong> · trmnl.com</p><p>Frame: a 31.5-inch color ePaper display from TRMNL</p><p><a href="https://news.ycombinator.com/item?id=50519354">286 points · 204 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Sun, Nov 15</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-15</guid>
