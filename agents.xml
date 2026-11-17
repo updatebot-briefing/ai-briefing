@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:15:25 GMT</lastBuildDate>
+<item>
+<title>SpaceXAI reportedly cuts ~60 from Grok Imagine team to focus on coding tools and Grok Bot</title>
+<link>https://www.bottlerocketcontent.com/spacex-grok-imagine-layoffs-60-staff-video-team-ai-focus-shift/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-16-grok-imagine-team-cuts</guid>
+<pubDate>Mon, 16 Nov 2026 20:12:59 GMT</pubDate>
+<enclosure url="https://storage.ghost.io/c/33/cf/33cf5dc6-7a57-4fd0-8b82-4a8235e5247b/content/images/2026/11/baaf15021be29355f2a2797893a9a148.webp" type="image/webp" length="0"/>
+<description><![CDATA[<p><img src="https://storage.ghost.io/c/33/cf/33cf5dc6-7a57-4fd0-8b82-4a8235e5247b/content/images/2026/11/baaf15021be29355f2a2797893a9a148.webp" alt=""/></p>
+<p>SpaceXAI's AI group has cut about 60 roles from the team behind Grok Imagine, its image and video generator, <a href="https://www.bottlerocketcontent.com/spacex-grok-imagine-layoffs-60-staff-video-team-ai-focus-shift/">The Information reported</a> on Nov 13, leaving only a small crew to maintain it while management shifts focus to AI coding tools and its Grok Bot agent.</p><p><strong>Unconfirmed:</strong> SpaceX has not confirmed the cuts or any change to Imagine's roadmap, and the product is still available. All five press reports trace back to The Information's single paywalled report.</p>]]></description>
+</item>
 <item>
 <title>Sierra ships Poppy 1.0, a shared protocol for personal agents; Muse checks it first</title>
 <link>https://aiagentupdate.com/post/sierra-poppy-1-0-2026-11-16</link>
@@ -574,14 +583,6 @@
       <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-similarweb-dau-streak</guid>
       <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
       <description><![CDATA[<p><a href="https://x.com/Similarweb/status/2115724259691471150">Similarweb posted</a> that as of October 26, Grok Bot's daily active users had grown for 16 days in a row, its longest growth streak so far.</p><p>Elon Musk <a href="https://x.com/elonmusk/status/2115921600658735169">quoted a post</a> about the chart and added that Grok Bot "has no free tier." That post, from <a href="https://x.com/XFreeze/status/2115779686697697557">@XFreeze</a>, reads the chart as going from under 100,000 daily users in early September to over 600,000 by October 26. That figure is a fan's reading of the chart, not a number Similarweb or SpaceXSI stated.</p>]]></description>
-    </item>
-<item>
-      <title>Grok Bot's Auto-review is degraded Thursday afternoon, according to the status page</title>
-      <link>https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-auto-review-degraded</guid>
-      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
-      <enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_e5eb22a9954466c4">status page</a> opened a minor incident, "Auto Review Degradation," at 4:44pm PT on Thursday. It marks the Grok Bot component as degraded and says the team is investigating.</p><p>A separate minor "Cloud Agent Degradation" incident opened at 4:29pm PT affects Cloud Agents, Automations and the IDE, not Grok Bot. As of about 5:15pm PT, both were still under investigation and neither had a fix posted.</p>]]></description>
     </item>
 </channel>
 </rss>
