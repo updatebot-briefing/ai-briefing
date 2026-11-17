@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 17:31:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:05:19 GMT</lastBuildDate>
             
     
     
@@ -31,7 +31,17 @@
     
     
     
+    
     <item>
+      <title>Google gives Japan early access to frontier AI for cyber defense</title>
+      <link>https://cryptobriefing.com/google-japan-frontier-ai-cybersecurity-access/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-google-japan-frontier-ai</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://static.cryptobriefing.com/wp-content/uploads/2026/11/16161015/library-google-gives-japan-early-access-to-frontier-ai-for-cyber-800x450.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://static.cryptobriefing.com/wp-content/uploads/2026/11/16161015/library-google-gives-japan-early-access-to-frontier-ai-for-cyber-800x450.png" alt=""/></p>
+<p>Google Cloud CEO Thomas Kurian said on Nov 16 that Google will extend early access to its frontier AI models to Japan's government and critical infrastructure operators, to help them defend against a surge in cyberattacks.</p><p>Japan logged more cyber incidents in the first three quarters of 2026 than in all of 2025, and announced a ¥10 billion emergency cybersecurity package on Nov 6. The access builds on a program Google opened in September 2026, and Japan has also sought expanded AI access from Anthropic and OpenAI.</p>]]></description>
+    </item>
+<item>
       <title>Alibaba launches Qwen4-Max, its new flagship model with 2.4T parameters and a 1M-token context</title>
       <link>https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783</link>
       <guid isPermaLink="false">updatebot-muse-breaking-2026-11-16-qwen4-max</guid>
