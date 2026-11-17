@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:07:16 GMT</lastBuildDate>
             
     
     
@@ -33,7 +33,15 @@
     
     
     
+    
     <item>
+      <title>OpenAI doubles free ChatGPT access for researchers to 200,000</title>
+      <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-openai-researchers-200k</guid>
+      <pubDate>Mon, 16 Nov 2026 18:38:00 GMT</pubDate>
+      <description><![CDATA[<p>OpenAI announced on Nov 16 it is doubling its <a href="https://openai.com/index/chatgpt-for-academic-researchers/">ChatGPT for Academic Researchers</a> program to 200,000 scientists, mathematicians, and engineers. Applications for 50,000 new grants open Nov 23, awarded first-come, first-served.</p><p>Each grant covers the recipient plus up to two collaborators. One change: new grants get ChatGPT Plus instead of Pro, after OpenAI found most pilot usage stayed within Plus limits. A companion study of 1,819 pilot researchers found they estimated the same work would take nearly twice as long without AI — a self-reported figure OpenAI cautions proves nothing about faster discovery.</p>]]></description>
+    </item>
+<item>
       <title>Perplexity launches Frontier Research, a 10,000-GPU bet on automating science</title>
       <link>https://research.perplexity.ai</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-perplexity-frontier-research</guid>
@@ -655,21 +663,6 @@
 <p>Why it matters: this is the first time a top lab has told investors, in a legal filing, that it may be close to its own bar for recursive self-improvement, which under the RSP roughly means AI doubling the rate of overall AI progress.</p>]]></description>
       <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-02-anthropic-s1a-ai-acceleration-threshold</guid>
-      <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
-    </item>
-<item>
-      <title>OpenAI signs four Abu Dhabi deals, making ADNOC the first energy company to deploy its Frontier platform</title>
-      <link>https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/</link>
-      <description><![CDATA[<p><img src="https://www.mediaoffice.abudhabi/assets/resized/img/Abu-Dhabi-Media-Office-0-0-0-0.webp?k=7bd1853e3f" alt="" /></p>
-<p>At the ADIPEC conference on November 2, Sam Altman met Abu Dhabi Crown Prince Sheikh Khaled bin Mohamed bin Zayed, who witnessed four agreements between OpenAI and Abu Dhabi entities (<a href="https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/">Abu Dhabi Media Office</a>).</p>
-<ul>
-<li>ADNOC, G42 (through Inception42) and OpenAI will deploy OpenAI Frontier agents across ADNOC's operations, starting with full-field development planning and value-chain forecasting, on in-country UAE inference (<a href="https://www.energyconnects.com/opinion/features/2026/november/adnoc-signs-landmark-partnership-agreement-with-openai-and-g42-becoming-first-energy-company-to-deploy-openai-frontier-technology/">Energy Connects</a>).</li>
-<li>The Abu Dhabi Government and OpenAI launched a "Machine-Readable Government" initiative that turns a set of regulations into machine-readable form for AI-assisted compliance checks.</li>
-<li>Mubadala, Inception42 and OpenAI will apply AI to investment analysis, and Inception42 and OpenAI signed a five-year deal to drive adoption across UAE government, enterprise and education.</li>
-</ul>
-<p>Why it matters: it deepens OpenAI's ties to the UAE as it seeks up to $20 billion in a funding round co-led by UAE investors, per <a href="https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html">CNBC</a>.</p>]]></description>
-      <enclosure url="https://www.mediaoffice.abudhabi/assets/resized/img/Abu-Dhabi-Media-Office-0-0-0-0.webp?k=7bd1853e3f" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-02-openai-abu-dhabi-adnoc-deals</guid>
       <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
     </item>
 </channel>
