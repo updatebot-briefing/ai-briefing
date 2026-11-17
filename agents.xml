@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:14:03 GMT</lastBuildDate>
+<item>
+<title>AI agent web traffic jumps eightfold as Meta's Muse takes the lead</title>
+<link>https://aistify.com/meta-muse-ai-agent-web-traffic-growth/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-16-muse-agent-traffic-lead</guid>
+<pubDate>Mon, 16 Nov 2026 09:14:00 GMT</pubDate>
+<enclosure url="https://aistify.com/wp-content/uploads/2026/11/meta-muse-ai-agent-web-traffic-growth-1200x800-1.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://aistify.com/wp-content/uploads/2026/11/meta-muse-ai-agent-web-traffic-growth-1200x800-1.jpg" alt=""/></p>
+<p>AI agents generated roughly eight times as many web requests in October as in August across sites protected by HUMAN Security, according to its <a href="https://aistify.com/meta-muse-ai-agent-web-traffic-growth/">latest monthly benchmark</a>. Meta's Muse accounted for 59% of October's measured activity, and Muse plus OpenAI's three tracked products made up about 90% of the sample.</p><p>Product and search pages drew about 85% of measured requests; checkout and payment pages just 1.9%. Caveat: the figures count requests, not users or sessions, and HUMAN discloses no absolute volumes — so this shows momentum, not proven repeat use.</p>]]></description>
+</item>
 <item>
 <title>Hermes Agent v0.23.2 rolls up ~1,989 PRs; subagents survive gateway restarts</title>
 <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.2</link>
@@ -573,13 +582,5 @@
       <enclosure url="https://www.theglobeandmail.com/resizer/v2/FDGQPP7KWNEPRH2SJWNQOFDIOM.JPG?auth=8240710b4a2075d5e9fbac5fc2d8652e5ba786df4900524b915d5bd34c6c76a0&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://www.theglobeandmail.com/resizer/v2/FDGQPP7KWNEPRH2SJWNQOFDIOM.JPG?auth=8240710b4a2075d5e9fbac5fc2d8652e5ba786df4900524b915d5bd34c6c76a0&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true" alt=""/><p><a href="https://www.theglobeandmail.com/business/article-ai-personal-assistants-meta-muse-openai-customer-access-security/">The Globe and Mail reports</a> that a month after launch, Meta's Muse is still the most popular app in Canada. Businesses are now deciding how much access to give it and other agents.</p><ul><li>Royal Bank of Canada said this week it is blocking third-party agents from its digital properties, including online banking. Bank of Montreal and TD have also blocked them.</li><li>Scotiabank is limiting agents, and CIBC says it doesn't support agents opening or accessing accounts. Wealthsimple and Neo are more open to them.</li><li>Shopify has integrated with Muse so people can buy from Shopify stores through it. The paper's own test purchase took 30 minutes and failed several times before it worked.</li></ul>]]></description>
     </item>
-<item>
-<title>Grok Bot 0.78.1 adds shopping cards with order tracking, and templates that cancel trials and unused subscriptions</title>
-<link>https://x.ai/changelog/bot</link>
-<guid isPermaLink="false">updatebot-agents-2026-10-28-grok-bot-v0-78-1</guid>
-<pubDate>Thu, 29 Oct 2026 00:14:49 GMT</pubDate>
-<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt="Grok Bot changelog"/><p>The <a href="https://x.ai/changelog/bot">Grok Bot changelog</a> lists v0.78.1 (Oct 27, also covering 0.78.0). Shopping with a Bot now shows products as cards with photos, rating, price and store, three or four results scroll in a carousel, and Buy now starts an order you approve. After an order, the Bot tracks it and tells you when it ships or arrives.</p><p>New templates include <strong>Try it, don't pay for it</strong> (starts a free trial and cancels it or reminds you before it bills), <strong>Find unused subscriptions</strong> and <strong>Watch subscription prices</strong>. Bots can now cancel a subscription or look up its renewal date, confirming with you first. Shop Pay can be connected in the Vault's Payments tab.</p><p>Other changes: Bots can start cloud agents in a custom mode, the Bot's browser types one character at a time like a person, and Team Bots get their own Vault logins and an Only you sharing option.</p>]]></description>
-</item>
 </channel>
 </rss>
