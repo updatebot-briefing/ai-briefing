@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 20:15:19 GMT</lastBuildDate>
             
     
     
@@ -34,7 +34,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI launches GPT-6.2 Astra and Sol, its new frontier models</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol/</link>
+      <guid isPermaLink="false">updatebot-muse-breaking-2026-11-17-gpt-6-2-astra-sol</guid>
+      <pubDate>Tue, 17 Nov 2026 17:51:47 GMT</pubDate>
+      <enclosure url="https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/a8298611-fe6e-4853-90e1-7ec5b3bbdf5f.6a518def.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/a8298611-fe6e-4853-90e1-7ec5b3bbdf5f.6a518def.png" alt=""/></p>
+<p>OpenAI has launched <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">GPT-6.2 Astra and GPT-6.2 Sol</a>, its new frontier and everyday models. Astra sets a new high on Agents' Last Exam, scoring 5.2 points above GPT-6 Astra at less than a third of the cost, and leads on science and legal benchmarks too.</p><p>Sol comes within half a point of Astra on FrontierCode 2.0 at about a fifth of the cost. Both are live today in ChatGPT Work and Codex for Plus, Pro, Enterprise and Edu users, and via the API at $8/$40 (Astra) and $2/$10 (Sol) per million tokens.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI doubles free ChatGPT access for researchers to 200,000</title>
       <link>https://openai.com/index/chatgpt-for-academic-researchers/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-openai-researchers-200k</guid>
@@ -653,17 +663,6 @@
       <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/2eba335a28661a8253187053fa36add230af728b-2000x1125.jpg" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-03-anthropic-flashprove-provable-inference</guid>
       <pubDate>Wed, 04 Nov 2026 01:12:37 GMT</pubDate>
-    </item>
-<item>
-      <title>Anthropic's amended IPO filing says future models may &quot;imminently&quot; hit its threshold for AI-driven acceleration of AI progress</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm</link>
-      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" alt="" /></p>
-<p>In <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm">Amendment No. 1 to its S-1</a>, filed November 2, Anthropic added a risk factor saying its internal estimates and expectations for <em>future</em> models indicate it "may imminently" meet its <a href="https://www.anthropic.com/responsible-scaling-policy">Responsible Scaling Policy</a> definition of "dramatically accelerated progress attributable to AI."</p>
-<p>The filing says no current model has been designated as over that threshold and that Anthropic is still assessing the data. It also warns that it has in the past failed to notice a significant speed-up in its own development until after it happened, and says it is considering RSP updates to keep humans in control of frontier model development (<a href="https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/">TechCrunch</a>).</p>
-<p>Why it matters: this is the first time a top lab has told investors, in a legal filing, that it may be close to its own bar for recursive self-improvement, which under the RSP roughly means AI doubling the rate of overall AI progress.</p>]]></description>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-02-anthropic-s1a-ai-acceleration-threshold</guid>
-      <pubDate>Tue, 03 Nov 2026 01:07:27 GMT</pubDate>
     </item>
 </channel>
 </rss>
