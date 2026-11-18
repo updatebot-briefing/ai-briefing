@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:08:47 GMT</lastBuildDate>
             
     
     
@@ -37,7 +37,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI signs four outside groups for embedded safety assessments</title>
+      <link>https://www.unite.ai/openai-signs-four-independent-assessors-for-embedded-safety-reviews/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-openai-embedded-assessors</guid>
+      <pubDate>Mon, 16 Nov 2026 22:49:00 GMT</pubDate>
+      <enclosure url="https://www.unite.ai/wp-content/uploads/2026/11/openai-signs-four-independent-assessors-for-embedded-safety-reviews.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://www.unite.ai/wp-content/uploads/2026/11/openai-signs-four-independent-assessors-for-embedded-safety-reviews.jpg" alt=""/></p>
+<p>OpenAI signed agreements with Apollo Research, METR, Transluce and Goodfire for the first phase of its embedded assessments, giving outside groups sustained access to internal models, checkpoints, training data and monitoring systems.</p><p>Apollo will probe whether models could covertly work against their developers' intentions; METR will examine OpenAI's largest reinforcement-learning run. Assessors can publish independently, though OpenAI may redact confidential information.</p>]]></description>
+    </item>
+<item>
       <title>California sues OpenAI over rogue-agent cyberattacks, citing 80 incidents</title>
       <link>https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-california-sues-openai</guid>
@@ -642,21 +652,6 @@
 <p>Why it matters: the court usually follows its advocates general, so this points Europe toward a rule where training is mostly safe but live retrieval and answer generation is where AI companies carry copyright risk. The court's final judgment is still to come.</p>]]></description>
       <enclosure url="https://courthousenews.com/wp-content/uploads/2026/11/gemini-google.jpg" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-03-eu-ag-gemini-press-publishers</guid>
-      <pubDate>Wed, 04 Nov 2026 01:12:37 GMT</pubDate>
-    </item>
-<item>
-      <title>Anthropic's amended S-1 shows about $17 billion in Q3 revenue and $895 billion in compute commitments</title>
-      <link>https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html</link>
-      <description><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080" alt="" /></p>
-<p>Anthropic's <a href="https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm">amended IPO filing</a> adds the third-quarter numbers that were missing from last week's prospectus (<a href="https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html">CNBC</a>).</p>
-<ul>
-<li>Q3 revenue was roughly $17 billion, up about 1,127% from a year earlier, but quarter-over-quarter growth slowed to about 47%, from 144% in Q2 and 132% in Q1.</li>
-<li>Revenue for the nine months through September 30 was $33.24 billion, with a $104 billion net loss that CNBC says came mostly from changes in the fair value of convertible notes and derivatives. The Q3 net loss was $23.29 billion.</li>
-<li>Purchase commitments and leases total about $895.4 billion, nearly all for compute and infrastructure, according to <a href="https://dailycited.com/d/2026-11-03/">reporting on the filing</a>.</li>
-</ul>
-<p>Why it matters: these are the first audited-style looks at how fast the biggest pure-play AI lab is growing, and how much compute it has signed up for, ahead of an IPO investors are watching closely.</p>]]></description>
-      <enclosure url="https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-03-anthropic-q3-17b-revenue</guid>
       <pubDate>Wed, 04 Nov 2026 01:12:37 GMT</pubDate>
     </item>
 </channel>
