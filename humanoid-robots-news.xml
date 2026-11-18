@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:17:16 GMT</lastBuildDate>
 
     
     
@@ -23,7 +23,17 @@
     
     
     
+    
     <item>
+      <title>ROBOTERA humanoids now sort parcels at 11 China Post hubs across Guangdong</title>
+      <link>https://www.prnewswire.co.uk/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941879.html</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-robotera-china-post-guangdong</guid>
+      <pubDate>Tue, 17 Nov 2026 09:19:00 GMT</pubDate>
+      <enclosure url="https://mmx.prnewswire.com/media/MS2037603/20261117031625EST_image_1.jpg?id=OA3084478&amp;p=medium" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://mmx.prnewswire.com/media/MS2037603/20261117031625EST_image_1.jpg?id=OA3084478&amp;p=medium" alt="" /></p>
+<p>ROBOTERA said Nov. 17 its humanoid robots now work across China Post's Guangdong network — 11 postal hubs in eight cities including Guangzhou, Shenzhen and Dongguan — up from a single pilot that began in March.</p><p>The company says its robots average more than 1,500 parcel inductions per hour, comparable to experienced human workers — a company figure, not independently verified — and calls it the largest embodied-AI deployment in logistics to date.</p><p>The rollout uses ROBOTERA's five-finger dexterous hand, and the company says it will expand into East China next.</p>]]></description>
+    </item>
+<item>
       <title>Genesis AI raises $500M Series A to scale its Eno general-purpose robot</title>
       <link>https://www.pymnts.com/news/investment-tracker/2026/genesis-ai-raises-500-million-to-scale-robots-with-human-like-dexterity/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-genesis-ai-500m-series-a</guid>
@@ -753,19 +763,6 @@
 <li><strong>Timeline:</strong> a progress report is due in 180 days, and tariffs or other measures remain possible if talks fail, as <a href="https://news.bloomberglaw.com/international-trade/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks">Bloomberg Law</a> notes.</li>
 </ul>
 <p>For humanoid makers that rely on Chinese actuators and components, nothing changes at the border today, but the threat of future duties is now formally on the record.</p>]]></description>
-    </item>
-<item>
-      <title>Boston Dynamics reportedly lines up an all-Korean Atlas supply chain and tells suppliers to prepare parts for 10,000 humanoids</title>
-      <link>https://www.kedglobal.com/robotics/newsView/ked202610270008</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-28-atlas-korean-suppliers-10000</guid>
-      <pubDate>Thu, 29 Oct 2026 00:22:14 +0000</pubDate>
-      <description><![CDATA[<p>Boston Dynamics has finalized its supplier lineup for the Atlas humanoid and asked the selected companies to get ready for purchase orders covering 10,000 units, <a href="https://www.kedglobal.com/robotics/newsView/ked202610270008">KED Global reported</a> on Oct 27, citing industry sources. <strong>This is a report, not confirmed by Boston Dynamics</strong>, and it describes a request to prepare, not a placed order.</p>
-<ul>
-<li><strong>Actuators and grippers:</strong> Hyundai Mobis, with actuators said to make up most of the robot's parts cost.</li>
-<li><strong>Batteries:</strong> Samsung SDI and LG Energy Solution; cameras from a Mobis-led group with Namuga and IL, plus MCNEX and Cammsys for hand cameras.</li>
-<li><strong>Other parts:</strong> BH EVS for charging and CTR for control arms; the only non-Korean component is NVIDIA's processor.</li>
-</ul>
-<p>Final quantities and prices aren't set, and first orders are expected around late 2027 or early 2028. Early Atlas units are slated for Hyundai's own Metaplant in Georgia. <a href="https://machineeconomy.co.uk/briefings/atlas-korean-suppliers">Machine Economy's breakdown</a> stresses that the 10,000 figure is a planning number, not a shipment or contract.</p>]]></description>
     </item>
 </channel>
 </rss>
