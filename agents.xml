@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:11:02 GMT</lastBuildDate>
+<item>
+<title>Meta's Muse launches in Australia with local connectors</title>
+<link>https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/amp/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-17-muse-australia</guid>
+<pubDate>Tue, 17 Nov 2026 18:00:31 GMT</pubDate>
+<enclosure url="https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?w=1200" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?w=1200" alt=""/></p>
+<p>Meta <a href="https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/amp/">launched Muse in Australia</a> today, Nov 17, on iOS, Android, muse.ai and a Mac app, with AI glasses support coming soon. Local connector experiences roll out progressively across creativity, shopping, property, fitness and entertainment.</p><p>Early Australian partners include Canva, Domain, Kogan, MECCA, Officeworks, realestate.com.au, SWEAT, ShopBack and Ticketek. Users can also connect Gmail, Google Calendar, Instagram and OpenTable. Real-time voice conversations and custom Spaces are included; most features are free, with subscriptions for heavier use.</p>]]></description>
+</item>
 <item>
 <title>Google begins rolling out Tasks, its personal AI assistant, in India</title>
 <link>https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/</link>
@@ -577,14 +586,6 @@
       <guid isPermaLink="false">updatebot-agents-2026-10-29-dots-extended-limits-continue</guid>
       <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
       <description><![CDATA[<p>OpenAI's Tibo Sottiaux <a href="https://x.com/thsottiaux/status/2115850175868727621">said on Thursday</a> that OpenAI will "continue offering extended limits for dots for now," and that dot usage will stay separate from your default ChatGPT usage. Dots launched with extended limits for the first month only, so the permanent per-plan dots terms people expected around today still haven't been published.</p><p>In the same post, OpenAI doubled all usage limits for the Pro 100, 200 and 500 tiers and Business Premium, effective immediately, and dropped the planned cut to Pro 200's Work and Codex allowance. <a href="https://x.com/ajambrosino/status/2115855769665147254">Andrew Ambrosino</a> added that OpenAI started a sprint to make the app simpler and faster. <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/">BleepingComputer</a> notes OpenAI still gives no exact numbers per tier.</p><p>The <a href="https://help.openai.com/en/articles/20001530-getting-started-with-dots">dots help page</a> still says Pro access excludes the EEA, Switzerland and the UK, and that prices for extra dots or more speed are coming later.</p>]]></description>
-    </item>
-<item>
-      <title>SpaceXSI launches Grok for Startups: one credit balance across Grok, Grok Build, Grok Bot and the Grok API</title>
-      <link>https://x.ai/startups</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-for-startups</guid>
-      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
-      <enclosure url="https://x.ai/api/og?slug=/startups" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://x.ai/api/og?slug=/startups" alt=""/><p>SpaceXSI has a new <a href="https://x.ai/startups">Grok for Startups</a> program. It gives startups credits that work across Grok, Grok Build, Grok Bot and the Grok API from one balance, plus hands-on onboarding.</p><ul><li>Credits are sized to your stage, and SpaceXSI says it aims for "six to twelve months of real usage." No dollar amount is published.</li><li>You get 20% when you're approved, and the other 80% is released once you're up and running.</li><li>To qualify you need venture backing, a live product, and a company email that matches your website. You <a href="https://x.ai/startups/apply">apply here</a> with an xAI team ID.</li></ul><p>The page went up around Oct 25, and posts about it spread widely on X on Thursday.</p>]]></description>
     </item>
 </channel>
 </rss>
