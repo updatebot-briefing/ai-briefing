@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:12:11 GMT</lastBuildDate>
+<item>
+<title>Grok Bot 1.2.0 redesigns flight results and hotel maps</title>
+<link>https://x.ai/changelog/bot#v1.2.0</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-17-grok-bot-1-2-0</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt=""/></p>
+<p>SpaceXAI shipped <a href="https://x.ai/changelog/bot#v1.2.0">Grok Bot 1.2.0</a> on Nov 16, headlined by a flight-results redesign: pick a flight to see full details and book, or expand it for bags, changes and refund rules, with fares checked from more sources. When no flights match your filters, the Bot now shows the closest options and says which filters it relaxed.</p><p>Hotel pages gain a full-size photo viewer, review scores, maps you can drag and zoom, and copy-address. Also new: Google phone checks show a verification card with a QR code, team admins can switch off Proactive messages, and SSO connectors sign in through your organisation's login.</p>]]></description>
+</item>
 <item>
 <title>Meta's Muse launches in Australia with local connectors</title>
 <link>https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/amp/</link>
@@ -579,13 +588,6 @@
       <description><![CDATA[<img src="https://pbs.twimg.com/media/HVu_noLXIAE5Nsp.jpg" alt=""/><p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2116183696344830235">posted on Friday</a>: "if this isn't personal superintelligence i don't know what is." The post drew about 186,000 views.</p>
 <p>He was quoting <a href="https://x.com/MistrDeplorable/status/2115495145437093938">a user, @MistrDeplorable</a>, who says Muse moved him from a $2,123 GEICO renewal to a $1,536 Progressive policy with better coverage, then phoned GEICO to cancel and merged him into the call when GEICO asked to speak with him. Those savings figures are the user's own claim and haven't been independently checked.</p>
 <p>Wang has been promoting user stories like this one since saying Muse "can make you $1,000." A separate viral story this week, about a user who says Muse filed a small-claims case that ended in a refund, is also circulating on X.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI keeps extended dots limits for now, separate from your plan usage, as it doubles Pro and Business Premium limits</title>
-      <link>https://x.com/thsottiaux/status/2115850175868727621</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-29-dots-extended-limits-continue</guid>
-      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
-      <description><![CDATA[<p>OpenAI's Tibo Sottiaux <a href="https://x.com/thsottiaux/status/2115850175868727621">said on Thursday</a> that OpenAI will "continue offering extended limits for dots for now," and that dot usage will stay separate from your default ChatGPT usage. Dots launched with extended limits for the first month only, so the permanent per-plan dots terms people expected around today still haven't been published.</p><p>In the same post, OpenAI doubled all usage limits for the Pro 100, 200 and 500 tiers and Business Premium, effective immediately, and dropped the planned cut to Pro 200's Work and Codex allowance. <a href="https://x.com/ajambrosino/status/2115855769665147254">Andrew Ambrosino</a> added that OpenAI started a sprint to make the app simpler and faster. <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/">BleepingComputer</a> notes OpenAI still gives no exact numbers per tier.</p><p>The <a href="https://help.openai.com/en/articles/20001530-getting-started-with-dots">dots help page</a> still says Pro access excludes the EEA, Switzerland and the UK, and that prices for extra dots or more speed are coming later.</p>]]></description>
     </item>
 </channel>
 </rss>
