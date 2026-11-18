@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:10:28 GMT</lastBuildDate>
+<item>
+<title>Google begins rolling out Tasks, its personal AI assistant, in India</title>
+<link>https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-17-google-tasks-india</guid>
+<pubDate>Tue, 17 Nov 2026 23:31:37 GMT</pubDate>
+<enclosure url="https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/google-tasks-social-1-1.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/google-tasks-social-1-1.png" alt=""/></p>
+<p>Google has begun rolling out <a href="https://inc42.com/buzz/google-begins-rolling-out-personal-ai-assistant-tasks-in-india/">Tasks</a>, its agentic personal assistant formerly known as Gemini Spark, to users in India. It takes on delegated work including making calls, booking appointments, comparing products, making payments and completing purchases.</p><p>The rollout is free with Google's new Gemini 4 Hydrogen model, reaching hundreds of millions of people across the US, Japan, Korea, Canada, Australia and India, per Google Labs VP Josh Woodward. Tasks was first tested with select users in May as Gemini Spark.</p>]]></description>
+</item>
 <item>
 <title>SpaceXAI reportedly cuts ~60 from Grok Imagine team to focus on coding tools and Grok Bot</title>
 <link>https://www.bottlerocketcontent.com/spacex-grok-imagine-layoffs-60-staff-video-team-ai-focus-shift/</link>
@@ -576,13 +585,6 @@
       <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
       <enclosure url="https://x.ai/api/og?slug=/startups" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://x.ai/api/og?slug=/startups" alt=""/><p>SpaceXSI has a new <a href="https://x.ai/startups">Grok for Startups</a> program. It gives startups credits that work across Grok, Grok Build, Grok Bot and the Grok API from one balance, plus hands-on onboarding.</p><ul><li>Credits are sized to your stage, and SpaceXSI says it aims for "six to twelve months of real usage." No dollar amount is published.</li><li>You get 20% when you're approved, and the other 80% is released once you're up and running.</li><li>To qualify you need venture backing, a live product, and a company email that matches your website. You <a href="https://x.ai/startups/apply">apply here</a> with an xAI team ID.</li></ul><p>The page went up around Oct 25, and posts about it spread widely on X on Thursday.</p>]]></description>
-    </item>
-<item>
-      <title>Similarweb: Grok Bot daily users grew 16 days in a row, and Musk points out it has no free tier</title>
-      <link>https://x.com/Similarweb/status/2115724259691471150</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-29-grok-bot-similarweb-dau-streak</guid>
-      <pubDate>Fri, 30 Oct 2026 00:14:05 GMT</pubDate>
-      <description><![CDATA[<p><a href="https://x.com/Similarweb/status/2115724259691471150">Similarweb posted</a> that as of October 26, Grok Bot's daily active users had grown for 16 days in a row, its longest growth streak so far.</p><p>Elon Musk <a href="https://x.com/elonmusk/status/2115921600658735169">quoted a post</a> about the chart and added that Grok Bot "has no free tier." That post, from <a href="https://x.com/XFreeze/status/2115779686697697557">@XFreeze</a>, reads the chart as going from under 100,000 daily users in early September to over 600,000 by October 26. That figure is a fan's reading of the chart, not a number Similarweb or SpaceXSI stated.</p>]]></description>
     </item>
 </channel>
 </rss>
