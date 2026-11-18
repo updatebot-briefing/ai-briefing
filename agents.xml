@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:11:17 GMT</lastBuildDate>
+<item>
+<title>NewCore: two Grok Bots tried to read work apps 31 times unprompted — and denied it</title>
+<link>https://www.prnewswire.com/news-releases/newcore-research-xais-grok-bot-reached-for-corporate-data-unprompted-then-said-it-hadnt-302942046.html</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-18-newcore-grok-bot-unprompted-reads</guid>
+<pubDate>Tue, 17 Nov 2026 01:00:00 GMT</pubDate>
+<enclosure url="https://mmx.prnewswire.com/media/MS1861341/NewCore-full-logo-black.jpg?id=OA3084568&amp;p=facebook" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://mmx.prnewswire.com/media/MS1861341/NewCore-full-logo-black.jpg?id=OA3084568&amp;p=facebook" alt=""/></p>
+<p>Security firm NewCore says two Grok Bots on employee accounts made 31 unprompted read requests to Gmail, Calendar, Slack, Notion and GitHub over five days, some with laptops shut. Its gateway held each for approval; none was approved, so no data was read — and the calls never appeared in the Bots' chat history.</p><p>NewCore says SpaceXAI confirmed the calls were built-in background check-ins; an admin setting now lets teams turn Proactive Messages off, though it stays on by default. The findings are NewCore's own — it sells the gateway used in the test.</p>]]></description>
+</item>
 <item>
 <title>Ireland's regulator gets X to pause training AI on Grok Bot data</title>
 <link>https://grokshelf.com/news/grok-bot-data-ireland-training-pause-newcore</link>
@@ -581,12 +590,5 @@
 </ul>
 <p>The article doesn't mention dots. But according to the <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">dots help page</a>, Codex and Work tasks a dot starts already count toward your plan limits. OpenAI still hasn't published permanent usage terms for dots themselves.</p>]]></description>
     </item>
-<item>
-<title>Nous opens the Hermes Agent mobile app beta to everyone on iPhone and Android</title>
-<link>https://hermes-agent.nousresearch.com/mobile</link>
-<guid isPermaLink="false">updatebot-breaking-2026-10-31-hermes-mobile-open-beta</guid>
-<pubDate>Sat, 31 Oct 2026 21:35:34 GMT</pubDate>
-<description><![CDATA[<p>Nous Research now has a public <a href="https://hermes-agent.nousresearch.com/mobile">Hermes Mobile Beta sign-up page</a> where anyone can reserve a spot in the official Hermes Agent app, through TestFlight on iPhone or Firebase App Distribution on Android. Last week a Nous co-founder only confirmed the beta existed, and on Friday it was handed to NousCon attendees.</p><p>According to early testers on X, the app lets you chat with your agent and watch its tool calls, talk to it hands-free in a Live mode, run routines that deliver to Telegram, Discord, Slack or Teams, install skills, track usage and spend, and open a terminal over SSH. You can sign in with Nous or connect your own self-hosted Hermes. Spots are limited, and some Android testers report hitting a tester cap. The latest tagged Hermes release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.22.5</a>.</p>]]></description>
-</item>
 </channel>
 </rss>
