@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:09:20 GMT</lastBuildDate>
             
     
     
@@ -38,7 +38,17 @@
     
     
     
+    
     <item>
+      <title>Isomorphic Labs raises $5B Series C, biotech's biggest venture round</title>
+      <link>https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-isomorphic-5b-series-c</guid>
+      <pubDate>Tue, 17 Nov 2026 14:50:00 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800" alt=""/></p>
+<p>Isomorphic Labs raised $5 billion in a Series C co-led by Greenoaks and Sequoia Capital, the largest venture round in biotech history, six months after a $2.1 billion Series B.</p><p>The Alphabet-backed drug-discovery company, led by Demis Hassabis, will use the money to push its IsoDDE drug-design engine and its first drug candidates toward clinical trials. No valuation was disclosed; Bloomberg had reported talks at about $50 billion.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI signs four outside groups for embedded safety assessments</title>
       <link>https://www.unite.ai/openai-signs-four-independent-assessors-for-embedded-safety-reviews/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-16-openai-embedded-assessors</guid>
@@ -639,20 +649,6 @@
       <enclosure url="https://www.tencent.com/wp-content/uploads/2026/11/H4-thumbnail-e1793777947684.jpg" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-04-tencent-hy4</guid>
       <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
-    </item>
-<item>
-      <title>EU court adviser says AI chatbot answers can infringe publishers' rights, while training is generally lawful</title>
-      <link>https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf</link>
-      <description><![CDATA[<p><img src="https://courthousenews.com/wp-content/uploads/2026/11/gemini-google.jpg" alt="" /></p>
-<p>On November 3, Advocate General Maciej Szpunar gave his non-binding opinion in <em>Like Company v Google</em> (C-250/25), the first generative-AI copyright case before the EU Court of Justice (<a href="https://curia.europa.eu/site/upload/docs/application/pdf/2026-11/cp260155en.pdf">CJEU press release</a>).</p>
-<ul>
-<li>He advised the court to treat the questions about LLM training as hypothetical, but said that, as a rule, training is covered by the EU text-and-data-mining exception.</li>
-<li>He said a chatbot like Gemini that retrieves a press article in real time and reuses it in an answer can infringe the publisher's right if it got the article by getting around paywalls or bot barriers, or if the answer reproduces the article's wording so recognisably that users no longer need the original (<a href="https://www.courthousenews.com/eu-legal-adviser-finds-limited-uses-of-google-ai-could-run-afoul-of-publishers-rights/">Courthouse News</a>, <a href="https://legalblogs.wolterskluwer.com/copyright-blog/first-reflections-on-ag-szpunars-opinion-in-like-company/">Kluwer Copyright Blog</a>).</li>
-</ul>
-<p>Why it matters: the court usually follows its advocates general, so this points Europe toward a rule where training is mostly safe but live retrieval and answer generation is where AI companies carry copyright risk. The court's final judgment is still to come.</p>]]></description>
-      <enclosure url="https://courthousenews.com/wp-content/uploads/2026/11/gemini-google.jpg" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-03-eu-ag-gemini-press-publishers</guid>
-      <pubDate>Wed, 04 Nov 2026 01:12:37 GMT</pubDate>
     </item>
 </channel>
 </rss>
