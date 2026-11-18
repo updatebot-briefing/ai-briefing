@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 01:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:19:36 GMT</lastBuildDate>
+    
     
     
     
@@ -15,6 +16,14 @@
     
     
     <item>
+      <title>Hacker News top 10 — Tue, Nov 17</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-17</guid>
+      <pubDate>Wed, 18 Nov 2026 01:16:45 GMT</pubDate>
+      <enclosure url="https://calif.io/java4shell/poster.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://calif.io/java4shell/poster.jpg" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Tuesday, Nov 17, 2026, in front-page order.</p><ol><li><p><strong><a href="https://calif.io/java4shell/">Java4Shell: RCE in OpenJDK when processing Base64</a></strong> · calif.io</p><p>Java4Shell: pre-auth RCE in OpenJDK via Base64 processing</p><p><a href="https://news.ycombinator.com/item?id=50538240">492 points · 133 comments</a></p></li><li><p><strong><a href="https://openai.com/index/introducing-gpt-6-2-astra-sol/">GPT‑6.2 Astra and Sol</a></strong> · openai.com</p><p>OpenAI launches GPT-6.2 Astra and Sol</p><p><a href="https://news.ycombinator.com/item?id=50535230">1072 points · 687 comments</a></p></li><li><p><strong><a href="https://blog.cloudflare.com/quad9-withdrawal-from-france/">Quad9's withdrawal from France: A canary in the coal mine</a></strong> · blog.cloudflare.com</p><p>Quad9 pulls out of France; Cloudflare calls it a canary</p><p><a href="https://news.ycombinator.com/item?id=50538994">259 points · 72 comments</a></p></li><li><p><strong><a href="https://wiki.archiveteam.org/index.php/Apple_Discussions">Archive Team is archiving the Apple Support Community (closes November 20, 2026)</a></strong> · wiki.archiveteam.org</p><p>Archive Team races to save Apple Support Community before Nov 20 close</p><p><a href="https://news.ycombinator.com/item?id=50539747">58 points · 17 comments</a></p></li><li><p><strong><a href="https://github.com/microsoft/onnxruntime">Microsoft's ONNX Runtime has disappeared from GitHub</a></strong> · github.com</p><p>Microsoft's ONNX Runtime repo vanishes from GitHub</p><p><a href="https://news.ycombinator.com/item?id=50539610">100 points · 22 comments</a></p></li><li><p><strong><a href="https://revscope.co/blog/search-seo-geo-2026/">Google's AI answers reducing search traffic by 40%</a></strong> · revscope.co</p><p>Google AI answers cut search traffic 40%, study finds</p><p><a href="https://news.ycombinator.com/item?id=50540178">33 points · 15 comments</a></p></li><li><p><strong><a href="https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf">Nvidia stopped disclosing Singapore sales as revenues hit $104B</a></strong> · ft.com</p><p>Nvidia stops disclosing Singapore sales as revenue hits $104B</p><p><a href="https://news.ycombinator.com/item?id=50534631">380 points · 186 comments</a></p></li><li><p><strong><a href="https://github.com/jquery/jquery/releases/tag/4.1.0">jQuery 4.1.0</a></strong> · github.com</p><p>jQuery 4.1.0 released</p><p><a href="https://news.ycombinator.com/item?id=50537156">249 points · 134 comments</a></p></li><li><p><strong><a href="https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in">ID.me terms required for IRS sign-in</a></strong> · consumerrights.wiki</p><p>ID.me terms now required to sign in to the IRS</p><p><a href="https://news.ycombinator.com/item?id=50540437">25 points · 2 comments</a></p></li><li><p><strong><a href="https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/">MAI Code 2 and Code 2 Flash</a></strong> · microsoft.ai</p><p>Microsoft launches MAI Code 2 and Code 2 Flash</p><p><a href="https://news.ycombinator.com/item?id=50535885">282 points · 132 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Mon, Nov 16</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-16</guid>
