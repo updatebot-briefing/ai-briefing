@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:08:34 GMT</lastBuildDate>
+<item>
+<title>Grok Bot gets voice mode for real-time conversations on desktop and mobile</title>
+<link>https://turbo.gadgets360.com/en/ai/grok-bot-voice-mode-begins-rolling-out-to-desktop-and-mobile-users-12064283</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-18-grok-bot-voice-mode</guid>
+<pubDate>Wed, 18 Nov 2026 01:00:00 GMT</pubDate>
+<enclosure url="https://i.gadgets360cdn.com/large/grok_bot_xai_1789727375858.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://i.gadgets360cdn.com/large/grok_bot_xai_1789727375858.jpg" alt=""/></p>
+<p>Grok Bot is adding spoken, real-time conversations, rolling out across desktop, iOS and Android, with access arriving at different times per platform. The feature runs on Grok Voice Think Fast 2.0, which SpaceXAI says beats its previous voice system on transcription accuracy.</p><p>The same voice tech is also available to developers through fal for building low-latency voice agents.</p>]]></description>
+</item>
 <item>
 <title>A man and his Muse agent sue Meta after his Facebook pages were shut down</title>
 <link>https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/</link>
@@ -578,15 +587,6 @@
       <enclosure url="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured.webp" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured.webp" alt=""/><p>NVIDIA's <a href="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/">Oct 30 technical blog post</a> says its open-source NemoClaw blueprints currently support three agent harnesses: OpenClaw, Hermes Agent from Nous Research, and LangChain Deep Agents. A blueprint wraps the agent with Nemotron open models, NeMo optimization tools, and NVIDIA's OpenShell runtime, which controls what the agent can touch in files, networks, credentials, and tools.</p>
 <p>There's a dedicated <a href="https://build.nvidia.com/nvidia/nemoclaw-for-hermes-agent/architecture">NemoClaw for Hermes Agent blueprint page</a>, and the <a href="https://docs.nvidia.com/nemoclaw/user-guide/hermes/get-started/quickstart">Hermes quickstart</a> sets it up with one installer command (<code>NEMOCLAW_AGENT=hermes</code>) or <code>nemohermes onboard</code>. NVIDIA says it blocks outbound network access by default and runs locally, in the cloud, on DGX Spark, or on RTX PCs.</p>]]></description>
-    </item>
-<item>
-      <title><![CDATA[OpenAI dots had elevated search errors for about 1.5 hours on Friday afternoon]]></title>
-      <link>https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-30-dots-search-errors</guid>
-      <pubDate>Sat, 31 Oct 2026 00:14:31 GMT</pubDate>
-      <enclosure url="https://status.openai.com/og-image.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://status.openai.com/og-image.png" alt=""/><p>OpenAI's status page <a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">logged elevated errors with search</a> in dots, ChatGPT Work, and some ChatGPT thinking experiences on Friday, Oct 30. OpenAI started investigating at 12:38pm PT and marked it resolved at 2:14pm PT.</p>
-<p>OpenAI rated it a minor incident and didn't give a cause.</p>]]></description>
     </item>
 </channel>
 </rss>
