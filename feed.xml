@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:02:42 GMT</lastBuildDate>
             
     
     
@@ -43,7 +43,15 @@
     
     
     
+    
     <item>
+      <title>GAO: ChatGPT, Claude, Gemini and Grok all produced viable attack plans within 12 hours</title>
+      <link>https://apnews.com/article/ai-terrorism-risks-anthropic-grok-gemini-claude-fd36b9004c00259aa2f7b871a61aeb8c</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-18-gao-chatbots-attack-plans</guid>
+      <pubDate>Wed, 18 Nov 2026 17:34:00 GMT</pubDate>
+      <description><![CDATA[<p>The U.S. <a href="https://apnews.com/article/ai-terrorism-risks-anthropic-grok-gemini-claude-fd36b9004c00259aa2f7b871a61aeb8c">Government Accountability Office</a> said covert testing got ChatGPT, Claude, Gemini and Grok to produce viable plans for mass-casualty bombings or attacks on the power grid, each within 12 hours. Two platforms produced bomb plans; two produced grid-attack plans using drones or firearms.</p><p>The GAO withheld which platform produced which plan and the prompts used. Sen. Maggie Hassan, incoming chair of the Senate Homeland Security Committee, said she will hold hearings on AI risks in January, calling the threat “no longer theoretical.”</p>]]></description>
+    </item>
+<item>
       <title>Google makes Gemini Tasks free in six countries, powered by Gemini 4 Hydrogen</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-google-gemini-tasks-free</guid>
@@ -616,21 +624,6 @@
       <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-breaking-2026-11-05-openai-gpt-6-cyber</guid>
       <pubDate>Thu, 05 Nov 2026 17:36:31 GMT</pubDate>
-    </item>
-<item>
-      <title>OpenAI launches ChatGPT Images 2.6 with GIFs, reference images, and faster API models</title>
-      <link>https://openai.com/index/introducing-images-2-6/</link>
-      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
-<p>On November 4, OpenAI launched <a href="https://openai.com/index/introducing-images-2-6/">ChatGPT Images 2.6</a> in ChatGPT, Codex, and the API, with native GIF generation, reusable reference images, and image generation it says is about 50% faster (<a href="https://x.com/OpenAI/status/2118124944928432327">announcement on X</a>).</p>
-<ul>
-<li>In ChatGPT, users can turn a prompt or uploaded photo into an animated GIF, adjust playback speed, and edit individual frames.</li>
-<li>The API adds <code>GPT-Image-2.6 Flare</code> (as little as about six seconds at low quality) and <code>GPT-Image-2.6 Sunburst</code> for higher-quality, more consistent edits, plus image markup and SVG export.</li>
-<li>OpenAI says people now create about 4 billion images per week across ChatGPT, Codex, and the API.</li>
-</ul>
-<p>Why it matters: it is a real capability jump in OpenAI's image stack—motion plus faster, more controllable editing—not a minor ChatGPT tweak.</p>]]></description>
-      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-04-openai-chatgpt-images-2-6</guid>
-      <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
