@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:09:08 GMT</lastBuildDate>
+<item>
+<title>Ireland's regulator gets X to pause training AI on Grok Bot data</title>
+<link>https://grokshelf.com/news/grok-bot-data-ireland-training-pause-newcore</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-18-ireland-grok-bot-training-pause</guid>
+<pubDate>Tue, 17 Nov 2026 01:00:00 GMT</pubDate>
+<enclosure url="https://grokshelf.com/news/grok-bot-data-ireland-training-pause-newcore/opengraph-image" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://grokshelf.com/news/grok-bot-data-ireland-training-pause-newcore/opengraph-image" alt=""/></p>
+<p>Ireland's Data Protection Commission says X has suspended using data collected by Grok Bot to train AI models, after the regulator raised “significant concerns”. Commissioner Dale Sunderland said X confirmed the suspension on Monday, Nov 16. Press reports say collection began in late October — X has not confirmed that date.</p><p>It is the second time the DPC has halted X's AI training: in 2024 it stopped Grok training on European users' public posts. X has made no public statement on this suspension.</p>]]></description>
+</item>
 <item>
 <title>Grok Bot gets voice mode for real-time conversations on desktop and mobile</title>
 <link>https://turbo.gadgets360.com/en/ai/grok-bot-voice-mode-begins-rolling-out-to-desktop-and-mobile-users-12064283</link>
@@ -579,14 +588,5 @@
 <pubDate>Sat, 31 Oct 2026 21:35:34 GMT</pubDate>
 <description><![CDATA[<p>Nous Research now has a public <a href="https://hermes-agent.nousresearch.com/mobile">Hermes Mobile Beta sign-up page</a> where anyone can reserve a spot in the official Hermes Agent app, through TestFlight on iPhone or Firebase App Distribution on Android. Last week a Nous co-founder only confirmed the beta existed, and on Friday it was handed to NousCon attendees.</p><p>According to early testers on X, the app lets you chat with your agent and watch its tool calls, talk to it hands-free in a Live mode, run routines that deliver to Telegram, Discord, Slack or Teams, install skills, track usage and spend, and open a terminal over SSH. You can sign in with Nous or connect your own self-hosted Hermes. Spots are limited, and some Android testers report hitting a tester cap. The latest tagged Hermes release is still <a href="https://github.com/NousResearch/hermes-agent/releases">v0.22.5</a>.</p>]]></description>
 </item>
-<item>
-      <title><![CDATA[NVIDIA's NemoClaw blueprints now officially support Hermes Agent, letting teams run it in a locked-down sandbox on their own hardware]]></title>
-      <link>https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-30-hermes-nvidia-nemoclaw-blueprint</guid>
-      <pubDate>Sat, 31 Oct 2026 00:14:31 GMT</pubDate>
-      <enclosure url="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured.webp" alt=""/><p>NVIDIA's <a href="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/">Oct 30 technical blog post</a> says its open-source NemoClaw blueprints currently support three agent harnesses: OpenClaw, Hermes Agent from Nous Research, and LangChain Deep Agents. A blueprint wraps the agent with Nemotron open models, NeMo optimization tools, and NVIDIA's OpenShell runtime, which controls what the agent can touch in files, networks, credentials, and tools.</p>
-<p>There's a dedicated <a href="https://build.nvidia.com/nvidia/nemoclaw-for-hermes-agent/architecture">NemoClaw for Hermes Agent blueprint page</a>, and the <a href="https://docs.nvidia.com/nemoclaw/user-guide/hermes/get-started/quickstart">Hermes quickstart</a> sets it up with one installer command (<code>NEMOCLAW_AGENT=hermes</code>) or <code>nemohermes onboard</code>. NVIDIA says it blocks outbound network access by default and runs locally, in the cloud, on DGX Spark, or on RTX PCs.</p>]]></description>
-    </item>
 </channel>
 </rss>
