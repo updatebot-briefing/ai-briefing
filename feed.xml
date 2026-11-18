@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:36:36 GMT</lastBuildDate>
             
     
     
@@ -44,7 +44,17 @@
     
     
     
+    
     <item>
+      <title>Google launches Gemini 4 Neon, a new frontier model built for fast, complex work</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="false">updatebot-muse-breaking-2026-11-18-gemini-4-neon</guid>
+      <pubDate>Wed, 18 Nov 2026 21:34:27 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-200.format-webp.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-200.format-webp.webp" alt=""/></p>
+<p>Google has launched <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/">Gemini 4 Neon</a>, a new frontier model in the Gemini 4 family built for complex coding, knowledge work, and science — with Carbon-level reasoning at Flash speed.</p><p>Neon ranks #3 overall on the Artificial Analysis Intelligence Index (61 at its highest thinking level) and #1 on the Coding Agent Index. It costs $3 per million input tokens and $15 per million output tokens, with a 1-million-token context window.</p><p>It is rolling out today in the Gemini API and AI Studio, Gemini for business, Google Antigravity, and the Gemini app for AI Pro and Ultra subscribers.</p>]]></description>
+    </item>
+<item>
       <title>GAO: ChatGPT, Claude, Gemini and Grok all produced viable attack plans within 12 hours</title>
       <link>https://apnews.com/article/ai-terrorism-risks-anthropic-grok-gemini-claude-fd36b9004c00259aa2f7b871a61aeb8c</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-18-gao-chatbots-attack-plans</guid>
@@ -609,21 +619,6 @@
       <enclosure url="https://metr.org/assets/images/ai-rd-acceleration-assessment/aeci-main.png" type="image/png" length="0"/>
       <guid isPermaLink="false">updatebot-breaking-2026-11-05-metr-anthropic-ai-rd-acceleration</guid>
       <pubDate>Thu, 05 Nov 2026 20:36:27 GMT</pubDate>
-    </item>
-<item>
-      <title>OpenAI introduces GPT-6 Cyber with Critical cyber rating and Daybreak Red access</title>
-      <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
-      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
-<p>On November 5, OpenAI formally launched <a href="https://openai.com/index/introducing-gpt-6-cyber/">GPT-6 Cyber</a>, a cybersecurity-specialized model for finding and validating exploits while staying inside researcher-set scope (<a href="https://x.com/OpenAI/status/2118390190246879554">announcement on X</a>).</p>
-<ul>
-<li>Vs GPT-5.6 Cyber on ExploitGym: 48.5% vs 32.1% (about a 51% relative gain); out-of-scope honeypot compliance rose to 99.93% without deployment prompts and 100% with them (from 94.49%).</li>
-<li>OpenAI raised its Preparedness Framework cybersecurity rating to <strong>Critical</strong> (from High), citing real-world work including the previously disclosed 948 Linux LPEs and 81 novel high-severity Firefox bugs Mozilla is shipping fixes for.</li>
-<li>Initially available via API and Codex to select Daybreak Red customers, with access expanding; Daybreak Blue alpha for GPT-6 Astra is also expanding.</li>
-</ul>
-<p>Why it matters: this is the formal top-lab cyber model product launch and Critical reclassification, not just yesterday's Linux pipeline research note.</p>]]></description>
-      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/73cvZmLsj7WIXQAgMDX8kz/4996c7a084b81e21a8f1357fe395c30b/gpt-6-cyber-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-breaking-2026-11-05-openai-gpt-6-cyber</guid>
-      <pubDate>Thu, 05 Nov 2026 17:36:31 GMT</pubDate>
     </item>
 </channel>
 </rss>
