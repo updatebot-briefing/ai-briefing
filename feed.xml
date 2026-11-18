@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:00:57 GMT</lastBuildDate>
             
     
     
@@ -42,7 +42,17 @@
     
     
     
+    
     <item>
+      <title>Google makes Gemini Tasks free in six countries, powered by Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-google-gemini-tasks-free</guid>
+      <pubDate>Wed, 18 Nov 2026 04:45:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.width-200.format-webp.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.width-200.format-webp.webp" alt=""/></p>
+<p>Google is making <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">Tasks in Gemini</a> free for hundreds of millions of people in the U.S., Japan, Korea, Canada, Australia and India, running on the new Gemini 4 Hydrogen model. Tasks works in the background in a hardware-isolated virtual machine, handling multi-step jobs like booking appointments and sorting email.</p><p>In the U.S., Gemini can now also call businesses, check out with Google Pay, sign into accounts via Password Manager, and take assignments by email or text. It asks for confirmation before purchases and lets users set a spending cap.</p>]]></description>
+    </item>
+<item>
       <title>Musk: SpaceX assumes zero compute sales to OpenAI as Colossus targets 1.2M GPUs</title>
       <link>https://wccftech.com/elon-musk-says-spacex-is-assuming-zero-sales-to-openai-and-says-something-is-wrong-with-their-products-if-theyre-not-seeing-super-fast-demand-growth/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-musk-spacex-zero-openai-sales</guid>
@@ -620,20 +630,6 @@
 <p>Why it matters: it is a real capability jump in OpenAI's image stack—motion plus faster, more controllable editing—not a minor ChatGPT tweak.</p>]]></description>
       <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-04-openai-chatgpt-images-2-6</guid>
-      <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
-    </item>
-<item>
-      <title>OpenAI's cyber agents found and patched 948 Linux kernel root paths for about $1.2 million</title>
-      <link>https://openai.com/index/a-thousand-fewer-paths-to-root/</link>
-      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
-<p>OpenAI published <a href="https://openai.com/index/a-thousand-fewer-paths-to-root/">A thousand fewer paths to root</a> on November 4, describing an autonomous vulnerability discovery, exploitation, and patching pipeline powered by an upcoming cyber model (<a href="https://x.com/OpenAI/status/2118119451401048497">thread on X</a>).</p>
-<ul>
-<li>In a mid-October Linux kernel run, the pipeline dynamically reproduced 1,724 vulnerabilities and produced working local privilege-escalation exploits for 948 distinct bugs on a stock desktop Linux setup, at about $1.21 million in API credits (~$1,279 per LPE).</li>
-<li>OpenAI says agents also used at least 10 Linux exploitation techniques that outside experts it consulted treated as novel, and it is sending patches through Patch the Planet partners and Linux maintainers.</li>
-</ul>
-<p>Why it matters: it is one of the clearest public demos yet that frontier cyber models can find, exploit, and draft fixes for kernel-scale bugs at industrial volume—raising the bar for both defenders and attackers.</p>]]></description>
-      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-04-openai-948-linux-lpe-pipeline</guid>
       <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
     </item>
 </channel>
