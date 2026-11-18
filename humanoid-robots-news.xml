@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:18:43 GMT</lastBuildDate>
 
     
     
@@ -25,7 +25,17 @@
     
     
     
+    
     <item>
+      <title>Hyundai takes full ownership of Boston Dynamics</title>
+      <link>https://www.theinvestor.co.kr/article/10940058</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-hyundai-boston-dynamics-full-ownership</guid>
+      <pubDate>Tue, 17 Nov 2026 06:40:49 GMT</pubDate>
+      <enclosure url="https://wimg.heraldcorp.com/news/cms/2026/11/17/news-p.v1.20261117.ae490d294bcf4aaa824a71b763413a3d_P1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://wimg.heraldcorp.com/news/cms/2026/11/17/news-p.v1.20261117.ae490d294bcf4aaa824a71b763413a3d_P1.jpg" alt="" /></p>
+<p>Hyundai Motor Group has taken full ownership of Boston Dynamics, according to a third-quarter filing by Hyundai Glovis cited Nov. 17, completing the buyout of SoftBank's remaining 9.65% stake after SoftBank triggered a put option in July.</p><p>Hyundai says the consolidation speeds up its push to commercialize Atlas, targeting annual production capacity of 30,000 units by 2028, with the first robots going to its Metaplant America EV factory in Georgia.</p><p>Boston Dynamics' revenue rose 29% year on year in the first nine months, though its net loss widened to 626.6 billion won on heavy R&amp;D spending.</p>]]></description>
+    </item>
+<item>
       <title>Boston Dynamics and GlobalFoundries take Atlas humanoids into semiconductor fabs</title>
       <link>https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-boston-dynamics-globalfoundries-atlas</guid>
@@ -744,21 +754,6 @@
 <li>The company claims 99%+ accuracy on production-line tasks and targets a full humanoid deployment in under an hour (company claims, not independently verified).</li>
 </ul>
 <p>Initial deployments are underway with automotive manufacturers and paper maker WEPA. <a href="https://sifted.eu/articles/french-robotics-startup-industrial-humanoids-20-minutes-of-training">Sifted</a> has more on the approach.</p>]]></description>
-    </item>
-<item>
-      <title>Rokae delivers its 10,000th humanoid force-controlled arm; five Helios wheeled humanoids work at Schaeffler's Taicang plant</title>
-      <link>https://theaiinsider.tech/2026/10/29/chinas-rokae-robotics-announces-delivery-of-its-10000th-humanoid-force-controlled-arm/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-rokae-10000th-humanoid-arm-schaeffler</guid>
-      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
-      <enclosure url="https://theaiinsider.tech/wp-content/uploads/2026/10/Rokae-Schaeffler-crpd.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://theaiinsider.tech/wp-content/uploads/2026/10/Rokae-Schaeffler-crpd.jpg" alt=""/></p>
-<p>Chinese robot maker Rokae says its 10,000th humanoid force-controlled arm came off its Shandong line in September, with more than 80 industrial partners using the arms in production, per <a href="https://theaiinsider.tech/2026/10/29/chinas-rokae-robotics-announces-delivery-of-its-10000th-humanoid-force-controlled-arm/">The AI Insider</a>.</p>
-<ul>
-<li>The count covers only its humanoid arms, not its industrial or collaborative robots.</li>
-<li>Five Rokae Helios wheeled humanoids fitted with AR Series arms are handling parts, assembly and inspection on a humanoid-component assembly line at Schaeffler's lighthouse factory in Taicang.</li>
-<li>Each AR arm has seven force-controlled joints, and Rokae's MAC controller can run single-arm, dual-arm or 20-plus-joint humanoid setups.</li>
-</ul>
-<p>It's a sign of the component supply chain behind humanoids scaling quickly in China.</p>]]></description>
     </item>
 </channel>
 </rss>
