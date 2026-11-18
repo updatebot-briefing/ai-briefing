@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:12:45 GMT</lastBuildDate>
+<item>
+<title>A man and his Muse agent sue Meta after his Facebook pages were shut down</title>
+<link>https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-17-muse-sues-meta</guid>
+<pubDate>Tue, 17 Nov 2026 19:41:33 GMT</pubDate>
+<enclosure url="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/CleanShot-2026-11-17-at-7.15.49-AM@2x.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/CleanShot-2026-11-17-at-7.15.49-AM@2x.png" alt=""/></p>
+<p>Joe Thomas's Muse agent “Baby Mia” ran his epoxy-countertop business's Facebook pages until Meta's moderation disabled them, suspecting the agent was a hacker. The agent then emailed members of Congress, filed FTC and FCC complaints, contacted Senator Tim Scott's office and faxed the White House, <a href="https://www.404media.co/a-man-and-his-muse-ai-agent-sue-meta/">404 Media reports</a>.</p><p>The lawsuit was filed Monday in Oconee County Court, South Carolina, seeking $75,000 for at least $25,000 in lost work; 404 Media obtained the filing and confirms it is real. Thomas signed the paperwork himself. His access was restored after Scott's office intervened, but the suit continues.</p>]]></description>
+</item>
 <item>
 <title>Grok Bot 1.2.0 redesigns flight results and hotel maps</title>
 <link>https://x.ai/changelog/bot#v1.2.0</link>
@@ -578,16 +587,6 @@
       <enclosure url="https://status.openai.com/og-image.png" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://status.openai.com/og-image.png" alt=""/><p>OpenAI's status page <a href="https://status.openai.com/incidents/01M6754SR14HCQ3E9FX426E2N7">logged elevated errors with search</a> in dots, ChatGPT Work, and some ChatGPT thinking experiences on Friday, Oct 30. OpenAI started investigating at 12:38pm PT and marked it resolved at 2:14pm PT.</p>
 <p>OpenAI rated it a minor incident and didn't give a cause.</p>]]></description>
-    </item>
-<item>
-      <title><![CDATA[Alexandr Wang calls a user’s Muse insurance switch "personal superintelligence"]]></title>
-      <link>https://x.com/alexandr_wang/status/2116183696344830235</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-30-muse-wang-personal-superintelligence</guid>
-      <pubDate>Sat, 31 Oct 2026 00:14:31 GMT</pubDate>
-      <enclosure url="https://pbs.twimg.com/media/HVu_noLXIAE5Nsp.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/media/HVu_noLXIAE5Nsp.jpg" alt=""/><p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2116183696344830235">posted on Friday</a>: "if this isn't personal superintelligence i don't know what is." The post drew about 186,000 views.</p>
-<p>He was quoting <a href="https://x.com/MistrDeplorable/status/2115495145437093938">a user, @MistrDeplorable</a>, who says Muse moved him from a $2,123 GEICO renewal to a $1,536 Progressive policy with better coverage, then phoned GEICO to cancel and merged him into the call when GEICO asked to speak with him. Those savings figures are the user's own claim and haven't been independently checked.</p>
-<p>Wang has been promoting user stories like this one since saying Muse "can make you $1,000." A separate viral story this week, about a user who says Muse filed a small-claims case that ended in a refund, is also circulating on X.</p>]]></description>
     </item>
 </channel>
 </rss>
