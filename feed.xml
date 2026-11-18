@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:09:53 GMT</lastBuildDate>
             
     
     
@@ -39,7 +39,15 @@
     
     
     
+    
     <item>
+      <title>Nvidia revenue doubles to $115.8B in first report since Huang's exit</title>
+      <link>https://www.morningstar.com/news/globe-newswire/9879852/nvidia-announces-financial-results-for-third-quarter-fiscal-2027</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-nvidia-q3-earnings-115b</guid>
+      <pubDate>Tue, 17 Nov 2026 21:20:00 GMT</pubDate>
+      <description><![CDATA[<p>Nvidia reported fiscal Q3 revenue of $115.8 billion, up 103% from a year ago, in its first results since Jensen Huang resigned as CEO. Data center revenue hit $107.6 billion, and Vera Rubin shipped in what Nvidia calls its fastest product ramp ever.</p><p>Interim CEO Colette Kress guided Q4 revenue to about $130 billion. The same day, the Wall Street Journal reported the SEC has opened a civil probe into Nvidia's disclosures, and the release also disclosed an agreement to acquire Hugging Face.</p>]]></description>
+    </item>
+<item>
       <title>Isomorphic Labs raises $5B Series C, biotech's biggest venture round</title>
       <link>https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-isomorphic-5b-series-c</guid>
@@ -634,20 +642,6 @@
 <p>Why it matters: same day as Meta's Conductor deal, OpenAI is buying the source-control layer around agent-written code—another bid to own the developer toolchain, not just the model.</p>]]></description>
       <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5lDkYRSw86lFyHulgkyVVr/5b20bd6b90c3d87c33b780884b48123a/openai-to-acquire-pierre-computer-company-inc-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-04-openai-acquire-pierre</guid>
-      <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Tencent launches Hy4, an open-model push with vision and computer use</title>
-      <link>https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/</link>
-      <description><![CDATA[<p><img src="https://www.tencent.com/wp-content/uploads/2026/11/H4-thumbnail-e1793777947684.jpg" alt="" /></p>
-<p>Tencent announced <a href="https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/">Hy4</a> on November 4, calling it its latest-generation large language model and saying it now ranks among the world's leading open-source AI systems, with model weights and system cards planned in the coming days.</p>
-<ul>
-<li>New capabilities vs the Hy4 preview include visual understanding, computer use on CLI and GUI (including training on tools like Blender and CAD), and stronger long-horizon agentic work.</li>
-<li>API pricing stays about $0.90 per million input tokens and $2.70 per million output tokens; Hy4 is live on Tencent Cloud TokenHub, WorkBuddy, CodeBuddy, and third-party routes such as OpenRouter and Hermes, with Hy4 Flash due soon.</li>
-</ul>
-<p>Why it matters: another major Chinese lab is shipping a frontier-class open model with vision and computer use, tightening the open-weight race with DeepSeek, Moonshot, and Alibaba.</p>]]></description>
-      <enclosure url="https://www.tencent.com/wp-content/uploads/2026/11/H4-thumbnail-e1793777947684.jpg" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-04-tencent-hy4</guid>
       <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
     </item>
 </channel>
