@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:00:22 GMT</lastBuildDate>
             
     
     
@@ -41,7 +41,17 @@
     
     
     
+    
     <item>
+      <title>Musk: SpaceX assumes zero compute sales to OpenAI as Colossus targets 1.2M GPUs</title>
+      <link>https://wccftech.com/elon-musk-says-spacex-is-assuming-zero-sales-to-openai-and-says-something-is-wrong-with-their-products-if-theyre-not-seeing-super-fast-demand-growth/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-musk-spacex-zero-openai-sales</guid>
+      <pubDate>Tue, 17 Nov 2026 14:07:00 GMT</pubDate>
+      <enclosure url="https://cdn.wccftech.com/wp-content/uploads/2026/08/Terafab-Elon-Musk-SpaceX-Tesla-1-728x410.jpeg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.wccftech.com/wp-content/uploads/2026/08/Terafab-Elon-Musk-SpaceX-Tesla-1-728x410.jpeg" alt=""/></p>
+<p>Elon Musk said on X that SpaceX is assuming zero sales of computing capacity to OpenAI, replying to Sam Altman's warning that chipmakers may be overcounting demand from OpenAI and Anthropic. Musk added that if OpenAI is not seeing demand rising fast, “something is wrong with their products.”</p><p>SpaceX's Colossus data centers, which already sell capacity to Google and Anthropic, plan to bring more than 1.2 million Nvidia GPUs online by the end of 2026.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic IPO likely to price above $70–$78 range, trading starts Nov 19</title>
       <link>https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-anthropic-ipo-above-range</guid>
@@ -624,20 +634,6 @@
 <p>Why it matters: it is one of the clearest public demos yet that frontier cyber models can find, exploit, and draft fixes for kernel-scale bugs at industrial volume—raising the bar for both defenders and attackers.</p>]]></description>
       <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/400PQ4WTCOvXwwvk1OMOHv/03970ddeafd22fdbc9832669deacc59c/a-thousand-fewer-paths-to-root-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-04-openai-948-linux-lpe-pipeline</guid>
-      <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Meta acquires Conductor, the multi-agent coding orchestration startup</title>
-      <link>https://www.conductor.build/announcement</link>
-      <description><![CDATA[<p><img src="https://www.conductor.build/farewell/og.png" alt="" /></p>
-<p>Meta has acquired <a href="https://www.conductor.build/announcement">Conductor</a>, the multi-agent coding orchestration startup, Conductor CEO Charlie Holtz said on November 4; Meta confirmed the deal to <a href="https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/">TechCrunch</a> (terms undisclosed; first reported by <a href="https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor">Axios</a>).</p>
-<ul>
-<li>Conductor lets developers run multiple coding agents in parallel across cloud, local, and phone workspaces, using third-party models rather than in-house ones.</li>
-<li>Conductor Cloud goes read-only on November 13 and shuts down November 20; local Conductor keeps getting model updates and critical fixes into early 2027, with something new promised for early next year.</li>
-</ul>
-<p>Why it matters: Meta is buying agent-orchestration UX to compete for developers alongside Muse Code, as labs race to own how teams manage fleets of coding agents.</p>]]></description>
-      <enclosure url="https://www.conductor.build/farewell/og.png" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-04-meta-acquires-conductor</guid>
       <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
     </item>
 </channel>
