@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 01:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:11:36 GMT</lastBuildDate>
             
     
     
@@ -40,7 +40,17 @@
     
     
     
+    
     <item>
+      <title>Anthropic IPO likely to price above $70–$78 range, trading starts Nov 19</title>
+      <link>https://nypost.com/2026/11/17/business/anthropic-will-likely-price-mammoth-ipo-above-current-range-report/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-anthropic-ipo-above-range</guid>
+      <pubDate>Tue, 17 Nov 2026 20:36:00 GMT</pubDate>
+      <enclosure url="https://nypost.com/wp-content/uploads/sites/2/2026/11/models-san-francisco-based-lab-149110550.jpg?quality=75&amp;strip=all&amp;w=1200" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://nypost.com/wp-content/uploads/sites/2/2026/11/models-san-francisco-based-lab-149110550.jpg?quality=75&amp;strip=all&amp;w=1200" alt=""/></p>
+<p>Anthropic is likely to price its IPO above the $70–$78 range set in its filings, multiple sources told CNBC's David Faber, with order books closing Tuesday afternoon and demand near seven times the shares on offer.</p><p>Final pricing is expected Nov 18, with trading on Nasdaq under the ticker ANT starting Nov 19. At the top of the filed range the offering would value Anthropic at roughly $1.4 trillion.</p>]]></description>
+    </item>
+<item>
       <title>Nvidia revenue doubles to $115.8B in first report since Huang's exit</title>
       <link>https://www.morningstar.com/news/globe-newswire/9879852/nvidia-announces-financial-results-for-third-quarter-fiscal-2027</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-17-nvidia-q3-earnings-115b</guid>
@@ -628,20 +638,6 @@
 <p>Why it matters: Meta is buying agent-orchestration UX to compete for developers alongside Muse Code, as labs race to own how teams manage fleets of coding agents.</p>]]></description>
       <enclosure url="https://www.conductor.build/farewell/og.png" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-04-meta-acquires-conductor</guid>
-      <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
-    </item>
-<item>
-      <title>OpenAI will acquire Pierre Computer to deepen Codex's Git and code-review stack</title>
-      <link>https://openai.com/index/openai-to-acquire-pierre/</link>
-      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/5lDkYRSw86lFyHulgkyVVr/5b20bd6b90c3d87c33b780884b48123a/openai-to-acquire-pierre-computer-company-inc-social.png?w=1600&amp;h=900&amp;fit=fill" alt="" /></p>
-<p>OpenAI said on November 4 it will <a href="https://openai.com/index/openai-to-acquire-pierre/">acquire Pierre Computer Company</a>, the team behind Code Storage and the Trees and Diffs libraries already used inside the Codex app (deal still needs customary approvals; terms undisclosed).</p>
-<ul>
-<li>Pierre builds Git-native code storage and high-performance review UI; OpenAI wants those workflows inside Codex as more engineering work is done by parallel agents.</li>
-<li>OpenAI says Pierre's open-source projects will stay open-source, and Code Storage customers can keep using the product after close while features move into Codex.</li>
-</ul>
-<p>Why it matters: same day as Meta's Conductor deal, OpenAI is buying the source-control layer around agent-written code—another bid to own the developer toolchain, not just the model.</p>]]></description>
-      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/5lDkYRSw86lFyHulgkyVVr/5b20bd6b90c3d87c33b780884b48123a/openai-to-acquire-pierre-computer-company-inc-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-04-openai-acquire-pierre</guid>
       <pubDate>Thu, 05 Nov 2026 01:07:00 GMT</pubDate>
     </item>
 </channel>
