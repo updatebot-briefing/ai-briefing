@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:16:42 GMT</lastBuildDate>
 
     
     
@@ -22,7 +22,17 @@
     
     
     
+    
     <item>
+      <title>Genesis AI raises $500M Series A to scale its Eno general-purpose robot</title>
+      <link>https://www.pymnts.com/news/investment-tracker/2026/genesis-ai-raises-500-million-to-scale-robots-with-human-like-dexterity/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-genesis-ai-500m-series-a</guid>
+      <pubDate>Tue, 17 Nov 2026 18:25:43 GMT</pubDate>
+      <enclosure url="https://www.pymnts.com/wp-content/uploads/2026/11/Genesis-robots.png?quality=82" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://www.pymnts.com/wp-content/uploads/2026/11/Genesis-robots.png?quality=82" alt="" /></p>
+<p>Genesis AI raised $500 million in a Series A round at a $3.5 billion post-money valuation, the company said Nov. 17. The round was co-led by Premji Invest, Khosla Ventures and Eclipse.</p><p>The Paris- and San Carlos-based company builds Eno, a wheeled general-purpose robot with two arms and dexterous hands. It says it has built 30-40 units now in pilots with unnamed customers, with mass production targeted for 2027.</p><p>The money will fund data collection, large-scale training and hiring as Genesis pushes Eno into manufacturing, logistics and lab work first.</p>]]></description>
+    </item>
+<item>
       <title>Tesla's 2027 Optimus plan: first customers get robots for repetitive, hazardous factory jobs</title>
       <link>https://interestingengineering.com/ai-robotics/what-could-teslas-optimus-humanoid-robot-actually-do-in-2027</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-14-tesla-optimus-2027-plan</guid>
