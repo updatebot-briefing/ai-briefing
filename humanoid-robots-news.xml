@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:18:05 GMT</lastBuildDate>
 
     
     
@@ -24,7 +24,17 @@
     
     
     
+    
     <item>
+      <title>Boston Dynamics and GlobalFoundries take Atlas humanoids into semiconductor fabs</title>
+      <link>https://bostondynamics.com/news/boston-dynamics-globalfoundries-expand-robotics-collaboration/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-boston-dynamics-globalfoundries-atlas</guid>
+      <pubDate>Tue, 17 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://bostondynamics.com/wp-content/uploads/2026/11/spot-globalfoundries-1024x683.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://bostondynamics.com/wp-content/uploads/2026/11/spot-globalfoundries-1024x683.jpg" alt="" /></p>
+<p>Boston Dynamics and GlobalFoundries said Nov. 17 they will expand their robotics collaboration across GF's semiconductor fabs, with Spot quadrupeds rolling out for autonomous inspection in Malta, New York; Burlington, Vermont; Dresden, Germany; and Singapore.</p><p>GF will also become the first customer outside the auto industry to test the Atlas humanoid under Boston Dynamics' early adopter program, with on-site trials starting in early 2027.</p><p>GF says two Spot robots in Singapore have run nearly 900 km and completed 90,000+ inspections since April at a 99% mission success rate — company figures.</p>]]></description>
+    </item>
+<item>
       <title>ROBOTERA humanoids now sort parcels at 11 China Post hubs across Guangdong</title>
       <link>https://www.prnewswire.co.uk/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941879.html</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-17-robotera-china-post-guangdong</guid>
@@ -749,20 +759,6 @@
 <li>Each AR arm has seven force-controlled joints, and Rokae's MAC controller can run single-arm, dual-arm or 20-plus-joint humanoid setups.</li>
 </ul>
 <p>It's a sign of the component supply chain behind humanoids scaling quickly in China.</p>]]></description>
-    </item>
-<item>
-      <title>Trump's Section 232 proclamation calls robot and machinery imports a security threat, citing humanoids, but imposes no tariffs yet</title>
-      <link>https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-us-section-232-robotics-proclamation</guid>
-      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
-      <enclosure url="https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://www.whitehouse.gov/wp-content/uploads/2025/03/WH47-Presidential-Actions-Social-Share-Card.jpg" alt=""/></p>
-<p>President Trump signed a <a href="https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/">proclamation</a> on Oct 28 agreeing with Commerce that imports of robotics, industrial machinery and their parts "threaten to impair the national security of the United States." The text specifically names humanoid and quadruped robots among the advanced robots that support the military.</p>
-<ul>
-<li><strong>No tariff yet:</strong> there's no duty rate, product list or effective date. Commerce and the U.S. Trade Representative are told to negotiate agreements with trading partners instead (<a href="https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/">fact sheet</a>).</li>
-<li><strong>Timeline:</strong> a progress report is due in 180 days, and tariffs or other measures remain possible if talks fail, as <a href="https://news.bloomberglaw.com/international-trade/trump-delays-robotics-machinery-tariffs-in-favor-of-more-talks">Bloomberg Law</a> notes.</li>
-</ul>
-<p>For humanoid makers that rely on Chinese actuators and components, nothing changes at the border today, but the threat of future duties is now formally on the record.</p>]]></description>
     </item>
 </channel>
 </rss>
