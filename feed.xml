@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:02:57 GMT</lastBuildDate>
             
     
     
@@ -48,7 +48,15 @@
     
     
     
+    
     <item>
+      <title>OpenAI: coding agents now finish 46% of 2–4 hour research tasks alone</title>
+      <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-19-openai-jagged-frontier</guid>
+      <pubDate>Wed, 18 Nov 2026 20:00:00 GMT</pubDate>
+      <description><![CDATA[<p>OpenAI's second research-acceleration report, “The jagged frontier,” says its coding agents now complete 46% of research tasks estimated to take a human two to four hours, with no person stepping in — up from 23% in March. For four-to-eight-hour tasks the rate rose from 13% to 35%.</p><p>The frontier is uneven: agents succeeded 79% of the time monitoring training runs but only 25% writing inference and serving code. Median researcher agent spending hit $2,400 a day in October. OpenAI stresses the figures are its own internal estimates, not an independent evaluation.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI models found up to 14% gains on AMD's flagship GPU design</title>
       <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-19-openai-chip-design-amd</guid>
@@ -598,17 +606,6 @@
 <p>Why it matters: a top Western open-weights contender from Mira Murati’s lab, with a concrete path from hosted access to downloadable weights.</p>]]></description>
       <enclosure url="https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png" type="image/png" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-05-thinking-machines-inkling-2-small</guid>
-      <pubDate>Fri, 06 Nov 2026 01:10:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Google announces a $17 billion Wyoming data center with 702 MW fuel cells and carbon capture</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/</link>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.width-1300.png" alt=""/></p>
-<p>On November 5, <a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/">Google</a> said it will invest $17 billion in its first Wyoming data center in Laramie County, partnering with Tallgrass Energy, Black Hills Energy, American Electric Power, and Related Digital. The campus is contracted for a commercial-scale 702 MW natural-gas fuel-cell plant with carbon capture and storage—the largest such development Google has announced—using Bloom Energy cells made in the U.S., with captured CO₂ headed to Tallgrass’s Eastern Wyoming Sequestration Hub.</p>
-<p>Google says it will pay for 100% of the power it uses, cover infrastructure needs driven by its growth, and air-cool the facility to cut local water strain. The announcement lands days after U.S. midterm voters rejected or restricted data-center projects in nearly every local ballot measure (<a href="https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html">CNBC</a>, <a href="https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html">Reuters</a>).</p>
-<p>Why it matters: a giant AI infrastructure bet that tries to answer community and climate pushback with on-site generation, CCS, and ratepayer-protection commitments.</p>]]></description>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.width-1300.png" type="image/png" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-05-google-wyoming-17b-data-center</guid>
       <pubDate>Fri, 06 Nov 2026 01:10:00 GMT</pubDate>
     </item>
 </channel>
