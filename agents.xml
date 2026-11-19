@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:09:26 GMT</lastBuildDate>
+<item>
+<title>Google renames Spark to Tasks and makes it free in six countries</title>
+<link>https://www.siliconreport.com/google-rebrands-spark-agent-as-tasks-and-makes-it-free</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-19-google-tasks-free-six-countries</guid>
+<pubDate>Thu, 19 Nov 2026 01:11:00 GMT</pubDate>
+<enclosure url="https://www.siliconreport.com/og/google-rebrands-spark-agent-as-tasks-and-makes-it-free" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://www.siliconreport.com/og/google-rebrands-spark-agent-as-tasks-and-makes-it-free" alt=""/></p>
+<p>Google renamed its Spark personal agent to Tasks and made it free in the US, Japan, Korea, Canada, Australia and India, running on the new Gemini 4 Hydrogen model. It was previously limited to paid Google AI Pro and Ultra subscribers.</p><p>Tasks runs multi-step work in the background - calls, bookings, payments and research - reached by flipping the Gemini home-screen toggle from Chat to Task. Calling, Google Pay checkout and texting start in the US only, and Google has published no daily task cap.</p>]]></description>
+</item>
 <item>
 <title>OpenAI dots switch on by default in Enterprise, Edu and Healthcare workspaces</title>
 <link>https://aiassistantlist.com/dots-pricing/</link>
@@ -574,15 +583,6 @@
 <li>Brain-dump in voice mode, then ask the Bot to "restate this in your own words."</li>
 </ul>
 <p>Later she <a href="https://x.com/poteto/status/2116662792631746861">teased something "really fun"</a> coming "some time tomorrow," quoting her Oct 28 post about buying a new domain. She didn't say what it is.</p>]]></description>
-    </item>
-<item>
-      <title>Muse now shows up in the iPhone Share sheet, so you can send photos, links and files straight to your chat</title>
-      <link>https://x.com/Muse/status/2116259784491974948</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-31-muse-ios-share-sheet</guid>
-      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
-      <enclosure url="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" alt=""/><p>The official Muse account <a href="https://x.com/Muse/status/2116259784491974948">announced on Friday</a> that you can tap Share in any iOS app to send photos, links and files directly into your Muse chat.</p>
-<p>This lets you hand your agent material from Safari, Photos or Files without copying and pasting. The post only mentions iOS, and there was no word on Android.</p>]]></description>
     </item>
 </channel>
 </rss>
