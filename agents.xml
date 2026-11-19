@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:10:30 GMT</lastBuildDate>
+<item>
+<title>Grok Bot 1.2.3 adds per-tool permissions and routine reconnect cards</title>
+<link>https://x.ai/changelog/bot#v1.2.3</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-19-grok-bot-1-2-3</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt=""/></p>
+<p>SpaceXAI shipped Grok Bot 1.2.3 on Nov 18. Connector pages now let you set each tool to Always allow, Auto-review, Needs approval or Blocked, and team admins can limit which tools the built-in GitHub connector offers.</p><p>Routines that lose a connector sign-in now skip scheduled runs until you sign back in, and the reconnect card arrives as a notification and a Slack or Teams message. Signing up now requires you to be 18 or older.</p>]]></description>
+</item>
 <item>
 <title>Google renames Spark to Tasks and makes it free in six countries</title>
 <link>https://www.siliconreport.com/google-rebrands-spark-agent-as-tasks-and-makes-it-free</link>
@@ -567,22 +576,6 @@
       <enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263">SpaceXAI status page</a> logged a "Multiple services degraded" incident that hit Grok Bot, Cloud Agents, Automations and cursor.com from 11:04pm to 11:47pm PT on Friday, Oct 30.</p>
 <p>It was rated a minor disruption and is now resolved. The status page posted only "investigating" and "resolved" updates, with no cause given.</p>]]></description>
-    </item>
-<item>
-      <title>Grok Bot engineer Lauren (poteto) shares her bot-building guide and her "dr eggbot" bot designer</title>
-      <link>https://x.com/poteto/status/2116576229319233596</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-31-grok-bot-poteto-team-guide</guid>
-      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
-      <description><![CDATA[<p>Lauren (<a href="https://x.com/poteto/status/2116576229319233596">@poteto</a>), who works on Grok Bot at SpaceXSI, posted a short guide on Saturday to building good Bots and managing a Bot team. It passed 400,000 views and 10,000 bookmarks, and the official @bot account is now replying to hundreds of people who ask it to send the guide to their own Bot.</p>
-<p>Her main tips:</p>
-<ul>
-<li>Add her <a href="https://x.ai/bot/_jOdbfkB16zxu7MRcmReE">dr eggbot template</a>, a Bot that designs other Bots.</li>
-<li>A few good Bots beat a big team.</li>
-<li>Have Bots write skills for themselves as you teach them tasks, and optionally keep those skills in a private GitHub repo.</li>
-<li>Give Bots connectors, the Vault, and their own email address so they can sign up for accounts on their own.</li>
-<li>Brain-dump in voice mode, then ask the Bot to "restate this in your own words."</li>
-</ul>
-<p>Later she <a href="https://x.com/poteto/status/2116662792631746861">teased something "really fun"</a> coming "some time tomorrow," quoting her Oct 28 post about buying a new domain. She didn't say what it is.</p>]]></description>
     </item>
 </channel>
 </rss>
