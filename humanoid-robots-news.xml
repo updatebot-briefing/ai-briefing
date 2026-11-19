@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:12:24 GMT</lastBuildDate>
 
     
     
@@ -27,7 +27,17 @@
     
     
     
+    
     <item>
+      <title>China's humanoids clock in: coffee, parcels and factory work as Shenzhen hosts APEC</title>
+      <link>https://businessnews.com.my/china-humanoid-robots-shenzhen-apec/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-china-humanoids-apec-shenzhen</guid>
+      <pubDate>Thu, 19 Nov 2026 05:00:00 GMT</pubDate>
+      <enclosure url="https://i0.wp.com/businessnews.com.my/wp-content/uploads/2025/09/pexels-photo-8438874.jpeg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/businessnews.com.my/wp-content/uploads/2025/09/pexels-photo-8438874.jpeg" alt="" /></p>
+<p>Chinese start-ups are putting humanoids to work in cafes, parcel hubs and factories as Shenzhen hosts the APEC summit, <a href="https://businessnews.com.my/china-humanoid-robots-shenzhen-apec/">AFP reported Nov. 18</a>.</p><p>AI² Robotics says 200 of its humanoid servers are deployed across China, selling up to 300 coffees a day at a Shenzhen park stand. X Square Robot arms sort parcels on a moving belt, and Spirit AI humanoids plug in high-voltage connectors at battery maker CATL.</p><p>The jobs are still narrow, repetitive tasks - company figures, not independently verified - but industrial spending on embodied-AI robots in China jumped 230% year on year in Jan-May 2026, per tax authorities cited by AFP.</p>]]></description>
+    </item>
+<item>
       <title>Humanoids Summit returns to Silicon Valley Dec 1-2 with Tesla Optimus demos</title>
       <link>https://www.businesswire.com/news/home/20261118185525/en/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-18-humanoids-summit-silicon-valley</guid>
@@ -731,22 +741,6 @@
 <p>SynDexy, a Beijing humanoid startup, has delivered its first small batch of <strong>C1</strong> humanoid robots built for precision assembly in electronics manufacturing, about six months after development started.</p>
 <p>The company says the C1 hit over 98% success in key task tests. It plans to refine the robot and expand deployments in electronics plants but gave no further timeline. The figures are company-reported.</p>
 <p>Source: <a href="https://robottoday.com/industry-briefing/syndexy-completes-initial-delivery-of-c1-humanoids-for-electronics-assembly/17130">RobotToday</a>, citing PanDaily.</p>]]></description>
-    </item>
-<item>
-      <title>AGIBOT unveils AHA3 humanoid platform and GO-3 Preview model, proposes "Worken" metric for real robot work</title>
-      <link>https://www.prnewswire.com/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-29-agibot-innovation-day-aha3-go3-worken</guid>
-      <pubDate>Fri, 30 Oct 2026 00:16:04 +0000</pubDate>
-      <enclosure url="https://mmx.prnewswire.com/media/MS2023470/20261029040008EDT_image_1.jpg?id=OA3047221&amp;p=facebook" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://mmx.prnewswire.com/media/MS2023470/20261029040008EDT_image_1.jpg?id=OA3047221&amp;p=facebook" alt=""/></p>
-<p>At its Innovation Day in Shanghai on Oct 29, AGIBOT rolled out a full humanoid stack and pitched a new way to measure whether robots actually do useful work, per its <a href="https://www.prnewswire.com/news-releases/agibot-introduces-worken-to-measure-productive-robot-work-at-agibot-innovation-day-2026-302923486.html">press release</a> and <a href="https://x.com/AGIBOTofficial/status/2115694835579666505">announcement on X</a>.</p>
-<ul>
-<li><strong>AHA3:</strong> its third-generation humanoid hardware architecture, combining locomotion, interaction and task-execution compute, Wi-Fi 6 and 5G, liquid-cooled joints and IP67-rated joints, plus a new OmniHand 3 family of dexterous hands.</li>
-<li><strong>GO-3 Preview:</strong> its next embodied foundation model combining reasoning, prediction and action, alongside the WITA-Omni 1.0 interaction model.</li>
-<li><strong>Link-U OS 1.0:</strong> a robot operating system now in partner trials, which AGIBOT says it will fully open-source by the end of 2026 and donate to the OpenAtom Foundation.</li>
-<li><strong>Worken:</strong> a proposed metric multiplying active robots by autonomous working hours by an output-efficiency ratio against a human benchmark, meant to replace "units shipped" as the yardstick.</li>
-</ul>
-<p>The G2 Max industrial robot was also formally launched (it was first shown last week). More detail from <a href="https://www.humanoidsdaily.com/news/agibot-innovation-day-2026-worken-ai-models-g2-max">Humanoids Daily</a> and <a href="https://korthosrobotics.com/research/agibot-aha3-omnihand-link-u-os-robot-platform-2026">Korthos</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
