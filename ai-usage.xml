@@ -5,13 +5,22 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 16 Nov 2026 01:09:59 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 21:11:03 GMT</lastBuildDate>
+    
     
     
     
     
     
     <item>
+<title>Opus 5.5 vs Astra 6.2: a meter test finds about the same tasks per $200</title>
+<link>https://section228.com/blog/opus-5-5-vs-astra-6-2-claude-or-openai-subscription</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-19-section228-opus-astra</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://api.section228.com/storage/articles/01M7NVHXJ7MFC37FAAR2TNN3VZ.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://api.section228.com/storage/articles/01M7NVHXJ7MFC37FAAR2TNN3VZ.jpg" alt=""/><p>Section 228 ran 9 real tasks overnight on Nov 17-18 on Claude Ultra ($200) and ChatGPT Pro ($100), reading the weekly meters to price each task in subscription money. A typical task on GPT-6.2 Astra was 3% cheaper than on Claude Opus 5.5; all 9 together were 13% cheaper.</p><p>For $200, Claude gives about 721 agent-hours a month and ChatGPT about 828, but Astra works 13% slower, so the task count is about the same (2,219 vs 2,150). At $20, Claude gives almost twice the hours of ChatGPT Plus. Accuracy is +/-20%, from one account per vendor.</p>]]></description>
+    </item>
+<item>
 <title>Measured Lab copies official usage-limit wording for 35 AI plans from 8 providers</title>
 <link>https://measuredlab.com/ai-limits/</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-15-measuredlab-limits</guid>
