@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:08:53 GMT</lastBuildDate>
+<item>
+<title>OpenAI dots switch on by default in Enterprise, Edu and Healthcare workspaces</title>
+<link>https://aiassistantlist.com/dots-pricing/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-19-dots-enterprise-default-on</guid>
+<pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://aiassistantlist.com/og/dots-pricing.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://aiassistantlist.com/og/dots-pricing.png" alt=""/></p>
+<p>OpenAI's dots switch on by default in eligible Enterprise, Edu and Healthcare workspaces from Nov 18, unless an admin opts out, after an admin preview that ran Nov 4-18. Billing starts Nov 18 for every enabled dot.</p><p>Pricing is unchanged: a first dot is included with ChatGPT Pro ($100/$200/$500 a month) and Business Premium; chatting with your dot does not count toward ChatGPT usage limits, and OpenAI still publishes no number for the deeper-work allowance.</p>]]></description>
+</item>
 <item>
 <title>Loblaw becomes the first Canadian retailer on Meta Muse as voice rolls out in Canada</title>
 <link>https://apnanews.ca/loblaw-first-canadian-retailer-meta-muse-grocery-voice-canada/</link>
@@ -574,15 +583,6 @@
       <enclosure url="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://pbs.twimg.com/media/HV52wW4WIAAGVX2.jpg" alt=""/><p>The official Muse account <a href="https://x.com/Muse/status/2116259784491974948">announced on Friday</a> that you can tap Share in any iOS app to send photos, links and files directly into your Muse chat.</p>
 <p>This lets you hand your agent material from Safari, Photos or Files without copying and pasting. The post only mentions iOS, and there was no word on Android.</p>]]></description>
-    </item>
-<item>
-      <title>Alexandr Wang nods to Muse's real-time voice mode, which has been quietly reaching users since Oct 24</title>
-      <link>https://x.com/alexandr_wang/status/2116653318265291253</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-31-muse-voice-wang</guid>
-      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
-      <description><![CDATA[<p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2116653318265291253">quoted a user's post</a> on Saturday with just "👀🗣️👂". The user, <a href="https://x.com/DotyBilly/status/2116591758121238870">Bill Doty</a>, wrote that "muse voice is soooo good" and that it "quietly rolled out on 10/24 apparently."</p>
-<p>Meta showed live voice conversations with Muse at Connect on Sept 23, with Muse working in the background while you talk. <a href="https://www.allthingsmuse.com/articles/muse-voice-conversations-rollout/">All Things Muse</a>, citing TestingCatalog and user reports, says the feature started appearing for some users on Oct 24, with a "Give your Muse a voice" setup screen.</p>
-<p>Meta still hasn't formally announced the rollout or said who is eligible. Wang's post is the closest thing to an official nod so far.</p>]]></description>
     </item>
 </channel>
 </rss>
