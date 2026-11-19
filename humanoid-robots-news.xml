@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 21:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:12:58 GMT</lastBuildDate>
 
     
     
@@ -28,7 +28,17 @@
     
     
     
+    
     <item>
+      <title>Musk: Optimus may do household chores within 12-18 months</title>
+      <link>https://ai123.com/newshub/18703</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-musk-optimus-household-chores</guid>
+      <pubDate>Thu, 19 Nov 2026 18:30:50 GMT</pubDate>
+      <enclosure url="https://ai123.com/og-image-en.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://ai123.com/og-image-en.png" alt="" /></p>
+<p>Tesla CEO Elon Musk said in a video interview on Nov. 19 that Optimus could handle household chores - taking out trash, washing dishes and putting them away - within 12 to 18 months, roughly by mid-2028. Heavy industry comes first, he said.</p><p>He promised a new, realistic demo in the next one to two months, showing the robot in everyday interaction rather than staged routines. Optimus Gen 3 is also set for a live demo at the Humanoids Summit in San Mateo on Dec. 1-2. Timelines are Musk's own projections, not verified results.</p>]]></description>
+    </item>
+<item>
       <title>China's humanoids clock in: coffee, parcels and factory work as Shenzhen hosts APEC</title>
       <link>https://businessnews.com.my/china-humanoid-robots-shenzhen-apec/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-china-humanoids-apec-shenzhen</guid>
@@ -730,17 +740,6 @@
 <li>Robots likely won't ship for about a year. Musk said on the October earnings call that deliveries to outside companies should start around the end of 2027, after Fremont production began.</li>
 </ul>
 <p>Source: <a href="https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/">The San Francisco Standard</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Beijing startup SynDexy delivers its first small batch of C1 humanoids for precision electronics assembly</title>
-      <link>https://robottoday.com/industry-briefing/syndexy-completes-initial-delivery-of-c1-humanoids-for-electronics-assembly/17130</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-30-syndexy-c1-first-delivery</guid>
-      <pubDate>Sat, 31 Oct 2026 00:17:57 +0000</pubDate>
-      <enclosure url="https://robottoday.com/uploads/2026/10/0236091486637600.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://robottoday.com/uploads/2026/10/0236091486637600.png" alt="" /></p>
-<p>SynDexy, a Beijing humanoid startup, has delivered its first small batch of <strong>C1</strong> humanoid robots built for precision assembly in electronics manufacturing, about six months after development started.</p>
-<p>The company says the C1 hit over 98% success in key task tests. It plans to refine the robot and expand deployments in electronics plants but gave no further timeline. The figures are company-reported.</p>
-<p>Source: <a href="https://robottoday.com/industry-briefing/syndexy-completes-initial-delivery-of-c1-humanoids-for-electronics-assembly/17130">RobotToday</a>, citing PanDaily.</p>]]></description>
     </item>
 </channel>
 </rss>
