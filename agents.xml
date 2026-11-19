@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:08:19 GMT</lastBuildDate>
+<item>
+<title>Loblaw becomes the first Canadian retailer on Meta Muse as voice rolls out in Canada</title>
+<link>https://apnanews.ca/loblaw-first-canadian-retailer-meta-muse-grocery-voice-canada/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-19-muse-loblaw-canada-voice</guid>
+<pubDate>Wed, 18 Nov 2026 14:07:00 GMT</pubDate>
+<enclosure url="https://apnanews.ca/wp-content/uploads/2026/11/loblaws-store-bowmanville-1200x800-1.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://apnanews.ca/wp-content/uploads/2026/11/loblaws-store-bowmanville-1200x800-1.jpg" alt=""/></p>
+<p>Meta said on Nov 18 that Loblaw is the first Canadian retailer on Muse: shoppers can plan meals, build a basket and check out without leaving the assistant, with brand preferences and allergies remembered for next time.</p><p>Meta also rolled out voice in Canada in the Muse app on mobile, web and Mac, and introduced Spaces, a way to build a personalised Muse experience by describing an idea.</p>]]></description>
+</item>
 <item>
 <title>Reuters: Meta's Muse sent users messages and data seemingly meant for others</title>
 <link>https://wdsm710.com/2026/11/18/as-meta-bets-big-on-muse-ai-agent-early-safety-mishaps-surface/</link>
@@ -574,16 +583,6 @@
       <description><![CDATA[<p>Meta's Alexandr Wang <a href="https://x.com/alexandr_wang/status/2116653318265291253">quoted a user's post</a> on Saturday with just "👀🗣️👂". The user, <a href="https://x.com/DotyBilly/status/2116591758121238870">Bill Doty</a>, wrote that "muse voice is soooo good" and that it "quietly rolled out on 10/24 apparently."</p>
 <p>Meta showed live voice conversations with Muse at Connect on Sept 23, with Muse working in the background while you talk. <a href="https://www.allthingsmuse.com/articles/muse-voice-conversations-rollout/">All Things Muse</a>, citing TestingCatalog and user reports, says the feature started appearing for some users on Oct 24, with a "Give your Muse a voice" setup screen.</p>
 <p>Meta still hasn't formally announced the rollout or said who is eligible. Wang's post is the closest thing to an official nod so far.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI's dots help page now says you can create a dot from the ChatGPT mobile app</title>
-      <link>https://help.openai.com/en/articles/20001530-getting-started-with-your-dot</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-31-dots-mobile-setup</guid>
-      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
-      <enclosure url="https://help.openai.com/og-image.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://help.openai.com/og-image.png" alt=""/><p>OpenAI updated its <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started with your dot</a> help article on Oct 30. It now says you can create a dot in the ChatGPT mobile app on iOS or Android, as well as in the desktop app or on desktop web, as long as you have the latest mobile app.</p>
-<p>At launch, the <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">release notes</a> said dots had to be created on desktop, and the mobile app was only for talking to one afterward. The article also says the desktop app now works on Windows, and that dots still don't work on mobile web.</p>
-<p>OpenAI hasn't posted a release note about mobile setup, so this change is only in the help center.</p>]]></description>
     </item>
 </channel>
 </rss>
