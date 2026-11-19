@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 18 Nov 2026 21:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:11:50 GMT</lastBuildDate>
+    
     
     
     
@@ -17,6 +18,13 @@
     
     
     <item>
+      <title>Hacker News top 10 — Thu, Nov 19</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 21:10:17 GMT</pubDate>
+      <description><![CDATA[<p>The top 10 stories on the Hacker News front page on Thursday, Nov 19, 2026, in front-page order.</p><ol><li><p><strong><a href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/">Anthropic hits $2T in Nasdaq debut</a></strong> · reuters.com</p><p>Anthropic hits $2T in Nasdaq debut</p><p><a href="https://news.ycombinator.com/item?id=50562754">601 points · 975 comments</a></p></li><li><p><strong><a href="https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/">Pancreatic cancer halted by virus injection in three patients</a></strong> · newscientist.com</p><p>Pancreatic cancer halted by virus injection in three patients</p><p><a href="https://news.ycombinator.com/item?id=50563066">239 points · 22 comments</a></p></li><li><p><strong><a href="https://www.anthropic.com/research/claude-black-hole-physics">Claude solves two open problems in the physics of black holes</a></strong> · anthropic.com</p><p>Claude solves two open problems in the physics of black holes</p><p><a href="https://news.ycombinator.com/item?id=50563148">266 points · 103 comments</a></p></li><li><p><strong><a href="https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine">The 98% Slot Machine: How Paid Advertising Became an Extraction Tax</a></strong> · globalcommercegraph.com</p><p>The 98% Slot Machine: how paid ads became an extraction tax</p><p><a href="https://news.ycombinator.com/item?id=50564159">87 points · 41 comments</a></p></li><li><p><strong><a href="https://blog.harrison.page/garage-door-spam/">Garage Door Spam</a></strong> · blog.harrison.page</p><p>Garage Door Spam</p><p><a href="https://news.ycombinator.com/item?id=50519231">638 points · 267 comments</a></p></li><li><p><strong><a href="https://cornholenews.news">Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest</a></strong> · cornholenews.news</p><p>Show HN: Cornhole News, a HN-inspired site for Midwest news</p><p><a href="https://news.ycombinator.com/item?id=50561515">142 points · 64 comments</a></p></li><li><p><strong><a href="https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/">UK government forced to admit it issued Apple a secret encryption order</a></strong> · macanorak.com</p><p>UK government admits it issued Apple a secret encryption order</p><p><a href="https://news.ycombinator.com/item?id=50562113">344 points · 158 comments</a></p></li><li><p><strong><a href="https://github.com/openjdk/jdk/pull/32781">Someone reported java4shell bug in September 2026</a></strong> · github.com</p><p>Someone reported the java4shell bug back in September 2026</p><p><a href="https://news.ycombinator.com/item?id=50558906">289 points · 79 comments</a></p></li><li><p><strong><a href="https://github.com/onlook-dev/onlook/">Launch HN: Onlook (YC W25) – An open-source developer tool for designers</a></strong> · github.com</p><p>Launch HN: Onlook (YC W25), open-source dev tool for designers</p><p><a href="https://news.ycombinator.com/item?id=50562320">60 points · 58 comments</a></p></li><li><p><strong><a href="https://www.youtube.com/watch?v=lwfewYL7X0o">Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]</a></strong> · youtube.com</p><p>Should governments slow frontier AI? Coxon and Hanson debate</p><p><a href="https://news.ycombinator.com/item?id=50564366">29 points · 41 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Wed, Nov 18</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-18</guid>
