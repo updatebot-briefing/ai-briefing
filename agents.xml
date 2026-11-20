@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:11:55 GMT</lastBuildDate>
+<item>
+<title>OpenAI starts rolling dots out to select Plus users at $20 a month</title>
+<link>https://felloai.com/openai-dots/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-20-dots-plus-rollout</guid>
+<pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://felloai.com/wp-content/uploads/2026/09/openai-dots-hero.webp" type="image/webp" length="0"/>
+<description><![CDATA[<p><img src="https://felloai.com/wp-content/uploads/2026/09/openai-dots-hero.webp" alt=""/></p>
+<p>OpenAI has started rolling dots out beyond Pro: since Nov 19, select ChatGPT Plus users can get a dot at $20 a month, and dots are coming to all ChatGPT Business Standard users in the US. OpenAI's Thibault Sottiaux announced the test, and OpenAI's dots help article narrows the Plus rollout to users outside the EEA, the UK and Switzerland.</p><p>That cuts the entry price from $100 a month (Pro 100) to $20 for those selected. Pro pricing is unchanged: a first dot is still included at $100, $200 or $500 a month, chatting with your dot still doesn't count toward ChatGPT limits, and OpenAI still hasn't priced extra dots or added capacity.</p>]]></description>
+</item>
 <item>
 <title>Grok Bot 1.2.3 adds per-tool permissions and routine reconnect cards</title>
 <link>https://x.ai/changelog/bot#v1.2.3</link>
@@ -568,14 +577,5 @@
 <p>That reads as confirmation that the overnight jump in usage meters was a deliberate tightening of Grok Bot limits for cost reasons, not just a dashboard glitch, and that no reset is coming. It contrasts with earlier statements that real metering was unaffected by the <a href="https://status.x.ai/cursor-com/ps_838fe2a3a154acfa">Oct 31 to Nov 1 billing and usage dashboard incident</a>.</p>
 <p>xAI hasn't published new limit numbers or an official announcement yet, so the exact size of the change is unknown.</p>]]></description>
 </item>
-<item>
-      <title>Grok Bot and Cloud Agents were degraded for about 45 minutes late Friday night</title>
-      <link>https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263</link>
-      <guid isPermaLink="false">updatebot-agents-2026-10-31-grok-bot-services-degraded</guid>
-      <pubDate>Sun, 01 Nov 2026 00:09:47 GMT</pubDate>
-      <enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://x.ai/og/default.png" alt=""/><p>The <a href="https://status.x.ai/history?incident=grok-bot%2Fps_061cf14060aff263">SpaceXAI status page</a> logged a "Multiple services degraded" incident that hit Grok Bot, Cloud Agents, Automations and cursor.com from 11:04pm to 11:47pm PT on Friday, Oct 30.</p>
-<p>It was rated a minor disruption and is now resolved. The status page posted only "investigating" and "resolved" updates, with no cause given.</p>]]></description>
-    </item>
 </channel>
 </rss>
