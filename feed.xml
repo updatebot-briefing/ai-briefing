@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:03:09 GMT</lastBuildDate>
             
     
     
@@ -49,7 +49,17 @@
     
     
     
+    
     <item>
+      <title>European Commission confirms AI-assisted cyberattack knocked staff systems offline</title>
+      <link>https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-ec-ai-cyberattack-artex</guid>
+      <pubDate>Thu, 19 Nov 2026 15:14:54 GMT</pubDate>
+      <enclosure url="https://image.theregister.com/5311112.jpg?imageId=5311112&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=84.87&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=84.87&amp;width=1200&amp;height=683" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://image.theregister.com/5311112.jpg?imageId=5311112&amp;x=0&amp;y=0&amp;cropw=100&amp;croph=84.87&amp;panox=0&amp;panoy=0&amp;panow=100&amp;panoh=84.87&amp;width=1200&amp;height=683" alt=""/></p>
+<p>The European Commission has <a href="https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103">confirmed</a> it was hit by an AI-assisted cyberattack that disrupted internal systems for more than ten days. Payroll, leave and medical-reimbursement platforms went offline, though the Commission says it has found no evidence of a staff data breach.</p><p>Investigators suspect the publicly available ARTEX framework, which uses AI agents to automate intrusions — the FBI flagged it in an advisory on Nov 13. The Commission detected the campaign on Oct 22 and disclosed it Nov 19; whether any personal data was taken is still unclear.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI: coding agents now finish 46% of 2–4 hour research tasks alone</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-19-openai-jagged-frontier</guid>
@@ -596,17 +606,6 @@
       <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png" type="image/png" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-gemini-omni-1-2-flash</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Thinking Machines Lab launches Inkling 2 Small, planning Apache 2.0 weights after safety tests</title>
-      <link>https://thinkingmachines.ai/news/inkling-2-small/</link>
-      <description><![CDATA[<p><img src="https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png" alt=""/></p>
-<p>On November 5, <a href="https://thinkingmachines.ai/news/inkling-2-small/">Thinking Machines Lab</a> introduced Inkling 2 Small, a Mixture-of-Experts model with 594B total parameters and 17B active, plus image inputs and variable effort. It scores 31 on the <a href="https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it">Artificial Analysis Intelligence Index</a> (up 18 points from Inkling Small), with large gains on agentic coding and knowledge-work benchmarks (<a href="https://x.com/ArtificialAnlys/status/2118493376186388530">AA on X</a>).</p>
-<p>The model is available now on Tinker with closed weights. The lab says it intends to release full weights under Apache 2.0 next week after external safety testing and red-teaming, which would make it the highest-scoring open-weights model developed outside China on current AA rankings.</p>
-<p>Why it matters: a top Western open-weights contender from Mira Murati’s lab, with a concrete path from hosted access to downloadable weights.</p>]]></description>
-      <enclosure url="https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png" type="image/png" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-05-thinking-machines-inkling-2-small</guid>
-      <pubDate>Fri, 06 Nov 2026 01:10:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
