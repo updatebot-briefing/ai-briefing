@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:03:43 GMT</lastBuildDate>
             
     
     
@@ -50,7 +50,17 @@
     
     
     
+    
     <item>
+      <title>Google picks Blue Origin to launch AI servers into orbit in 2029</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-google-blue-origin-suncatcher</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://blog.google/static/blogv2/images/google-1440x754.jpg?version=pr20261117-1738" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://blog.google/static/blogv2/images/google-1440x754.jpg?version=pr20261117-1738" alt=""/></p>
+<p>Google has signed Blue Origin to launch the first heavy-lift mission for <a href="https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/">Project Suncatcher</a>, its long-term experiment in running AI compute in space. Targeted for Q1 2029, New Glenn will carry several satellites into sun-synchronous orbit.</p><p>Each satellite carries Google's TPUs with roughly the computing capacity of a data-center rack, drawing near-continuous solar power. A prototype already flew in October and ran a Gemma model in orbit. The goal: ease the pressure AI data centers put on power grids, land and cooling on Earth.</p>]]></description>
+    </item>
+<item>
       <title>European Commission confirms AI-assisted cyberattack knocked staff systems offline</title>
       <link>https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-ec-ai-cyberattack-artex</guid>
@@ -594,17 +604,6 @@
 <p>Why it matters: another major Chinese lab is shipping a strong open base model built for further training, tightening the open-weight race with DeepSeek, Tencent Hy4, and Moonshot.</p>]]></description>
       <enclosure url="https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png" type="image/png" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-baidu-ernie-5-5-flash-base</guid>
-      <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Google launches Gemini Omni 1.2 Flash with 15-second video and 30% lower price</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png" alt=""/></p>
-<p>On November 5, <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Google</a> made Gemini Omni 1.2 Flash generally available on the Gemini API and Google Cloud. Native clips stretch to 15 seconds (up from 10), with multi-turn conversational edits, stronger reference adherence, and pricing cut 30% to $0.07 per second for 720p.</p>
-<p>Creators can draft at lower resolution, edit without regenerating from scratch, then upscale; outputs carry SynthID. The model is also rolling into Flow, Google Vids, the Gemini app (Ultra), and Ads.</p>
-<p>Why it matters: Google’s main video-gen stack just got longer clips, cheaper production, and GA enterprise availability—another turn in the multimodal capability race.</p>]]></description>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png" type="image/png" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-06-gemini-omni-1-2-flash</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
 </channel>
