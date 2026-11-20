@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:12:34 GMT</lastBuildDate>
+<item>
+<title>Hermes Agent v0.23.3 rolls up ~370 PRs; prompt-cache lifecycle and GPT-6.2 models</title>
+<link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-20-hermes-v0-23-3</guid>
+<pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://opengraph.githubassets.com/c411467e7bc2f4388f581c6c0a35eb857af9a41a112cf7a20d4cebd1a7a32780/NousResearch/hermes-agent/releases/tag/v0.23.3" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://opengraph.githubassets.com/c411467e7bc2f4388f581c6c0a35eb857af9a41a112cf7a20d4cebd1a7a32780/NousResearch/hermes-agent/releases/tag/v0.23.3" alt=""/></p>
+<p>Nous Research shipped Hermes Agent v0.23.3 on Nov 19, a patch rolling up about 370 merged PRs since v0.23.2. The headline work is a prompt-cache lifecycle controller that warms caches through long tool runs and compacts idle chats before the one-hour cache expires.</p><p>Also in the window: GPT-6.2 Astra and Sol (plus Pro) on OpenRouter and Nous Portal, a one-question first-run CLI setup with the free tier included, a "Waiting on teammates" strip above Bot Chat composers, and compaction that archives the tool results it drops. Full curated notes ship with v0.24.0; update with hermes update.</p>]]></description>
+</item>
 <item>
 <title>OpenAI starts rolling dots out to select Plus users at $20 a month</title>
 <link>https://felloai.com/openai-dots/</link>
@@ -566,16 +575,5 @@
       <enclosure url="https://opengraph.githubassets.com/9ae660a42d6d9c96488d65e47216194140bc40f535cd09b1a45a757322382d3e/deepseek-ai/dsh-superagent-prototype" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://opengraph.githubassets.com/9ae660a42d6d9c96488d65e47216194140bc40f535cd09b1a45a757322382d3e/deepseek-ai/dsh-superagent-prototype" alt=""/><p>DeepSeek's Harness team published <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">dsh-superagent</a> on GitHub on Oct 31 under the MIT license. It is a proactive coding agent for one repository that listens to GitHub and, optionally, Feishu, opens a work item when an allowed person asks, works in its own session and directory, and replies with results such as a pull request. A web panel shows what needs a person.</p><p>The README says it is a research prototype, "not an official DeepSeek product," and not the same as DeepSeek's internal version. It runs on your own machine through DeepSeek Harness and needs a dedicated GitHub account for the agent, per its <a href="https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/006-deployment.md">deployment guide</a>.</p><p>Posts on X are pitching it as an open-source challenger to Grok Bot, Muse, dots and Claude Duet, but for now it is a team coding agent, not a consumer personal agent. It passed about 4,100 stars within a day.</p>]]></description>
     </item>
-<item>
-<title>Musk says Grok Bot cost "unsustainably high" relative to revenue, signaling usage limits were tightened on purpose</title>
-<link>https://x.com/elonmusk/status/2116992258520064397</link>
-<guid isPermaLink="false">updatebot-breaking-2026-11-01-grok-bot-usage-cost-musk</guid>
-<pubDate>Sun, 01 Nov 2026 21:29:47 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_400x400.jpg" alt="Elon Musk on X"/>
-<p>Asked on X whether Grok Bot users would get a usage reset after many said their allowance ran out unusually fast this week, Elon Musk replied that "<a href="https://x.com/elonmusk/status/2116992258520064397">the cost of serving Grok Bot was unsustainably high relative to revenue</a>" (12:34pm PT, Nov 1).</p>
-<p>That reads as confirmation that the overnight jump in usage meters was a deliberate tightening of Grok Bot limits for cost reasons, not just a dashboard glitch, and that no reset is coming. It contrasts with earlier statements that real metering was unaffected by the <a href="https://status.x.ai/cursor-com/ps_838fe2a3a154acfa">Oct 31 to Nov 1 billing and usage dashboard incident</a>.</p>
-<p>xAI hasn't published new limit numbers or an official announcement yet, so the exact size of the change is unknown.</p>]]></description>
-</item>
 </channel>
 </rss>
