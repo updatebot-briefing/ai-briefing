@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:05:06 GMT</lastBuildDate>
             
     
     
@@ -52,7 +52,17 @@
     
     
     
+    
     <item>
+      <title>Senators introduce bipartisan bill requiring public companies to disclose AI risks after Anthropic IPO</title>
+      <link>https://oossa.com/en/anthropic-s-ipo-sparks-new-ai-oversight-push-in-congress</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-senators-ai-disclosure-bill</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://oossa.com/social/anthropic-s-ipo-sparks-new-ai-oversight-push-in-congress/card.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://oossa.com/social/anthropic-s-ipo-sparks-new-ai-oversight-push-in-congress/card.jpg" alt=""/></p>
+<p>A bipartisan group of four senators <a href="https://oossa.com/en/anthropic-s-ipo-sparks-new-ai-oversight-push-in-congress">introduced legislation on Nov 19</a> that would require publicly traded companies to disclose more about their AI systems, following Anthropic's record IPO debut. Sen. Elizabeth Warren has called for fast safeguards on advanced AI, and Sen. Chris Van Hollen is pressing for mandatory third-party evaluation of frontier systems.</p><p>The push reflects new scrutiny now that a frontier lab is a public company: Anthropic's own IPO filing warned its models could pose "existential risks to humanity." The bill is at the introduction stage, with no vote scheduled.</p>]]></description>
+    </item>
+<item>
       <title>Meta's Muse AI mixed up conversations and showed strangers' private data, Reuters reports</title>
       <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-meta-muse-privacy-mixup</guid>
@@ -592,17 +602,6 @@
 <p>Why it matters: even the clearest AI winner is taking a smaller, cheaper round than planned, while Anthropic’s IPO window is also getting talked down—a sign the funding climate for frontier labs has tightened.</p>]]></description>
       <enclosure url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-openai-11b-125t-valuation</guid>
-      <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Google backstops TeraWulf financing for ~$19 billion Anthropic Kentucky leases</title>
-      <link>https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement</link>
-      <description><![CDATA[<p><img src="https://media.datacenterdynamics.com/media/images/TeraWulf.2e16d0ba.fill-1200x630.png" alt=""/></p>
-<p><a href="https://investors.terawulf.com/news-events/press-releases/detail/148/terawulf-secures-google-credit-backstop-for-project-financing-in-support-of-19-billion-anthropic-lease-executes-definitive-fluor-epc-agreement">TeraWulf</a> said Google LLC will provide credit support for debt financing tied to roughly $19 billion of contracted Anthropic leases at its Justified Data Campus in Hawesville, Kentucky, and that it signed a definitive Fluor EPC agreement for three buildings with phased ready-for-service from late 2027 through Q2 2028 (<a href="https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/">Data Center Dynamics</a>).</p>
-<p>Google’s senior unsecured debt is rated AA+/Aa2; the backstop is meant to cut TeraWulf’s cost of capital on the Anthropic campus. DCD puts campus capacity around 480 MW on a former aluminum site.</p>
-<p>Why it matters: Alphabet is putting its balance sheet behind Anthropic’s Kentucky compute build—another giant, intertwined AI-infra financing structure among the top labs.</p>]]></description>
-      <enclosure url="https://media.datacenterdynamics.com/media/images/TeraWulf.2e16d0ba.fill-1200x630.png" type="image/png" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-06-google-terawulf-anthropic-19b</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
 </channel>
