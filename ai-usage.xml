@@ -5,7 +5,8 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 19 Nov 2026 21:11:03 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 21:14:19 GMT</lastBuildDate>
+    
     
     
     
@@ -13,6 +14,14 @@
     
     
     <item>
+<title>Benchleader prices coding plans by API value: Claude Max $100 carries ~$7,224 of Opus work</title>
+<link>https://www.benchleader.com/coding-plans</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-20-benchleader-coding-plans</guid>
+<pubDate>Fri, 20 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://www.benchleader.com/opengraph-image" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www.benchleader.com/opengraph-image" alt=""/><p>Benchleader's new coding-plan comparison prices each plan's monthly allowance as if the same work were bought through the API. Its headline estimate: Claude Code Max ($100) carries about $7,224 of Claude Opus 5.5 a month, and one benchmark task costs $10.04 via the API but $0.139 through Max at full use.</p><p>The page is blunt about what it can't measure: Codex Pro 100, Cursor Super and Grok Ultra get no usable figure because their makers publish no allowance, and only GitHub Copilot Max states a dollar amount ($200 of credits for $100). Treat the figures as estimates, not meter tests.</p>]]></description>
+    </item>
+<item>
 <title>Opus 5.5 vs Astra 6.2: a meter test finds about the same tasks per $200</title>
 <link>https://section228.com/blog/opus-5-5-vs-astra-6-2-claude-or-openai-subscription</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-19-section228-opus-astra</guid>
