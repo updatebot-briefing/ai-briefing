@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 21:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:10:07 GMT</lastBuildDate>
 
     
     
@@ -29,7 +29,17 @@
     
     
     
+    
     <item>
+      <title>Bleu Robotics teaches a Unitree humanoid a factory task in 11 minutes</title>
+      <link>https://theroboticsmedia.com/article/bleu-robotics-unitree-humanoid-novares-11-minutes</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-bleu-unitree-11-minutes</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/storage/articles/covers/2026/11/Lnk4Fzz3vHUiM6YasqCVol0p.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/storage/articles/covers/2026/11/Lnk4Fzz3vHUiM6YasqCVol0p.png" alt="" /></p>
+<p>French startup Bleu Robotics taught a Unitree G1-D humanoid to pick and pack automotive parts at Novares' plant in Spain after just 12 human demonstrations in 11 minutes, using its Bleu_0.1 few-shot imitation-learning model.</p><p>Novares reported a 100% detection rate and 99.5% pick success over 200 cycles - trial figures, and the company calls it a proof of concept, not a production deployment. Bleu sells hardware-agnostic software rather than building its own robot.</p>]]></description>
+    </item>
+<item>
       <title>Musk: Optimus may do household chores within 12-18 months</title>
       <link>https://ai123.com/newshub/18703</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-musk-optimus-household-chores</guid>
@@ -725,21 +735,6 @@
 </ul>
 <p>Churchill XI shareholders vote on Nov 2. If approved, the deal is expected to close Nov 4 and the combined company would start trading on Nasdaq as <strong>AGLT</strong> on Nov 5, pitching itself as the first U.S.-listed pure-play humanoid maker with commercial deployments. Agility says it has more than $300 million in committed Digit 5 orders, with early-access deliveries in the first half of 2027.</p>
 <p>Sources: <a href="https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/">The Robot Report</a> and <a href="https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination">Agility's press release</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Tesla reportedly plans to open Optimus reservations in early December, timed to the Humanoids Summit (unconfirmed)</title>
-      <link>https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-30-tesla-optimus-reservations-december</guid>
-      <pubDate>Sat, 31 Oct 2026 00:17:57 +0000</pubDate>
-      <enclosure url="https://assets.sfstandard.com/image/994911177489/image_94vsikr8ep24v719n12joc4b5t/-C100.00%25x78.58%25%2C0.00%25%2C10.89%25-S1200x630-FPNG" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://assets.sfstandard.com/image/994911177489/image_94vsikr8ep24v719n12joc4b5t/-C100.00%25x78.58%25%2C0.00%25%2C10.89%25-S1200x630-FPNG" alt="" /></p>
-<p>The San Francisco Standard reports that Tesla is expected to open customer reservations for its Optimus humanoid in early December. The source is Modar Alaoui, organizer of the Humanoids Summit (Dec 1 to 2 in San Mateo), who says Tesla told him reservations would launch with his event or in the days after. <strong>Tesla has not confirmed this</strong> and didn't respond to the paper.</p>
-<ul>
-<li>Tesla is a key summit partner and plans to demo Optimus V3 there.</li>
-<li>The expected price is $20,000-plus; any deposit amount is unknown.</li>
-<li>Robots likely won't ship for about a year. Musk said on the October earnings call that deliveries to outside companies should start around the end of 2027, after Fremont production began.</li>
-</ul>
-<p>Source: <a href="https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/">The San Francisco Standard</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
