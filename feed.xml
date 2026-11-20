@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:04:16 GMT</lastBuildDate>
             
     
     
@@ -51,7 +51,17 @@
     
     
     
+    
     <item>
+      <title>Meta's Muse AI mixed up conversations and showed strangers' private data, Reuters reports</title>
+      <link>https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-meta-muse-privacy-mixup</guid>
+      <pubDate>Thu, 19 Nov 2026 17:38:00 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200" alt=""/></p>
+<p>Meta employees say the company's Muse AI agent has been mixing up conversations between accounts, surfacing childcare requests, product orders and bank balances that were not theirs, according to a <a href="https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/">Reuters investigation reported by TechCrunch</a>. One employee saw another person's Capital One and Charles Schwab balances appear in a weather chat.</p><p>Reuters also found Muse reminding an employee about a message on Signal, the encrypted app it should not be able to read — and reproduced the issue in testing. Meta called the cases isolated incidents and said many were hallucinations that have been fixed; Reuters could not confirm whether the balances shown were real.</p>]]></description>
+    </item>
+<item>
       <title>Google picks Blue Origin to launch AI servers into orbit in 2029</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-google-blue-origin-suncatcher</guid>
@@ -593,17 +603,6 @@
 <p>Why it matters: Alphabet is putting its balance sheet behind Anthropic’s Kentucky compute build—another giant, intertwined AI-infra financing structure among the top labs.</p>]]></description>
       <enclosure url="https://media.datacenterdynamics.com/media/images/TeraWulf.2e16d0ba.fill-1200x630.png" type="image/png" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-06-google-terawulf-anthropic-19b</guid>
-      <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
-    </item>
-<item>
-      <title>Baidu open-sources ERNIE 5.5 Flash Base, a 280B MoE foundation model</title>
-      <link>https://ernie.baidu.com/release/ernie-5-5-flash-base/</link>
-      <description><![CDATA[<p><img src="https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png" alt=""/></p>
-<p>On November 5, <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">Baidu</a> released ERNIE-5.5-Flash-Base: a sparse MoE language model with 280B total parameters and 14B active per token, pre-trained from scratch on 33.5T tokens (up to 128K training context; 1M for fine-tuning and inference). Weights are on <a href="https://huggingface.co/baidu/ERNIE-5.5-Flash-Base">Hugging Face</a> in FP8 and BF16, deliberately before mid- or post-training so developers can adapt them.</p>
-<p>Under Baidu’s unified eval harness it leads or matches peers such as DeepSeek-V4-Flash-Base on several exam, code, and long-context suites (e.g. MMLU 93.3, HumanEval+ 82.3). SGLang and vLLM serving are documented; a post-trained ERNIE 5.5 Flash is said to follow.</p>
-<p>Why it matters: another major Chinese lab is shipping a strong open base model built for further training, tightening the open-weight race with DeepSeek, Tencent Hy4, and Moonshot.</p>]]></description>
-      <enclosure url="https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png" type="image/png" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-06-baidu-ernie-5-5-flash-base</guid>
       <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
 </channel>
