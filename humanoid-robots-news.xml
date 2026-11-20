@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:11:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:13:08 GMT</lastBuildDate>
 
     
     
@@ -32,7 +32,17 @@
     
     
     
+    
     <item>
+      <title>Realbotix launches Series 1 humanoid, caps full-body run at 25 units for $59,950</title>
+      <link>https://theroboticsmedia.com/article/realbotix-series-1-humanoid-robot-launch-25-units</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-realbotix-series-1</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/storage/articles/covers/2026/11/GXklYzWfa8BjG3u8xZYi9KL2.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/storage/articles/covers/2026/11/GXklYzWfa8BjG3u8xZYi9KL2.jpg" alt="" /></p>
+<p>Realbotix launched its Series 1 humanoid on Nov. 19, capping the full-body version at 25 units priced at $59,950, with an $11,950 tabletop version limited to 225. First deliveries are set for the second half of 2027, reserved with a $199 deposit.</p><p>Both versions use silicone synthetic skin, support 100+ languages and plug into ChatGPT, Claude or Gemini. Realbotix is aiming at education, wellness and companionship - not factory floors.</p>]]></description>
+    </item>
+<item>
       <title>Rheinmetall targets humanoid combat robot prototypes within 18 months</title>
       <link>https://theroboticsmedia.com/article/rheinmetall-humanoid-combat-robot-prototypes-18-months</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-rheinmetall-combat-prototypes</guid>
@@ -712,22 +722,6 @@
 <li>Meta frames the robots as a physical body for its Muse AI agent doing household tasks, but told The Information the work is internal research with no plans to sell units.</li>
 </ul>
 <p>Coverage: <a href="https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max">The Robotics Media</a>, <a href="https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306">Investing.com</a>, <a href="https://aiweekly.co/alerts/meta-built-humanoid-prototype-max-with-fourier-in-three-months">AI Weekly</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Lightberry's Lumi becomes the first humanoid cleared by the US Department of War and exempted from the FCC's foreign-robot ban</title>
-      <link>https://lightberry.com/press/dow-approval</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-31-lightberry-lumi-dow-approval-fcc-exemption</guid>
-      <pubDate>Sun, 01 Nov 2026 00:21:05 GMT</pubDate>
-      <enclosure url="https://cdn.ploy.ai/3245c4e2-1929-4ad1-b0ef-5b8c15535544/user/7066c89b-img-4918.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://cdn.ploy.ai/3245c4e2-1929-4ad1-b0ef-5b8c15535544/user/7066c89b-img-4918.webp" alt="" />
-<p>San Francisco startup Lightberry says its Lumi interactive humanoids received a Conditional Approval from the US Department of War on October 30, and the FCC's Public Safety and Homeland Security Bureau exempted them from its Covered List the same day (Public Notice DA 26-1181). Since July, new foreign-produced advanced robots on that list can't get the FCC authorization needed to be imported or sold in the US.</p>
-<ul>
-<li>Lightberry is the only humanoid company among the newly exempted devices; the other robotics approvals went to warehouse and industrial platforms.</li>
-<li>The approval rests on two commitments: Lightberry replaces Lumi's sensors, onboard computer and software with its own, and moves manufacturing to the US, starting with the body, head and hands.</li>
-<li>It is conditional: breaking the onshoring plan or a false statement in the application can put Lumi back on the list. The plan's deadlines aren't public.</li>
-<li>Per <a href="https://roboticaguide.com/lightberry-lumi-fcc-covered-list-exemption-humanoid/">Robotica Guide</a>, Lumi is built on a Unitree G1 base, and Founder Editions are priced at $39,990.</li>
-</ul>
-<p>Sources: <a href="https://lightberry.com/press/dow-approval">Lightberry announcement</a>, <a href="https://humanoidbeat.com/news/lightberry-lumi-dow-conditional-approval-fcc-covered-list-exemption.html">HumanoidBeat</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
