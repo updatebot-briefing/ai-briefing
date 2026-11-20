@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 21:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:13:46 GMT</lastBuildDate>
+    
     
     
     
@@ -18,6 +19,13 @@
     
     
     <item>
+      <title>Hacker News top 10 — Fri, Nov 20</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 21:10:00 GMT</pubDate>
+      <description><![CDATA[<p>The top 10 stories on the Hacker News front page on Friday, Nov 20, 2026, in front-page order.</p><ol><li><p><strong><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></strong> · math216.wordpress.com</p><p>Claimed proof of the Generalized Riemann Hypothesis announced</p><p><a href="https://news.ycombinator.com/item?id=50579568">903 points · 425 comments</a></p></li><li><p><strong><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Inkling 2 Mini</a></strong> · thinkingmachines.ai</p><p>Thinking Machines' Inkling 2 Mini model debuts</p><p><a href="https://news.ycombinator.com/item?id=50581260">207 points · 21 comments</a></p></li><li><p><strong><a href="https://alpo.ge/remark.pdf">Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]</a></strong> · alpo.ge</p><p>Levent Alpoge claims a proof of the Generalized Riemann Hypothesis</p><p><a href="https://news.ycombinator.com/item?id=50574968">2065 points · 1400 comments</a></p></li><li><p><strong><a href="https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/">Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis</a></strong> · terrytao.wordpress.com</p><p>Terry Tao on a Navier-Stokes singularity and the GRH</p><p><a href="https://news.ycombinator.com/item?id=50578358">202 points · 58 comments</a></p></li><li><p><strong><a href="https://manidoraisamy.com/developer-to-architect.html">We promoted developers into architects without informing them</a></strong> · manidoraisamy.com</p><p>Developers quietly turned into architects - what changed</p><p><a href="https://news.ycombinator.com/item?id=50579331">140 points · 81 comments</a></p></li><li><p><strong><a href="https://arxiv.org/abs/2611.21885">Language Models Can Rewrite Their Own Weights</a></strong> · arxiv.org</p><p>Language models that can rewrite their own weights</p><p><a href="https://news.ycombinator.com/item?id=50577265">272 points · 91 comments</a></p></li><li><p><strong><a href="https://scottaaronson.blog/?p=10344">The stochastic parrots have apparently proved the Riemann Hypothesis</a></strong> · scottaaronson.blog</p><p>Scott Aaronson on the parrots and the Riemann Hypothesis</p><p><a href="https://news.ycombinator.com/item?id=50581084">55 points · 15 comments</a></p></li><li><p><strong><a href="https://ankitg.me/blog/vibecoding-inference-chip/">Vibecoding an inference chip</a></strong> · ankitg.me</p><p>Vibe-coding a working inference chip</p><p><a href="https://news.ycombinator.com/item?id=50579297">64 points · 21 comments</a></p></li><li><p><strong><a href="https://github.com/tristanbuckmaster/navier-stokes/">Finite-time blow-up for the Navier–Stokes equations</a></strong> · github.com</p><p>Finite-time blow-up claimed for Navier-Stokes</p><p><a href="https://news.ycombinator.com/item?id=50576232">203 points · 68 comments</a></p></li><li><p><strong><a href="https://winedroid.soham.sh/demo/">Winedroid – run Android apps without Android (WASM demo)</a></strong> · winedroid.soham.sh</p><p>Run Android apps without Android in a WASM demo</p><p><a href="https://news.ycombinator.com/item?id=50580536">39 points · 18 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Thu, Nov 19</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-19</guid>
