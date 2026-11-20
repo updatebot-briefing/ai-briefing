@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:11:20 GMT</lastBuildDate>
 
     
     
@@ -31,7 +31,17 @@
     
     
     
+    
     <item>
+      <title>Rheinmetall targets humanoid combat robot prototypes within 18 months</title>
+      <link>https://theroboticsmedia.com/article/rheinmetall-humanoid-combat-robot-prototypes-18-months</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-rheinmetall-combat-prototypes</guid>
+      <pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/storage/articles/covers/2026/11/eJ3wVO7sz9pRDgszCWaWVOHQ.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/storage/articles/covers/2026/11/eJ3wVO7sz9pRDgszCWaWVOHQ.jpg" alt="" /></p>
+<p>Rheinmetall CEO Armin Papperger said Nov. 19 the German defense giant will show its first humanoid combat robot prototypes within 15 to 18 months, pointing to a reveal in the first half of 2028. Engineers are already building the machine's upper body.</p><p>Papperger named AI - battlefield judgment and communication with soldiers - as the main bottleneck, not hardware, and gave no cost, unit count or specific role. The move puts a major defense prime on a parallel track to the commercial humanoid race.</p>]]></description>
+    </item>
+<item>
       <title>US visa denials hit Xpeng and Engine AI engineers weeks before CES 2027</title>
       <link>https://theroboticsmedia.com/article/us-visa-denials-xpeng-engine-ai-robot-engineers-ces-2027</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-us-visa-denials-ces-2027</guid>
@@ -718,17 +728,6 @@
 <li>Per <a href="https://roboticaguide.com/lightberry-lumi-fcc-covered-list-exemption-humanoid/">Robotica Guide</a>, Lumi is built on a Unitree G1 base, and Founder Editions are priced at $39,990.</li>
 </ul>
 <p>Sources: <a href="https://lightberry.com/press/dow-approval">Lightberry announcement</a>, <a href="https://humanoidbeat.com/news/lightberry-lumi-dow-conditional-approval-fcc-covered-list-exemption.html">HumanoidBeat</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Elon Musk says "No" to the report that Tesla will open Optimus reservations in December</title>
-      <link>https://tsnmedia.org/tesla-optimus-reservations-report/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-31-musk-denies-december-optimus-reservations</guid>
-      <pubDate>Sun, 01 Nov 2026 00:21:05 GMT</pubDate>
-      <enclosure url="https://tsnmedia.org/wp-content/uploads/2026/10/tesla-optimus-reservations-report-photo.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://tsnmedia.org/wp-content/uploads/2026/10/tesla-optimus-reservations-report-photo.jpg" alt="" />
-<p>Follow-up to yesterday's item: after <a href="https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/">The San Francisco Standard</a> reported, citing Humanoids Summit organizer Modar Alaoui, that Tesla would open Optimus reservations around the December 1 to 2 summit, Elon Musk <a href="https://x.com/elonmusk/status/2116291272604516401">replied "No" on X</a> to a post asking whether Optimus ordering was coming in December.</p>
-<p>Tesla hasn't announced any reservation window, price or delivery date. Musk's one-word reply addressed December ordering specifically, so it doesn't rule out a waitlist at some other time.</p>
-<p>More: <a href="https://tsnmedia.org/tesla-optimus-reservations-report/">TSN</a>, <a href="https://teslanewswire.com/articles/musk-says-no-optimus-orders-december-humanoids-summit-sf-standard-report-oct-31-2026">Tesla News Wire</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
