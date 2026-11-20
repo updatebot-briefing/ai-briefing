@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:10:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:10:43 GMT</lastBuildDate>
 
     
     
@@ -30,7 +30,17 @@
     
     
     
+    
     <item>
+      <title>US visa denials hit Xpeng and Engine AI engineers weeks before CES 2027</title>
+      <link>https://theroboticsmedia.com/article/us-visa-denials-xpeng-engine-ai-robot-engineers-ces-2027</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-us-visa-denials-ces-2027</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/logo.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/logo.png" alt="" /></p>
+<p>Engineers and researchers at Chinese humanoid makers Xpeng and Engine AI have had US visa applications denied weeks before CES 2027, Nikkei Asia reported, amid tighter US scrutiny of technology transfers on national-security grounds.</p><p>The denials hit the technical staff who demo and troubleshoot hardware on the show floor, and analysts call the scale of CES-specific rejections unprecedented. It is unclear whether the denials will be reversed before the show opens in January.</p>]]></description>
+    </item>
+<item>
       <title>Bleu Robotics teaches a Unitree humanoid a factory task in 11 minutes</title>
       <link>https://theroboticsmedia.com/article/bleu-robotics-unitree-humanoid-novares-11-minutes</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-bleu-unitree-11-minutes</guid>
@@ -719,22 +729,6 @@
 <p>Follow-up to yesterday's item: after <a href="https://sfstandard.com/2026/10/30/tesla-optimus-robot-waitlist/">The San Francisco Standard</a> reported, citing Humanoids Summit organizer Modar Alaoui, that Tesla would open Optimus reservations around the December 1 to 2 summit, Elon Musk <a href="https://x.com/elonmusk/status/2116291272604516401">replied "No" on X</a> to a post asking whether Optimus ordering was coming in December.</p>
 <p>Tesla hasn't announced any reservation window, price or delivery date. Musk's one-word reply addressed December ordering specifically, so it doesn't rule out a waitlist at some other time.</p>
 <p>More: <a href="https://tsnmedia.org/tesla-optimus-reservations-report/">TSN</a>, <a href="https://teslanewswire.com/articles/musk-says-no-optimus-orders-december-humanoids-summit-sf-standard-report-oct-31-2026">Tesla News Wire</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Agility Robotics now expects about $465M from its SPAC merger, below June's $620M target, with Nasdaq listing set for Nov 5</title>
-      <link>https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-30-agility-465m-spac</guid>
-      <pubDate>Sat, 31 Oct 2026 00:17:57 +0000</pubDate>
-      <enclosure url="https://www.therobotreport.com/wp-content/uploads/2026/10/Agility_Digit_5.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://www.therobotreport.com/wp-content/uploads/2026/10/Agility_Digit_5.jpg" alt="" /></p>
-<p>Agility Robotics and Churchill Capital Corp XI said on Oct 30 that Agility expects to raise about <strong>$465 million</strong> through its SPAC merger. That is less than the roughly $620 million the company projected at a $2.5 billion valuation when the deal was announced in June.</p>
-<ul>
-<li>About $164 million from Churchill XI's trust account</li>
-<li>About $201 million from a PIPE at $10 per share, led by Foxconn</li>
-<li>$100 million in equity funding already received after the deal was announced</li>
-</ul>
-<p>Churchill XI shareholders vote on Nov 2. If approved, the deal is expected to close Nov 4 and the combined company would start trading on Nasdaq as <strong>AGLT</strong> on Nov 5, pitching itself as the first U.S.-listed pure-play humanoid maker with commercial deployments. Agility says it has more than $300 million in committed Digit 5 orders, with early-access deliveries in the first half of 2027.</p>
-<p>Sources: <a href="https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/">The Robot Report</a> and <a href="https://www.agilityrobotics.com/content/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination">Agility's press release</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
