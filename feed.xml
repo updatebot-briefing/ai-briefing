@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:01:55 GMT</lastBuildDate>
             
     
     
@@ -56,7 +56,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI releases MedChemBench, a 99-problem test of AI medicinal chemistry</title>
+      <link>https://openai.com/index/introducing-medchembench/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-openai-medchembench</guid>
+      <pubDate>Fri, 20 Nov 2026 22:56:32 GMT</pubDate>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""/></p>
+<p>OpenAI introduced MedChemBench on Friday, a benchmark of 99 problems drawn from 117 papers and patents that tests whether models can connect molecular structures with experimental evidence to explain results, compare compounds and predict properties.</p><p>GPT-6.2 Astra earned 84.5% of available credit at the highest reasoning setting, including 95.4% on reconstructing structures — but only about half the credit for selecting compounds and predicting numerical properties. OpenAI cautions the results don't show models can discover new drugs.</p>]]></description>
+    </item>
+<item>
       <title>Thinking Machines ships Inkling 2 Mini, a 26B looped model that runs on a laptop</title>
       <link>https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-inkling-2-mini</guid>
@@ -586,17 +596,6 @@
       <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""></p>
 <p>OpenAI <a href="https://openai.com/index/control-room">described Control Room</a>, a central service that every research inference workload must check with before getting model output. If a person or a misalignment monitor stops a job, its next requests are refused within 35 seconds, even if the job's own code keeps running.</p>
 <p>The system fails closed, so if Control Room goes down or is tampered with, research inference stops; that is live for frontier research workloads now and finishing rollout elsewhere in the next few days. Every agentic research job must also be tied to an approved safety case. It's a concrete safety control aimed at runaway or misaligned training runs, announced on <a href="https://x.com/OpenAI/status/2119913172039868579">X</a>.</p>]]></description>
-    </item>
-<item>
-      <title>AI system running an unreleased Anthropic model proves the 18-year-old Aaronson–Ambainis quantum conjecture</title>
-      <link>https://psi.inc/research/aaronson-ambainis/</link>
-      <description><![CDATA[<p><img src="https://psi.inc/og/ring-arch-2.png" alt=""/></p>
-<p>On November 6, startup <a href="https://psi.inc/research/aaronson-ambainis/">Physical Superintelligence (PSI)</a> said an internal research system running instances of a non-public Anthropic model found a proof of the Aaronson–Ambainis conjecture, open since 2008. The system had a complete proof on the third day of its run, then tightened the bound twice; the final result is formalized in Lean 4 with no placeholders or added axioms and is <a href="https://github.com/physical-superintelligence/aaronson-ambainis">public on GitHub</a>.</p>
-<p>The conjecture implies that quantum algorithms can't get superpolynomial query speedups on most inputs without structure (like a promise on the inputs), so it's a core result in quantum complexity. <a href="https://www.businessinsider.com/anthropic-quantum-computing-breakthrough-aaronson-ambainis-math-physics-psi-2026-11">Business Insider</a> and <a href="https://thequantuminsider.com/2026/11/06/ai-assisted-proof-settles-longstanding-question-about-quantum-speedups/">The Quantum Insider</a> covered it.</p>
-<p>Caveats: the paper isn't peer-reviewed, humans still need to confirm the Lean statement matches the original conjecture, praise from Stanford researchers is relayed by PSI, and outsiders can't rerun the search because the model is unreleased. Why it matters: if it holds up, it's one of the clearest cases yet of AI settling a well-known open problem in theoretical computer science.</p>]]></description>
-      <enclosure url="https://psi.inc/og/ring-arch-2.png" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-07-psi-aaronson-ambainis-proof</guid>
-      <pubDate>Sun, 08 Nov 2026 01:06:13 GMT</pubDate>
     </item>
 </channel>
 </rss>
