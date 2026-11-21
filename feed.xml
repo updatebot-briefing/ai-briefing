@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:00:48 GMT</lastBuildDate>
             
     
     
@@ -54,7 +54,17 @@
     
     
     
+    
     <item>
+      <title>Anthropic mathematician says he and Claude proved the Riemann Hypothesis; Lean checkers confirm</title>
+      <link>https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-claude-riemann-hypothesis</guid>
+      <pubDate>Sat, 21 Nov 2026 14:00:00 GMT</pubDate>
+      <enclosure url="https://scx2.b-cdn.net/gfx/news/2026/the-researcher-consult.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://scx2.b-cdn.net/gfx/news/2026/the-researcher-consult.jpg" alt=""/></p>
+<p>Anthropic mathematician Levent Alpöge announced Friday that he and Claude have proved the Riemann Hypothesis — math's most famous open problem since 1859 — releasing the proof only as 175,187 Lean files, a formalization that would run over 250,000 pages in prose.</p><p>On Saturday, the Lean Focused Research Organization and Mathlib Initiative said the proof checks out, and independent checkers (nanoda, con-leche, lean4lean) accepted the artifact. Hours after the claim, Stanford posted an all-human competing draft of the generalized version. The Clay Institute still lists the problem unsolved pending peer review.</p>]]></description>
+    </item>
+<item>
       <title>AI stocks rout: Nasdaq erases 2026 gains as Nvidia plunges 14% on SEC probe report</title>
       <link>https://particle.news/story/ai-driven-sell-off-erases-tech-gains-and-sends-markets-lower</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-ai-stock-rout-nvidia-sec-probe</guid>
@@ -590,17 +600,6 @@
 <p>Both papers say 2048-bit and larger RSA is not affected, and neither is peer-reviewed yet (<a href="https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws">Interesting Engineering</a>, <a href="https://neuralbrew.ai/en/articles/2026/11/google-deepmind-ai-agents-cryptanalysis-rsa-1024/">Neural Brew</a>). Why it matters: AI agents are now doing real end-to-end cryptanalysis research, which could shrink security margins faster than expected.</p>]]></description>
       <enclosure url="https://cms.interestingengineering.com/wp-content/uploads/2026/11/Logo-onf-Google-DeepMind-on-a-tablet.jpg" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-07-deepmind-ai-agents-rsa-1024</guid>
-      <pubDate>Sun, 08 Nov 2026 01:06:13 GMT</pubDate>
-    </item>
-<item>
-      <title>AI stocks crash: Nasdaq falls 5.5%, its worst day since April 2025, on fears of a data-center slowdown</title>
-      <link>https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html</link>
-      <description><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108519120-1793808570295-gettyimages-2303016501-AFP_D6EW8PV.jpeg?v=1793808620&amp;w=1920&amp;h=1080" alt=""/></p>
-<p>On Thursday, November 5, the Nasdaq fell 5.5% into correction territory, its worst day since the April 2025 tariff shock, while the S&amp;P 500 dropped about 4.4% (<a href="https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html">CNBC</a>, <a href="https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses">The Guardian</a>). AI infrastructure names led the drop: the Magnificent Seven lost more than $1 trillion in market value, Nvidia fell more than 9%, and AMD, Micron and Applied Materials posted double-digit losses (<a href="https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html">CNBC</a>).</p>
-<p>Investors tied the selloff to Democratic midterm wins and expected curbs on AI data centers, plus doubts about whether huge AI spending will pay off; Asian and European markets fell on Friday as well (<a href="https://www.bbc.com/news/articles/cmn04705rd8jo">BBC</a>).</p>
-<p>Why it matters: the market shock is already squeezing frontier-lab financing, with OpenAI's round coming in smaller than planned and Anthropic's IPO valuation being talked down.</p>]]></description>
-      <enclosure url="https://image.cnbcfm.com/api/v1/image/108519120-1793808570295-gettyimages-2303016501-AFP_D6EW8PV.jpeg?v=1793808620&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-07-ai-selloff-nasdaq-5-5pct</guid>
       <pubDate>Sun, 08 Nov 2026 01:06:13 GMT</pubDate>
     </item>
 </channel>
