@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:00:14 GMT</lastBuildDate>
             
     
     
@@ -53,7 +53,17 @@
     
     
     
+    
     <item>
+      <title>AI stocks rout: Nasdaq erases 2026 gains as Nvidia plunges 14% on SEC probe report</title>
+      <link>https://particle.news/story/ai-driven-sell-off-erases-tech-gains-and-sends-markets-lower</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-ai-stock-rout-nvidia-sec-probe</guid>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/uploads.mongoosehq.com/url/media/202221927/d8cb45323d2b65c3bb1df140b54df2ae322267d99b648c9890688755505b650a" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://storage.googleapis.com/uploads.mongoosehq.com/url/media/202221927/d8cb45323d2b65c3bb1df140b54df2ae322267d99b648c9890688755505b650a" alt=""/></p>
+<p>U.S. markets plunged Friday, Nov 20: the Nasdaq fell 5.28%, wiping out its 2026 gains, while the S&amp;P 500 dropped 3.7% into correction. Nvidia fell about 14% — its worst day in nearly two years — after Reuters reported SEC enforcement staff are examining its accounting practices; neither the SEC nor Nvidia has confirmed the probe.</p><p>Anthropic gave back 8.5% on its second day of trading, closing at $88.91 after dipping to $83.05 intraday, just above its $83 IPO price. The sell-off spread across chipmakers and into Asian and European markets.</p>]]></description>
+    </item>
+<item>
       <title>Senators introduce bipartisan bill requiring public companies to disclose AI risks after Anthropic IPO</title>
       <link>https://oossa.com/en/anthropic-s-ipo-sparks-new-ai-oversight-push-in-congress</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-20-senators-ai-disclosure-bill</guid>
@@ -592,17 +602,6 @@
       <enclosure url="https://image.cnbcfm.com/api/v1/image/108519120-1793808570295-gettyimages-2303016501-AFP_D6EW8PV.jpeg?v=1793808620&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-07-ai-selloff-nasdaq-5-5pct</guid>
       <pubDate>Sun, 08 Nov 2026 01:06:13 GMT</pubDate>
-    </item>
-<item>
-      <title>Bloomberg: OpenAI closes about $11 billion at a $1.25 trillion valuation</title>
-      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
-      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" alt=""/></p>
-<p>On November 6, <a href="https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/">TechCrunch</a> and <a href="https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation">The Verge</a> reported that <a href="https://www.investing.com/news/stock-market-news/openai-secures-11-billion-funding-at-125-trillion-valuation-bloomberg-news-reports-5009182">Bloomberg</a>, citing people familiar with the matter, said OpenAI has closed about $11 billion in new funding at a $1.25 trillion valuation—an initial slice of a round that could still grow toward roughly $20 billion.</p>
-<p>That is well below the ~$30 billion / ~$1.4 trillion targets Bloomberg had previously reported for the raise, after a tech selloff and midterm backlash against data centers. OpenAI has not publicly confirmed the figures.</p>
-<p>Why it matters: even the clearest AI winner is taking a smaller, cheaper round than planned, while Anthropic’s IPO window is also getting talked down—a sign the funding climate for frontier labs has tightened.</p>]]></description>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-06-openai-11b-125t-valuation</guid>
-      <pubDate>Sat, 07 Nov 2026 01:15:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
