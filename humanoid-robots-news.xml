@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 21:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:13:20 GMT</lastBuildDate>
 
     
     
@@ -35,7 +35,15 @@
     
     
     
+    
     <item>
+      <title>Foundation unveils Phantom MKII military humanoid with 91 kg carry capacity</title>
+      <link>https://root-nation.com/en/news-en/it-news-en/en-us-foundation-phantom-mkii-humanoid-robot/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-21-foundation-phantom-mkii</guid>
+      <pubDate>Sat, 21 Nov 2026 09:52:32 GMT</pubDate>
+      <description><![CDATA[<p>Foundation Future Industries <a href="https://root-nation.com/en/news-en/it-news-en/en-us-foundation-phantom-mkii-humanoid-robot/">unveiled its Phantom MKII humanoid</a> on Nov. 21, a military-logistics robot the company says can carry up to 91 kg while walking, with a sealed body for rain, snow and dust and a Cortex II system that learns tasks from as few as 60 human demonstrations. All performance figures are the company's own claims, not independently verified.</p><p>The reveal follows a rocky year: reports questioned how actively its earlier robots were used in Ukraine, and CNBC and 36Kr reported cash-flow problems, including missed payroll in late October. Production is targeted for 2027.</p>]]></description>
+    </item>
+<item>
       <title>Nestlé opens Deep Tech Center with Boston Dynamics and Microsoft</title>
       <link>https://swissobserver.com/news/nestle-deep-tech-centre-orbe/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-nestle-deep-tech-boston-dynamics</guid>
@@ -698,21 +706,6 @@
 <li>It carries a 275 TOPS computer with LiDAR, a depth camera and a wide-angle camera. Capability details are the company's own and not independently tested.</li>
 </ul>
 <p>Sources: <a href="https://www.globaltimes.cn/page/202611/1373413.shtml">Global Times</a>, <a href="https://robotsbeat.com/hangzhou-marathon-2026-humanoid-traffic-robots-police/">RobotsBeat</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Foxconn says more than 10 humanoid robots are already working at its Texas sites, built on Nvidia GR00T</title>
-      <link>https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-01-foxconn-texas-humanoids-gr00t</guid>
-      <pubDate>Mon, 02 Nov 2026 01:21:10 GMT</pubDate>
-      <enclosure url="https://dam.mediacorp.sg/image/upload/s--5uoxdtIS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-30T083840Z_2_LYNXNPEM9T0J6_RTROPTP_3_TAIWAN-FOXCONN.JPG?itok=X3PVYbOL" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://dam.mediacorp.sg/image/upload/s--5uoxdtIS--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-30T083840Z_2_LYNXNPEM9T0J6_RTROPTP_3_TAIWAN-FOXCONN.JPG?itok=X3PVYbOL" alt=""></p>
-<p>Brand Cheng, chairman of Foxconn Industrial Internet (FII), told Reuters on October 30 that more than 10 humanoid robots are deployed for internal use at Foxconn's Texas facilities, where it builds AI servers for Nvidia, and that the rollout will extend beyond Texas.</p>
-<ul>
-<li>The robots are wheeled, not legged. FII introduced two models in October: one that lifts things vertically and one that bends at the waist for assembly plus loading and unloading.</li>
-<li>FII is building the robots' AI on Nvidia's Isaac GR00T foundation model.</li>
-<li>Foxconn hasn't shared costs, specific tasks or a rollout timetable; the deployment count is the company's own figure.</li>
-</ul>
-<p>Sources: <a href="https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396">CNA (Reuters)</a>, <a href="https://humanoidbeat.com/news/foxconn-humanoid-robots-texas-deployment-gr00t.html">HumanoidBeat</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
