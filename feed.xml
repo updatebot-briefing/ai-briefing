@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:02:43 GMT</lastBuildDate>
             
     
     
@@ -57,7 +57,17 @@
     
     
     
+    
     <item>
+      <title>Tencent publishes Hy4's 770B weights for download</title>
+      <link>https://technode.com/2026/11/20/tencent-releases-hy4-model-weights-with-million-token-context/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-tencent-hy4-open-weights</guid>
+      <pubDate>Fri, 20 Nov 2026 14:14:26 GMT</pubDate>
+      <enclosure url="https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261014-cn-365024.jpg?fit=1920%2C1280&amp;ssl=1" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/technode.com/wp-content/uploads/2026/10/feed-20261014-cn-365024.jpg?fit=1920%2C1280&amp;ssl=1" alt=""/></p>
+<p>Tencent published the full weights of Hy4, its 770-billion-parameter flagship, on Friday — the instruction-tuned model, an FP8 build and the pretrained base — on Hugging Face, ModelScope and GitCode, about two weeks after the model reached Tencent's API.</p><p>The mixture-of-experts model activates 49 billion parameters per token, handles text, image and video, and supports a roughly 1-million-token context. It ships under Tencent's custom Hy License, which adds a commercial gate for large model-as-a-service operators above $50M revenue or 100M monthly users.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI releases MedChemBench, a 99-problem test of AI medicinal chemistry</title>
       <link>https://openai.com/index/introducing-medchembench/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-openai-medchembench</guid>
@@ -586,16 +596,6 @@
       <description><![CDATA[<p><img src="https://media.datacenterdynamics.com/media/images/Anthropic.2e16d0ba.fill-1200x630.jpg" alt=""></p>
 <p>Anthropic took over about $3.4 billion of Caterpillar gas-generator orders originally placed by Texas supplier OnePWR Solutions, securing up to 1.7 GW of power for its data centers, according to a Financial Times report covered by <a href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/">TechCrunch</a> and <a href="https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html">CNBC</a>. The deal reportedly closed in late September; Anthropic did not buy OnePWR, which will help install the equipment.</p>
 <p>It's a shift for a lab that has mostly rented compute, and <a href="https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/">DCD</a> calls it the largest known single power-equipment purchase by a frontier lab. Anthropic hasn't publicly commented, so details rest on the FT's sourcing.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI deploys Control Room to halt any research model workload within 35 seconds</title>
-      <link>https://openai.com/index/control-room</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-09-openai-control-room</guid>
-      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
-      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/7CRGR1hiay1UfPVqjUSdAk/da9d8e1e61347fdae6d40e0a72962731/introducing-control-room-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""></p>
-<p>OpenAI <a href="https://openai.com/index/control-room">described Control Room</a>, a central service that every research inference workload must check with before getting model output. If a person or a misalignment monitor stops a job, its next requests are refused within 35 seconds, even if the job's own code keeps running.</p>
-<p>The system fails closed, so if Control Room goes down or is tampered with, research inference stops; that is live for frontier research workloads now and finishing rollout elsewhere in the next few days. Every agentic research job must also be tied to an approved safety case. It's a concrete safety control aimed at runaway or misaligned training runs, announced on <a href="https://x.com/OpenAI/status/2119913172039868579">X</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
