@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 21:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:12:46 GMT</lastBuildDate>
 
     
     
@@ -34,7 +34,17 @@
     
     
     
+    
     <item>
+      <title>Nestlé opens Deep Tech Center with Boston Dynamics and Microsoft</title>
+      <link>https://swissobserver.com/news/nestle-deep-tech-centre-orbe/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-nestle-deep-tech-boston-dynamics</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:48 GMT</pubDate>
+      <enclosure url="https://swissobserver.fsn1.your-objectstorage.com/headlines/nestle-deep-tech-centre-orbe.jpg?v=1795197677670" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://swissobserver.fsn1.your-objectstorage.com/headlines/nestle-deep-tech-centre-orbe.jpg?v=1795197677670" alt="" /></p>
+<p>Nestlé <a href="https://swissobserver.com/news/nestle-deep-tech-centre-orbe/">opened its Deep Tech Center in Orbe, Switzerland</a>, on Nov. 20, with about 60 staff developing AI, smart sensors and robotics for food production and products, from adaptive coffee machines to factory automation.</p><p>Microsoft and Boston Dynamics have both confirmed partnerships at the site, and Google is in late-stage talks, according to the Wall Street Journal. Nestlé's long-term aim is factory lines that largely run themselves, with Orbe pilots rolling out to plants worldwide.</p>]]></description>
+    </item>
+<item>
       <title>1X says NEO humanoid ships to developers and some consumers in December</title>
       <link>https://robottoday.com/industry-briefing/1x-to-ship-neo-to-developers-and-some-consumers-in-december-with-weekly-leaderboard-plans/18559</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-1x-neo-december-shipping</guid>
@@ -703,21 +713,6 @@
 <li>Foxconn hasn't shared costs, specific tasks or a rollout timetable; the deployment count is the company's own figure.</li>
 </ul>
 <p>Sources: <a href="https://www.channelnewsasia.com/business/foxconn-working-new-tie-up-openai-says-there-no-ai-bubble-6506396">CNA (Reuters)</a>, <a href="https://humanoidbeat.com/news/foxconn-humanoid-robots-texas-deployment-gr00t.html">HumanoidBeat</a>.</p>]]></description>
-    </item>
-<item>
-      <title>UK gets its first home insurance policy for domestic humanoid robots (Adrian Flux and Tokio Marine HCC)</title>
-      <link>https://www.insurancebusinessmag.com/uk/news/property-insurance/adrian-flux-and-tmhcc-launch-uk-home-cover-for-humanoid-robots-595551.aspx</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-01-uk-humanoid-home-insurance</guid>
-      <pubDate>Mon, 02 Nov 2026 01:21:10 GMT</pubDate>
-      <enclosure url="https://cdn-res.keymedia.com/cms/images/us/018/0382_639289260796630525.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn-res.keymedia.com/cms/images/us/018/0382_639289260796630525.png" alt=""></p>
-<p>Broker Adrian Flux and underwriter Tokio Marine HCC International have launched what they call the UK's first household insurance policy for domestic humanoid robots, sold as part of Adrian Flux home cover. They say it appears to be the world's first policy that protects the home as well as the robot.</p>
-<ul>
-<li>Covers accidental damage to and theft of the robot, sudden damage it causes to the home or belongings (up to &pound;5,000), and personal liability if it injures someone or damages property.</li>
-<li>Also pays for emergency recovery or safe disablement after a sudden malfunction.</li>
-<li>Premiums are quoted case by case; eligible models and liability limits aren't published. The insurers expect domestic robots in UK homes from 2027.</li>
-</ul>
-<p>Sources: <a href="https://www.insurancebusinessmag.com/uk/news/property-insurance/adrian-flux-and-tmhcc-launch-uk-home-cover-for-humanoid-robots-595551.aspx">Insurance Business</a>, <a href="https://www.tmhcc.com/en/news-and-articles/company-news/tokio-marine-hcc-international-and-adrian-flux-partner-to-launch-domestic-humanoid-robot-coverage">Tokio Marine HCC announcement</a>, <a href="https://www.insurancetimes.co.uk/news/tokio-marine-teams-up-with-broker-on-first-humanoid-robot-cover/1460129.article">Insurance Times</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
