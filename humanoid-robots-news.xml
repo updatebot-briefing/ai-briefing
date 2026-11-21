@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:12:12 GMT</lastBuildDate>
 
     
     
@@ -33,7 +33,17 @@
     
     
     
+    
     <item>
+      <title>1X says NEO humanoid ships to developers and some consumers in December</title>
+      <link>https://robottoday.com/industry-briefing/1x-to-ship-neo-to-developers-and-some-consumers-in-december-with-weekly-leaderboard-plans/18559</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-1x-neo-december-shipping</guid>
+      <pubDate>Fri, 20 Nov 2026 09:24:40 GMT</pubDate>
+      <enclosure url="https://robottoday.com/uploads/2026/11/0770963495122577.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://robottoday.com/uploads/2026/11/0770963495122577.webp" alt="" /></p>
+<p>1X founder and CEO Bernt Børnich said NEO, its home humanoid, will begin shipping to developers and “some consumers” in December, in a talk at Modal's Runtime 2026 conference on Oct. 1, <a href="https://robottoday.com/industry-briefing/1x-to-ship-neo-to-developers-and-some-consumers-in-december-with-weekly-leaderboard-plans/18559">reported Nov. 20</a>. No exact date or quantities were given.</p><p>Børnich pitched NEO as both a household robot and an open developer platform, with sensor-matched data rigs, open APIs and a weekly leaderboard streamed on Twitch. He predicted 2027, not 2026, will be the big year for physical AI.</p>]]></description>
+    </item>
+<item>
       <title>Realbotix launches Series 1 humanoid, caps full-body run at 25 units for $59,950</title>
       <link>https://theroboticsmedia.com/article/realbotix-series-1-humanoid-robot-launch-25-units</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-20-realbotix-series-1</guid>
@@ -708,20 +718,6 @@
 <li>Premiums are quoted case by case; eligible models and liability limits aren't published. The insurers expect domestic robots in UK homes from 2027.</li>
 </ul>
 <p>Sources: <a href="https://www.insurancebusinessmag.com/uk/news/property-insurance/adrian-flux-and-tmhcc-launch-uk-home-cover-for-humanoid-robots-595551.aspx">Insurance Business</a>, <a href="https://www.tmhcc.com/en/news-and-articles/company-news/tokio-marine-hcc-international-and-adrian-flux-partner-to-launch-domestic-humanoid-robot-coverage">Tokio Marine HCC announcement</a>, <a href="https://www.insurancetimes.co.uk/news/tokio-marine-teams-up-with-broker-on-first-humanoid-robot-cover/1460129.article">Insurance Times</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Meta reportedly built a humanoid prototype called Max with China's Fourier in three months, and Max 2 is underway (report)</title>
-      <link>https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-10-31-meta-fourier-max-humanoid-prototype</guid>
-      <pubDate>Sun, 01 Nov 2026 00:21:05 GMT</pubDate>
-      <description><![CDATA[<p><strong>Unconfirmed, single-source report.</strong> According to <a href="https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push">The Information</a>, Meta worked with Chinese humanoid maker Fourier to build a prototype humanoid, internally called Max, in roughly three months. Reuters said it could not immediately verify the report.</p>
-<ul>
-<li>Max is about 1.5 m tall, weighs about 106 lb (48 kg), runs on Nvidia's Jetson Thor chip, and has a face display, speakers and five-fingered hands.</li>
-<li>Meta's VP of product for robotics, Li-Chen Miller, reportedly spent almost two months at Fourier's Shanghai factory; Max was shown to employees at an internal robotics summit in late August.</li>
-<li>A second version, Max 2, started in September with a redesigned torso, better hands, a projector and stair-navigation sensors.</li>
-<li>Meta frames the robots as a physical body for its Muse AI agent doing household tasks, but told The Information the work is internal research with no plans to sell units.</li>
-</ul>
-<p>Coverage: <a href="https://theroboticsmedia.com/article/meta-fourier-humanoid-robot-max">The Robotics Media</a>, <a href="https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306">Investing.com</a>, <a href="https://aiweekly.co/alerts/meta-built-humanoid-prototype-max-with-fourier-in-three-months">AI Weekly</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
