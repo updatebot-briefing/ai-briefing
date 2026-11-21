@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:07:04 GMT</lastBuildDate>
+<item>
+<title>Community Grok Bot Directory lists ~1,430 bots as Musk touts bot-built companies</title>
+<link>https://i10x.ai/news/grok-bot-directory-community-hub-custom-grok-bots</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-21-grok-bot-directory</guid>
+<pubDate>Fri, 20 Nov 2026 16:00:00 GMT</pubDate>
+<enclosure url="https://i10x.ai/news/wp-content/uploads/2026/11/grok-bot-directory-community-hub-custom-grok-bots-title.webp" type="image/webp" length="0"/>
+<description><![CDATA[<p><img src="https://i10x.ai/news/wp-content/uploads/2026/11/grok-bot-directory-community-hub-custom-grok-bots-title.webp" alt=""/></p>
+<p>The community-run Grok Bot Directory at grok-bot.directory lets anyone browse, add and submit custom Grok Bots and apps, ranked by how often people add them. It took off Nov 18 when a SpaceXSI engineer shared it, and by Nov 20 its sitemap listed about 1,430 bot pages and 6,762 app entries.</p><p>Top bots include a live bot map, an animator and a privacy scrubber. It is separate from SpaceXAI's official curated Marketplace, and listings are not endorsed — a bot can act in your connected accounts, so read what it does before adding it.</p>]]></description>
+</item>
 <item>
 <title>Hermes Agent v0.23.3 rolls up ~370 PRs; prompt-cache lifecycle and GPT-6.2 models</title>
 <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.3</link>
@@ -566,14 +575,6 @@
       <pubDate>Mon, 02 Nov 2026 01:17:04 GMT</pubDate>
       <enclosure url="https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
       <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&w=1920&h=1080" alt=""/><p>Amazon CEO Andy Jassy told analysts on the Q3 earnings call that few customers shop through outside AI agents yet because "the experience is still not great," and that Amazon's own <a href="https://thenextweb.com/news/alexa-for-shopping-jassy-ai-shopping-agents-meta-muse">Alexa for Shopping</a> will be "the primary shopping agent customers use to shop Amazon." He didn't name Muse, which Amazon has blocked since September.</p><p>Amazon says more than 400 million customers used Alexa for Shopping in the past year and that US users spend 50% more per order. Meta, meanwhile, says shopping is the top use of Muse, with Shopify, Walmart and Best Buy signed on as partners.</p><p>A <a href="https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html">CNBC analysis on Nov 1</a> cites an audit of 51 large US retailers that found only five, including Amazon, explicitly restrict AI agents, while 37 block them mostly by accident through old anti-scraper rules.</p>]]></description>
-    </item>
-<item>
-      <title>DeepSeek open-sources dsh-superagent, a research prototype of an always-on agent that takes work from GitHub and chat</title>
-      <link>https://github.com/deepseek-ai/dsh-superagent-prototype</link>
-      <guid isPermaLink="false">updatebot-agents-2026-11-01-deepseek-dsh-superagent</guid>
-      <pubDate>Mon, 02 Nov 2026 01:17:04 GMT</pubDate>
-      <enclosure url="https://opengraph.githubassets.com/9ae660a42d6d9c96488d65e47216194140bc40f535cd09b1a45a757322382d3e/deepseek-ai/dsh-superagent-prototype" type="image/jpeg" length="0"/>
-      <description><![CDATA[<img src="https://opengraph.githubassets.com/9ae660a42d6d9c96488d65e47216194140bc40f535cd09b1a45a757322382d3e/deepseek-ai/dsh-superagent-prototype" alt=""/><p>DeepSeek's Harness team published <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">dsh-superagent</a> on GitHub on Oct 31 under the MIT license. It is a proactive coding agent for one repository that listens to GitHub and, optionally, Feishu, opens a work item when an allowed person asks, works in its own session and directory, and replies with results such as a pull request. A web panel shows what needs a person.</p><p>The README says it is a research prototype, "not an official DeepSeek product," and not the same as DeepSeek's internal version. It runs on your own machine through DeepSeek Harness and needs a dedicated GitHub account for the agent, per its <a href="https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/006-deployment.md">deployment guide</a>.</p><p>Posts on X are pitching it as an open-source challenger to Grok Bot, Muse, dots and Claude Duet, but for now it is a team coding agent, not a consumer personal agent. It passed about 4,100 stars within a day.</p>]]></description>
     </item>
 </channel>
 </rss>
