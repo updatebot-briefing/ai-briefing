@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 21:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:13:56 GMT</lastBuildDate>
+    
     
     
     
@@ -19,6 +20,14 @@
     
     
     <item>
+      <title>Hacker News top 10 — Sat, Nov 21</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 21:10:27 GMT</pubDate>
+      <enclosure url="https://opengraph.githubassets.com/00a621ccf1c6dfd67622ea69cd3cbfc74b1af090076b2bd2a67c8d73fa895742/ShinMegamiBoson/lookatmyquant" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://opengraph.githubassets.com/00a621ccf1c6dfd67622ea69cd3cbfc74b1af090076b2bd2a67c8d73fa895742/ShinMegamiBoson/lookatmyquant" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Saturday, Nov 21, 2026, in front-page order.</p><ol><li><p><strong><a href="https://github.com/ShinMegamiBoson/lookatmyquant">Inkling-2-Mini in 5.4 GB Memory</a></strong> · github.com</p><p>Inkling-2-Mini running in 5.4 GB of memory</p><p><a href="https://news.ycombinator.com/item?id=50591853">234 points · 49 comments</a></p></li><li><p><strong><a href="https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib">Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'</a></strong> · theguardian.com</p><p>Pill for pancreatic cancer hailed as biggest breakthrough in decades</p><p><a href="https://news.ycombinator.com/item?id=50582069">127 points · 38 comments</a></p></li><li><p><strong><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Lean verification of the Riemann Hypothesis</a></strong> · leanprover-community.github.io</p><p>Lean verification of the Riemann Hypothesis</p><p><a href="https://news.ycombinator.com/item?id=50589618">637 points · 501 comments</a></p></li><li><p><strong><a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">Detonating a pile of lead azide</a></strong> · science.org</p><p>Detonating a huge pile of lead azide, explained</p><p><a href="https://news.ycombinator.com/item?id=50588982">432 points · 288 comments</a></p></li><li><p><strong><a href="https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria">Brazil's tax authority open-sources its tax calculator on GitHub under MIT</a></strong> · gov.br</p><p>Brazil's tax authority open-sources its tax calculator under MIT</p><p><a href="https://news.ycombinator.com/item?id=50532613">610 points · 200 comments</a></p></li><li><p><strong><a href="https://jespino.github.io/gopgext/">PostgreSQL Extensions in Go</a></strong> · jespino.github.io</p><p>PostgreSQL extensions written in Go</p><p><a href="https://news.ycombinator.com/item?id=50591260">85 points · 9 comments</a></p></li><li><p><strong><a href="https://blog.tymscar.com/posts/studiodisplayethernet/">My monitor was cutting my download speed by 75%</a></strong> · blog.tymscar.com</p><p>A monitor was cutting download speed by 75%</p><p><a href="https://news.ycombinator.com/item?id=50587875">383 points · 196 comments</a></p></li><li><p><strong><a href="https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body">Getting the mind to steer the body to steer you</a></strong> · notnottalmud.substack.com</p><p>Getting the mind to steer the body to steer you</p><p><a href="https://news.ycombinator.com/item?id=50583028">23 points · 9 comments</a></p></li><li><p><strong><a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">Hurried Announcement: Alessandro Masullo GRH</a></strong> · math216.wordpress.com</p><p>Claimed proof of the Generalized Riemann Hypothesis announced</p><p><a href="https://news.ycombinator.com/item?id=50579568">2352 points · 1137 comments</a></p></li><li><p><strong><a href="https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html">Tropical Rainforests Species may be surprisingly young</a></strong> · phys.org</p><p>Tropical rainforest species may be surprisingly young</p><p><a href="https://news.ycombinator.com/item?id=50532417">20 points · 10 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Fri, Nov 20</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-20</guid>
