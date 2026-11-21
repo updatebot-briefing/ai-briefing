@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:01:22 GMT</lastBuildDate>
             
     
     
@@ -55,7 +55,15 @@
     
     
     
+    
     <item>
+      <title>Thinking Machines ships Inkling 2 Mini, a 26B looped model that runs on a laptop</title>
+      <link>https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-inkling-2-mini</guid>
+      <pubDate>Fri, 20 Nov 2026 20:00:00 GMT</pubDate>
+      <description><![CDATA[<p>Thinking Machines Lab released Inkling 2 Mini on Friday, an open-weights multimodal model that loops its middle layers three times per token instead of adding parameters — 26.4 billion total, 3.4 billion active — in a ~20GB checkpoint that runs offline on a 32GB MacBook Pro or a single desktop GPU.</p><p>It ties Alibaba's Qwen3.8-27B on the Artificial Analysis Intelligence Index and leads sub-100B open models on agentic coding tests, scoring 79.2% on SWE-bench Verified. Weights are Apache 2.0 on Hugging Face, with a 1M-token context window.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic mathematician says he and Claude proved the Riemann Hypothesis; Lean checkers confirm</title>
       <link>https://phys.org/news/2026-11-anthropic-claude-math-greatest-riddle.html</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-claude-riemann-hypothesis</guid>
@@ -588,18 +596,6 @@
 <p>Caveats: the paper isn't peer-reviewed, humans still need to confirm the Lean statement matches the original conjecture, praise from Stanford researchers is relayed by PSI, and outsiders can't rerun the search because the model is unreleased. Why it matters: if it holds up, it's one of the clearest cases yet of AI settling a well-known open problem in theoretical computer science.</p>]]></description>
       <enclosure url="https://psi.inc/og/ring-arch-2.png" type="image/jpeg" length="0"/>
       <guid isPermaLink="false">updatebot-ainews-2026-11-07-psi-aaronson-ambainis-proof</guid>
-      <pubDate>Sun, 08 Nov 2026 01:06:13 GMT</pubDate>
-    </item>
-<item>
-      <title>Google DeepMind: human-guided AI agents find two weaknesses in legacy 1024-bit RSA</title>
-      <link>https://x.com/GoogleDeepMind/status/2118755418675765656</link>
-      <description><![CDATA[<p><img src="https://cms.interestingengineering.com/wp-content/uploads/2026/11/Logo-onf-Google-DeepMind-on-a-tablet.jpg" alt=""/></p>
-<p>On November 6, <a href="https://x.com/GoogleDeepMind/status/2118755418675765656">Google DeepMind announced</a> two cryptanalysis working papers, co-authored with researchers including Nadia Heninger (UC San Diego/Inria) and Emmanuel Thomé (Inria), in which human-guided AI agents improved attacks on obsolete 1024-bit RSA.</p>
-<ul><li>A signature-forgery result for PKCS#1 v1.5 padding, which DeepMind frames as roughly 1,600x more efficient at 1024 bits (a theoretical estimate). Two cooperating agents also designed, ran and debugged a 1024-bit recomputation in under four days at 3.5x lower cost than the original.</li>
-<li>A "fan factories" batch-factoring method that, after one-time precomputation, cuts the cost of each extra 1024-bit key about 30x versus the best comparable method (asymptotic, not implemented).</li></ul>
-<p>Both papers say 2048-bit and larger RSA is not affected, and neither is peer-reviewed yet (<a href="https://interestingengineering.com/ai-robotics/google-deepmind-agents-expose-older-encryption-flaws">Interesting Engineering</a>, <a href="https://neuralbrew.ai/en/articles/2026/11/google-deepmind-ai-agents-cryptanalysis-rsa-1024/">Neural Brew</a>). Why it matters: AI agents are now doing real end-to-end cryptanalysis research, which could shrink security margins faster than expected.</p>]]></description>
-      <enclosure url="https://cms.interestingengineering.com/wp-content/uploads/2026/11/Logo-onf-Google-DeepMind-on-a-tablet.jpg" type="image/jpeg" length="0"/>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-07-deepmind-ai-agents-rsa-1024</guid>
       <pubDate>Sun, 08 Nov 2026 01:06:13 GMT</pubDate>
     </item>
 </channel>
