@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 21:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:10:53 GMT</lastBuildDate>
 
     
     
@@ -37,7 +37,17 @@
     
     
     
+    
     <item>
+      <title>Dozens of AgiBot G2 humanoids reportedly working Lens Technology phone test lines</title>
+      <link>https://robottoday.com/industry-briefing/agibot-g2-robots-reportedly-handle-devices-on-lens-technology-smartphone-test-lines/18648</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-22-agibot-g2-lens-technology</guid>
+      <pubDate>Sun, 22 Nov 2026 07:10:41 GMT</pubDate>
+      <enclosure url="https://robottoday.com/uploads/2026/11/7263383577575403.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://robottoday.com/uploads/2026/11/7263383577575403.png" alt="" /></p>
+<p>Dozens of AgiBot G2 humanoids are reported to be operating on Lens Technology's smartphone test lines, loading devices and interacting with MMI, ANT and CAM test equipment.</p><p>The deployment is unconfirmed: neither AgiBot nor Lens Technology has confirmed it, and the reports give no performance data, deployment date or rollout plans. Lens also assembles AgiBot humanoids.</p>]]></description>
+    </item>
+<item>
       <title>NJIT unveils PHD-Hand, a 3D-printable dexterous humanoid hand for under $650</title>
       <link>https://www.humanoidsdaily.com/news/njit-phd-hand-3d-printed-linkage-driven-humanoid-hand</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-19-njit-phd-hand</guid>
@@ -694,13 +704,6 @@
       <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
       <enclosure url="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" alt=""/></p><p>The CMG World Robot Mount Tai Challenge in Tai'an, Shandong, sent humanoid, quadruped and exoskeleton robots up a 3.9 km stretch of ancient trail with about 3,100 stone steps and 600 m of climb on November 2.</p><p>Legged robots dominated: according to X's news summary, a Unitree quadruped from Beijing Lingyi Technology won the legged speed race in 43 minutes 41 seconds, and robot dogs outpaced the humanoids. Some quadrupeds also carried supplies up the route.</p><p>Sources: <a href="https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge">Euronews</a>, <a href="https://x.com/i/trending/2117155779103113602">X news summary</a>.</p>]]></description>
-    </item>
-<item>
-      <title>ID Logistics and Terra Robotics team up to put humanoids into German warehouses, with a live pilot planned within six months</title>
-      <link>https://theroboticsmedia.com/article/id-logistics-terra-robotics-humanoid-pilot-germany</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-id-logistics-terra-robotics-humanoid-pilot</guid>
-      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
-      <description><![CDATA[<p>Contract logistics firm ID Logistics (450 sites worldwide, 17 in Germany) and Terra Robotics, a multi-brand integrator and Unitree distributor, formed a strategic partnership on November 1 to move humanoids from demos to real warehouse work.</p><ul><li>Two Unitree G1 EDU6 robots, nicknamed IDA and Heinz, already sort cardboard boxes from shipping bags using five-fingered tactile hands.</li><li>The partners will pick one of four or five candidate tasks and run a live pilot at an ID Logistics site within six months, possibly with a UBTECH or Unitree robot.</li><li>No financial terms or pilot site were disclosed.</li></ul><p>Sources: <a href="https://theroboticsmedia.com/article/id-logistics-terra-robotics-humanoid-pilot-germany">The Robotics Media</a>, <a href="https://www.logpr.de/wp-content/uploads/2026/11/PM_IDL_Terra_DE.pdf">ID Logistics press release (German PDF)</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
