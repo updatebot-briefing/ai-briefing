@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 21:00:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:01:29 GMT</lastBuildDate>
             
     
     
@@ -60,7 +60,17 @@
     
     
     
+    
     <item>
+      <title>OpenRouter off-boards three providers after Dragos canary research catches prompt theft</title>
+      <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-22-openrouter-offboards-providers</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://openrouter.ai/og.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://openrouter.ai/og.png" alt=""/></p>
+<p>OpenRouter said on Nov 22 it has off-boarded three inference providers, removed 125 endpoints from Zero Data Retention eligibility and notified potentially affected customers, after Dragos researchers caught providers copying, keeping or losing customer prompts.</p><p>Dragos planted unique canary secrets in about two million prompts sent between July and November and watched where they surfaced. OpenRouter says its own systems were not breached, and it will now run similar canary checks itself. <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">Read OpenRouter's announcement</a>.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI: ChatGPT and API failed at up to 75% for 211 minutes after auth database replicas crashed</title>
       <link>https://theapexwire.com/ai/openai-chatgpt-outage-nov21-postgres-failure/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-22-openai-outage-211-min</guid>
@@ -585,17 +595,6 @@
 <li>Anthropic's table shows Fable 5.2 ahead of Opus 5.5, GPT-6 Astra and Gemini 4 Carbon on most tests, including 49.1% on FrontierCode 2.0, 69.9% on FrontierSWE v2 and 74.2% on Humanity's Last Exam with tools.</li>
 <li>In prerelease testing, 1,000 Fable 5.2 agents formalized Fermat's Last Theorem in Lean in 30 hours, and the model solved two open black-hole physics problems.</li></ul>
 <p>Anthropic says it deliberately held back AI-R&amp;D capabilities like kernel optimization to about Opus 5.5 level. Announced on X by <a href="https://x.com/AnthropicAI/status/2119867707546071125">@AnthropicAI</a>; Hacker News and Artificial Analysis coverage put it at the top of current leaderboards.</p>]]></description>
-    </item>
-<item>
-      <title>Nvidia's board opens an independent investigation after reports Jensen Huang was targeted by Chinese intelligence</title>
-      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-09-nvidia-board-probe-jensen-huang</guid>
-      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
-      <enclosure url="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-alice-huang-rs-1ce3dd.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261109-alice-huang-rs-1ce3dd.jpg" alt=""></p>
-<p>Nvidia's board <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">said on November 8</a> that a committee of independent directors, with outside counsel, will investigate reporting that CEO Jensen Huang was the target of a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised and that it still has confidence in Huang.</p>
-<p>According to <a href="https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148">NBC News</a>, the New York Times and Financial Times reported that Huang had a relationship with Alice Huang, a Chinese businesswoman whose company bought Nvidia chips and who US intelligence believes was recruited by China's spy agency; Huang admitted the affair in a memo to staff, and China called the allegation a smear.</p>
-<p>It matters because Nvidia supplies most of the world's AI compute and Huang has lobbied to loosen China chip export limits. <a href="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html">CNBC</a> reports investors are watching for governance fallout and the lack of a public succession plan.</p>]]></description>
     </item>
 </channel>
 </rss>
