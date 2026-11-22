@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 21:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:11:27 GMT</lastBuildDate>
 
     
     
@@ -38,7 +38,17 @@
     
     
     
+    
     <item>
+      <title>Rain halts HONOR D1 Flash's planned run at the Milan Half Marathon</title>
+      <link>https://robotsbeat.com/honor-d1-flash-milan-half-marathon-rain-demo/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-22-honor-d1-flash-milan-rain</guid>
+      <pubDate>Sun, 22 Nov 2026 15:26:46 GMT</pubDate>
+      <enclosure url="https://robotsbeat.com/wp-content/uploads/2026/11/honor-d1-flash-milan-running-demo-1200x800-1.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://robotsbeat.com/wp-content/uploads/2026/11/honor-d1-flash-milan-running-demo-1200x800-1.jpg" alt="" /></p>
+<p>Heavy rain stopped HONOR's planned humanoid running demo at the Milan Half Marathon on Nov. 22. D1 Flash was due to run a 1.5 km exhibition in a dedicated lane, outside the official rankings, but missed the start while the human races went ahead.</p><p>Corriere della Sera reported the stop was precautionary, with no rescheduled date given and no damage established. D1 Flash won the Beijing humanoid half-marathon in 50:26 earlier this year.</p>]]></description>
+    </item>
+<item>
       <title>Dozens of AgiBot G2 humanoids reportedly working Lens Technology phone test lines</title>
       <link>https://robottoday.com/industry-briefing/agibot-g2-robots-reportedly-handle-devices-on-lens-technology-smartphone-test-lines/18648</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-22-agibot-g2-lens-technology</guid>
@@ -696,14 +706,6 @@
       <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
       <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" alt=""/></p><p>AGIBOT's "Robots Never Clock Out" challenge puts six G2 wheeled humanoids through a full convenience-store shift on a public livestream, from 10:00 a.m. Nov 2 to 10:00 a.m. Nov 3 China time (6:00 p.m. Nov 1 to 6:00 p.m. Nov 2 PT).</p><ul><li>Planned work covers the lunch and evening rushes, overnight duty and breakfast prep.</li><li>Tasks include stocking shelves, making coffee, preparing hot food, greeting customers and clearing rubbish.</li></ul><p>Caveat: the event length doesn't prove each robot worked continuously or fully autonomously. AGIBOT hasn't published an intervention policy or success scoring.</p><p>Source: <a href="https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream">Humanoids Daily</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Nearly 90 robot teams race up Mount Tai's 3,100 stone steps in China's first robot mountain-climbing challenge</title>
-      <link>https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-mount-tai-robot-climbing-challenge</guid>
-      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
-      <enclosure url="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://images.euronews.com/articles/stories/09/97/66/02/1200x675_cmsv2_571e2ee9-d7e9-560d-8202-e33bf3561659-9976602.jpg" alt=""/></p><p>The CMG World Robot Mount Tai Challenge in Tai'an, Shandong, sent humanoid, quadruped and exoskeleton robots up a 3.9 km stretch of ancient trail with about 3,100 stone steps and 600 m of climb on November 2.</p><p>Legged robots dominated: according to X's news summary, a Unitree quadruped from Beijing Lingyi Technology won the legged speed race in 43 minutes 41 seconds, and robot dogs outpaced the humanoids. Some quadrupeds also carried supplies up the route.</p><p>Sources: <a href="https://www.euronews.com/video/2026/11/02/humanoid-robots-climb-chinas-mount-tai-in-unusual-challenge">Euronews</a>, <a href="https://x.com/i/trending/2117155779103113602">X news summary</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
