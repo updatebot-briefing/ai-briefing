@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:08:25 GMT</lastBuildDate>
+<item>
+<title>You can now chat with your Grok Bots in X Chat</title>
+<link>https://agentinsiderlab.com/news/grok-bot-in-x-chat/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-22-grok-bot-x-chat</guid>
+<pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+<description><![CDATA[<p>Official Grok Bot documentation now says you can chat with your Bots in X Chat — in the X app on iPhone and Android and on x.com — without opening the Grok Bot app. The rollout is gradual, and you need the latest X app.</p><p>It needs a plan that includes Grok Bot: Premium, Super or Ultra on The X Subscription (Plus doesn't include it), plus a Grok account linked to a Cursor account. Personal accounts only — team and managed-domain accounts should keep using the Grok Bot app. In X Chat a Bot can also follow up on a conversation in its own words. Details at <a href="https://agentinsiderlab.com/news/grok-bot-in-x-chat/">Agent Insider Lab</a>.</p>]]></description>
+</item>
 <item>
 <title>Meta's Muse moves into Chrome's sidebar — 200,000 already using it</title>
 <link>https://theoutpost.ai/news-story/meta-s-muse-ai-agent-is-now-living-in-chrome-s-sidebar-and-200-000-people-are-already-using-it-33944/</link>
@@ -566,16 +573,6 @@
 <p>Tibo (@thsottiaux), who leads dots at OpenAI, <a href="https://x.com/thsottiaux/status/2117283124833055196">posted on Nov 2</a> (7:50am PT) that OpenAI is "working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future." He said Terra "brings speed and a nice personality upgrade, and will help us bring dots to more people."</p>
 <p>In a <a href="https://x.com/thsottiaux/status/2117283355427495983">follow-up</a> he added that "your dot will choose the best model for the task, drawing on different models for different parts of the work." The post passed 1 million views.</p>
 <p>This is a plan, not a shipped change: OpenAI hasn't said when it lands or which plans get it. Some X coverage reads "more people" as dots coming to Plus, but that is unconfirmed. Dots still require Pro or Business Premium per the <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">help center</a>.</p>]]></description>
-</item>
-<item>
-<title>Grok Bot's GitHub and other source control integrations broke for 75 minutes early Monday</title>
-<link>https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-02-grok-bot-source-control-incident</guid>
-<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
-<enclosure url="https://x.ai/og/default.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://x.ai/og/default.png" alt="SpaceXSI status page"/>
-<p>The <a href="https://status.x.ai/history?incident=cursor-desktop%2Fps_dece7cc03ecef152">SpaceXSI status page</a> reported "Issues with source control integrations" affecting Grok Bot and the Cursor desktop IDE from 1:09am to 2:24am PT on Monday, Nov 2.</p>
-<p>During that window, source control provider integrations didn't work in either product, so bots that work with repositories could fail. The incident is marked resolved, and an <a href="https://outages.live/outages/xai-2ew0u02sdd0">outages.live record</a> puts it at 1 hour 15 minutes.</p>]]></description>
 </item>
 </channel>
 </rss>
