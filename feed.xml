@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 20:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:00:33 GMT</lastBuildDate>
             
     
     
@@ -59,7 +59,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI: ChatGPT and API failed at up to 75% for 211 minutes after auth database replicas crashed</title>
+      <link>https://theapexwire.com/ai/openai-chatgpt-outage-nov21-postgres-failure/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-22-openai-outage-211-min</guid>
+      <pubDate>Sun, 22 Nov 2026 01:21:00 GMT</pubDate>
+      <enclosure url="https://theapexwire.com/img/articles/openai-chatgpt-outage-nov21-postgres-failure.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://theapexwire.com/img/articles/openai-chatgpt-outage-nov21-postgres-failure.webp" alt=""/></p>
+<p>Routine database maintenance took down ChatGPT and OpenAI's API for 211 minutes on Saturday, Nov 21, with request failures peaking at 75% between 1:48 and 5:21 p.m. PT. Both read replicas of the Postgres service behind OpenAI's authentication layer failed at once.</p><p>The outage hit logins, conversations, search, file uploads and voice mode in ChatGPT, plus nearly every API endpoint. OpenAI has paused similar maintenance and added a way to shift traffic off the replicas. <a href="https://status.openai.com/">OpenAI's status page</a> shows all systems operational again.</p>]]></description>
+    </item>
+<item>
       <title>Together AI: AI coding agent leaked credential, exposing stored customer prompts</title>
       <link>https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-22-together-ai-prompt-leak</guid>
@@ -586,16 +596,6 @@
 <p>Nvidia's board <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">said on November 8</a> that a committee of independent directors, with outside counsel, will investigate reporting that CEO Jensen Huang was the target of a foreign intelligence effort. The board said it has no reason to believe national security or Nvidia secrets were compromised and that it still has confidence in Huang.</p>
 <p>According to <a href="https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148">NBC News</a>, the New York Times and Financial Times reported that Huang had a relationship with Alice Huang, a Chinese businesswoman whose company bought Nvidia chips and who US intelligence believes was recruited by China's spy agency; Huang admitted the affair in a memo to staff, and China called the allegation a smear.</p>
 <p>It matters because Nvidia supplies most of the world's AI compute and Huang has lobbied to loosen China chip export limits. <a href="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html">CNBC</a> reports investors are watching for governance fallout and the lack of a public succession plan.</p>]]></description>
-    </item>
-<item>
-      <title>Meta launches Muse Ember, its smallest and cheapest Muse model at $0.10/$0.50 per million tokens</title>
-      <link>https://research.meta.ai/blog/muse-ember</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-09-meta-muse-ember</guid>
-      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
-      <enclosure url="https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp" alt=""></p>
-<p>Meta Superintelligence Labs <a href="https://research.meta.ai/blog/muse-ember">introduced Muse Ember</a>, a small multimodal model built for the high-volume steps agents repeat: tool calls, coding subtasks, routing, extraction and long-document parsing. It costs $0.10 per million input and $0.50 per million output tokens, with a 1M-token context and up to 512K output tokens, on the Meta Model API and Muse Code.</p>
-<p>Meta says Ember matches Claude Haiku 5.5's top Artificial Analysis score at about a third of the cost and beats GPT-6 Luna at every setting; it is the first model trained using Muse Wonder Full. Meta also <a href="https://x.com/AIatMeta/status/2119912647034642817">brought Ember, Wonder and Spark 1.3 to Google Cloud</a>. Benchmarks are Meta's own or Artificial Analysis figures Meta cited. Coverage: <a href="https://www.theverge.com/tech/1029979/meta-is-launching-its-smallest-and-most-efficient-ai-model-muse-ember">The Verge</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
