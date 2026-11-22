@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:12:03 GMT</lastBuildDate>
+    
     
     
     
@@ -20,6 +21,14 @@
     
     
     <item>
+      <title>Hacker News top 10 — Sun, Nov 22</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 21:10:01 GMT</pubDate>
+      <enclosure url="https://media.audubon.org/2026-11/gta-still.jpg?width=1200&amp;height=630&amp;auto=webp&amp;quality=90&amp;fit=crop&amp;enable=upscale" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://media.audubon.org/2026-11/gta-still.jpg?width=1200&amp;height=630&amp;auto=webp&amp;quality=90&amp;fit=crop&amp;enable=upscale" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Sunday, Nov 22, 2026, in front-page order.</p><ol><li><p><strong><a href="https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife">The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife</a></strong> · audubon.org</p><p>Audubon field guide to the birds of GTA 6's Vice City and Leonida</p><p><a href="https://news.ycombinator.com/item?id=50602843">121 points · 25 comments</a></p></li><li><p><strong><a href="https://openai.com/index/perplexity-and-intelligence/">Perplexity and Intelligence</a></strong> · openai.com</p><p>OpenAI on perplexity and intelligence — what makes a model smart</p><p><a href="https://news.ycombinator.com/item?id=50601525">350 points · 236 comments</a></p></li><li><p><strong><a href="https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/">Toyota, Nissan, and Honda to standardize parts to lower costs</a></strong> · caranddriver.com</p><p>Toyota, Nissan and Honda to standardize parts to cut costs</p><p><a href="https://news.ycombinator.com/item?id=50596133">1103 points · 640 comments</a></p></li><li><p><strong><a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">What Happened to Silicon Valley?</a></strong> · oreilly.com</p><p>O'Reilly: what happened to Silicon Valley?</p><p><a href="https://news.ycombinator.com/item?id=50602947">143 points · 47 comments</a></p></li><li><p><strong><a href="https://github.com/gulivan/worker755">Show HN: I built a game where you are an LLM's subagent</a></strong> · github.com</p><p>Show HN: a game where you play an LLM's subagent</p><p><a href="https://news.ycombinator.com/item?id=50599762">225 points · 55 comments</a></p></li><li><p><strong><a href="https://nyx.net/">Nyx, the Oldest Internet Service Provider</a></strong> · nyx.net</p><p>Nyx, the oldest internet service provider, still going</p><p><a href="https://news.ycombinator.com/item?id=50603465">12 points · 1 comments</a></p></li><li><p><strong><a href="https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/">I joined the NTP Pool, but not with my Stratum 1 Pi</a></strong> · jeffgeerling.com</p><p>Jeff Geerling joined the NTP Pool (not with a Stratum 1 Pi)</p><p><a href="https://news.ycombinator.com/item?id=50600622">95 points · 25 comments</a></p></li><li><p><strong><a href="https://smallsf.com/">A miniature San Francisco with live buses, planes and boats</a></strong> · smallsf.com</p><p>A miniature San Francisco with live buses, planes and boats</p><p><a href="https://news.ycombinator.com/item?id=50603589">7 points · 0 comments</a></p></li><li><p><strong><a href="https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html">All Delta Flights Through Atlanta Delayed as Automated System Falters</a></strong> · nytimes.com</p><p>All Delta flights via Atlanta delayed as automated system fails</p><p><a href="https://news.ycombinator.com/item?id=50603232">36 points · 12 comments</a></p></li><li><p><strong><a href="https://osw-alliance.net/en/">Open Social Web Alliance</a></strong> · osw-alliance.net</p><p>Open Social Web Alliance launches for the open social web</p><p><a href="https://news.ycombinator.com/item?id=50600511">179 points · 182 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Sat, Nov 21</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-21</guid>
