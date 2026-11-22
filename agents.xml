@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 21:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:08:58 GMT</lastBuildDate>
+<item>
+<title>Grok Bot is the most-used AI agent for trading on Coinbase</title>
+<link>https://www.fathom.news/grok-coinbase-ai-trading/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-22-grok-bot-coinbase-top</guid>
+<pubDate>Sat, 21 Nov 2026 16:00:00 GMT</pubDate>
+<enclosure url="https://www.fathom.news/wp-content/uploads/2026/11/coinbase-finds-grok-bot-ahead-as-agent-volume-keeps-breaking.webp" type="image/webp" length="0"/>
+<description><![CDATA[<p><img src="https://www.fathom.news/wp-content/uploads/2026/11/coinbase-finds-grok-bot-ahead-as-agent-volume-keeps-breaking.webp" alt=""/></p>
+<p>Coinbase said on Nov 21 that Grok Bot is the most popular AI agent on Coinbase for Agents, its service that lets chatbots trade crypto, stocks and derivatives from a walled-off portfolio with limits the user sets. Claude, ChatGPT and custom agents are closing in fast.</p><p>Coinbase gave no figures for users, volume or the size of Grok's lead, saying only that agent trading volume keeps hitting all-time highs. Grok got an early start: Coinbase switched the service on inside Grok on Sept 9. Read <a href="https://www.fathom.news/grok-coinbase-ai-trading/">Fathom News</a>.</p>]]></description>
+</item>
 <item>
 <title>You can now chat with your Grok Bots in X Chat</title>
 <link>https://agentinsiderlab.com/news/grok-bot-in-x-chat/</link>
@@ -562,17 +571,6 @@
 <p>Nous Research released <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.6">Hermes Agent v0.22.6</a> on Nov 2, a patch release that rolls up about 776 merged PRs since v0.22.5 for the CLI, installers, the Microsoft Store app, Docker and Hermes Cloud. Full curated notes are promised with v0.23.0.</p>
 <p>The listed additions include <code>hermes migrate</code> and setup steps that move Grok Bot and OpenBot users over, a web app served from the gateway (<code>hermes webapp</code>), <code>/model reset</code>, per-skill locks against autonomous edits, <code>hermes cron cancel</code> with a missed-run policy, opt-in OS keychain storage for the vault key, and a <code>pre_llm_call</code> hook that can block a turn before inference.</p>
 <p>The same day, the official @NousResearch account posted just "<a href="https://x.com/NousResearch/status/2117326444669857941">&gt; hermes migrate grok-bot</a>" quoting Elon Musk's remark that Grok Bot's serving cost was "unsustainably high relative to revenue" (about 87k views by evening). Teknium also <a href="https://x.com/Teknium/status/2117389981916512668">hinted</a> that more is "coming this thursdee."</p>]]></description>
-</item>
-<item>
-<title>OpenAI's dots lead says GPT-6 Astra and GPT-6.1 Terra will power dots, to bring dots to more people</title>
-<link>https://x.com/thsottiaux/status/2117283124833055196</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-02-dots-astra-terra-models</guid>
-<pubDate>Tue, 03 Nov 2026 01:10:15 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg" alt="Tibo (@thsottiaux) on X"/>
-<p>Tibo (@thsottiaux), who leads dots at OpenAI, <a href="https://x.com/thsottiaux/status/2117283124833055196">posted on Nov 2</a> (7:50am PT) that OpenAI is "working on expanding the family of frontier models that power dots, including GPT-6 Astra and GPT-6.1 Terra and some others in the future." He said Terra "brings speed and a nice personality upgrade, and will help us bring dots to more people."</p>
-<p>In a <a href="https://x.com/thsottiaux/status/2117283355427495983">follow-up</a> he added that "your dot will choose the best model for the task, drawing on different models for different parts of the work." The post passed 1 million views.</p>
-<p>This is a plan, not a shipped change: OpenAI hasn't said when it lands or which plans get it. Some X coverage reads "more people" as dots coming to Plus, but that is unconfirmed. Dots still require Pro or Business Premium per the <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">help center</a>.</p>]]></description>
 </item>
 </channel>
 </rss>
