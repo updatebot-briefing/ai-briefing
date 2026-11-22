@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 21:02:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:59:09 GMT</lastBuildDate>
             
     
     
@@ -58,7 +58,17 @@
     
     
     
+    
     <item>
+      <title>Together AI: AI coding agent leaked credential, exposing stored customer prompts</title>
+      <link>https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-22-together-ai-prompt-leak</guid>
+      <pubDate>Sat, 21 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b022ac06b3b148585570c47_OG-image_20261121-security-event-prompt-leakage2.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6b022ac06b3b148585570c47_OG-image_20261121-security-event-prompt-leakage2.png" alt=""/></p>
+<p>Together AI disclosed on Nov 21 that an unauthorized party downloaded stored samples of customer prompts from June and July 2026. An AI coding agent had committed a credential for a private Hugging Face repository to the company's public GitHub repo, xorl.</p><p>The samples came from requests to MiniMax M3, GLM-5.2 and Kimi K2.6. The intruder searched them for other services' credentials and tested them - five were canaries from a Dragos security experiment. <a href="https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026">Together AI's notice</a> says zero data retention is now the default for new accounts.</p>]]></description>
+    </item>
+<item>
       <title>Tencent publishes Hy4's 770B weights for download</title>
       <link>https://technode.com/2026/11/20/tencent-releases-hy4-model-weights-with-million-token-context/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-21-tencent-hy4-open-weights</guid>
@@ -586,16 +596,6 @@
       <description><![CDATA[<p><img src="https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp" alt=""></p>
 <p>Meta Superintelligence Labs <a href="https://research.meta.ai/blog/muse-ember">introduced Muse Ember</a>, a small multimodal model built for the high-volume steps agents repeat: tool calls, coding subtasks, routing, extraction and long-document parsing. It costs $0.10 per million input and $0.50 per million output tokens, with a 1M-token context and up to 512K output tokens, on the Meta Model API and Muse Code.</p>
 <p>Meta says Ember matches Claude Haiku 5.5's top Artificial Analysis score at about a third of the cost and beats GPT-6 Luna at every setting; it is the first model trained using Muse Wonder Full. Meta also <a href="https://x.com/AIatMeta/status/2119912647034642817">brought Ember, Wonder and Spark 1.3 to Google Cloud</a>. Benchmarks are Meta's own or Artificial Analysis figures Meta cited. Coverage: <a href="https://www.theverge.com/tech/1029979/meta-is-launching-its-smallest-and-most-efficient-ai-model-muse-ember">The Verge</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic buys $3.4 billion of gas generators for 1.7 GW of data-center power</title>
-      <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-09-anthropic-3-4b-gas-generators</guid>
-      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
-      <enclosure url="https://media.datacenterdynamics.com/media/images/Anthropic.2e16d0ba.fill-1200x630.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://media.datacenterdynamics.com/media/images/Anthropic.2e16d0ba.fill-1200x630.jpg" alt=""></p>
-<p>Anthropic took over about $3.4 billion of Caterpillar gas-generator orders originally placed by Texas supplier OnePWR Solutions, securing up to 1.7 GW of power for its data centers, according to a Financial Times report covered by <a href="https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/">TechCrunch</a> and <a href="https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html">CNBC</a>. The deal reportedly closed in late September; Anthropic did not buy OnePWR, which will help install the equipment.</p>
-<p>It's a shift for a lab that has mostly rented compute, and <a href="https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/">DCD</a> calls it the largest known single power-equipment purchase by a frontier lab. Anthropic hasn't publicly commented, so details rest on the FT's sourcing.</p>]]></description>
     </item>
 </channel>
 </rss>
