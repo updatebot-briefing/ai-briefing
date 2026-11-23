@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:00:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:01:11 GMT</lastBuildDate>
             
     
     
@@ -64,7 +64,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI's chief scientist proposes shared perplexity limits for frontier labs</title>
+      <link>https://openai.com/index/perplexity-and-intelligence/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-openai-pachocki-perplexity-limits</guid>
+      <pubDate>Sun, 22 Nov 2026 17:03:00 GMT</pubDate>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""/></p>
+<p>OpenAI chief scientist Jakub Pachocki published the lab's internal pretraining curve, showing log-perplexity falling from about 0.99 for GPT-3.5 to about 0.76 for the model that began producing new math results. He proposes frontier labs adopt perplexity as a shared yardstick and agree on common limits not to cross until AI monitoring catches up.</p><p>He flags the 0.68-0.70 band as the next window where unknown capabilities may emerge. Microsoft AI chief Mustafa Suleyman endorsed the idea and disclosed MAI-2 Base at 0.819 on OpenAI's holdout set. <a href="https://openai.com/index/perplexity-and-intelligence/">OpenAI</a></p>]]></description>
+    </item>
+<item>
       <title>CrowdStrike to buy Zscaler in a $43.9B all-stock deal</title>
       <link>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-crowdstrike-buys-zscaler</guid>
@@ -580,17 +590,6 @@
 <p>Google DeepMind introduced <a href="https://deepmind.google/blog/introducing-alphaproof-code/">AlphaProof Code</a>, a multi-agent framework that proved key security properties of <code>libsignal</code>, the code behind the Signal protocol, at the level of the compiled AArch64 machine code. Gemini 4 Carbon agents wrote about 6.5 million lines of Lean proofs in four weeks with a team of five, covering the post-quantum PQXDH handshake and Triple Ratchet (forward secrecy, authentication, post-compromise security).</p>
 <p>According to the <a href="https://google-deepmind.github.io/code-verification/">paper</a>, no human wrote proof code, though specifications were drafted with humans plus Gemini 4 Carbon and Claude Opus 5.5 agents. The proofs don't cover the cryptographic primitives, key generation, group chats or the Signal apps themselves.</p>
 <p>Why it matters: DeepMind calls it the first verification of a widely deployed protocol's actual implementation by any method, a sign AI could make formal verification affordable for real software.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic launches its IPO roadshow at $70 to $78 a share, valuing it at up to $1.4 trillion</title>
-      <link>https://www.anthropic.com/news/roadshow-launch</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-10-anthropic-ipo-price-range-70-78</guid>
-      <pubDate>Wed, 11 Nov 2026 01:05:23 GMT</pubDate>
-      <enclosure url="https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://image.cnbcfm.com/api/v1/image/108257482-1793040483934-108257482-1769516882258-gettyimages-2235057548-yeh_8167_n0lplzwh_xmzisqlh_vtemfgh3.jpeg?v=1793040494&amp;w=1920&amp;h=1080" alt=""/></p>
-<p>Anthropic <a href="https://www.anthropic.com/news/roadshow-launch">launched the roadshow</a> for its Nasdaq IPO (ticker ANT), offering 825 million Class A shares at an expected $70 to $78 each. That would raise up to about $64 billion and value the company at up to roughly $1.4 trillion fully diluted, up from $965 billion in May but below the $2 trillion it was reportedly aiming for (<a href="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">TechCrunch</a>).</p>
-<p>The updated filing also shows a separate $26 billion private sale of non-voting stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC, with Google and Nvidia putting in $10 billion each. <a href="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html">CNBC</a> reports, citing sources, that it plans to price on November 18 and start trading November 19, with about 20% earmarked for retail investors.</p>
-<p>Why it matters: it's set to be the first public listing of a frontier AI lab and likely one of the largest IPOs ever, and the chipmaker and cloud investment ties Anthropic's supply chain directly to its stock.</p>]]></description>
     </item>
 </channel>
 </rss>
