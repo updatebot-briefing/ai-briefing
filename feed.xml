@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 20:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:00:04 GMT</lastBuildDate>
             
     
     
@@ -62,7 +62,17 @@
     
     
     
+    
     <item>
+      <title>Nvidia reinstates Jensen Huang as CEO, 11 days after his resignation</title>
+      <link>https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-nvidia-reinstates-jensen-huang</guid>
+      <pubDate>Mon, 23 Nov 2026 13:55:00 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024" alt=""/></p>
+<p>Nvidia's board voted unanimously to reinstate Jensen Huang as president and CEO, effective immediately, just 11 days after he resigned. The board said it was satisfied with his candor and leadership, and consulted senior U.S. government officials before concluding his return poses no national security risk.</p><p>Shares jumped about 30% in early trading, reversing a selloff that had erased a third of Nvidia's value. Interim CEO Colette Kress returns to her CFO role, and the board's independent investigation continues. <a href="https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/">TechCrunch</a></p>]]></description>
+    </item>
+<item>
       <title>DeepMind's Gemini 4 agents design Lean-verified quantum algorithms</title>
       <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-deepmind-gemini-quantum-algorithms</guid>
@@ -581,17 +591,6 @@
       <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" alt=""/></p>
 <p><a href="https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion">Bloomberg</a> reports, citing one person familiar with the matter, that OpenAI's revenue reached $10 billion in the three months ending in September, up nearly 50% from the prior quarter and almost three times a year earlier. The figures were shared with investors on a call on Tuesday, and OpenAI declined to comment.</p>
 <p>Why it matters: it's OpenAI's first $10 billion quarter, but it still trails Anthropic, whose IPO filing shows about $17 billion in Q3 revenue (the two count cloud-partner sales differently). This is a single-source report, not an official disclosure.</p>]]></description>
-    </item>
-<item>
-      <title>AI 2027 authors now expect a superhuman AI researcher in 2027, citing METR's Anthropic report</title>
-      <link>https://blog.aifutures.org/p/q35-timelines-update-looks-like-the</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-10-ai-futures-sar-2027</guid>
-      <pubDate>Wed, 11 Nov 2026 01:05:23 GMT</pubDate>
-      <enclosure url="https://substackcdn.com/image/fetch/$s_!Q8oC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e84b6c4-6dc9-44ea-9efb-4ef6a943aaf5_2400x1260.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://substackcdn.com/image/fetch/$s_!Q8oC!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e84b6c4-6dc9-44ea-9efb-4ef6a943aaf5_2400x1260.png" alt=""/></p>
-<p>The AI Futures Project, the team behind the AI 2027 scenario, <a href="https://blog.aifutures.org/p/q35-timelines-update-looks-like-the">updated its forecasts</a>: all of its forecasters now expect a Superhuman AI Researcher (an AI that could replace a lab's best human researchers) likely in 2027, assuming no deliberate slowdown. Before this, even its most bullish forecaster put only 50% on it arriving before 2029. They also give a 35% to 65% chance that AI able to automate all white-collar work arrives before 2028.</p>
-<p>The biggest driver was <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">METR's assessment</a> that Anthropic is improving its models about twice as fast as its historical rate, with roughly 80% of that due to AI. Both groups stress heavy uncertainty, and METR says Anthropic redacted most of the evidence it found most informative.</p>
-<p>Why it matters: it's the most prominent forecasting group pulling timelines sharply forward based on evidence from inside a frontier lab, and the authors use it to call for an industry-wide pause.</p>]]></description>
     </item>
 </channel>
 </rss>
