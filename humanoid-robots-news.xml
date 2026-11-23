@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:11:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:13:22 GMT</lastBuildDate>
 
     
     
@@ -43,7 +43,17 @@
     
     
     
+    
     <item>
+      <title>Boston Dynamics puts Atlas on scooter wheels to test its motors</title>
+      <link>https://theroboticsmedia.com/article/boston-dynamics-atlas-scooter-wheels-reinforcement-learning</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-23-atlas-scooter-wheels</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/storage/articles/covers/2026/11/GJcWTjidY3SO9EuxxqusUTqd.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/storage/articles/covers/2026/11/GJcWTjidY3SO9EuxxqusUTqd.jpg" alt="" /></p>
+<p>Boston Dynamics bolted off-the-shelf scooter wheels onto Atlas's ankle actuators — no new motors — and trained a reinforcement-learning controller through millions of simulations to roll, drift and land a 360-degree spinning jump.</p><p>The company calls it a research testbed, not a product: rolling spins Atlas's motors continuously across a wider torque-and-speed range than walking, exposing sim-to-real gaps. The findings already feed back into Atlas's standard bipedal controller ahead of its 2027 GlobalFoundries deployment.</p><p><a href="https://theroboticsmedia.com/article/boston-dynamics-atlas-scooter-wheels-reinforcement-learning">The Robotics Media</a></p>]]></description>
+    </item>
+<item>
       <title>Musk: Tesla's AI5 chip goes to Optimus first, cars stay on AI4</title>
       <link>https://aiagentupdate.com/post/musk-ai5-optimus-2026-11-23</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-23-tesla-ai5-optimus-first</guid>
@@ -700,17 +710,6 @@
 <li>Policies trained from human demos reached 82.0% average task progress on three mobile-manipulation tasks, and 78.7% from robot teleop on three others.</li>
 <li>The project page says the system will be "Open Sourced Soon"; no public repo yet.</li></ul>
 <p>Read the <a href="https://arxiv.org/abs/2611.03648">paper on arXiv</a> or the <a href="https://pixel-robot.com/pixel/">project page</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Xiaomi says its humanoids worked an eight-hour shift sorting car parts at its EV factory</title>
-      <link>https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-xiaomi-humanoids-eight-hour-factory-shift</guid>
-      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/xiaomi-two-humanoids-auto-factory-rpp6cWQ96ogVuXAwA5iTaItQeH6ejT.webp" alt=""/></p>
-<p>Xiaomi showed its humanoids autonomously sorting center-console side covers at its car factory for more than eight hours, with two charging breaks, and says they met the station's daily production needs.</p>
-<p>Xiaomi says the robots detect and recover from errors on their own and coordinate with line systems. It hasn't disclosed throughput, error rates or how often humans stepped in, so treat the result as a company demo rather than an independent test.</p>
-<p>Sources: <a href="https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting">Humanoids Daily</a> and the <a href="https://x.com/XRoboHub/status/2117569754584240308">video on X</a></p>]]></description>
     </item>
 </channel>
 </rss>
