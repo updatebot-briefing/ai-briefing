@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 21:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:12:34 GMT</lastBuildDate>
+    
     
     
     
@@ -21,6 +22,14 @@
     
     
     <item>
+      <title>Hacker News top 10 — Mon, Nov 23</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 21:11:01 GMT</pubDate>
+      <enclosure url="https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080" type="image/jpeg" length="0"/>
+      <description><![CDATA[<img src="https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Monday, Nov 23, 2026, in front-page order.</p><ol><li><p><strong><a href="https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html">Nvidia Reinstates Jensen Huang as CEO</a></strong> · cnbc.com</p><p>Nvidia board reinstates Jensen Huang as CEO, 11 days after his resignation.</p><p><a href="https://news.ycombinator.com/item?id=50611576">1581 points · 2716 comments</a></p></li><li><p><strong><a href="https://ladybird.org/posts/alpha/">Ladybird is now in alpha</a></strong> · ladybird.org</p><p>Ladybird browser reaches alpha, an independent engine built from scratch.</p><p><a href="https://news.ycombinator.com/item?id=50614249">967 points · 258 comments</a></p></li><li><p><strong><a href="https://arm.jonpalmisc.com/">Per Arm's request, this site will be discontinued on 4 December 2026 :(</a></strong> · arm.jonpalmisc.com</p><p>Arm asks fan site to shut down on Dec 4; site owner complies.</p><p><a href="https://news.ycombinator.com/item?id=50617499">529 points · 107 comments</a></p></li><li><p><strong><a href="https://z.ai/blog/glm-5.4">GLM-5.4: Toward generalized coding with our first loop transformer</a></strong> · z.ai</p><p>Zhipu's GLM-5.4 brings loop transformers to generalized coding.</p><p><a href="https://news.ycombinator.com/item?id=50609685">946 points · 318 comments</a></p></li><li><p><strong><a href="https://twitter.com/ylecun/status/2124550037912920090">Dario is hyping the dangers so OSS models are illegal and he stays in control</a></strong> · twitter.com</p><p>LeCun: Dario Amodei hyping AI danger to make open models illegal.</p><p><a href="https://news.ycombinator.com/item?id=50615308">550 points · 291 comments</a></p></li><li><p><strong><a href="https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF">NariQ: BF16-level Qwen3.8-27B in a 10 GB file</a></strong> · huggingface.co</p><p>NariQ squeezes BF16-level Qwen3.8-27B into a 10 GB GGUF file.</p><p><a href="https://news.ycombinator.com/item?id=50611402">73 points · 12 comments</a></p></li><li><p><strong><a href="https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist">The horse made the state</a></strong> · aeon.co</p><p>Aeon essay: states grew from pastoralism, not agriculture.</p><p><a href="https://news.ycombinator.com/item?id=50619186">8 points · 3 comments</a></p></li><li><p><strong><a href="https://blog.kagi.com/kagi-mail-public-beta">Kagi Mail (public beta)</a></strong> · blog.kagi.com</p><p>Kagi Mail opens public beta, an ad-free privacy-first email service.</p><p><a href="https://news.ycombinator.com/item?id=50615481">238 points · 184 comments</a></p></li><li><p><strong><a href="https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo">Spacecraft reaches Mercury on second-ever mission to enter its orbit</a></strong> · theguardian.com</p><p>BepiColombo enters Mercury orbit, only the second mission to do so.</p><p><a href="https://news.ycombinator.com/item?id=50587439">238 points · 75 comments</a></p></li><li><p><strong><a href="https://github.com/glushchenko/fsnotes/discussions/2056">Apple removed my open-source app from EU App Stores after 9 years</a></strong> · github.com</p><p>Apple pulls open-source FSNotes from EU App Stores after 9 years.</p><p><a href="https://news.ycombinator.com/item?id=50616933">315 points · 59 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Sun, Nov 22</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-22</guid>
