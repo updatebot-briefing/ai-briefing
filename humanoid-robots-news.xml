@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:10:49 GMT</lastBuildDate>
 
     
     
@@ -40,7 +40,17 @@
     
     
     
+    
     <item>
+      <title>Zhejiang University and Unitree open-source Movens-5M motion dataset</title>
+      <link>https://theroboticsmedia.com/article/zhejiang-university-unitree-movens-5m-humanoid-motion-dataset</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-23-movens-5m-unitree</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/logo.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/logo.png" alt="" /></p>
+<p>Researchers led by Zhejiang University, with Unitree, Microsoft Research, Peking University and NUS, released Movens-5M on Nov. 20: 5 million physically executable humanoid-motion sequences distilled from 15 million internet video clips, plus the Movens-Zero model that generates whole-body motion from text, speech, music or video.</p><p>Scaling to the full dataset lifted text-to-motion accuracy from 12.7% to 62.6%, and Movens-Zero was verified running on a real Unitree G1. Dataset, four model sizes and code are free on Hugging Face and GitHub.</p><p><a href="https://theroboticsmedia.com/article/zhejiang-university-unitree-movens-5m-humanoid-motion-dataset">The Robotics Media</a></p>]]></description>
+    </item>
+<item>
       <title>Persona AI ships welding humanoids to South Korea for shipyard training</title>
       <link>https://theroboticsmedia.com/article/persona-ai-welding-humanoids-korea-hd-hyundai</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-22-persona-ai-hd-hyundai-welding</guid>
@@ -700,14 +710,6 @@
       <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
       <enclosure url="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png" alt=""/></p><p>Churchill Capital Corp XI shareholders approved the business combination with Agility Robotics, the maker of the Digit humanoid. The deal is expected to close on November 4, 2026, and the combined company should begin trading on Nasdaq as <strong>AGLT</strong> (warrants AGLTW) on November 5.</p><ul><li>Expected gross capital is about $465M: roughly $164M from the trust account, about $201M from a $10/share PIPE led by Foxconn, and $100M already received.</li><li>Agility pitches itself as the only US-listed pure-play humanoid company with active commercial deployments, citing more than 65,000 hours of real-world Digit operation.</li><li>Separately, coverage notes a pipeline of more than 30 prospective customers and GXO adding Digit at two more US sites in early 2027.</li></ul><p>Sources: <a href="https://www.agilityrobotics.com/content/churchill-capital-corp-xi-shareholders-approve-business-combination-with-agility-robotics">Agility press release</a>, <a href="https://roboticsandautomationnews.com/2026/11/02/agility-robotics-says-more-than-30-companies-considering-digit-humanoid-robot/106595/">Robotics &amp; Automation News</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Brett Adcock shows newly built Figure 03 humanoids walking out of the BotQ factory and across Figure's campus on their own</title>
-      <link>https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-figure-03-robots-walk-out-of-botq</guid>
-      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" alt=""/></p><p>Figure CEO Brett Adcock posted a short clip on X of freshly manufactured Figure 03 robots leaving the BotQ factory and walking across the campus parking lot, past cars and people, toward another building. "Newly manufactured F.03 robots leaving BotQ and heading across campus," he wrote.</p><p>It is a demo of the fleet growing rather than a business update: the post gives no new production total or customer-delivery figures. Figure is also developing its next-generation Figure 04.</p><p>Sources: <a href="https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video">Humanoids Daily</a>, <a href="https://x.com/CyberRobooo/status/2117322850591969749">CyberRobo on X</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
