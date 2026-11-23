@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 21:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:59:30 GMT</lastBuildDate>
             
     
     
@@ -61,7 +61,17 @@
     
     
     
+    
     <item>
+      <title>DeepMind's Gemini 4 agents design Lean-verified quantum algorithms</title>
+      <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-deepmind-gemini-quantum-algorithms</guid>
+      <pubDate>Mon, 23 Nov 2026 17:12:00 GMT</pubDate>
+      <enclosure url="https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w1200-h630-n-nu-rw" alt=""/></p>
+<p>Google DeepMind and Google Quantum AI used teams of Gemini 4 agents to improve well-known quantum algorithms, with every result proved correct in Lean, a formal theorem prover. A fusion-energy simulation got 11.8x cheaper, an arcsin routine 290x, and Grover's algorithm 2.57x faster.</p><p>Agent teams shared ideas at a virtual conference every four hours, and only Lean-verified results entered the shared notebook. DeepMind open-sourced its Lean library, problem specs and verified solutions. <a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/">Google DeepMind</a></p>]]></description>
+    </item>
+<item>
       <title>OpenRouter off-boards three providers after Dragos canary research catches prompt theft</title>
       <link>https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-22-openrouter-offboards-providers</guid>
@@ -582,19 +592,6 @@
 <p>The AI Futures Project, the team behind the AI 2027 scenario, <a href="https://blog.aifutures.org/p/q35-timelines-update-looks-like-the">updated its forecasts</a>: all of its forecasters now expect a Superhuman AI Researcher (an AI that could replace a lab's best human researchers) likely in 2027, assuming no deliberate slowdown. Before this, even its most bullish forecaster put only 50% on it arriving before 2029. They also give a 35% to 65% chance that AI able to automate all white-collar work arrives before 2028.</p>
 <p>The biggest driver was <a href="https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/">METR's assessment</a> that Anthropic is improving its models about twice as fast as its historical rate, with roughly 80% of that due to AI. Both groups stress heavy uncertainty, and METR says Anthropic redacted most of the evidence it found most informative.</p>
 <p>Why it matters: it's the most prominent forecasting group pulling timelines sharply forward based on evidence from inside a frontier lab, and the authors use it to call for an industry-wide pause.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic releases Claude Fable 5.2 and Mythos 5.2, topping Opus 5.5 on most benchmarks</title>
-      <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-09-claude-fable-mythos-5-2</guid>
-      <pubDate>Tue, 10 Nov 2026 01:06:38 GMT</pubDate>
-      <enclosure url="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg" alt=""></p>
-<p>Anthropic <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">released Claude Fable 5.2 and Claude Mythos 5.2</a> on November 9. They are the same underlying model: Fable ships to all users with cyber and biology safeguards, while Mythos is reserved for vetted organizations through Anthropic's Cyber and Life Sciences Verification Programs.</p>
-<ul><li>Pricing drops to $8 per million input and $40 per million output tokens, with output up to 30% faster than the 5.1 models and an optional fast mode (up to 2.5x speed at $16/$80).</li>
-<li>Anthropic's table shows Fable 5.2 ahead of Opus 5.5, GPT-6 Astra and Gemini 4 Carbon on most tests, including 49.1% on FrontierCode 2.0, 69.9% on FrontierSWE v2 and 74.2% on Humanity's Last Exam with tools.</li>
-<li>In prerelease testing, 1,000 Fable 5.2 agents formalized Fermat's Last Theorem in Lean in 30 hours, and the model solved two open black-hole physics problems.</li></ul>
-<p>Anthropic says it deliberately held back AI-R&amp;D capabilities like kernel optimization to about Opus 5.5 level. Announced on X by <a href="https://x.com/AnthropicAI/status/2119867707546071125">@AnthropicAI</a>; Hacker News and Artificial Analysis coverage put it at the top of current leaderboards.</p>]]></description>
     </item>
 </channel>
 </rss>
