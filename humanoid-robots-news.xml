@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 21:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:10:14 GMT</lastBuildDate>
 
     
     
@@ -39,7 +39,17 @@
     
     
     
+    
     <item>
+      <title>Persona AI ships welding humanoids to South Korea for shipyard training</title>
+      <link>https://theroboticsmedia.com/article/persona-ai-welding-humanoids-korea-hd-hyundai</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-22-persona-ai-hd-hyundai-welding</guid>
+      <pubDate>Sun, 22 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/storage/articles/covers/2026/11/z3NGDkkKkrKrDcQyO9YT1IUT.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/storage/articles/covers/2026/11/z3NGDkkKkrKrDcQyO9YT1IUT.jpg" alt="" /></p>
+<p>Houston startup Persona AI has shipped second-generation bipedal welding robots to South Korea to train alongside expert welders at HD Hyundai Robotics, targeting commercial deployment by year-end. The robots passed enterprise-grade quality validation in September.</p><p>The current generation, built in May, carries a 15 kg wire-feeder assembly designed for shipyard infrastructure built for human welders. Persona AI raised $25 million in pre-seed funding, with RTX Ventures among its backers.</p><p><a href="https://theroboticsmedia.com/article/persona-ai-welding-humanoids-korea-hd-hyundai">The Robotics Media</a></p>]]></description>
+    </item>
+<item>
       <title>Rain halts HONOR D1 Flash's planned run at the Milan Half Marathon</title>
       <link>https://robotsbeat.com/honor-d1-flash-milan-half-marathon-rain-demo/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-22-honor-d1-flash-milan-rain</guid>
@@ -698,14 +708,6 @@
       <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
       <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/figure-botq-campus-preview-16x9-D4ohf8R7x4mcgskOdTyHbmwy2Avqux.webp" alt=""/></p><p>Figure CEO Brett Adcock posted a short clip on X of freshly manufactured Figure 03 robots leaving the BotQ factory and walking across the campus parking lot, past cars and people, toward another building. "Newly manufactured F.03 robots leaving BotQ and heading across campus," he wrote.</p><p>It is a demo of the fleet growing rather than a business update: the post gives no new production total or customer-delivery figures. Figure is also developing its next-generation Figure 04.</p><p>Sources: <a href="https://www.humanoidsdaily.com/news/figure-03-robots-leave-botq-campus-video">Humanoids Daily</a>, <a href="https://x.com/CyberRobooo/status/2117322850591969749">CyberRobo on X</a>.</p>]]></description>
-    </item>
-<item>
-      <title>AGIBOT livestreams six G2 robots running a convenience store for 24 hours straight</title>
-      <link>https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-02-agibot-g2-24-hour-convenience-store-livestream</guid>
-      <pubDate>Tue, 03 Nov 2026 01:13:40 GMT</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/agibot-g2-store-livestream-7gZHMmQTQIT5DSdmQvyjBjXRxM9jJT.webp" alt=""/></p><p>AGIBOT's "Robots Never Clock Out" challenge puts six G2 wheeled humanoids through a full convenience-store shift on a public livestream, from 10:00 a.m. Nov 2 to 10:00 a.m. Nov 3 China time (6:00 p.m. Nov 1 to 6:00 p.m. Nov 2 PT).</p><ul><li>Planned work covers the lunch and evening rushes, overnight duty and breakfast prep.</li><li>Tasks include stocking shelves, making coffee, preparing hot food, greeting customers and clearing rubbish.</li></ul><p>Caveat: the event length doesn't prove each robot worked continuously or fully autonomously. AGIBOT hasn't published an intervention policy or success scoring.</p><p>Source: <a href="https://www.humanoidsdaily.com/news/agibot-g2-24-hour-convenience-store-livestream">Humanoids Daily</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
