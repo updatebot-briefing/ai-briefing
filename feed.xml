@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:00:38 GMT</lastBuildDate>
             
     
     
@@ -63,7 +63,17 @@
     
     
     
+    
     <item>
+      <title>CrowdStrike to buy Zscaler in a $43.9B all-stock deal</title>
+      <link>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-crowdstrike-buys-zscaler</guid>
+      <pubDate>Mon, 23 Nov 2026 11:00:00 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/crowdstrike-2162041873.jpg?resize=1200,800" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/crowdstrike-2162041873.jpg?resize=1200,800" alt=""/></p>
+<p>CrowdStrike agreed to acquire cloud-security firm Zscaler in an all-stock deal valuing Zscaler at about $43.9 billion. Zscaler shareholders get 1.135 CrowdStrike shares per share, about $260.41 each, a 34% premium to Friday's close.</p><p>The deal unites two cybersecurity giants, pairing CrowdStrike's endpoint security with Zscaler's zero-trust network security, and is pitched as built for the era of AI agents. It is expected to close in the second half of CrowdStrike's fiscal 2028, pending regulatory approval. <a href="https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/">TechCrunch</a></p>]]></description>
+    </item>
+<item>
       <title>Nvidia reinstates Jensen Huang as CEO, 11 days after his resignation</title>
       <link>https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-nvidia-reinstates-jensen-huang</guid>
@@ -581,16 +591,6 @@
 <p>Anthropic <a href="https://www.anthropic.com/news/roadshow-launch">launched the roadshow</a> for its Nasdaq IPO (ticker ANT), offering 825 million Class A shares at an expected $70 to $78 each. That would raise up to about $64 billion and value the company at up to roughly $1.4 trillion fully diluted, up from $965 billion in May but below the $2 trillion it was reportedly aiming for (<a href="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/">TechCrunch</a>).</p>
 <p>The updated filing also shows a separate $26 billion private sale of non-voting stock at the IPO price to AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC, with Google and Nvidia putting in $10 billion each. <a href="https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html">CNBC</a> reports, citing sources, that it plans to price on November 18 and start trading November 19, with about 20% earmarked for retail investors.</p>
 <p>Why it matters: it's set to be the first public listing of a frontier AI lab and likely one of the largest IPOs ever, and the chipmaker and cloud investment ties Anthropic's supply chain directly to its stock.</p>]]></description>
-    </item>
-<item>
-      <title>OpenAI reportedly hits $10 billion in quarterly revenue for the first time</title>
-      <link>https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-10-openai-10b-q3-revenue</guid>
-      <pubDate>Wed, 11 Nov 2026 01:05:23 GMT</pubDate>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024" alt=""/></p>
-<p><a href="https://news.bloomberglaw.com/private-equity/openai-third-quarter-revenue-soars-nearly-50-to-10-billion">Bloomberg</a> reports, citing one person familiar with the matter, that OpenAI's revenue reached $10 billion in the three months ending in September, up nearly 50% from the prior quarter and almost three times a year earlier. The figures were shared with investors on a call on Tuesday, and OpenAI declined to comment.</p>
-<p>Why it matters: it's OpenAI's first $10 billion quarter, but it still trails Anthropic, whose IPO filing shows about $17 billion in Q3 revenue (the two count cloud-partner sales differently). This is a single-source report, not an official disclosure.</p>]]></description>
     </item>
 </channel>
 </rss>
