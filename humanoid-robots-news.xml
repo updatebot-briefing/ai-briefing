@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:11:59 GMT</lastBuildDate>
 
     
     
@@ -42,7 +42,17 @@
     
     
     
+    
     <item>
+      <title>Musk: Tesla's AI5 chip goes to Optimus first, cars stay on AI4</title>
+      <link>https://aiagentupdate.com/post/musk-ai5-optimus-2026-11-23</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-23-tesla-ai5-optimus-first</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://aiagentupdate.com/assets/memes/musk-ai5-optimus-2026-11-23.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://aiagentupdate.com/assets/memes/musk-ai5-optimus-2026-11-23.webp" alt="" /></p>
+<p>Elon Musk said on X on Sunday, Nov. 22, that Tesla's next-generation AI5 chip will go to the Optimus humanoid first, with cars staying on the current AI4 computer. He also said AI4 now costs twice as much, blaming memory and storage price rises.</p><p>The direction is not new — Musk pointed to AI5 in Optimus around April 2027 on the October earnings call — but this is the first flat statement with no AI5 date for cars. All of Sunday's claims are Musk's own X posts, not filings or Tesla statements.</p><p><a href="https://aiagentupdate.com/post/musk-ai5-optimus-2026-11-23">AI Agent Update</a></p>]]></description>
+    </item>
+<item>
       <title>Figure F.03 humanoids appear at F1 Las Vegas with T-Mobile</title>
       <link>https://robotsbeat.com/figure-f03-humanoid-robots-f1-las-vegas-t-mobile/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-23-figure-f03-f1-las-vegas</guid>
@@ -701,17 +711,6 @@
 <p>Xiaomi showed its humanoids autonomously sorting center-console side covers at its car factory for more than eight hours, with two charging breaks, and says they met the station's daily production needs.</p>
 <p>Xiaomi says the robots detect and recover from errors on their own and coordinate with line systems. It hasn't disclosed throughput, error rates or how often humans stepped in, so treat the result as a company demo rather than an independent test.</p>
 <p>Sources: <a href="https://www.humanoidsdaily.com/news/xiaomi-humanoids-eight-hour-auto-factory-sorting">Humanoids Daily</a> and the <a href="https://x.com/XRoboHub/status/2117569754584240308">video on X</a></p>]]></description>
-    </item>
-<item>
-      <title>Hyundai Mobis starts building prototype actuators for Boston Dynamics' Atlas this month, aiming for supply in 2028</title>
-      <link>https://theroboticsmedia.com/article/hyundai-mobis-atlas-actuator-prototypes-boston-dynamics</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-hyundai-mobis-atlas-actuator-prototypes</guid>
-      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
-      <description><![CDATA[<p>Hyundai Mobis is producing prototype actuators for Atlas at its Uiwang Research Center starting in November, and will validate performance and reliability with Boston Dynamics ahead of expected supply in 2028.</p>
-<ul><li>Mobis says it has a confirmed actuator order and is also developing hand grippers, perception modules and controllers to sell to other humanoid makers.</li>
-<li>It's creating a dedicated robotics-parts organization and roughly doubling staff for it.</li>
-<li>Reports that Mobis will supply all 31 Atlas actuators and build a 350,000-unit US plant are from Korean press and not confirmed by the company.</li></ul>
-<p>Sources: <a href="https://theroboticsmedia.com/article/hyundai-mobis-atlas-actuator-prototypes-boston-dynamics">The Robotics Media</a> and <a href="https://www.asiae.co.kr/en/article/2026103008380739119">The Asia Business Daily</a></p>]]></description>
     </item>
 </channel>
 </rss>
