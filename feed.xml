@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:01:45 GMT</lastBuildDate>
             
     
     
@@ -65,7 +65,17 @@
     
     
     
+    
     <item>
+      <title>Z.ai ships GLM-5.4, a 750B-parameter Loop Transformer flagship</title>
+      <link>https://z.ai/blog/glm-5.4</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-zai-glm-5-4-loop-transformer</guid>
+      <pubDate>Mon, 23 Nov 2026 06:51:00 GMT</pubDate>
+      <enclosure url="https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill" alt=""/></p>
+<p>Z.ai released GLM-5.4, its first flagship built on a Loop Transformer: 28 layers of the roughly 750B-parameter GLM-5 base run twice per forward pass, so the network gets deeper without adding parameters. It adds vision for visual coding and a 1M-token context window.</p><p>It is live now for GLM Coding Plan subscribers in ZCode and Z.ai Chat. Z.ai claims intelligence comparable to 2T-3T parameter models, but has published no benchmark table yet, and the API and open weights come after safety checks. <a href="https://z.ai/blog/glm-5.4">Z.ai</a></p>]]></description>
+    </item>
+<item>
       <title>OpenAI's chief scientist proposes shared perplexity limits for frontier labs</title>
       <link>https://openai.com/index/perplexity-and-intelligence/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-openai-pachocki-perplexity-limits</guid>
@@ -579,17 +589,6 @@
 <li>Antigravity is previewing <code>/swarm</code>, which turns one prompt into a coordinated team of agents, and Google says Carbon ranks #1 on CursorBench 4.0 (<a href="https://antigravity.google/blog/gemini-4-carbon-in-google-antigravity/">Antigravity blog</a>).</li>
 </ul>
 <p>Why it matters: this is the moment Google's top frontier model moves from a gated preview to something anyone paying can build on, at a price well under rival flagships.</p>]]></description>
-    </item>
-<item>
-      <title>Google DeepMind's AI agents formally verify Signal's protocol code down to machine code</title>
-      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-10-deepmind-alphaproof-code-signal</guid>
-      <pubDate>Wed, 11 Nov 2026 01:05:23 GMT</pubDate>
-      <enclosure url="https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w1200-h630-n-nu-rw" alt=""/></p>
-<p>Google DeepMind introduced <a href="https://deepmind.google/blog/introducing-alphaproof-code/">AlphaProof Code</a>, a multi-agent framework that proved key security properties of <code>libsignal</code>, the code behind the Signal protocol, at the level of the compiled AArch64 machine code. Gemini 4 Carbon agents wrote about 6.5 million lines of Lean proofs in four weeks with a team of five, covering the post-quantum PQXDH handshake and Triple Ratchet (forward secrecy, authentication, post-compromise security).</p>
-<p>According to the <a href="https://google-deepmind.github.io/code-verification/">paper</a>, no human wrote proof code, though specifications were drafted with humans plus Gemini 4 Carbon and Claude Opus 5.5 agents. The proofs don't cover the cryptographic primitives, key generation, group chats or the Signal apps themselves.</p>
-<p>Why it matters: DeepMind calls it the first verification of a widely deployed protocol's actual implementation by any method, a sign AI could make formal verification affordable for real software.</p>]]></description>
     </item>
 </channel>
 </rss>
