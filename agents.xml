@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 21:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:08:03 GMT</lastBuildDate>
+<item>
+<title>Meta Muse can do your Black Friday shopping at Walmart</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-23-muse-walmart-agent-gateway</guid>
+<pubDate>Mon, 23 Nov 2026 11:00:00 GMT</pubDate>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200" alt=""/></p>
+<p>Walmart has switched on its Agent Gateway with Meta's Muse as the first agent: tell Muse what you need — a TV deal, say — and it builds a basket and checks out inside the conversation, via Walmart's Sparky assistant and a card saved in your Walmart account. <a href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday">The Verge reports</a> it is the first live implementation of the gateway Walmart announced in October.</p><p>Purchases run through an Agent Profile in your Walmart account, where you set a spending limit, approve purchases and review everything Muse bought. Prices match Walmart.com and Walmart's return policy applies. Amazon and eBay, by contrast, still block AI agents from their platforms.</p>]]></description>
+</item>
 <item>
 <title>One malicious webpage let researchers hijack Meta Muse and read private chats</title>
 <link>https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</link>
@@ -560,15 +569,6 @@
 <enclosure url="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg" alt="Nous Research on X"/>
 <p>Nous Research <a href="https://x.com/NousResearch/status/2117696344756252822">said on Nov 3</a> (11:12am PT) that the Hermes Mobile beta it released at NousCon 2026 "filled up quickly," and that it is working to free up more beta seats and get the app production-ready for a wider release.</p><p>In the meantime, people can join the waitlist at <a href="https://hermes-agent.nousresearch.com/mobile">hermes-agent.nousresearch.com/mobile</a>. Teknium <a href="https://x.com/Teknium/status/2117702996478108060">added</a> that waitlisted users will get in "as we get more seats." No public release date was given.</p>]]></description>
-</item>
-<item>
-<title>Meta's Muse can now dance: share an animated clip of your Muse to Instagram, Facebook or WhatsApp</title>
-<link>https://x.com/alexandr_wang/status/2117722403996569768</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-03-muse-dancing-share</guid>
-<pubDate>Wed, 04 Nov 2026 01:11:09 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_400x400.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1631421210205749248/uohbT_40_400x400.jpg" alt="Alexandr Wang on X"/>
-<p>Alexandr Wang <a href="https://x.com/alexandr_wang/status/2117722403996569768">posted a "Muse feature alert"</a> on Nov 3 (12:55pm PT): you can now make your Muse dance. In your Muse chat, tap your Muse, hit the share button at the top right, and share the dancing clip to Instagram, Facebook or WhatsApp, or save it.</p><p>He <a href="https://x.com/alexandr_wang/status/2117724172206178336">added</a> that if your Muse is connected to Instagram you can post straight from Instagram's add-story screen by picking your Muse. He spent the afternoon reposting user clips, and the feature post passed about 47,000 views within a few hours.</p><p>It is a fun, social feature rather than a new agent capability. Separately, Wang is still teasing "early access to phone calling" for Muse in a <a href="https://x.com/alexandr_wang/status/2117424759000686842">sash-patch guessing game</a>, which Meta has not officially announced.</p>]]></description>
 </item>
 </channel>
 </rss>
