@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 21:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:03:24 GMT</lastBuildDate>
             
     
     
@@ -70,7 +70,17 @@
     
     
     
+    
     <item>
+      <title>Sierra raises $1.75B at a $30B valuation</title>
+      <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-24-sierra-1-75b-30b-valuation</guid>
+      <pubDate>Mon, 23 Nov 2026 18:59:23 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200" alt=""/></p>
+<p>Bret Taylor's enterprise AI company Sierra raised $1.75 billion in a Series F at a $30 billion valuation, led by Greenoaks and Lightspeed Venture Partners, doubling its valuation in about six months. Run-rate revenue also doubled to $400 million in five months, per TechCrunch.</p><p>Sierra builds AI agents that handle customer conversations and transactions for nearly half the Fortune 50, including JPMorgan and Wells Fargo. The raise underlines how fast the enterprise agent market is scaling.</p>]]></description>
+    </item>
+<item>
       <title>Google brings Wallet, Drive and Gemini to AI Mode Personal Intelligence</title>
       <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-24-google-ai-mode-personal-intelligence</guid>
@@ -578,15 +588,6 @@
       <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" type="image/png" length="0"/>
       <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" alt=""/></p>
 <p>Anthropic launched a workplace suite for Claude, the same day it opened its IPO roadshow: <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">Claude Meetings</a> joins Google Meet calls as a visible participant and drafts plans while people talk, while Claude Sheets builds collaborative spreadsheets and Claude Whiteboards turns planning talk into a shared board with timelines and owners.</p><p>Meetings is in beta for Team and Enterprise plans; Sheets and Whiteboards are in beta on paid plans. Claude Data is now generally available, and interactive connectors open apps like Adobe and Atlassian inside Claude.</p><p>Why it matters: Anthropic is moving beyond coding into office workers' daily work, taking on Microsoft and Google directly — on day one of its roadshow for what could be the largest IPO ever.</p>]]></description>
-    </item>
-<item>
-      <title>New York opens RAISE Act registration for frontier AI labs</title>
-      <link>https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-ny-raise-act-registration-opens</guid>
-      <pubDate>Tue, 10 Nov 2026 21:25:00 GMT</pubDate>
-      <enclosure url="https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center/opengraph-image?99fd91dcd2b2fd56" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://www.thebrief.news/en/standard/article/42161/new-york-opens-registration-for-frontier-ai-labs-and-launches-a-safety-research-center/opengraph-image?99fd91dcd2b2fd56" alt=""/></p>
-<p>New York has opened registration for large frontier AI developers under the RAISE Act, Governor Kathy Hochul announced Tuesday. Labs including OpenAI and Anthropic must register by January 1, 2027, when the law's central provisions take effect.</p><p>Covered developers — those with more than $500 million in annual revenue training models above 10^26 operations — must publish safety frameworks, issue public model transparency reports and report critical safety incidents within 72 hours. Penalties run up to $1 million for a first violation and $3 million for later ones.</p><p>Why it matters: this is the first US state regulator directly supervising the frontier labs, landing alongside California's SB 53 and Illinois's audit law — labs now face overlapping state regimes with different reporting clocks.</p>]]></description>
     </item>
 </channel>
 </rss>
