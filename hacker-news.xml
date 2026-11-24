@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:10:37 GMT</lastBuildDate>
+    
     
     
     
@@ -22,6 +23,14 @@
     
     
     <item>
+      <title>Hacker News top 10 — Tue, Nov 24</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 21:10:07 GMT</pubDate>
+      <enclosure url="https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png" type="image/png" length="0"/>
+      <description><![CDATA[<img src="https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Tuesday, Nov 24, 2026, in front-page order.</p><ol><li><p><strong><a href="https://prismml.com/news/bonsai-2-5-27b">Ternary Bonsai 2.5 27B</a></strong> · prismml.com</p><p>Ternary Bonsai 2.5 27B - new open model release</p><p><a href="https://news.ycombinator.com/item?id=50633922">69 points · 15 comments</a></p></li><li><p><strong><a href="https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign">Active intrusion campaign against Check Point security management servers</a></strong> · greynoise.io</p><p>Active intrusion campaign hits Check Point mgmt servers</p><p><a href="https://news.ycombinator.com/item?id=50630594">220 points · 86 comments</a></p></li><li><p><strong><a href="https://news.ycombinator.com/item?id=50634426">Launch HN: Versine (YC F26) – MCP to send and receive money</a></strong></p><p>Launch HN: Versine - MCP to send and receive money</p><p><a href="https://news.ycombinator.com/item?id=50634426">12 points · 3 comments</a></p></li><li><p><strong><a href="https://mechanical-pencil.com/products/spray-bottle">The Spray Bottle</a></strong> · mechanical-pencil.com</p><p>The Spray Bottle - mechanical pencil's new design</p><p><a href="https://news.ycombinator.com/item?id=50598555">249 points · 73 comments</a></p></li><li><p><strong><a href="http://hypercritical.co/2026/11/23/jetty-pro">Jetty Pro</a></strong> · hypercritical.co</p><p>Jetty Pro - new app from Hypercritical</p><p><a href="https://news.ycombinator.com/item?id=50630462">215 points · 85 comments</a></p></li><li><p><strong><a href="https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase">An Italian folding bicycle design that fits into a suitcase</a></strong> · core77.com</p><p>Italian folding bike that fits into a suitcase</p><p><a href="https://news.ycombinator.com/item?id=50610820">50 points · 38 comments</a></p></li><li><p><strong><a href="https://fzakaria.com/2026/11/23/2035-came-early">2035 came early</a></strong> · fzakaria.com</p><p>'2035 came early' - fzakaria on AI progress</p><p><a href="https://news.ycombinator.com/item?id=50624497">892 points · 334 comments</a></p></li><li><p><strong><a href="https://protocolis.co/paper/">Compiling web applications into verified operations for AI agents</a></strong> · protocolis.co</p><p>Compiling web apps into verified ops for AI agents</p><p><a href="https://news.ycombinator.com/item?id=50632998">29 points · 9 comments</a></p></li><li><p><strong><a href="https://www.frankchiarulli.com/blog/splitting-usb-c/">Splitting USB-C: USB 3 and USB 2 on one port</a></strong> · frankchiarulli.com</p><p>Splitting USB-C: USB 3 and USB 2 on one port</p><p><a href="https://news.ycombinator.com/item?id=50629106">95 points · 69 comments</a></p></li><li><p><strong><a href="https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/">Cloudflare hides shortcomings of the underlying infrastructure</a></strong> · charlie.fish</p><p>What Cloudflare doesn't tell you about its infra</p><p><a href="https://news.ycombinator.com/item?id=50632883">103 points · 70 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Mon, Nov 23</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-23</guid>
