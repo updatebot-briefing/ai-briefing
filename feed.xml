@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 21:03:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:11:11 GMT</lastBuildDate>
             
     
     
@@ -71,7 +71,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI and Cisco launch Shirudo to shield live Linux systems</title>
+      <link>https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-24-openai-cisco-shirudo</guid>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 GMT</pubDate>
+      <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1700-nu-rw-lo-l85-e365/openai-linux.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1700-nu-rw-lo-l85-e365/openai-linux.jpg" alt=""/></p>
+<p>OpenAI and Cisco launched Shirudo, an open-source project that lets AI agents write and test temporary eBPF shields for vulnerable Linux systems — blocking exploit paths without a restart while teams prepare a permanent patch.</p><p>Shields are cryptographically signed, delivered as packages via an OCI registry and verified with TPM hardware. In a demo, a Codex-generated shield blocked a Java4Shell attempt against a running Elasticsearch service.</p>]]></description>
+    </item>
+<item>
       <title>Sierra raises $1.75B at a $30B valuation</title>
       <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-24-sierra-1-75b-30b-valuation</guid>
@@ -579,15 +589,6 @@
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-qwen4-max-preview</guid>
       <pubDate>Wed, 11 Nov 2026 02:01:00 GMT</pubDate>
       <description><![CDATA[<p>Alibaba's Qwen team announced Qwen4-Max on Nov 11, the first model of its next-generation Qwen4 family, as a preview. It is a multimodal reasoning model pitched at coding, agentic work and front-end builds.</p><p>It is available through Alibaba Cloud's Token Plan subscription and in early access on QwenWork, Qoder, the Qwen app and QwenStudio. The Token Plan preview runs until Nov 25, and Alibaba says the preview model will be retired after that.</p><p>No benchmarks, model card, parameter count or per-token price have been published, and no open weights were announced — so capability claims rest on Alibaba's own word for now.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic takes Claude into meetings, sheets and whiteboards on IPO roadshow day</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-anthropic-claude-office-tools</guid>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
-      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" type="image/png" length="0"/>
-      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Claude-Whiteboards-1.png?w=680" alt=""/></p>
-<p>Anthropic launched a workplace suite for Claude, the same day it opened its IPO roadshow: <a href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/">Claude Meetings</a> joins Google Meet calls as a visible participant and drafts plans while people talk, while Claude Sheets builds collaborative spreadsheets and Claude Whiteboards turns planning talk into a shared board with timelines and owners.</p><p>Meetings is in beta for Team and Enterprise plans; Sheets and Whiteboards are in beta on paid plans. Claude Data is now generally available, and interactive connectors open apps like Adobe and Atlassian inside Claude.</p><p>Why it matters: Anthropic is moving beyond coding into office workers' daily work, taking on Microsoft and Google directly — on day one of its roadshow for what could be the largest IPO ever.</p>]]></description>
     </item>
 </channel>
 </rss>
