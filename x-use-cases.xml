@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/x-use-cases.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:09:51 GMT</lastBuildDate>
+    <item>
+      <title>Top 10 AI use cases on X, Nov 24 2026</title>
+      <link>https://x.com/mattyp/status/2125318602320752971</link>
+      <guid isPermaLink="false">updatebot-xusecases-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 21:09:51 GMT</pubDate>
+      <description><![CDATA[<p><img src="https://pbs.twimg.com/media/HX6mAWiawAAKyaM.jpg" alt="Top post" /></p><p>The 10 most-engaged X posts from the past 24 hours (since 1pm PT Nov 23) where people show what they actually built or automated with AI, ranked by likes, reposts and views.</p><ol><li><p><strong>Grok Bot saved $80 on a hotel</strong></p><p>His Grok Bot found a AAA rate for his hotel, confirmed his AAA membership from his email, and then told him how much he saved.</p><p><a href="https://x.com/mattyp/status/2125318602320752971">@mattyp on X</a> · 193 likes · 12 reposts · 10,076 views</p></li><li><p><strong>An animated love-story book for her anniversary</strong></p><p>For her two-year wedding anniversary she made a short animated storybook film about meeting her husband on X. She used Gemini Neon, Nano Banana and Veo for the script, images and video, cloned her own voice with Gradium for the voiceover, and used HeyGen for lip sync.</p><p><a href="https://x.com/BhosalePratim/status/2125208190128201873">@BhosalePratim on X</a> · 122 likes · 1 reposts · 5,026 views</p></li><li><p><strong>Taipei 101 fireworks show: Astra vs Neon</strong></p><p>He gave GPT-6.2 Astra and Gemini 4 Neon the same prompt to build a 30-second Taipei 101 fireworks show with a &quot;JENSEN&quot; sky finale in pure Three.js and no 3D assets. Astra cost $6.10 and took 38 minutes, while Neon cost $7.93 and took 59 minutes.</p><p><a href="https://x.com/teddyaisi/status/2125079461187952752">@teddyaisi on X</a> · 93 likes · 5 reposts · 8,199 views</p></li><li><p><strong>A quick-access menu built with Claude Code</strong></p><p>A designer built an interactive quick-access menu, worked through its interactions with Claude Code, and shared a live link for people to try it.</p><p><a href="https://x.com/Wuraoladesigns/status/2125121755526115375">@Wuraoladesigns on X</a> · 77 likes · 15 reposts · 1,677 views</p></li><li><p><strong>A pregnancy app built by a non-coder</strong></p><p>Unhappy with existing apps, she vibe coded her own baby-movement tracker with Claude in about 40 minutes, used it through her third trimester, and had AI analyse the exported data. She credits it with helping her avoid an unnecessary induction.</p><p><a href="https://x.com/PMArslanagic/status/2125198422164615339">@PMArslanagic on X</a> · 72 likes · 1 reposts · 3,660 views</p></li><li><p><strong>Three.js surfer: four models, same prompt</strong></p><p>He had GPT-6.2 Astra, Fable 5.2, Opus 5.5 and GPT-6.2 Sol each build the same surfing scene with a person in Three.js. Fable looked best but took over 2 hours and $74, while Sol finished in under 40 minutes for $3.26.</p><p><a href="https://x.com/EnvolDev/status/2125270367187169782">@EnvolDev on X</a> · 68 likes · 2 reposts · 5,824 views</p></li><li><p><strong>A playable hill town in Unreal Engine 5</strong></p><p>He used GPT-6 Astra to turn OpenStreetMap paths of a Mont-Saint-Michel-style island into splines and terrain and to write five procedural tools for roads, stairs, buildings and walls. He then modeled a kit of modules in Blender to raise a walkable town in Unreal Engine 5.</p><p><a href="https://x.com/rewind02/status/2125243173651771643">@rewind02 on X</a> · 60 likes · 2 reposts · 1,464 views</p></li><li><p><strong>A hand-painted storybook game from Fable 5.2</strong></p><p>Without being able to draw, he had Fable 5.2 make a calm 2D storybook game about a kid and a dog, with all assets and sounds generated procedurally. He has added four chapters, and over 5,000 people have played it.</p><p><a href="https://x.com/Rubzem/status/2125304202587234481">@Rubzem on X</a> · 57 likes · 10 reposts · 5,469 views</p></li><li><p><strong>A playable Three.js ATV for under 1% of Claude Max</strong></p><p>He had Gemini 4 Neon build an ATV model from an image plus its physics in 23 minutes, then had Opus 5.5 fix four flaws and fold it into his main project for less than 1% of his Claude Max quota.</p><p><a href="https://x.com/maxt3chno/status/2124994547482829052">@maxt3chno on X</a> · 54 likes · 4 reposts · 2,857 views</p></li><li><p><strong>Doctor-visit and insurance-call transcripts for his agents</strong></p><p>He records his daughter&#x27;s pediatrician visits and his insurance calls, then hands the transcripts to his agents. He tested five Gemini models on four real recordings to see which kept speaker labels right.</p><p><a href="https://x.com/nickgraynews/status/2124971966658707849">@nickgraynews on X</a> · 45 likes · 2 reposts · 7,768 views</p></li></ol>]]></description>
+    </item>
     <item>
       <title>Top 10 AI use cases on X, Nov 23 2026</title>
       <link>https://x.com/Linus_K_AI/status/2124790912618545223</link>
@@ -308,47 +315,6 @@
 <li><p><strong>An old Echo Dot turned into a custom voice assistant</strong></p>
 <p>Teles jailbroke a 2016 Echo Dot, trained their own wake word model, and connected it to Home Assistant, running GPT realtime through a Codex subscription.</p>
 <p><a href="https://x.com/teles_dev/status/2114423282703470932">@teles_dev on X</a> · 13 likes · 0 reposts · 515 views</p></li>
-</ol>]]></description>
-    </item>
-    <item>
-      <title>Top 10 AI use cases on X, Oct 24 2026</title>
-      <link>https://x.com/0xDeniAi/status/2114061218352615609</link>
-      <guid isPermaLink="false">updatebot-xusecases-2026-10-24</guid>
-      <pubDate>Sat, 24 Oct 2026 17:10:22 -0700</pubDate>
-      <enclosure url="https://pbs.twimg.com/amplify_video_thumb/2114059992575758336/img/-9OMHcgydvtCfTrJ.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://pbs.twimg.com/amplify_video_thumb/2114059992575758336/img/-9OMHcgydvtCfTrJ.jpg" alt="Video still from @0xDeniAi's post about Claude Code finding deleted iPhone photos" /></p>
-<p>These are the top 10 AI use cases on X over the last 24 hours, ranked by engagement. Saturday was quieter, led by Claude Code doing real security and editing work, plus Grok Bot running investment research, a newsletter, a website and a personal command center.</p>
-<ol>
-<li><p><strong>Claude Code finds the photos an iPhone never really deleted</strong></p>
-<p>Deni asked Claude Code (on Opus 5.5) to run a quick security check while his iPhone backed up to his laptop. It found years of photos still hidden inside his iMessage, WhatsApp and Telegram chats, plus five old unencrypted iPhone backups in a hidden Windows folder, including a passport photo and bank screenshots he thought were gone.</p>
-<p><a href="https://x.com/0xDeniAi/status/2114061218352615609">@0xDeniAi on X</a> · 73 likes · 6 reposts · 4,496 views</p></li>
-<li><p><strong>A math video finally edited by a Claude Code pipeline</strong></p>
-<p>Po-Shen Loh had a year-old recording explaining why e is natural that nobody had time to edit. He built a full video editing pipeline in Claude Code and finally released it, all real footage.</p>
-<p><a href="https://x.com/PoShenLoh/status/2113829019758342403">@PoShenLoh on X</a> · 61 likes · 12 reposts · 4,550 views</p></li>
-<li><p><strong>Claude audits its own game and finds the crash bug</strong></p>
-<p>0xbobaa gave Claude Code the read-only repo for Skyhold, a city builder made with Opus, and asked it to attack it. In under six minutes it found 13 issues, including a malformed URL that had already crashed the live server twice and unchecked leaderboard scores, and both were patched the same day.</p>
-<p><a href="https://x.com/0xbobaaa/status/2113910639026401525">@0xbobaaa on X</a> · 69 likes · 3 reposts · 2,690 views</p></li>
-<li><p><strong>A daily investment report built from an X List</strong></p>
-<p>zaimiri gave Grok Bot an X List of investors they trust. Every morning it scans their last 24 hours of posts, labels each position as buy, hold, sell or watch with the post as evidence, flags agreement and disagreement, and compares it with yesterday&#x27;s report.</p>
-<p><a href="https://x.com/zaimiri/status/2113979830240940212">@zaimiri on X</a> · 65 likes · 1 repost · 1,847 views</p></li>
-<li><p><strong>A pizza simulator from one Opus 5.5 prompt</strong></p>
-<p>Mr Tactical asked Claude Opus 5.5 to build a pizza simulator game and shared the playable result, asking followers whether it should become a full game.</p>
-<p><a href="https://x.com/MrTacticalX/status/2113987724260872333">@MrTacticalX on X</a> · 56 likes · 2 reposts · 4,036 views</p></li>
-<li><p><strong>An industrial robot you can take apart in the browser</strong></p>
-<p>Valentin had Claude (Opus 5.5) build an interactive 6-axis KUKA robot with every part labelled. It stacks cubes, writes on the floor with a marker, and lets you open a joint to see the motor and gearbox, using KUKA&#x27;s real specs with simulated motion.</p>
-<p><a href="https://x.com/martynov014/status/2114007100359844256">@martynov014 on X</a> · 34 likes · 4 reposts · 781 views</p></li>
-<li><p><strong>Grok Bot as a personal Wall Street newsletter</strong></p>
-<p>Ardullo told Grok Bot which stocks, earnings and big moves matter to their portfolio. Now it checks on its own and only pings them when something is worth looking at, instead of opening five apps every morning.</p>
-<p><a href="https://x.com/RafelineK/status/2114068832017060245">@RafelineK on X</a> · 16 likes · 2 reposts · 255 views</p></li>
-<li><p><strong>A Grok Bot wingman named My Man</strong></p>
-<p>Lfleezy&#x27;s Grok Bot mapped a Disney Springs bar crawl and emailed the itinerary, dug through county public records, analyzed their X analytics to help restore monetization, and sends fresh post ideas every Monday for their dogs and veterans.</p>
-<p><a href="https://x.com/LFleezy23/status/2114104899764171156">@LFleezy23 on X</a> · 13 likes · 1 repost · 342 views</p></li>
-<li><p><strong>A first website that Grok Bot now runs</strong></p>
-<p>Erinn had never coded, so Grok Build wrote her first website, then she handed the site to Grok Bot. It now pulls her top X posts and videos, makes printable recipe cards in English, Japanese and Spanish, watches her contact form and publishes changes on request.</p>
-<p><a href="https://x.com/ErinnFL/status/2114107972943011983">@ErinnFL on X</a> · 11 likes · 0 reposts · 351 views</p></li>
-<li><p><strong>A whole-life command center in Grok Bot</strong></p>
-<p>MAGS built an animated hub in Grok Bot that links net worth, a property inventory, a budget, estate tracking and tasks, where changing one value updates every layer. They shared it as a free template.</p>
-<p><a href="https://x.com/TAftermath2020/status/2114060245991616512">@TAftermath2020 on X</a> · 9 likes · 1 repost · 924 views</p></li>
 </ol>]]></description>
     </item>
 </channel>
