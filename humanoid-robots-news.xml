@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:09:55 GMT</lastBuildDate>
 
     
     
@@ -45,7 +45,17 @@
     
     
     
+    
     <item>
+      <title>Bigwave's bipedal humanoid ties into factory PLCs on a Korean auto-parts line</title>
+      <link>https://theroboticsmedia.com/article/bigwave-robotics-bipedal-humanoid-auto-parts-line-korea-first</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-24-bigwave-plc-auto-parts</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/storage/articles/covers/2026/11/ZpSAVdIdkaKA5fczNR7pXhf0.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/storage/articles/covers/2026/11/ZpSAVdIdkaKA5fczNR7pXhf0.jpg" alt="" /></p>
+<p>Bigwave Robotics says its bipedal humanoid walked 10 meters on a live South Korean auto-parts line and completed an engine-part calibration tied directly to the plant's programmable logic controllers — which the company calls a first for a bipedal humanoid in South Korea.</p><p>The robot runs on Bigwave's Hyper Foundry physical AI platform, trained with reinforcement and imitation learning in simulation before deployment. Humanoid work now makes up about 20% of Bigwave's revenue this year. The customer plant was not named.</p><p><a href="https://theroboticsmedia.com/article/bigwave-robotics-bipedal-humanoid-auto-parts-line-korea-first">The Robotics Media</a></p>]]></description>
+    </item>
+<item>
       <title>YYForce's Six Seven humanoid starts hotel concierge work in Singapore</title>
       <link>https://theroboticsmedia.com/article/yyforce-six-seven-humanoid-novotel-singapore</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-24-yyforce-six-seven-novotel</guid>
@@ -694,19 +704,6 @@
 <li>Rainbow keeps its working humanoids on wheels for safety and plans to focus on manufacturing until about 2030, with pilots at Daedong, Samsung Medical Center and bakery chain Sungsimdang.</li>
 <li>The show floor also featured Chinese Unitree G1 humanoids dancing and an RB-Y1 sorting flowers, which Rainbow admits still makes mistakes.</li></ul>
 <p>Source: <a href="https://www.ajupress.com/view/20261104160253637">Aju Press</a>.</p>]]></description>
-    </item>
-<item>
-      <title>South Korea opens its first AI Humanoid Data Factory, with 12 teleoperated humanoids recording training data</title>
-      <link>https://www.ajupress.com/view/20261103143728182</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-korea-kimm-humanoid-data-factory</guid>
-      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
-      <enclosure url="https://image.ajunews.com/content/image/2026/11/03/20261103144135885151.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://image.ajunews.com/content/image/2026/11/03/20261103144135885151.png" alt=""/></p>
-<p>The state-funded Korea Institute of Machinery and Materials (KIMM) and ETRI opened the country's first facility built to mass-produce training data for two-legged humanoids on Tuesday. It runs 12 humanoids across about 1,000 square meters, with plans to grow to 25.</p>
-<ul><li>Researchers teleoperate the robots through tasks like pulling food from a fridge, handling laundry, tidying a sofa and working car controls; each motion trains vision-language-action models that go back onto the robots for testing.</li>
-<li>It's part of the science ministry's K-Moonshot humanoid mission, alongside the 2.3 trillion won (about $1.7B) budgeted through 2030 for the humanoid industry.</li>
-<li>The factory is due to open to outside companies, universities and institutes in stages from late 2027.</li></ul>
-<p>Source: <a href="https://www.ajupress.com/view/20261103143728182">Aju Press</a></p>]]></description>
     </item>
 </channel>
 </rss>
