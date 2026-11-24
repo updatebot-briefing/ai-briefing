@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 21:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:07:40 GMT</lastBuildDate>
+<item>
+<title>Gopuff joins Walmart in letting Meta's Muse AI agent shop for customers</title>
+<link>https://theshelbyreport.com/2026/11/24/gopuff-joins-walmart-in-letting-metas-muse-ai-agent-shop-for-customers/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-24-muse-gopuff</guid>
+<pubDate>Tue, 24 Nov 2026 19:15:26 GMT</pubDate>
+<enclosure url="https://theshelbyreport.com/wp-content/uploads/2026/11/walmart-shop-with-muse-from-meta-lead-e1795546028342.webp" type="image/webp" length="0"/>
+<description><![CDATA[<p><img src="https://theshelbyreport.com/wp-content/uploads/2026/11/walmart-shop-with-muse-from-meta-lead-e1795546028342.webp" alt=""/></p>
+<p>Gopuff has launched a direct connector for Meta Muse, letting the agent shop more than 5,000 groceries and household essentials at the nearest Gopuff, with delivery in as fast as 15 minutes.</p><p>The connector plugs into Gopuff's live inventory, pricing, promotions and delivery times, so Muse can turn a saved Instagram recipe reel into an order or restock staples from remembered brand preferences — showing stock and arrival time and asking for approval before buying.</p><p>Gopuff, which owns its micro-fulfillment centres and delivery network, reports 99.5% order accuracy. New Muse users linking Gopuff get free delivery on their first three orders.</p>]]></description>
+</item>
 <item>
 <title>Meta brings its Muse AI assistant directly into Instagram DMs</title>
 <link>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</link>
@@ -560,15 +569,6 @@
 <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&amp;h=900&amp;fit=fill" alt="Introducing dots | OpenAI"/>
 <p>OpenAI added an <a href="https://openai.com/index/introducing-dots/">update dated Nov 3</a> to its dots launch post: "We're expanding the family of frontier models that power dots to include GPT‑6.1 Terra." It says a dot "can draw on different models for different parts of its work," and that Terra builds on the GPT‑6 series' alignment work and uses safeguards developed for GPT‑6 Astra.</p><p>This makes official what dots lead Tibo (@thsottiaux) <a href="https://x.com/thsottiaux/status/2117283124833055196">previewed on Nov 2</a>, when he said Terra brings speed and a personality upgrade and will help bring dots to more people.</p><p>OpenAI has not announced any change to who can get dots. The <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">help center</a> still lists Pro and Business Premium (Enterprise as an admin-enabled beta), and talk of dots coming to Plus is unconfirmed.</p>]]></description>
-</item>
-<item>
-<title>Hermes Agent v0.22.7 rolls up 174 PRs, including lead routing and cron jobs for Desktop Group Chats</title>
-<link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.7</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-03-hermes-v0-22-7</guid>
-<pubDate>Wed, 04 Nov 2026 01:11:09 GMT</pubDate>
-<enclosure url="https://opengraph.githubassets.com/dcdb736ee85a0eb97e893c8e7290acd395270d16ac20f8766a745c25a7cf3631/NousResearch/hermes-agent/releases/tag/v0.22.7" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://opengraph.githubassets.com/dcdb736ee85a0eb97e893c8e7290acd395270d16ac20f8766a745c25a7cf3631/NousResearch/hermes-agent/releases/tag/v0.22.7" alt="Hermes Agent v0.22.7 on GitHub"/>
-<p>Nous Research released <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.7">Hermes Agent v0.22.7</a> on Nov 3 (about 1:53pm PT), one day after v0.22.6. It is a patch release that rolls up about 174 merged PRs for the CLI, installers, the Microsoft Store app, Docker and Hermes Cloud, with full curated notes again deferred to v0.23.0.</p><p>Listed additions include opt-in lead routing for Desktop Group Chats (with a Lead badge), cron jobs that post into Group Chats, room purpose and shared notes, pinned Kanban boards as quick-switch tabs, TeX and mermaid diagram rendering, Telegram setup on Team Gateway by linking an account to the shared bot, an opt-in Slack setting to stay quiet on unaddressed thread replies, and a "Daybreak" switch for catalog-listed ChatGPT subscription models.</p><p>Teknium <a href="https://x.com/Teknium/status/2117514571623944583">recommended upgrading</a> for multi-machine and gateway users.</p>]]></description>
 </item>
 </channel>
 </rss>
