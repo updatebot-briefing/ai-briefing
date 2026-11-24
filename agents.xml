@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:07:05 GMT</lastBuildDate>
+<item>
+<title>Meta brings its Muse AI assistant directly into Instagram DMs</title>
+<link>https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-24-muse-instagram-dms</guid>
+<pubDate>Tue, 24 Nov 2026 17:00:00 GMT</pubDate>
+<enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/1080x1080_Black.png?w=680" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/1080x1080_Black.png?w=680" alt=""/></p>
+<p>Meta is putting Muse directly inside Instagram: users can now chat with the agent in a DM thread to get context on a post, place or product, or catch up on conversations they missed in other DMs.</p><p>Posts shared with Muse can turn into actions — adding a coffee shop to a Mexico City itinerary or finding a Black Friday deal on shoes — and saved posts and reels can be organised into Collections, turned into grocery lists or travel itineraries.</p><p>The rollout starts today for iOS and Android in the US, Canada, Mexico, Japan and Singapore; saved-post prompts launch in the US and Canada. Chats also appear as a side chat in the main Muse app.</p>]]></description>
+</item>
 <item>
 <title>Meta Muse can do your Black Friday shopping at Walmart</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday</link>
@@ -560,15 +569,6 @@
 <enclosure url="https://opengraph.githubassets.com/dcdb736ee85a0eb97e893c8e7290acd395270d16ac20f8766a745c25a7cf3631/NousResearch/hermes-agent/releases/tag/v0.22.7" type="image/jpeg" length="0"/>
 <description><![CDATA[<img src="https://opengraph.githubassets.com/dcdb736ee85a0eb97e893c8e7290acd395270d16ac20f8766a745c25a7cf3631/NousResearch/hermes-agent/releases/tag/v0.22.7" alt="Hermes Agent v0.22.7 on GitHub"/>
 <p>Nous Research released <a href="https://github.com/NousResearch/hermes-agent/releases/tag/v0.22.7">Hermes Agent v0.22.7</a> on Nov 3 (about 1:53pm PT), one day after v0.22.6. It is a patch release that rolls up about 174 merged PRs for the CLI, installers, the Microsoft Store app, Docker and Hermes Cloud, with full curated notes again deferred to v0.23.0.</p><p>Listed additions include opt-in lead routing for Desktop Group Chats (with a Lead badge), cron jobs that post into Group Chats, room purpose and shared notes, pinned Kanban boards as quick-switch tabs, TeX and mermaid diagram rendering, Telegram setup on Team Gateway by linking an account to the shared bot, an opt-in Slack setting to stay quiet on unaddressed thread replies, and a "Daybreak" switch for catalog-listed ChatGPT subscription models.</p><p>Teknium <a href="https://x.com/Teknium/status/2117514571623944583">recommended upgrading</a> for multi-machine and gateway users.</p>]]></description>
-</item>
-<item>
-<title>Nous opens a waitlist for the Hermes Agent mobile app after the beta filled up</title>
-<link>https://x.com/NousResearch/status/2117696344756252822</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-03-hermes-mobile-waitlist</guid>
-<pubDate>Wed, 04 Nov 2026 01:11:09 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/profile_images/1816254738234761216/TX7TW-Mp_400x400.jpg" alt="Nous Research on X"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2117696344756252822">said on Nov 3</a> (11:12am PT) that the Hermes Mobile beta it released at NousCon 2026 "filled up quickly," and that it is working to free up more beta seats and get the app production-ready for a wider release.</p><p>In the meantime, people can join the waitlist at <a href="https://hermes-agent.nousresearch.com/mobile">hermes-agent.nousresearch.com/mobile</a>. Teknium <a href="https://x.com/Teknium/status/2117702996478108060">added</a> that waitlisted users will get in "as we get more seats." No public release date was given.</p>]]></description>
 </item>
 </channel>
 </rss>
