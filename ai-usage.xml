@@ -5,7 +5,8 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 20 Nov 2026 21:14:19 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 21:08:14 GMT</lastBuildDate>
+    
     
     
     
@@ -14,6 +15,14 @@
     
     
     <item>
+<title>Benchleader prices Codex Plus: $20 a month buys about $323 of API-priced coding work</title>
+<link>https://www.benchleader.com/coding-plans/codex-plus</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-24-codex-plus</guid>
+<pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+<enclosure url="https://www.benchleader.com/opengraph-image" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www.benchleader.com/opengraph-image" alt=""/><p>Benchleader's new per-plan page prices Codex Plus — the $20-a-month ChatGPT Plus plan with Codex — at about $323 of API-priced work a month when the allowance is used in full on GPT-6 Sol, or 16 times the subscription price.</p><p>OpenAI describes the allowance as enough for “a few focused coding sessions each week”, with 15–160 local GPT-6.1 Sol messages per five hours plus weekly limits; from December, chat and Codex share one allowance.</p><p>For comparison at the same $20, Benchleader puts Claude Pro at about 60x its price in API value on Opus 5.5. All figures are estimates, not meter tests, and assume the whole allowance is used.</p>]]></description>
+    </item>
+<item>
 <title>Benchleader prices coding plans by API value: Claude Max $100 carries ~$7,224 of Opus work</title>
 <link>https://www.benchleader.com/coding-plans</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-20-benchleader-coding-plans</guid>
