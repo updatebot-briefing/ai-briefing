@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:09:17 GMT</lastBuildDate>
 
     
     
@@ -44,7 +44,17 @@
     
     
     
+    
     <item>
+      <title>YYForce's Six Seven humanoid starts hotel concierge work in Singapore</title>
+      <link>https://theroboticsmedia.com/article/yyforce-six-seven-humanoid-novotel-singapore</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-24-yyforce-six-seven-novotel</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://theroboticsmedia.com/logo.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://theroboticsmedia.com/logo.png" alt="" /></p>
+<p>YYForce's humanoid concierge robot, Six Seven, has begun guest-facing service at Novotel Singapore on Stevens, answering hotel and dining questions, giving Singapore travel guidance, and running interactive storytelling in the lobby.</p><p>Six Seven runs on Nvidia Jetson edge hardware and was trained in Nvidia Isaac Sim, letting it handle real-time voice interaction without a constant cloud connection. YYForce shares jumped 19.68% to $1.04 on the announcement, with trading volume 232.9 times normal. The robot works within YYForce's Workforce OS fleet platform.</p><p><a href="https://theroboticsmedia.com/article/yyforce-six-seven-humanoid-novotel-singapore">The Robotics Media</a></p>]]></description>
+    </item>
+<item>
       <title>Boston Dynamics puts Atlas on scooter wheels to test its motors</title>
       <link>https://theroboticsmedia.com/article/boston-dynamics-atlas-scooter-wheels-reinforcement-learning</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-23-atlas-scooter-wheels</guid>
@@ -697,19 +707,6 @@
 <li>It's part of the science ministry's K-Moonshot humanoid mission, alongside the 2.3 trillion won (about $1.7B) budgeted through 2030 for the humanoid industry.</li>
 <li>The factory is due to open to outside companies, universities and institutes in stages from late 2027.</li></ul>
 <p>Source: <a href="https://www.ajupress.com/view/20261103143728182">Aju Press</a></p>]]></description>
-    </item>
-<item>
-      <title>Carnegie Mellon unveils Pixel, an under-$15,000 wheeled humanoid and full learning stack it plans to open-source</title>
-      <link>https://pixel-robot.com/pixel/</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-03-cmu-pixel-15k-wheeled-humanoid</guid>
-      <pubDate>Wed, 04 Nov 2026 01:15:52 GMT</pubDate>
-      <enclosure url="https://pixel-robot.com/images/pixel-social-v1.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://pixel-robot.com/images/pixel-social-v1.jpg" alt=""/></p>
-<p>CMU researchers Tony Tao and Jason Liu, advised by Ruslan Salakhutdinov and Deepak Pathak, released Pixel: a wheeled humanoid with a 17-DoF human-proportioned upper body, holonomic base and vertical lift that can be assembled for under $15,000.</p>
-<ul><li>It ships with sensorized human-worn grippers for collecting demos without a robot, VR and leader-arm teleoperation, a shared whole-body controller and one policy pipeline for human and robot data.</li>
-<li>Policies trained from human demos reached 82.0% average task progress on three mobile-manipulation tasks, and 78.7% from robot teleop on three others.</li>
-<li>The project page says the system will be "Open Sourced Soon"; no public repo yet.</li></ul>
-<p>Read the <a href="https://arxiv.org/abs/2611.03648">paper on arXiv</a> or the <a href="https://pixel-robot.com/pixel/">project page</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
