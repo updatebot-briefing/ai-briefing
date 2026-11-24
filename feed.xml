@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 21:01:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:00:53 GMT</lastBuildDate>
             
     
     
@@ -66,7 +66,15 @@
     
     
     
+    
     <item>
+      <title>Virginia and Oregon sue SpaceX over Grok deepfakes</title>
+      <link>https://www.khsu.org/2026-11-23/virginia-oregon-sue-elon-musks-spacexsi-over-deepfake-nonconsensual-sexual-images</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-24-va-oregon-sue-spacex-grok-deepfakes</guid>
+      <pubDate>Mon, 23 Nov 2026 22:16:00 GMT</pubDate>
+      <description><![CDATA[<p>Virginia Attorney General Jay Jones and Oregon Attorney General Dan Rayfield filed the first state lawsuits against SpaceX over its Grok chatbot, alleging it let users create non-consensual sexualized images — including of children — while marketing Grok and X as safe. The states seek injunctions, civil penalties and disgorgement under consumer-protection laws.</p><p>The complaints cite a Center for Countering Digital Hate estimate that Grok generated about three million sexualized images on X in early January. SpaceX has not yet publicly responded, and no court has ruled on the claims.</p>]]></description>
+    </item>
+<item>
       <title>Z.ai ships GLM-5.4, a 750B-parameter Loop Transformer flagship</title>
       <link>https://z.ai/blog/glm-5.4</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-23-zai-glm-5-4-loop-transformer</guid>
@@ -574,21 +582,6 @@
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-10-grok-4-8-in-rl</guid>
       <pubDate>Tue, 10 Nov 2026 09:35:00 GMT</pubDate>
       <description><![CDATA[<p>Elon Musk said Tuesday that Grok 4.8's pre-training is done and the model is now in reinforcement learning, with evals he says are starting to climb. He also said SpaceXAI has dumped JAX and SGLang and rewritten its entire RL and inference stack from scratch in C/C++, which took extra time — 57 days after he first said 4.8 would finish training and start RL.</p><p>Musk promised a soft rollout to Grok Bot users later this week, with no scope, date or price given, and published no benchmark scores. In a follow-up reply he said Grok 4.8 would not beat Opus 5.5, but that Grok 5 should exceed it in 2 or 3 months.</p><p>Why it matters: the first concrete status update on SpaceXAI's next frontier model after a long delay. The claims rest on Musk's own posts, and no independent verification of the rewrite or the evals exists yet.</p>]]></description>
-    </item>
-<item>
-      <title>Google makes Gemini 4 Carbon, its strongest model, available to developers and AI Ultra subscribers</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
-      <guid isPermaLink="false">updatebot-ainews-2026-11-10-gemini-4-carbon-available</guid>
-      <pubDate>Wed, 11 Nov 2026 01:05:23 GMT</pubDate>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg" alt=""/></p>
-<p>Two weeks after its limited debut for cyber defenders, <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">Gemini 4 Carbon is now generally available</a> through the paid Gemini API in AI Studio and Gemini for business, and is rolling out to all Google AI Ultra subscribers in the Gemini app, AI Mode in Search and Antigravity.</p>
-<ul>
-<li>Introductory API price is $2 / $10 per million input/output tokens until November 30, then $4 / $20.</li>
-<li>Google says Argon stays the default pick for most coding and knowledge work, while Carbon is for the hardest long-horizon tasks; the Gemini app dropped 3.1 Pro with this launch (<a href="https://9to5google.com/2026/11/10/gemini-app-4-carbon/">9to5Google</a>).</li>
-<li>Antigravity is previewing <code>/swarm</code>, which turns one prompt into a coordinated team of agents, and Google says Carbon ranks #1 on CursorBench 4.0 (<a href="https://antigravity.google/blog/gemini-4-carbon-in-google-antigravity/">Antigravity blog</a>).</li>
-</ul>
-<p>Why it matters: this is the moment Google's top frontier model moves from a gated preview to something anyone paying can build on, at a price well under rival flagships.</p>]]></description>
     </item>
 </channel>
 </rss>
