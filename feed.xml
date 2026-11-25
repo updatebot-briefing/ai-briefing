@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:02:44 GMT</lastBuildDate>
             
     
     
@@ -73,7 +73,17 @@
     
     
     
+    
     <item>
+      <title>Cognition ships SWE-2.1, doubling its coding model's benchmark scores</title>
+      <link>https://cognition.com/blog/swe-2-1</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-25-cognition-swe-2-1</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://cognition.com/images/swe-2-1/cover.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://cognition.com/images/swe-2-1/cover.jpg" alt=""/></p>
+<p>Cognition released SWE-2.1, a major upgrade to the coding model inside Devin, trained with pure reinforcement learning on Moonshot's Kimi K3. On Cognition's own benchmarks it more than doubles SWE-2: Terminal-Bench 4.1 jumps from 24.2 to 50.0, FrontierCode 2.0 from 24.1 to 41.3, and ExploitBench from 36% to 80%.</p><p>Two variants ship alongside: SWE-2.1 Ultrafast, the same model at 10x speed via Cerebras, and SWE-2.1 Cyber, with looser safeguards for defensive scans in Devin Security. All scores are company-reported and not yet independently verified. See <a href="https://cognition.com/blog/swe-2-1">Cognition's announcement</a>.</p>]]></description>
+    </item>
+<item>
       <title>Claude artifacts can now install as Mac and Windows desktop apps</title>
       <link>https://claude.com/resources/articles/install-as-app</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-25-claude-install-as-app</guid>
@@ -583,15 +593,6 @@
       <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" type="image/png" length="0"/>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" alt=""/></p>
 <p>Google DeepMind launched the Gemini Decisions API on Nov 11, powered by a new model, Gemini Decision 1. Instead of generating text token by token, it scores candidate answers in a single forward pass, returning probabilities and confidence scores in 150–250 ms.</p><p>One request can carry a multimodal input of up to 256K tokens — text, images, audio, video or PDFs — plus up to 1,000 independent questions, priced at $0.10 per million input tokens with no output charge. Google pitches it for the bounded choices agents make constantly: tool selection, policy checks, model routing and grading.</p><p>It follows OpenAI, Cloudflare and Microsoft, which shipped similar decision models in recent weeks. Google says its own benchmarks put Decision 1 ahead on most shared tests — those figures are Google's own, not independently verified.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic's IPO is multiple times oversubscribed; bankers weigh pricing above the $70–$78 range</title>
-      <link>https://stockanalysis.com/news/anthropic-ipo-multiple-times-oversubscribed/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-anthropic-ipo-oversubscribed</guid>
-      <pubDate>Wed, 11 Nov 2026 15:19:00 GMT</pubDate>
-      <enclosure url="https://api.stockanalysis.com/api/assets/cms/2e8ce88a-f5d9-4a43-b6c9-b4e2290af9bb.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://api.stockanalysis.com/api/assets/cms/2e8ce88a-f5d9-4a43-b6c9-b4e2290af9bb.jpg" alt=""/></p>
-<p>Anthropic's IPO has drawn orders for multiple times the 825 million shares on offer at $70 to $78 each, Bloomberg reports, driven by large anchor-size orders from institutions.</p><p>The Financial Times, citing five people familiar with the matter, reports bankers expect to price above the filed range after strong first-day demand, which could lift the valuation to $1.5 trillion or more. Nothing new has been filed with the SEC, and Anthropic has not commented.</p><p>Anthropic plans to price on Wednesday, Nov 18, and start trading on Nasdaq on Nov 19 under the ticker ANT.</p>]]></description>
     </item>
 </channel>
 </rss>
