@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 21:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:06:20 GMT</lastBuildDate>
+<item>
+<title>Grok Bot 1.3.0: smarter Slack Bots, restock alerts, org controls</title>
+<link>https://x.ai/changelog/bot</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-25-grok-bot-1-3-0</guid>
+<pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+<enclosure url="https://x.ai/images/news/introducing-grok-bot-og-2.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://x.ai/images/news/introducing-grok-bot-og-2.png" alt=""/></p>
+<p>SpaceXAI shipped Grok Bot 1.3.0 on Nov 24, a big release led by Slack: Bots can hand work to another Bot and answer back in your Slack DM, wake on a name mention in group DMs, and answer in the main chat instead of always opening a thread.</p><p>Shopping gets restock alerts — a sold-out product card offers Notify me — plus Buy now on single-product cards and product answers spoken aloud on voice calls, with cards sent to chat. Org controls let admins limit members to company domains.</p><p>Read the <a href="https://x.ai/changelog/bot">official changelog</a>.</p>]]></description>
+</item>
 <item>
 <title>Gopuff joins Walmart in letting Meta's Muse AI agent shop for customers</title>
 <link>https://theshelbyreport.com/2026/11/24/gopuff-joins-walmart-in-letting-metas-muse-ai-agent-shop-for-customers/</link>
@@ -560,15 +569,6 @@
 <description><![CDATA[<img src="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" alt="Hermes Marketplace"/>
 <p>Nous Research <a href="https://x.com/NousResearch/status/2118058453415371119">announced on Nov 4</a> (11:11am PT) that plugins, connectors, and skills for Hermes Agent are now unified in one <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a>, so you can browse and extend Hermes in a few clicks.</p>
 <p>The marketplace page describes browsing skills and plugins plus hosted connectors for the apps you already use. The post passed about 72,000 views within hours.</p>]]></description>
-</item>
-<item>
-<title>OpenAI officially adds GPT-6.1 Terra to the models that power dots</title>
-<link>https://openai.com/index/introducing-dots/</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-03-dots-gpt-6-1-terra-official</guid>
-<pubDate>Wed, 04 Nov 2026 01:11:09 GMT</pubDate>
-<enclosure url="https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&amp;h=900&amp;fit=fill" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://images.ctfassets.net/kftzwdyauwt9/3SQQ9jqSm3aytzUPKuNS3X/e30d9ff756987b178e2b141de5c64a35/Art_Card___Landscape___16_9___1920_1080.png?w=1600&amp;h=900&amp;fit=fill" alt="Introducing dots | OpenAI"/>
-<p>OpenAI added an <a href="https://openai.com/index/introducing-dots/">update dated Nov 3</a> to its dots launch post: "We're expanding the family of frontier models that power dots to include GPT‑6.1 Terra." It says a dot "can draw on different models for different parts of its work," and that Terra builds on the GPT‑6 series' alignment work and uses safeguards developed for GPT‑6 Astra.</p><p>This makes official what dots lead Tibo (@thsottiaux) <a href="https://x.com/thsottiaux/status/2117283124833055196">previewed on Nov 2</a>, when he said Terra brings speed and a personality upgrade and will help bring dots to more people.</p><p>OpenAI has not announced any change to who can get dots. The <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">help center</a> still lists Pro and Business Premium (Enterprise as an admin-enabled beta), and talk of dots coming to Plus is unconfirmed.</p>]]></description>
 </item>
 </channel>
 </rss>
