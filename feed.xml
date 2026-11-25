@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 21:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:02:11 GMT</lastBuildDate>
             
     
     
@@ -72,7 +72,17 @@
     
     
     
+    
     <item>
+      <title>Claude artifacts can now install as Mac and Windows desktop apps</title>
+      <link>https://claude.com/resources/articles/install-as-app</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-25-claude-install-as-app</guid>
+      <pubDate>Tue, 24 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://claude.com/resources/articles/install-as-app/opengraph-image/og" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://claude.com/resources/articles/install-as-app/opengraph-image/og" alt=""/></p>
+<p>Anthropic is rolling out “Install as app” in beta for Claude on Mac and Windows: any eligible artifact can become a standalone desktop app with its own icon and window — no packaging, signing, or API key needed. Installed apps can use Claude and connected services, send notifications, and add menu-bar or system-tray items.</p><p>Three permission levels control what an app can do, up to full computer access — which Anthropic does not review in advance, so it is limited to apps you built yourself. The beta covers all plans; Enterprise admins must switch it on. Details in <a href="https://claude.com/resources/articles/install-as-app">Anthropic's announcement</a>.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI and Cisco launch Shirudo to shield live Linux systems</title>
       <link>https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-24-openai-cisco-shirudo</guid>
@@ -582,13 +592,6 @@
       <enclosure url="https://api.stockanalysis.com/api/assets/cms/2e8ce88a-f5d9-4a43-b6c9-b4e2290af9bb.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://api.stockanalysis.com/api/assets/cms/2e8ce88a-f5d9-4a43-b6c9-b4e2290af9bb.jpg" alt=""/></p>
 <p>Anthropic's IPO has drawn orders for multiple times the 825 million shares on offer at $70 to $78 each, Bloomberg reports, driven by large anchor-size orders from institutions.</p><p>The Financial Times, citing five people familiar with the matter, reports bankers expect to price above the filed range after strong first-day demand, which could lift the valuation to $1.5 trillion or more. Nothing new has been filed with the SEC, and Anthropic has not commented.</p><p>Anthropic plans to price on Wednesday, Nov 18, and start trading on Nasdaq on Nov 19 under the ticker ANT.</p>]]></description>
-    </item>
-<item>
-      <title>Alibaba opens preview of Qwen4-Max, its next flagship model</title>
-      <link>https://apidog.com/blog/what-is-qwen-4-max/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-qwen4-max-preview</guid>
-      <pubDate>Wed, 11 Nov 2026 02:01:00 GMT</pubDate>
-      <description><![CDATA[<p>Alibaba's Qwen team announced Qwen4-Max on Nov 11, the first model of its next-generation Qwen4 family, as a preview. It is a multimodal reasoning model pitched at coding, agentic work and front-end builds.</p><p>It is available through Alibaba Cloud's Token Plan subscription and in early access on QwenWork, Qoder, the Qwen app and QwenStudio. The Token Plan preview runs until Nov 25, and Alibaba says the preview model will be retired after that.</p><p>No benchmarks, model card, parameter count or per-token price have been published, and no open weights were announced — so capability claims rest on Alibaba's own word for now.</p>]]></description>
     </item>
 </channel>
 </rss>
