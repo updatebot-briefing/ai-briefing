@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:09:40 GMT</lastBuildDate>
 
     
     
@@ -46,7 +46,17 @@
     
     
     
+    
     <item>
+      <title>XPeng debuts IRON humanoid at AI Day, targets January 2027 mass production</title>
+      <link>https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-25-xpeng-iron-ai-day</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <enclosure url="https://s-cdn.xpeng.com/commoncms/prod/2026-11-25/b2d739b7343d4131b5840eda59f5dc48.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://s-cdn.xpeng.com/commoncms/prod/2026-11-25/b2d739b7343d4131b5840eda59f5dc48.jpg" alt="" /></p>
+<p>XPeng gave its IRON humanoid its first public debut at AI Day 2026 in Guangzhou, unveiling a redesigned robot with 76 degrees of freedom, more than 1,500 tactile sensing points and three in-house Turing AI chips.</p><p>IRON walked on stage, held a live voice interaction and returned to its charger on its own. XPeng says mass production starts in January 2027, with training as a store assistant in its retail shops in Q1 and a public release targeted for Q2 2027.</p><p>All specs and dates are XPeng's own claims. <a href="https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174">XPENG press release</a></p>]]></description>
+    </item>
+<item>
       <title>Bigwave's bipedal humanoid ties into factory PLCs on a Korean auto-parts line</title>
       <link>https://theroboticsmedia.com/article/bigwave-robotics-bipedal-humanoid-auto-parts-line-korea-first</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-24-bigwave-plc-auto-parts</guid>
@@ -691,19 +701,6 @@
 <li>KIST transferred the core technology to LG Electronics. LG handles the platform, LG AI Research the physical AI, LG Energy Solution solid-state batteries, and Robostar mass production.</li>
 <li>Field tests are expanding into homes and hospitals, though the team says long-duration autonomous work is still unsolved.</li></ul>
 <p>Source: <a href="https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts">Seoul Economic Daily</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Rainbow Robotics says it has sold nearly 200 RB-Y1 wheeled humanoids and plans RB-Y2 mass production by next summer</title>
-      <link>https://www.ajupress.com/view/20261104160253637</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-rainbow-robotics-rby1-200-units</guid>
-      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
-      <enclosure url="https://image.ajunews.com/content/image/2026/11/04/20261104162650729535.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://image.ajunews.com/content/image/2026/11/04/20261104162650729535.jpg" alt=""/></p>
-<p>At Robo World 2026, which opened Nov. 4 at KINTEX near Seoul with 402 companies, Samsung-owned Rainbow Robotics said it has sold nearly 200 of its RB-Y1 mobile humanoids worldwide.</p>
-<ul><li>The company aims to get safety certification for the next-generation RB-Y2 and start mass production by next summer.</li>
-<li>Rainbow keeps its working humanoids on wheels for safety and plans to focus on manufacturing until about 2030, with pilots at Daedong, Samsung Medical Center and bakery chain Sungsimdang.</li>
-<li>The show floor also featured Chinese Unitree G1 humanoids dancing and an RB-Y1 sorting flowers, which Rainbow admits still makes mistakes.</li></ul>
-<p>Source: <a href="https://www.ajupress.com/view/20261104160253637">Aju Press</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
