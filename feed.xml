@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:03:18 GMT</lastBuildDate>
             
     
     
@@ -74,7 +74,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI says GPT-6 can design proteins, with lab tests backing it</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-25-openai-gpt6-protein-design</guid>
+      <pubDate>Tue, 24 Nov 2026 22:56:00 GMT</pubDate>
+      <enclosure url="https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&amp;h=900&amp;fit=fill" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&amp;h=900&amp;fit=fill" alt=""/></p>
+<p>OpenAI says its GPT-6 models can design new protein structures and sequences using only reasoning and general-purpose code, without a specialized biology model generating the designs. In wet-lab tests with partner Onava, 35 of 322 designed minibinders bound their targets — a 10.9% hit rate across five proteins tied to cancer and immune disorders.</p><p>Sequence redesigns fared better: 85% of MDM2 designs kept binding. OpenAI is careful about the limits — specialist tools still filtered candidates, the preprint is not peer-reviewed, and binding is only a first step toward a medicine. Read the <a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities">OpenAI research post</a>.</p>]]></description>
+    </item>
+<item>
       <title>Cognition ships SWE-2.1, doubling its coding model's benchmark scores</title>
       <link>https://cognition.com/blog/swe-2-1</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-25-cognition-swe-2-1</guid>
@@ -584,15 +594,6 @@
       <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T012734Z_2_LYNXNPEMAA02X_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T012734Z_2_LYNXNPEMAA02X_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG" alt=""/></p>
 <p>The US and China have established a bilateral dialogue on 'superintelligence,' Treasury Secretary Scott Bessent said in prepared remarks in New York on Nov 10. The two sides will exchange best practices for testing advanced models before release and alert each other to serious incidents.</p><p>The dialogue, agreed by Trump and Xi in September, advances at their meeting in Shenzhen on Nov 18–19, on the sidelines of the APEC summit. Bessent stressed the US harbors 'no illusions' about differences with Beijing — the channel manages shared risks, not competition.</p><p>Neither side has committed to slowing development of advanced AI.</p>]]></description>
-    </item>
-<item>
-      <title>Google launches Gemini Decision 1, a model that answers instead of writing</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-google-gemini-decision-1</guid>
-      <pubDate>Wed, 11 Nov 2026 18:16:00 GMT</pubDate>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" type="image/png" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png" alt=""/></p>
-<p>Google DeepMind launched the Gemini Decisions API on Nov 11, powered by a new model, Gemini Decision 1. Instead of generating text token by token, it scores candidate answers in a single forward pass, returning probabilities and confidence scores in 150–250 ms.</p><p>One request can carry a multimodal input of up to 256K tokens — text, images, audio, video or PDFs — plus up to 1,000 independent questions, priced at $0.10 per million input tokens with no output charge. Google pitches it for the bounded choices agents make constantly: tool selection, policy checks, model routing and grading.</p><p>It follows OpenAI, Cloudflare and Microsoft, which shipped similar decision models in recent weeks. Google says its own benchmarks put Decision 1 ahead on most shared tests — those figures are Google's own, not independently verified.</p>]]></description>
     </item>
 </channel>
 </rss>
