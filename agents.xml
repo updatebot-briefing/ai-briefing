@@ -7,7 +7,14 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:07:39 GMT</lastBuildDate>
+<item>
+<title>Meta's Muse took 51% of AI-agent shopping orders last week</title>
+<link>https://aiweekly.co/alerts/metas-muse-took-51-of-ai-agent-shopping-orders-last-week</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-25-muse-51-percent-orders</guid>
+<pubDate>Wed, 25 Nov 2026 05:06:36 GMT</pubDate>
+<description><![CDATA[<p>Meta's Muse handled 51% of AI-agent shopping orders in the week ending Nov 22, ahead of Grok at 24% and ChatGPT at 22%, according to <a href="https://aiweekly.co/alerts/metas-muse-took-51-of-ai-agent-shopping-orders-last-week">Forter Intelligence data reported by CNBC</a>. Over the past 90 days Muse held 45% of agent orders and 43% of agent spending.</p><p>Muse carries no ads, but Meta says a quarter of its users shop through it, averaging over $200 per purchase, and it plans a small transaction fee. The ranking is single-source: Forter's methodology is not laid out in the piece.</p>]]></description>
+</item>
 <item>
 <title>Grok Bot 1.3.0: smarter Slack Bots, restock alerts, org controls</title>
 <link>https://x.ai/changelog/bot</link>
@@ -559,16 +566,6 @@
 <description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2118093752044552192/img/TefRcJ92h909qVMn.jpg" alt="Hermes Agent Plugin Hackathon"/>
 <p>Nous Research <a href="https://x.com/NousResearch/status/2118094256438936062">launched a Hermes Agent Plugin Hackathon</a> on Nov 4 (1:33pm PT), running 7 days with $20,000 in cash prizes plus neon signs, merch, and credits. Accepted entries will be listed in the new Hermes Marketplace.</p>
 <p>First place is $10,000; submissions are due 5pm EST on Nov 11 via a catalog pull request, a demo video tagging @NousResearch, and a <a href="https://form.typeform.com/to/FwJLvOln">Typeform</a>. Judges score usefulness, reliability, polish, and creativity, and favor plugins that do more than a prompt or skill could.</p>]]></description>
-</item>
-<item>
-<title>Nous unifies Hermes plugins, connectors, and skills in a single Hermes Marketplace</title>
-<link>https://hermes-agent.nousresearch.com/marketplace</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-hermes-marketplace</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://web-assets.nousresearch.com/marketing/f19693dd31b7d67173bfcf8eb15e85b5b5a97f9a/assets/mods/mods-card.png" alt="Hermes Marketplace"/>
-<p>Nous Research <a href="https://x.com/NousResearch/status/2118058453415371119">announced on Nov 4</a> (11:11am PT) that plugins, connectors, and skills for Hermes Agent are now unified in one <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a>, so you can browse and extend Hermes in a few clicks.</p>
-<p>The marketplace page describes browsing skills and plugins plus hosted connectors for the apps you already use. The post passed about 72,000 views within hours.</p>]]></description>
 </item>
 </channel>
 </rss>
