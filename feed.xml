@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 21:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:01:23 GMT</lastBuildDate>
             
     
     
@@ -76,7 +76,17 @@
     
     
     
+    
     <item>
+      <title>Ant open-sources Ling-3.2-air, a 124B multimodal model for agentic office work</title>
+      <link>https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-ant-ling-3-2-air</guid>
+      <pubDate>Wed, 25 Nov 2026 05:11:07 GMT</pubDate>
+      <enclosure url="https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&amp;ssl=1" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&amp;ssl=1" alt=""/></p>
+<p>Ant Group has released the weights for Ling-3.2-air under the MIT license. The multimodal model handles text, images and video and is aimed at agentic office work — producing documents and driving browser workflows through tools.</p><p>Its language component totals 124 billion parameters with 5.5 billion active per token. Ant reports task completion on its AutomationBench-AA rising from 15.7% to 61% versus its prior model, though those figures are company-reported. Read <a href="https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/">TechNode</a>.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic moved its Messages API to Rust, with Claude agents doing the rewrite</title>
       <link>https://www.anthropic.com/research/migrating-api-to-rust</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-anthropic-messages-api-rust</guid>
@@ -586,15 +596,6 @@
       <enclosure url="https://img2.helpnetsecurity.com/posts2026/self-hosted_Claude_Managed_Agents.webp" type="image/webp" length="0"/>
       <description><![CDATA[<p><img src="https://img2.helpnetsecurity.com/posts2026/self-hosted_Claude_Managed_Agents.webp" alt=""/></p>
 <p>Anthropic opened a <a href="https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/">private beta of self-hosted Claude Managed Agents</a> on Nov 12, letting companies run the full agent service — harness, sandboxes, credentials and session history — inside their own cloud or data center.</p><p>Model calls still go to a provider the customer picks: Anthropic, Amazon Bedrock, Google’s agent platform, Microsoft Foundry or their own gateway. Access is through an Anthropic account team, and some hosted features like scheduled deployments and webhooks are missing for now.</p>]]></description>
-    </item>
-<item>
-      <title>Google launches Gemini 4 Hydrogen, its fast new model for everyday coding and agentic work</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">updatebot-muse-breaking-2026-11-12-gemini-4-hydrogen</guid>
-      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
-      <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" alt=""/></p>
-<p>Google has launched <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Gemini 4 Hydrogen</a>, a new Gemini 4 model built for speed and efficiency in everyday coding and agentic workflows.</p><p>Hydrogen beats Gemini 4 Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50), reaching 54 at its new xhigh setting, with four thinking levels and a 1M-token context window.</p><p>It is rolling out today across the Gemini app, Google Search, AI Studio, the Gemini API, and Antigravity, priced at $1.50 per million input tokens and $7.50 per million output tokens.</p>]]></description>
     </item>
 </channel>
 </rss>
