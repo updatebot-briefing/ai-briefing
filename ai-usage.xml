@@ -5,7 +5,8 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 24 Nov 2026 21:08:14 GMT</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:08:53 GMT</lastBuildDate>
+    
     
     
     
@@ -15,6 +16,13 @@
     
     
     <item>
+<title>What “5x” actually buys: your AI plan priced in API dollars</title>
+<link>https://medium.com/@whichmodelhq/what-5x-actually-buys-your-ai-plan-priced-in-api-dollars-c77b0bde8e55</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-26-five-x-api-dollars</guid>
+<pubDate>Thu, 26 Nov 2026 04:30:44 GMT</pubDate>
+<description><![CDATA[<p>Which Model HQ’s new analysis prices what a full weekly plan limit is worth in API dollars, using community meter measurements: Claude Pro ($20/mo) holds about $163 a week — 35x its price — while ChatGPT Plus with Codex holds $44–69 a week, about 10–14x.</p><p>Claude’s tiers scale almost linearly in measured dollars (Max $844/wk, Ultra $1,570/wk), while ChatGPT Pro 200 (Codex) measures about $1,095 a week, 24x its price. Grok and Google AI have no instrumented measurement yet.</p><p>All figures are community estimates for coding-agent workloads, and the ratios are ceilings — they assume the whole limit is burned every week. <a href="https://medium.com/@whichmodelhq/what-5x-actually-buys-your-ai-plan-priced-in-api-dollars-c77b0bde8e55">Read the analysis</a>.</p>]]></description>
+    </item>
+<item>
 <title>Benchleader prices Codex Plus: $20 a month buys about $323 of API-priced coding work</title>
 <link>https://www.benchleader.com/coding-plans/codex-plus</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-24-codex-plus</guid>
