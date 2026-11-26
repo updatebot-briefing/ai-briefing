@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 21:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:02:12 GMT</lastBuildDate>
             
     
     
@@ -77,7 +77,15 @@
     
     
     
+    
     <item>
+      <title>FCC clears SpaceX to launch up to 1 million AI data-center satellites</title>
+      <link>https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-fcc-spacex-starmind-1m-satellites</guid>
+      <pubDate>Wed, 25 Nov 2026 17:08:00 GMT</pubDate>
+      <description><![CDATA[<p>The FCC has authorized SpaceX to deploy up to one million satellites for Starmind, its planned constellation of solar-powered orbital data centers — the first U.S. approval of its kind. The satellites would run AI workloads in space and beam results back to Earth.</p><p>SpaceX must launch its first Starmind satellite by 2033 and the full constellation by 2040. The approval came despite objections from Amazon, Viasat and astronomers over debris and the night sky, and the debris plan for higher orbits is still unapproved. Read <a href="https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/">Reuters</a>.</p>]]></description>
+    </item>
+<item>
       <title>Ant open-sources Ling-3.2-air, a 124B multimodal model for agentic office work</title>
       <link>https://technode.com/2026/11/25/ant-releases-ling-3-2-air-multimodal-model-under-mit-license/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-ant-ling-3-2-air</guid>
@@ -587,15 +595,6 @@
       <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T182622Z_3_LYNXNPEMAB21G_RTROPTP_3_OPENAI-RESULTS.JPG" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T182622Z_3_LYNXNPEMAB21G_RTROPTP_3_OPENAI-RESULTS.JPG" alt=""/></p>
 <p>Four nonprofits — Public Citizen, the Heat Initiative, the Irreplaceable Education Fund and the Alliance for Secure AI — <a href="https://kwsn.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/">sued OpenAI, Anthropic, Google, Meta and SpaceXAI</a> in San Francisco Superior Court on Nov 12, asking a judge to freeze development of frontier models more capable than today’s.</p><p>The suit, filed under California’s unfair competition law, argues the labs’ own leaders have warned advanced AI could threaten humanity and that the companies cannot guarantee control. It seeks an emergency injunction; no freeze has been ordered and no hearing date is set.</p><p>It follows Florida’s pending bid to bar OpenAI from training new models without outside oversight — a widening legal push to force safety limits on the frontier labs.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic opens self-hosted Claude Managed Agents in private beta</title>
-      <link>https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-12-anthropic-self-hosted-managed-agents</guid>
-      <pubDate>Thu, 12 Nov 2026 18:07:00 GMT</pubDate>
-      <enclosure url="https://img2.helpnetsecurity.com/posts2026/self-hosted_Claude_Managed_Agents.webp" type="image/webp" length="0"/>
-      <description><![CDATA[<p><img src="https://img2.helpnetsecurity.com/posts2026/self-hosted_Claude_Managed_Agents.webp" alt=""/></p>
-<p>Anthropic opened a <a href="https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/">private beta of self-hosted Claude Managed Agents</a> on Nov 12, letting companies run the full agent service — harness, sandboxes, credentials and session history — inside their own cloud or data center.</p><p>Model calls still go to a provider the customer picks: Anthropic, Amazon Bedrock, Google’s agent platform, Microsoft Foundry or their own gateway. Access is through an Anthropic account team, and some hosted features like scheduled deployments and webhooks are missing for now.</p>]]></description>
     </item>
 </channel>
 </rss>
