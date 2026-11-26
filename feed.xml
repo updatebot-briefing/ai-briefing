@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:03:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:00:49 GMT</lastBuildDate>
             
     
     
@@ -75,7 +75,17 @@
     
     
     
+    
     <item>
+      <title>Anthropic moved its Messages API to Rust, with Claude agents doing the rewrite</title>
+      <link>https://www.anthropic.com/research/migrating-api-to-rust</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-anthropic-messages-api-rust</guid>
+      <pubDate>Wed, 25 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://assets.claude.com/faac348155bf01d5c59ab38cbd05294eb2fa8197.jpg" alt=""/></p>
+<p>Anthropic has moved its Messages API — the main route to Claude for customers and its own apps — from Python to Rust, with Claude agents doing much of the rewrite. Traffic has grown about 1,800x since early 2024, and Rust cuts CPU per request by about 70% and median time to first token by about 20%.</p><p>The hard part was verification, not generation: Claude wrote the first core request path in about a week, but Anthropic had to prove parity against a live, changing API. It shadowed production traffic and let agents fix diffs automatically, without downtime. Read <a href="https://www.anthropic.com/research/migrating-api-to-rust">Anthropic's account</a>.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI says GPT-6 can design proteins, with lab tests backing it</title>
       <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-25-openai-gpt6-protein-design</guid>
@@ -585,15 +595,6 @@
       <enclosure url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg" alt=""/></p>
 <p>Google has launched <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Gemini 4 Hydrogen</a>, a new Gemini 4 model built for speed and efficiency in everyday coding and agentic workflows.</p><p>Hydrogen beats Gemini 4 Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50), reaching 54 at its new xhigh setting, with four thinking levels and a 1M-token context window.</p><p>It is rolling out today across the Gemini app, Google Search, AI Studio, the Gemini API, and Antigravity, priced at $1.50 per million input tokens and $7.50 per million output tokens.</p>]]></description>
-    </item>
-<item>
-      <title>US and China set up a 'superintelligence' dialogue and incident alert channel</title>
-      <link>https://wdsm710.com/2026/11/10/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-11-us-china-superintelligence-dialogue</guid>
-      <pubDate>Wed, 11 Nov 2026 01:27:00 GMT</pubDate>
-      <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T012734Z_2_LYNXNPEMAA02X_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/11/2026-11-11T012734Z_2_LYNXNPEMAA02X_RTROPTP_3_UN-ASSEMBLY-TRUMP.JPG" alt=""/></p>
-<p>The US and China have established a bilateral dialogue on 'superintelligence,' Treasury Secretary Scott Bessent said in prepared remarks in New York on Nov 10. The two sides will exchange best practices for testing advanced models before release and alert each other to serious incidents.</p><p>The dialogue, agreed by Trump and Xi in September, advances at their meeting in Shenzhen on Nov 18–19, on the sidelines of the APEC summit. Bessent stressed the US harbors 'no illusions' about differences with Beijing — the channel manages shared risks, not competition.</p><p>Neither side has committed to slowing development of advanced AI.</p>]]></description>
     </item>
 </channel>
 </rss>
