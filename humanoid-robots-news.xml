@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:09:59 GMT</lastBuildDate>
 
     
     
@@ -47,7 +47,17 @@
     
     
     
+    
     <item>
+      <title>XPeng prices IRON humanoid near EV cost, targets tens of thousands of sales in 2027</title>
+      <link>https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-26-xpeng-iron-ev-price</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://s-cdn.xpeng.com/commoncms/prod/2026-11-25/b2d739b7343d4131b5840eda59f5dc48.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://s-cdn.xpeng.com/commoncms/prod/2026-11-25/b2d739b7343d4131b5840eda59f5dc48.jpg" alt="" /></p>
+<p>XPeng vice chairman Brian Gu told Bloomberg that IRON, the humanoid robot unveiled at AI Day on Nov. 25, will be priced around the median selling price of an electric vehicle when public sales open in the second quarter of 2027. XPeng's own cars list from about $18,000 to $54,000.</p><p>The robot will first train as a store assistant in XPeng's retail shops in Q1 2027, and XPeng is targeting tens of thousands of sales in 2027, with paid subscriptions and downloadable capability packages on top of the hardware. Household use could follow one to two years after commercial deployment. All pricing and sales figures are the company's own claims.</p>]]></description>
+    </item>
+<item>
       <title>XPeng debuts IRON humanoid at AI Day, targets January 2027 mass production</title>
       <link>https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-25-xpeng-iron-ai-day</guid>
@@ -688,19 +698,6 @@
 <li>The display is static: Tesla has no plans to sell the Cybercab or run robotaxi rides in China.</li>
 <li>No new Optimus specs, pricing or reservation dates were announced; Elon Musk recently denied a report that Optimus reservations open in December.</li></ul>
 <p>Sources: <a href="https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4">CyberCab.News</a>, <a href="https://english.shanghai.gov.cn/en-Latest-WhatsNew/20261030/b2dfcb0b6adc4285a8bc5f23bdc58f35.html">Shanghai government</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Korea's KIST shows KAPEX, a humanoid with over 90% locally made core parts, as LG builds a supply chain around it</title>
-      <link>https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-kist-kapex-lg-local-parts</guid>
-      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
-      <enclosure url="https://wimg.sedaily.com/news/cms/2026/11/04/news-p.v1.20261103.23d77a292d494c01ac5e043d94ccfdea_P1.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://wimg.sedaily.com/news/cms/2026/11/04/news-p.v1.20261103.23d77a292d494c01ac5e043d94ccfdea_P1.jpg" alt=""/></p>
-<p>South Korea's science ministry gave its November Korea Science and Technology Award to KIST's Lee Jong-won for KAPEX, a bipedal AI humanoid whose actuators, joints, sensors and control AI were built domestically, with more than 90% of core components made in Korea.</p>
-<ul><li>KAPEX walks while carrying more than 20 kg and uses fingertip slip sensors to adjust its grip, from paper cups to heavy boxes.</li>
-<li>KIST transferred the core technology to LG Electronics. LG handles the platform, LG AI Research the physical AI, LG Energy Solution solid-state batteries, and Robostar mass production.</li>
-<li>Field tests are expanding into homes and hospitals, though the team says long-duration autonomous work is still unsolved.</li></ul>
-<p>Source: <a href="https://en.sedaily.com/technology/2026/11/04/kist-builds-humanoid-robot-with-90-percent-local-parts">Seoul Economic Daily</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
