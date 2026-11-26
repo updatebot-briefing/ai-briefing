@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:11:07 GMT</lastBuildDate>
+    
     
     
     
@@ -24,6 +25,13 @@
     
     
     <item>
+      <title>Hacker News top 10 — Thu, Nov 26</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 21:11:00 GMT</pubDate>
+      <description><![CDATA[<p>The top 10 stories on the Hacker News front page on Thursday, Nov 26, 2026, in front-page order.</p><ol><li><p><strong><a href="https://devnull.land/amd-specific-llama-cpp">AMD Specific Patches for Llama.cpp</a></strong> · devnull.land</p><p>AMD-specific patches for llama.cpp speed up local LLM inference</p><p><a href="https://news.ycombinator.com/item?id=50657265">190 points · 50 comments</a></p></li><li><p><strong><a href="https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/">CTO of 'RansomwareHelp' Indicted for Wire Fraud</a></strong> · krebsonsecurity.com</p><p>CTO of 'RansomwareHelp' indicted for wire fraud, Krebs reports</p><p><a href="https://news.ycombinator.com/item?id=50657645">131 points · 55 comments</a></p></li><li><p><strong><a href="https://github.com/antonpictures/youtube-punisher">YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays</a></strong> · github.com</p><p>YouTube Ad Punisher auto-reloads pages when an ad plays</p><p><a href="https://news.ycombinator.com/item?id=50657530">121 points · 184 comments</a></p></li><li><p><strong><a href="https://github.com/gary23w/f-ck_data_brokers">Show HN: Fuck_data_brokers.py</a></strong> · github.com</p><p>Show HN: script to opt out of data brokers automatically</p><p><a href="https://news.ycombinator.com/item?id=50658191">79 points · 12 comments</a></p></li><li><p><strong><a href="https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo">Nvidia was right to bring back Jensen Huang, writes Sarah Guo</a></strong> · economist.com</p><p>Sarah Guo: Nvidia was right to bring back Jensen Huang</p><p><a href="https://news.ycombinator.com/item?id=50659532">17 points · 12 comments</a></p></li><li><p><strong><a href="https://karpathy.ai/usaciv/">The USA as a Civilizations-esque map</a></strong> · karpathy.ai</p><p>Karpathy maps the USA as a Civilization-style game</p><p><a href="https://news.ycombinator.com/item?id=50658997">53 points · 34 comments</a></p></li><li><p><strong><a href="https://github.com/eisenzopf/rvoip">Rvoip 0.5 the complete VoIP stack in Rust</a></strong> · github.com</p><p>Rvoip 0.5: a complete VoIP stack in Rust</p><p><a href="https://news.ycombinator.com/item?id=50658632">17 points · 4 comments</a></p></li><li><p><strong><a href="https://github.com/intel/intel-one-mono">Intel One Mono font (2023)</a></strong> · github.com</p><p>Intel One Mono, Intel's open-source monospace font</p><p><a href="https://news.ycombinator.com/item?id=50653667">409 points · 228 comments</a></p></li><li><p><strong><a href="https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/">Curiosity Is No Solo Act</a></strong> · thereader.mitpress.mit.edu</p><p>Curiosity is no solo act — on how curiosity is social</p><p><a href="https://news.ycombinator.com/item?id=50636931">104 points · 22 comments</a></p></li><li><p><strong><a href="https://olumino.app">Show HN: Olumino, a Markdown notes and spaced repetition app</a></strong> · olumino.app</p><p>Show HN: Olumino, Markdown notes with spaced repetition</p><p><a href="https://news.ycombinator.com/item?id=50651099">23 points · 11 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Wed, Nov 25</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-25</guid>
