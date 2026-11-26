@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 21:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:02:45 GMT</lastBuildDate>
             
     
     
@@ -78,7 +78,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI starts testing Private Inference, keeping business prompts sealed while models run</title>
+      <link>https://dailyaibrief.com/news/openai-tests-private-inference-business-customers-DUegjxxg</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-openai-private-inference-alpha</guid>
+      <pubDate>Wed, 25 Nov 2026 18:37:57 GMT</pubDate>
+      <enclosure url="https://fly.storage.tigris.dev/editorial-dashboard/uploads/image/image_file/5290/23f65f9bc25b39f41a50d633376d56fb.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://fly.storage.tigris.dev/editorial-dashboard/uploads/image/image_file/5290/23f65f9bc25b39f41a50d633376d56fb.jpg" alt=""/></p>
+<p>OpenAI has begun testing Private Inference with a small group of business customers, CEO Sam Altman announced on X on Nov 25. The service uses confidential computing and verifiable controls to keep prompts and responses sealed while a model processes them.</p><p>It is part of OpenAI Private Intelligence and is labeled alpha and API preview. Altman also noted zero-data-retention with Private Safety Processing, which lets OpenAI run safety reviews without staff seeing the content. No models, pricing or general-availability date yet. Read <a href="https://dailyaibrief.com/news/openai-tests-private-inference-business-customers-DUegjxxg">AI Brief</a>.</p>]]></description>
+    </item>
+<item>
       <title>FCC clears SpaceX to launch up to 1 million AI data-center satellites</title>
       <link>https://www.reuters.com/business/media-telecom/us-authorizes-spacex-deploy-1-million-satellites-data-centers-space-2026-11-25/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-fcc-spacex-starmind-1m-satellites</guid>
@@ -586,15 +596,6 @@
       <enclosure url="https://mmx.prnewswire.com/media/MS2033747/20261112061747EST_image_1.jpg?id=OA3075051" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://mmx.prnewswire.com/media/MS2033747/20261112061747EST_image_1.jpg?id=OA3075051" alt=""/></p>
 <p>Baidu unveiled <a href="https://www.prnewswire.com/news-releases/baidu-unveils-latest-ernie-models-amid-broader-full-stack-ai-lineup-and-debuts-token-exchange-to-power-intelligent-organizations-302937959.html">ERNIE 5.5 Flash Preview</a> at Baidu World 2026 on Nov 12, a 280-billion-parameter foundation model with 14 billion active per token, a 1M-token context window and fast decoding aimed at coding and knowledge work.</p><p>The API is live on Baidu AI Cloud’s Qianfan platform, the weights will be open-sourced by Nov 25, and it is free on OpenRouter. Benchmark scores are Baidu’s own and not yet independently verified.</p>]]></description>
-    </item>
-<item>
-      <title>Nonprofits sue OpenAI, Google, Anthropic, Meta and SpaceXAI to freeze frontier AI development</title>
-      <link>https://kwsn.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-12-nonprofits-sue-freeze-frontier-ai</guid>
-      <pubDate>Thu, 12 Nov 2026 18:26:22 GMT</pubDate>
-      <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T182622Z_3_LYNXNPEMAB21G_RTROPTP_3_OPENAI-RESULTS.JPG" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T182622Z_3_LYNXNPEMAB21G_RTROPTP_3_OPENAI-RESULTS.JPG" alt=""/></p>
-<p>Four nonprofits — Public Citizen, the Heat Initiative, the Irreplaceable Education Fund and the Alliance for Secure AI — <a href="https://kwsn.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/">sued OpenAI, Anthropic, Google, Meta and SpaceXAI</a> in San Francisco Superior Court on Nov 12, asking a judge to freeze development of frontier models more capable than today’s.</p><p>The suit, filed under California’s unfair competition law, argues the labs’ own leaders have warned advanced AI could threaten humanity and that the companies cannot guarantee control. It seeks an emergency injunction; no freeze has been ordered and no hearing date is set.</p><p>It follows Florida’s pending bid to bar OpenAI from training new models without outside oversight — a widening legal push to force safety limits on the frontier labs.</p>]]></description>
     </item>
 </channel>
 </rss>
