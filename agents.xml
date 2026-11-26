@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 21:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:09:26 GMT</lastBuildDate>
+<item>
+<title>Musk pitches Grok Bot as a Black Friday deal checker</title>
+<link>https://www.unga.news/reports/black-friday-shoppers-are-handing-their-lists-to-si</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-26-grok-bot-black-friday-deals</guid>
+<pubDate>Thu, 26 Nov 2026 01:29:30 GMT</pubDate>
+<enclosure url="https://www.unga.news/figures/grok-shopping-agents-nov25.png" type="image/png" length="0"/>
+<description><![CDATA[<p><img src="https://www.unga.news/figures/grok-shopping-agents-nov25.png" alt=""/></p>
+<p>Elon Musk pitched Grok Bot as a Black Friday deal checker on Nov 25, posting that it “can research the best Black Friday deals for you and confirm they’re authentic” — quoting a user’s prompt list for checking whether a sale price is real.</p><p>Checkout data from Forter backs the shopping push: Grok placed 22% of AI-agent orders in the week of Nov 18–24, ahead of ChatGPT checkout’s 18%, with the biggest average basket at $269. Meta’s Muse still leads at 51%.</p><p>Musk’s authenticity claim is a company promise, not a tested result — Forter’s data shows people buying through Grok, not how well it spots fake markdowns. <a href="https://www.unga.news/reports/black-friday-shoppers-are-handing-their-lists-to-si">Read the report</a>.</p>]]></description>
+</item>
 <item>
 <title>Amazon and Meta reportedly in talks to lift Muse shopping blockade</title>
 <link>https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/</link>
@@ -555,16 +564,6 @@
 <description><![CDATA[<img src="https://help.openai.com/og-image.png" alt="Getting started with your dot"/>
 <p>OpenAI's <a href="https://help.openai.com/en/articles/20001530-getting-started-with-your-dot">Getting started with your dot</a> help article (updated Nov 4) now says dots are generally available to eligible ChatGPT Enterprise, Edu, and Healthcare workspaces. During an admin preview from November 4 through November 18, 2026, people can use dots if a workspace admin enables access for their role; starting November 18, dots become available by default unless the admin opts out.</p>
 <p>For Enterprise pricing, workspaces can pay through flat rates mapped to the type of work or scaled consumption. Dots are free to preview through November 18; billing begins November 18 for all enabled dots. Work a dot delegates to ChatGPT Work or Codex is billed separately at standard rates. Permanent personal-plan dots allowances are still unpublished; extended limits continue "for now."</p>]]></description>
-</item>
-<item>
-<title>Dots iOS app update: inline notification replies, share-to-dot, and Action button shortcuts</title>
-<link>https://x.com/_samirism/status/2118103057980690771</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-04-dots-ios-app-improvements</guid>
-<pubDate>Thu, 05 Nov 2026 01:13:29 +0000</pubDate>
-<enclosure url="https://pbs.twimg.com/media/HWT8nyYbUAAfPTk.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/media/HWT8nyYbUAAfPTk.jpg" alt="Dots iOS app updates"/>
-<p>OpenAI engineer samir (<a href="https://x.com/_samirism/status/2118103057980690771">@_samirism</a>) posted on Nov 4 (2:08pm PT) that the latest ChatGPT app release makes dots "significantly faster and more reliable," with iOS changes: reply to your dot inline from a notification, share anything directly to your dot, open your dot from the iPhone Action button, faster loading from notifications, and Gmail links that deeplink to the exact email in the Gmail app.</p>
-<p>Dots lead Tibo (<a href="https://x.com/thsottiaux/status/2118139067636568305">@thsottiaux</a>) replied that "Dots just got a massive set of improvements." There was no accompanying help-center or changelog entry.</p>]]></description>
 </item>
 </channel>
 </rss>
