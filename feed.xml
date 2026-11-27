@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Nov 2026 21:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:01:17 GMT</lastBuildDate>
             
     
     
@@ -81,7 +81,15 @@
     
     
     
+    
     <item>
+      <title>DeepL launches Aure v2, an end-to-end speech-to-speech translation model</title>
+      <link>https://www.prnewswire.com/apac/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950696.html</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-27-deepl-aure-v2</guid>
+      <pubDate>Thu, 26 Nov 2026 06:00:00 GMT</pubDate>
+      <description><![CDATA[<p>DeepL launched Aure v2 at its Unmute Summit in Tokyo on Nov 26, a new end-to-end model that <a href="https://www.prnewswire.com/apac/news-releases/deepl-introduces-aure-v2-its-fastest-voice-ai-translation-model-302950696.html">translates speech directly into speech</a>, skipping the usual transcribe-translate-synthesize relay. DeepL says median translation delay is 50% lower than the original Aure.</p><p>It is live now for DeepL Voice customers in six languages. All performance figures are DeepL's own internal benchmarks, not independently verified.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI fixes GPT-6.2 billing error; users hit limits up to 40% faster</title>
       <link>https://betanews.com/article/gpt-6-2-billing-fix-astra-sol/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-27-openai-gpt62-billing-fix</guid>
@@ -589,15 +597,6 @@
       <enclosure url="https://cdn.timesof.ai/covers/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing.jpg?w=1200&amp;q=80" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://cdn.timesof.ai/covers/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing.jpg?w=1200&amp;q=80" alt=""/></p>
 <p>OpenAI launched two security products on Nov 12 at its “Cyber at the Frontier” event: <a href="https://timesof.ai/2026/11/openai-daybreak-red-team-defense-factory-agent-pen-testing">Daybreak Red Team</a>, agent teams that probe web apps, validate vulnerabilities and test patches, and Defense Factory, which traces flaws through code and prepares merge-ready pull requests for engineers to review.</p><p>Red Team is in early access by application; Defense Factory is a preview for workspaces with Daybreak access. OpenAI published no pricing or independent performance results, and the agents run on its GPT-6 Cyber model, according to The Register.</p>]]></description>
-    </item>
-<item>
-      <title>Anthropic rolls out Claude Meetings beta, putting Claude inside Google Meet calls</title>
-      <link>https://justbeingresourceful.com/2026/11/13/anthropic-adds-claude-meetings-to-google-meet/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-claude-meetings-beta</guid>
-      <pubDate>Fri, 13 Nov 2026 13:55:00 GMT</pubDate>
-      <enclosure url="https://justbeingresourceful.com/wp-content/uploads/2026/11/just-being-resourceful-6af6d93e0fa3b.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://justbeingresourceful.com/wp-content/uploads/2026/11/just-being-resourceful-6af6d93e0fa3b.jpg" alt=""/></p>
-<p>Anthropic started rolling out <a href="https://justbeingresourceful.com/2026/11/13/anthropic-adds-claude-meetings-to-google-meet/">Claude Meetings</a> in beta on Nov 12 for Team and Enterprise plans. Claude joins a Google Meet call as a visible participant, takes notes, answers questions and builds docs and whiteboards while the meeting is still going.</p><p>Notes and transcripts are free during the beta, and artifacts made in calls are free through Feb 10, 2027. Google Meet is the only platform for now, and the beta excludes organizations with zero data retention, HIPAA-ready setups or customer-managed keys.</p>]]></description>
     </item>
 </channel>
 </rss>
