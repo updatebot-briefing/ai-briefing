@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 21:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:11:12 GMT</lastBuildDate>
+    
     
     
     
@@ -25,6 +26,14 @@
     
     
     <item>
+      <title>Hacker News top 10 — Fri, Nov 27</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 21:11:00 GMT</pubDate>
+      <enclosure url="https://www.infohawk.com/_app/immutable/assets/2026-11-27-black-friday-webrtc-skimmer.BQAmEGg5.png" type="image/png" length="0"/>
+      <description><![CDATA[<img src="https://www.infohawk.com/_app/immutable/assets/2026-11-27-black-friday-webrtc-skimmer.BQAmEGg5.png" alt="Top story preview"/><p>The top 10 stories on the Hacker News front page on Friday, Nov 27, 2026, in front-page order.</p><ol><li><p><strong><a href="https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer">Credit card skimming scripts using WebRTC found on popular shopping sites</a></strong> · infohawk.com</p><p>WebRTC-based card skimmers found on major shopping sites</p><p><a href="https://news.ycombinator.com/item?id=50668145">292 points · 160 comments</a></p></li><li><p><strong><a href="https://github.com/convex/convex-backend-skill/issues/64">Convex skills send the user's app idea to a remote server without telling them</a></strong> · github.com</p><p>Convex skill silently sent app ideas to a remote server</p><p><a href="https://news.ycombinator.com/item?id=50669765">127 points · 46 comments</a></p></li><li><p><strong><a href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical">GPT 6.2 Astra Solves a Historical Mystery</a></strong> · generativehistory.substack.com</p><p>GPT 6.2 Astra reportedly solves a historical mystery</p><p><a href="https://news.ycombinator.com/item?id=50643158">68 points · 89 comments</a></p></li><li><p><strong><a href="https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html">Citroën Hydraulic System</a></strong> · citroenet.org.uk</p><p>A deep dive into Citroën's hydraulic suspension system</p><p><a href="https://news.ycombinator.com/item?id=50662313">47 points · 19 comments</a></p></li><li><p><strong><a href="https://bouncemarket.minhanhday.com/">Show HN: bouncemarket – a live prediction market game for a bouncing ball</a></strong> · bouncemarket.minhanhday.com</p><p>Show HN: live prediction market game for a bouncing ball</p><p><a href="https://news.ycombinator.com/item?id=50667726">292 points · 88 comments</a></p></li><li><p><strong><a href="https://twitter.com/michael_nielsen/status/2126359767362748777">Michael Nielsen took down his book on neural nets</a></strong> · twitter.com</p><p>Michael Nielsen pulls his neural nets book offline</p><p><a href="https://news.ycombinator.com/item?id=50670757">148 points · 97 comments</a></p></li><li><p><strong><a href="https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/">The AT&amp;T Unix PC (3B1) VM</a></strong> · virtuallyfun.com</p><p>Running the AT&amp;amp;T Unix PC (3B1) as a VM with TCP/IP</p><p><a href="https://news.ycombinator.com/item?id=50670841">19 points · 3 comments</a></p></li><li><p><strong><a href="https://dragdropmath.com/">Show HN: DragDropMath – Learn math by feel</a></strong> · dragdropmath.com</p><p>Show HN: learn math by dragging and dropping</p><p><a href="https://news.ycombinator.com/item?id=50669673">42 points · 8 comments</a></p></li><li><p><strong><a href="https://cr.yp.to/proofs/falseccp.html">False computer-checked proofs</a></strong> · cr.yp.to</p><p>When computer-checked proofs turn out false</p><p><a href="https://news.ycombinator.com/item?id=50667989">135 points · 60 comments</a></p></li><li><p><strong><a href="https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/">First images of the impact of DART asteroid deflection experiment</a></strong> · arstechnica.com</p><p>First images of the DART asteroid deflection impact</p><p><a href="https://news.ycombinator.com/item?id=50657392">155 points · 51 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Thu, Nov 26</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-26</guid>
