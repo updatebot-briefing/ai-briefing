@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 26 Nov 2026 21:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:59:56 GMT</lastBuildDate>
             
     
     
@@ -79,7 +79,17 @@
     
     
     
+    
     <item>
+      <title>Nvidia halts AI chip shipments to Southeast Asia amid US export curbs</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-27-nvidia-southeast-asia-chip-halt</guid>
+      <pubDate>Thu, 26 Nov 2026 20:03:54 GMT</pubDate>
+      <enclosure url="https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024" alt=""/></p>
+<p>Nvidia has told manufacturing partners including Dell and Super Micro to pause server shipments to Malaysia, Singapore, Thailand and Indonesia while it checks whether regional partners meet new US export requirements, the <a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/">Financial Times reports</a>.</p><p>Chinese firms have been renting Nvidia chips remotely from data centers in those countries, a loophole US Commerce Department rules that took effect Nov 19 aim to close. The pause is open-ended, and it is unclear how long it will last.</p>]]></description>
+    </item>
+<item>
       <title>OpenAI starts testing Private Inference, keeping business prompts sealed while models run</title>
       <link>https://dailyaibrief.com/news/openai-tests-private-inference-business-customers-DUegjxxg</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-26-openai-private-inference-alpha</guid>
@@ -587,15 +597,6 @@
       <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T161524Z_1_LYNXNPEMAB1UF_RTROPTP_3_SPACEX-IPO-STARBASE.JPG" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T161524Z_1_LYNXNPEMAB1UF_RTROPTP_3_SPACEX-IPO-STARBASE.JPG" alt=""/></p>
 <p>SpaceX said on Nov 12 it plans to invest more than $74 billion in two AI supercomputing campuses: over $24 billion at its Starbase site in Texas and roughly $50 billion in Cochise County, Arizona, <a href="https://ktwb.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/">Reuters reported</a>.</p><p>The Arizona campus could draw up to 6 gigawatts at full build-out, and SpaceX's AI segment generated more than half of its third-quarter revenue. Neither project is approved yet: both face local votes on Dec 9, and a petition with about 2,400 signatures asks Cochise County to deny the permit.</p>]]></description>
-    </item>
-<item>
-      <title>Baidu unveils ERNIE 5.5 Flash Preview, its latest open-weight foundation model</title>
-      <link>https://www.prnewswire.com/news-releases/baidu-unveils-latest-ernie-models-amid-broader-full-stack-ai-lineup-and-debuts-token-exchange-to-power-intelligent-organizations-302937959.html</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-12-baidu-ernie-5-5-flash</guid>
-      <pubDate>Thu, 12 Nov 2026 14:08:00 GMT</pubDate>
-      <enclosure url="https://mmx.prnewswire.com/media/MS2033747/20261112061747EST_image_1.jpg?id=OA3075051" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://mmx.prnewswire.com/media/MS2033747/20261112061747EST_image_1.jpg?id=OA3075051" alt=""/></p>
-<p>Baidu unveiled <a href="https://www.prnewswire.com/news-releases/baidu-unveils-latest-ernie-models-amid-broader-full-stack-ai-lineup-and-debuts-token-exchange-to-power-intelligent-organizations-302937959.html">ERNIE 5.5 Flash Preview</a> at Baidu World 2026 on Nov 12, a 280-billion-parameter foundation model with 14 billion active per token, a 1M-token context window and fast decoding aimed at coding and knowledge work.</p><p>The API is live on Baidu AI Cloud’s Qianfan platform, the weights will be open-sourced by Nov 25, and it is free on OpenRouter. Benchmark scores are Baidu’s own and not yet independently verified.</p>]]></description>
     </item>
 </channel>
 </rss>
