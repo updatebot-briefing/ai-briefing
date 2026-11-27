@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Nov 2026 20:59:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:00:29 GMT</lastBuildDate>
             
     
     
@@ -80,7 +80,17 @@
     
     
     
+    
     <item>
+      <title>OpenAI fixes GPT-6.2 billing error; users hit limits up to 40% faster</title>
+      <link>https://betanews.com/article/gpt-6-2-billing-fix-astra-sol/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-27-openai-gpt62-billing-fix</guid>
+      <pubDate>Thu, 26 Nov 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://media.betanews.com/uploads/2026/11/openai-fixes-gpt-6-2-billing-error-so-astra-and-sol-users-hi-2f29b4c004d04100.webp" type="image/webp" length="0"/>
+      <description><![CDATA[<p><img src="https://media.betanews.com/uploads/2026/11/openai-fixes-gpt-6-2-billing-error-so-astra-and-sol-users-hi-2f29b4c004d04100.webp" alt=""/></p>
+<p>OpenAI has fixed a launch-day billing error that undercounted GPT-6.2 Astra and Sol usage, <a href="https://betanews.com/article/gpt-6-2-billing-fix-astra-sol/">disclosed Nov 26 by OpenAI's Thibault Sottiaux on X</a>. Users now reach plan limits 40% faster on Astra and 25% faster on Sol than last week.</p><p>No one will be charged retroactively, and every Go, Plus, Pro and Business subscriber gets one banked reset as an apology. Sottiaux says both models should still stretch further than their GPT-6 and GPT-6.1 predecessors.</p>]]></description>
+    </item>
+<item>
       <title>Nvidia halts AI chip shipments to Southeast Asia amid US export curbs</title>
       <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-27-nvidia-southeast-asia-chip-halt</guid>
@@ -588,15 +598,6 @@
       <enclosure url="https://justbeingresourceful.com/wp-content/uploads/2026/11/just-being-resourceful-6af6d93e0fa3b.jpg" type="image/jpeg" length="0"/>
       <description><![CDATA[<p><img src="https://justbeingresourceful.com/wp-content/uploads/2026/11/just-being-resourceful-6af6d93e0fa3b.jpg" alt=""/></p>
 <p>Anthropic started rolling out <a href="https://justbeingresourceful.com/2026/11/13/anthropic-adds-claude-meetings-to-google-meet/">Claude Meetings</a> in beta on Nov 12 for Team and Enterprise plans. Claude joins a Google Meet call as a visible participant, takes notes, answers questions and builds docs and whiteboards while the meeting is still going.</p><p>Notes and transcripts are free during the beta, and artifacts made in calls are free through Feb 10, 2027. Google Meet is the only platform for now, and the beta excludes organizations with zero data retention, HIPAA-ready setups or customer-managed keys.</p>]]></description>
-    </item>
-<item>
-      <title>SpaceX plans $74 billion of AI supercomputing campuses in Texas and Arizona</title>
-      <link>https://ktwb.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-13-spacex-74b-ai-campuses</guid>
-      <pubDate>Fri, 13 Nov 2026 01:23:00 GMT</pubDate>
-      <enclosure url="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T161524Z_1_LYNXNPEMAB1UF_RTROPTP_3_SPACEX-IPO-STARBASE.JPG" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-11/12/2026-11-12T161524Z_1_LYNXNPEMAB1UF_RTROPTP_3_SPACEX-IPO-STARBASE.JPG" alt=""/></p>
-<p>SpaceX said on Nov 12 it plans to invest more than $74 billion in two AI supercomputing campuses: over $24 billion at its Starbase site in Texas and roughly $50 billion in Cochise County, Arizona, <a href="https://ktwb.com/2026/11/12/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona/">Reuters reported</a>.</p><p>The Arizona campus could draw up to 6 gigawatts at full build-out, and SpaceX's AI segment generated more than half of its third-quarter revenue. Neither project is approved yet: both face local votes on Dec 9, and a petition with about 2,400 signatures asks Cochise County to deny the permit.</p>]]></description>
     </item>
 </channel>
 </rss>
