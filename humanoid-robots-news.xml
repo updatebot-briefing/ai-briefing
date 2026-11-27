@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:08:44 GMT</lastBuildDate>
 
     
     
@@ -49,7 +49,17 @@
     
     
     
+    
     <item>
+      <title>ROBOTERA says 45 of its humanoids now feed parcels at China Post's Hangzhou hub</title>
+      <link>https://technode.global/prnasia/robotera-puts-45-humanoid-robots-into-large-scale-fleet-operations-at-china-post/</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-27-robotera-china-post-hangzhou</guid>
+      <pubDate>Thu, 26 Nov 2026 11:19:00 GMT</pubDate>
+      <enclosure url="https://mmx.prnasia.com/media/MS2043436/20261126053818EST_image_1.jpg?id=OA3102283&amp;amp;p=medium600" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://mmx.prnasia.com/media/MS2043436/20261126053818EST_image_1.jpg?id=OA3102283&amp;amp;p=medium600" alt="" /></p>
+<p>ROBOTERA says 45 of its humanoid robots are now handling parcel induction at China Post's Hangzhou Postal District Center, picking, reorienting and placing parcels onto feed lines and rejecting irregular items. Testing began in April 2026.</p><p>The company claims throughput rose from 500-600 parcels an hour at the start to about 1,200 an hour in specific test periods, with accuracy above 90%. All figures are ROBOTERA's own claims; the release does not say whether the rate is per robot or for the whole fleet.</p>]]></description>
+    </item>
+<item>
       <title>Volvo trains Hexagon's AEON humanoids at its Ghent plant, targeting production use in mid-2027</title>
       <link>https://news.cision.com/volvo-cars-global/r/volvo-cars-trains-hexagon-robotics--humanoids-for-manufacturing,c4429415</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-27-volvo-aeon-ghent</guid>
@@ -684,17 +694,6 @@
 <li>Partial-progress scores ranged from 13.3% to 23.2% across 625 logged trials.</li>
 <li>Rollout videos of successes and failures are being shared openly on the Hugging Face Hub.</li></ul>
 <p>Source: <a href="https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1">Humanoids Daily</a>. Launch thread: <a href="https://x.com/RoboColosseum/status/2117982605274710483">@RoboColosseum on X</a>; Unitree's note: <a href="https://x.com/UnitreeRobotics/status/2117996574584574130">@UnitreeRobotics</a>.</p>]]></description>
-    </item>
-<item>
-      <title>JD.com launches a &quot;Physical AI Acceleration Plan&quot; focused on embodied robots, plans 10M hours of human video data in two years</title>
-      <link>https://ai123.com/newshub/17231</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-jd-physical-ai-acceleration-plan</guid>
-      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
-      <description><![CDATA[<p>At the World Internet Conference in Wuzhen on Nov. 4, JD.com technology committee chairman Cao Peng announced the "JD Physical AI Acceleration Plan," whose first phase centers on embodied-intelligence robots, with investment across data, bases, manufacturing, sales, logistics and service.</p>
-<ul><li>JD is building an embodied-AI data collection center and aims to gather more than 10 million hours of real-world human video and over 1 million hours of robot operation data within two years. It says it has already collected over 100,000 real tasks across 100+ scenarios.</li>
-<li>AGIBOT humanoids are already working in JD Logistics' "Wolf" warehouse.</li>
-<li>Cao repeated JD Logistics' target of buying 3 million robots, 1 million autonomous vehicles and 100,000 drones over five years (first announced in September).</li></ul>
-<p>Sources: <a href="https://ai123.com/newshub/17231">AI123</a>, <a href="https://finance.sina.cn/stock/jdts/2026-11-04/detail-inixqhkx8080298.d.html">IT Home via Sina (Chinese)</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
