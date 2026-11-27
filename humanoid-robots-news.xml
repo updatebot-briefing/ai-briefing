@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:08:11 GMT</lastBuildDate>
 
     
     
@@ -48,7 +48,17 @@
     
     
     
+    
     <item>
+      <title>Volvo trains Hexagon's AEON humanoids at its Ghent plant, targeting production use in mid-2027</title>
+      <link>https://news.cision.com/volvo-cars-global/r/volvo-cars-trains-hexagon-robotics--humanoids-for-manufacturing,c4429415</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-27-volvo-aeon-ghent</guid>
+      <pubDate>Thu, 26 Nov 2026 17:00:00 GMT</pubDate>
+      <enclosure url="https://mb.cision.com/Public/23602/4429415/bcd42356b5e839e4_800x800ar.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://mb.cision.com/Public/23602/4429415/bcd42356b5e839e4_800x800ar.jpg" alt="" /></p>
+<p>Volvo Cars has brought Hexagon Robotics' wheeled AEON humanoids to its Ghent, Belgium plant, the first Volvo factory to trial humanoids. Its own team is training the robots with imitation learning, starting with placing components into two fixtures with high precision.</p><p>AEON stands 1.65 m tall, weighs 60 kg, moves on wheels at up to 2.4 m/s and carries up to 10 kg. A factory pilot with more units is planned for the first half of 2027, with real production use targeted from mid-2027.</p>]]></description>
+    </item>
+<item>
       <title>XPeng prices IRON humanoid near EV cost, targets tens of thousands of sales in 2027</title>
       <link>https://www.digitaltrends.com/cool-tech/xpeng-iron-humanoid-robot-ev-price-home/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-26-xpeng-iron-ev-price</guid>
@@ -685,19 +695,6 @@
 <li>AGIBOT humanoids are already working in JD Logistics' "Wolf" warehouse.</li>
 <li>Cao repeated JD Logistics' target of buying 3 million robots, 1 million autonomous vehicles and 100,000 drones over five years (first announced in September).</li></ul>
 <p>Sources: <a href="https://ai123.com/newshub/17231">AI123</a>, <a href="https://finance.sina.cn/stock/jdts/2026-11-04/detail-inixqhkx8080298.d.html">IT Home via Sina (Chinese)</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Tesla shows its latest gold Optimus beside the production Cybercab at China's Import Expo, opening Nov 5</title>
-      <link>https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-tesla-optimus-ciie-shanghai</guid>
-      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
-      <enclosure url="https://www.cybercab.news/images/cybercab-ciie-shanghai-production-nov4/hero-1400.jpg" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://www.cybercab.news/images/cybercab-ciie-shanghai-production-nov4/hero-1400.jpg" alt=""/></p>
-<p>Tesla has its first dedicated zone at the 9th China International Import Expo in Shanghai (Nov. 5–10), part of the 2,700-square-meter Lingang showcase, the expo's largest single exhibit area. First-look photos posted Wednesday show Optimus humanoids standing next to the production Cybercab.</p>
-<ul><li>Organizers say the latest-generation gold Optimus robots will act out factory work, carry luggage and walk a dog.</li>
-<li>The display is static: Tesla has no plans to sell the Cybercab or run robotaxi rides in China.</li>
-<li>No new Optimus specs, pricing or reservation dates were announced; Elon Musk recently denied a report that Optimus reservations open in December.</li></ul>
-<p>Sources: <a href="https://www.cybercab.news/article/cybercab-ciie-shanghai-production-nov4">CyberCab.News</a>, <a href="https://english.shanghai.gov.cn/en-Latest-WhatsNew/20261030/b2dfcb0b6adc4285a8bc5f23bdc58f35.html">Shanghai government</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
