@@ -7,7 +7,8 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/hacker-news.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 27 Nov 2026 21:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:10:58 GMT</lastBuildDate>
+    
     
     
     
@@ -26,6 +27,13 @@
     
     
     <item>
+      <title>Hacker News top 10 — Sat, Nov 28</title>
+      <link>https://news.ycombinator.com/news</link>
+      <guid isPermaLink="false">updatebot-hn-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 21:10:27 GMT</pubDate>
+      <description><![CDATA[<p>The top 10 stories on the Hacker News front page on Saturday, Nov 28, 2026, in front-page order.</p><ol><li><p><strong><a href="https://cs.stanford.edu/~knuth/moratorium.html">Donald Knuth suspends error bounties due to an influx of AI-generated reports</a></strong> · cs.stanford.edu</p><p>Knuth suspends TeX error bounties after flood of AI-generated reports</p><p><a href="https://news.ycombinator.com/item?id=50680168">363 points · 80 comments</a></p></li><li><p><strong><a href="https://emailfa.st/blog/gmail-send-as-ending-cloudflare-email-routing">Gmail "Send as" ends January 2027</a></strong> · emailfa.st</p><p>Gmail 'Send as' ends Jan 2027; Cloudflare Email Routing suggested as alternative</p><p><a href="https://news.ycombinator.com/item?id=50681509">84 points · 44 comments</a></p></li><li><p><strong><a href="https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks">Audible removes download option for purchased audiobooks</a></strong> · consumerrights.wiki</p><p>Audible removes download option for purchased audiobooks</p><p><a href="https://news.ycombinator.com/item?id=50676723">816 points · 353 comments</a></p></li><li><p><strong><a href="https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/">Computer Disease (2020)</a></strong> · blog.adafruit.com</p><p>Feynman on 'computer disease' (2020 repost)</p><p><a href="https://news.ycombinator.com/item?id=50679708">148 points · 52 comments</a></p></li><li><p><strong><a href="https://tinysfo.com/">Show HN: I made a tiny live replica of SFO</a></strong> · tinysfo.com</p><p>Show HN: tiny live replica of SFO airport</p><p><a href="https://news.ycombinator.com/item?id=50681616">31 points · 8 comments</a></p></li><li><p><strong><a href="https://xinyadu.github.io/blog/claude-code-sabotage.html">Claude Code sabotage: preliminary benchmarking</a></strong> · xinyadu.github.io</p><p>Claude Code sabotage: preliminary benchmarking results</p><p><a href="https://news.ycombinator.com/item?id=50676390">828 points · 281 comments</a></p></li><li><p><strong><a href="https://earthquake.usgs.gov/earthquakes/eventpage/ci41581136/executive">5.0 Earthquake West of LA</a></strong> · earthquake.usgs.gov</p><p>5.0 earthquake west of Los Angeles</p><p><a href="https://news.ycombinator.com/item?id=50680175">86 points · 34 comments</a></p></li><li><p><strong><a href="https://www.sega-dreamcast-info.com/en/rez-dreamcast-development-history-prototypes-minidv-archive">Rez Dreamcast, Its Prototypes: When Psychedelic Gaming Came to Consoles</a></strong> · sega-dreamcast-info.com</p><p>Rez on Dreamcast: prototypes and psychedelic gaming history</p><p><a href="https://news.ycombinator.com/item?id=50637487">31 points · 9 comments</a></p></li><li><p><strong><a href="https://malspark.com/blog/malicious-gguf-models-hugging-face/">GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims</a></strong> · malspark.com</p><p>Malicious GGUF models on Hugging Face reached 2,400 victims</p><p><a href="https://news.ycombinator.com/item?id=50676752">221 points · 62 comments</a></p></li><li><p><strong><a href="https://twitter.com/TimSweeneyEpic/status/2126682647862862063">Silently degrading the model's capabilities IS sabotage</a></strong> · twitter.com</p><p>Tim Sweeney: silently degrading a model IS sabotage</p><p><a href="https://news.ycombinator.com/item?id=50678901">405 points · 140 comments</a></p></li></ol>]]></description>
+    </item>
+<item>
       <title>Hacker News top 10 — Fri, Nov 27</title>
       <link>https://news.ycombinator.com/news</link>
       <guid isPermaLink="false">updatebot-hn-2026-11-27</guid>
