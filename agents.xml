@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Nov 2026 21:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:16:00 GMT</lastBuildDate>
+<item>
+<title>AWS launches Amazon Quick desktop app, an always-on workplace agent</title>
+<link>https://brandcommasia.com/aws-launches-amazon-quick-desktop-ai-assistant/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-28-amazon-quick-desktop</guid>
+<pubDate>Fri, 27 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://brandcommasia.com/wp-content/uploads/2026/11/image-14.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://brandcommasia.com/wp-content/uploads/2026/11/image-14.jpg" alt=""/></p>
+<p>AWS launched a desktop app for Amazon Quick on Nov 27, its always-on workplace assistant that lives on your laptop, reads local files and calendar, and works across apps instead of inside one vendor’s walled garden.</p><p>Quick runs continuously in the background, surfacing what needs attention before meetings, and adds new connectors for Google Workspace, Zoom and Microsoft 365, plus custom-app building in preview. Amazon says large customers including 3M, BMW and the NFL already use it. Read the <a href="https://brandcommasia.com/aws-launches-amazon-quick-desktop-ai-assistant/">launch post</a>.</p>]]></description>
+</item>
 <item>
 <title>Meta's Muse hits a wall as retailers push back on AI shopping agents</title>
 <link>https://cryptobriefing.com/meta-muse-ai-shopping-agents-struggle/</link>
@@ -546,17 +555,6 @@
 <p>OpenAI's James Sun, who works on browser use for Codex and ChatGPT, <a href="https://x.com/JamesZmSun/status/2119147164039618879">announced on Nov 7</a> that a dot can now use sign-in codes sent to your connected inbox to log in on your behalf.</p>
 <p>When a site sends a code, the dot asks first: you can let it use the code once or always allow it to fill codes in. Sun said "lots more sign-in improvements" are coming soon.</p>
 <p>OpenAI's <a href="https://help.openai.com/en/articles/20001529-dots-privacy-security-and-safety-faqs">dots security FAQ</a> still says you may need to provide a code or take over for some security checks, and <a href="https://bytefwd.com/openai-dots-connected-apps-availability/">ByteForward</a> notes this covers emailed codes, not every sign-in method. Early users quoted by <a href="https://cryptobriefing.com/openai-dots-agents-2fa-email-codes/">Crypto Briefing</a> report dots sometimes still pause before entering codes.</p>]]></description>
-</item>
-<item>
-<title>Meta launches Muse in Mexico, its first Latin American market, with local shopping and travel connectors</title>
-<link>https://about.fb.com/ltam/news/2026/09/presentamos-muse-el-primer-agente-de-ia-personal-del-mundo-creado-para-todos/</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-07-muse-mexico-launch</guid>
-<pubDate>Sun, 08 Nov 2026 01:14:16 GMT</pubDate>
-<enclosure url="https://about.fb.com/ltam/wp-content/uploads/sites/14/2026/09/Muse-Neswsroom-Banner.jpg?w=1200" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://about.fb.com/ltam/wp-content/uploads/sites/14/2026/09/Muse-Neswsroom-Banner.jpg?w=1200" alt="Meta Muse"/>
-<p>Meta has launched Muse in Mexico, the first Latin American country to get its personal AI agent, according to a Nov 5 update to <a href="https://about.fb.com/ltam/news/2026/09/presentamos-muse-el-primer-agente-de-ia-personal-del-mundo-creado-para-todos/">Meta's Latin America newsroom post</a>. People 18 and older can use it in Spanish on iOS, Android, muse.ai, and through WhatsApp.</p>
-<p>Muse arrives with local connectors for Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, Rappi and Walmart México, so it can compare prices, track orders, check flights or buy movie tickets from one conversation. <a href="https://es.wired.com/articulos/muse-el-agente-de-ia-de-meta-llega-a-mexico-que-puede-hacer-y-como-utilizarlo">WIRED en Español</a> notes some of those brand features will turn on gradually.</p>
-<p>Basic use is free, with optional paid plans, matching the US model. Mexico follows Japan (Oct 23) and Singapore (Oct 27) as Muse expands outside the US; <a href="https://mexiconewsdaily.com/business/meta-launches-its-muse-ai-agent-mexico-first-for-latin-american-market/">Mexico News Daily</a> has an English write-up.</p>]]></description>
 </item>
 </channel>
 </rss>
