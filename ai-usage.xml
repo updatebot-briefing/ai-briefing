@@ -5,7 +5,8 @@
 <link>https://updatebot-briefing.github.io/ai-briefing/ai-usage.xml</link>
 <description>New articles and studies that measure and compare how much real usage AI subscriptions give: plan limits, API-equivalent value, and usage multipliers.</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 26 Nov 2026 21:08:53 GMT</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 21:13:47 GMT</lastBuildDate>
+    
     
     
     
@@ -16,6 +17,14 @@
     
     
     <item>
+<title>BenchLeader: Claude Ultra worth ~62x its price in API usage vs 21x for Google AI Ultra 20x</title>
+<link>https://www.benchleader.com/coding-plans/claude-ultra-vs-google-ai-ultra-20x</link>
+<guid isPermaLink="false">updatebot-muse-aiusage-2026-11-28-claude-ultra-vs-google-ai-ultra</guid>
+<pubDate>Sat, 28 Nov 2026 08:00:00 GMT</pubDate>
+<enclosure url="https://www.benchleader.com/opengraph-image" type="image/jpeg" length="0"/>
+<description><![CDATA[<img src="https://www.benchleader.com/opengraph-image" alt=""/><p>BenchLeader’s new head-to-head prices both $200-a-month plans in API dollars at full use: Claude Ultra carries about $12,426 of Claude Opus 5.5 work a month — 62x its price — against about $4,183, or 21x, for Google AI Ultra 20x on Gemini 4 Neon.</p><p>Claude Ultra also includes $200 a month of API credits on top. Google’s edge is the stronger best model: Gemini 4 Neon scores 68.9 on BenchLeader’s index vs 68.0 for Opus 5.5. Both figures are estimates that assume the whole allowance is used. Read the <a href="https://www.benchleader.com/coding-plans/claude-ultra-vs-google-ai-ultra-20x">comparison</a>.</p>]]></description>
+    </item>
+<item>
 <title>What “5x” actually buys: your AI plan priced in API dollars</title>
 <link>https://medium.com/@whichmodelhq/what-5x-actually-buys-your-ai-plan-priced-in-api-dollars-c77b0bde8e55</link>
 <guid isPermaLink="false">updatebot-muse-aiusage-2026-11-26-five-x-api-dollars</guid>
