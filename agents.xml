@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Nov 2026 21:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:13:14 GMT</lastBuildDate>
+<item>
+<title>Meta's Muse hits a wall as retailers push back on AI shopping agents</title>
+<link>https://cryptobriefing.com/meta-muse-ai-shopping-agents-struggle/</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-28-muse-retailer-pushback</guid>
+<pubDate>Sat, 28 Nov 2026 00:06:02 GMT</pubDate>
+<enclosure url="https://static.cryptobriefing.com/wp-content/uploads/2026/11/27190557/library-meta-s-muse-hits-a-wall-as-retailers-push-back-on-ai-sho-800x450.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://static.cryptobriefing.com/wp-content/uploads/2026/11/27190557/library-meta-s-muse-hits-a-wall-as-retailers-push-back-on-ai-sho-800x450.jpg" alt=""/></p>
+<p>Meta’s Muse has 10 million-plus users, but blocked websites and failed orders are exposing the limits of autonomous shopping, <a href="https://cryptobriefing.com/meta-muse-ai-shopping-agents-struggle/">Crypto Briefing reports</a>.</p><p>A Jefferies analysis found a third of leading US shopping sites block agents like Muse outright and another third restrict them; Visa’s testing found agents fail about 43% of attempted tasks, mostly on stock and availability mismatches. Meta is steering Muse toward willing retailers — Walmart, Target and Best Buy — instead of forcing its way onto every site.</p>]]></description>
+</item>
 <item>
 <title>Hermes Agent v0.23.5 rolls up ~338 PRs</title>
 <link>https://github.com/NousResearch/hermes-agent/releases/tag/v0.23.5</link>
@@ -549,18 +558,5 @@
 <p>Muse arrives with local connectors for Cinépolis, Coppel, Despegar, Kavak, Kueski, Liverpool, Rappi and Walmart México, so it can compare prices, track orders, check flights or buy movie tickets from one conversation. <a href="https://es.wired.com/articulos/muse-el-agente-de-ia-de-meta-llega-a-mexico-que-puede-hacer-y-como-utilizarlo">WIRED en Español</a> notes some of those brand features will turn on gradually.</p>
 <p>Basic use is free, with optional paid plans, matching the US model. Mexico follows Japan (Oct 23) and Singapore (Oct 27) as Muse expands outside the US; <a href="https://mexiconewsdaily.com/business/meta-launches-its-muse-ai-agent-mexico-first-for-latin-american-market/">Mexico News Daily</a> has an English write-up.</p>]]></description>
 </item>
-<item>
-    <title>Meta launches Muse Spaces so you can design custom experiences inside the Muse app</title>
-    <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
-    <guid isPermaLink="false">updatebot-breaking-2026-11-06-muse-spaces</guid>
-    <pubDate>Fri, 06 Nov 2026 18:29:55 +0000</pubDate>
-    <enclosure url="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png?w=1200" type="image/png" length="0"/>
-    <description><![CDATA[
-<img src="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Social-Share.png?w=1200" alt="" />
-<p>Meta today introduced <a href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/">spaces</a> in Muse: custom experiences you create by describing an idea, such as a gift tracker, school dashboard, trip planner, or small-business order tracker.</p>
-<p>You can put spaces in the sidebar or main tabs, hide or schedule them, and keep editing with Muse after the first build. Connected apps can keep a space updated in the background.</p>
-<p>Spaces are available everywhere Muse is available starting today. Meta says it is also exploring sharing spaces with others.</p>
-]]></description>
-  </item>
 </channel>
 </rss>
