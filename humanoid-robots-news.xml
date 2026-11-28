@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2026 21:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:15:26 GMT</lastBuildDate>
 
     
     
@@ -52,7 +52,17 @@
     
     
     
+    
     <item>
+      <title>Unitree unveils Embodied Avatar V3.0 Guardian teleoperation at 80 ms latency</title>
+      <link>https://zerogantry.com/articles/unitree-g1-teleoperation-hits-80ms-latency-with-v3-0-guardian</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-28-unitree-guardian-v3-teleoperation</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <enclosure url="https://i.ytimg.com/vi/GQHx67tzVCo/maxresdefault.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://i.ytimg.com/vi/GQHx67tzVCo/maxresdefault.jpg" alt="" /></p>
+<p>Unitree has introduced Embodied Avatar V3.0 Guardian, its third-generation full-body teleoperation system for humanoid robots such as the G1. A human operator in a motion-capture suit drives the robot's whole body in real time.</p><p>Unitree claims up to 99.8% motion synchronization in Standard Mode and as little as 80 ms end-to-end latency in Motion Mode. The demo shows the robot mirroring kicks, jumps and backflips, plus fine hand control.</p><p>Unitree pitches Guardian for remote work, supervised deployment and collecting demonstration data for training. All sync and latency figures are the company's own claims; no pricing or release date yet.</p>]]></description>
+    </item>
+<item>
       <title>Sota Unbounded raises angel round, targets 1,000 supermarket robot deployments in Europe</title>
       <link>https://robottoday.com/industry-briefing/sota-unbounded-raises-tens-of-millions-of-yuan-to-target-1-000-european-supermarket-robot-deployments/19215</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-28-sota-unbounded-supermarket-robots</guid>
@@ -675,19 +685,6 @@
 <li>Chained multi-step tasks scored lower (about 70% average on three sequences in one real room).</li>
 <li>Hardware runs untethered with a head camera and rear Mac mini; code for data generation, training and deployment is public.</li></ul>
 <p>Source: <a href="https://www.humanoidsdaily.com/news/apple-halo-humanoid-synthetic-data-unitree-g1">Humanoids Daily</a>. Paper: <a href="https://arxiv.org/abs/2611.06908">arXiv:2611.06908</a>. Project: <a href="https://apple-aiml-research.github.io/ml-halo/">Apple ML HALO page</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Unitree CEO says GPT-6-powered humanoids can paint and play chess with zero task training (CIIE remarks)</title>
-      <link>https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-05-unitree-gpt6-paint-chess-ciie</guid>
-      <pubDate>Thu, 05 Nov 2026 17:20:00 -0800</pubDate>
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/05/d4e61661-5ffe-4fc6-8dab-149f07f4c1f3_9da332b3.jpg?itok=zttvy0P8&amp;v=1793876255" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/05/d4e61661-5ffe-4fc6-8dab-149f07f4c1f3_9da332b3.jpg?itok=zttvy0P8&amp;v=1793876255" alt=""/></p>
-<p>At China’s Import Expo in Shanghai on Nov 5, Unitree founder Wang Xingxing said the company’s humanoids, powered by OpenAI’s GPT-6, can paint and play chess without prior task-specific training, including steps like changing brush water and blending pigments from live model inference.</p>
-<ul><li><strong>Unconfirmed company claim:</strong> remarks come from the CEO at a trade fair, not from a published benchmark or independent scorecard; no attempt counts or success rates were reported by SCMP.</li>
-<li>Wang framed the remaining industry bottleneck as a “last-millimetre” mechanical gap rather than digital planning.</li>
-<li>Separate coverage notes Unitree’s public skill demos still rely on calibrated motion tooling and (for chess) a specialist engine, so “zero training” should be read carefully.</li></ul>
-<p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo">South China Morning Post</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
