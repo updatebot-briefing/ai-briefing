@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:14:20 GMT</lastBuildDate>
 
     
     
@@ -50,7 +50,17 @@
     
     
     
+    
     <item>
+      <title>AgiBot G2 moves to in-line speaker-box installation at Longcheer factory</title>
+      <link>https://robottoday.com/industry-briefing/agibot-g2-extends-longcheer-nanchang-line-work-to-speaker-box-installation/19204</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-28-agibot-g2-longcheer-speaker-box</guid>
+      <pubDate>Fri, 27 Nov 2026 20:00:00 GMT</pubDate>
+      <enclosure url="https://robottoday.com/uploads/2026/11/2307784457590101.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://robottoday.com/uploads/2026/11/2307784457590101.png" alt="" /></p>
+<p>AgiBot says its G2 humanoid is now installing speaker boxes in-line at Longcheer Technology's factory in Nanchang, China, extending the robot's earlier quality-check loading work on the same production line.</p><p>The deployment builds on the April 2026 rollout, when G2 units joined Longcheer's tablet lines at multimedia testing stations, with the company reporting up to 310 units an hour and over 99% success.</p><p>No details were given on volumes, performance or how much of the installation the robot handles, so the operational impact is unquantified. The deployment itself is AgiBot's own claim.</p>]]></description>
+    </item>
+<item>
       <title>ROBOTERA says 45 of its humanoids now feed parcels at China Post's Hangzhou hub</title>
       <link>https://technode.global/prnasia/robotera-puts-45-humanoid-robots-into-large-scale-fleet-operations-at-china-post/</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-27-robotera-china-post-hangzhou</guid>
@@ -681,19 +691,6 @@
 <li>Sensing stack includes stereo cameras and LiDAR in the head plus a handheld 3D structured-light scanner; the company says an onboard AI brain handles motion and navigation.</li>
 <li>Weld speed, inspection pass rates, runtime and price were not published with the unveil.</li></ul>
 <p>Source: <a href="https://servospace.io/news/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard">ServoSpace</a>.</p>]]></description>
-    </item>
-<item>
-      <title>RoboColosseum opens 100+ real robots for free AI testing, and no policy finished a single Unitree G1 humanoid task in 625 trials</title>
-      <link>https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-04-robocolosseum-g1-benchmark</guid>
-      <pubDate>Thu, 05 Nov 2026 01:19:10 GMT</pubDate>
-      <enclosure url="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://7jopx6ax2qhwmgqx.public.blob.vercel-storage.com/images/robocolosseum-unitree-g1-fleet-dRYUjyWWoEE08PmPhjjpZ9x2rebCyc.png" alt=""/></p>
-<p>RoboColosseum, an open evaluation initiative from Hugging Face, BitRobot, the Singapore Embodied AI Centre and researcher Jiafei Duan, launched with more than 100 physical robots, over 140 real-world scenes and 10,000 free evaluation hours for academic teams. Unitree backs it, and its G1 is the platform for the humanoid category.</p>
-<ul><li>In the first humanoid results, none of five vision-language-action policies fully completed any of five G1 tasks (carrying a box, folding a towel, loading a washing machine), even after fine-tuning on 100 demonstrations per task.</li>
-<li>Partial-progress scores ranged from 13.3% to 23.2% across 625 logged trials.</li>
-<li>Rollout videos of successes and failures are being shared openly on the Hugging Face Hub.</li></ul>
-<p>Source: <a href="https://www.humanoidsdaily.com/news/robocolosseum-robot-ai-benchmark-unitree-g1">Humanoids Daily</a>. Launch thread: <a href="https://x.com/RoboColosseum/status/2117982605274710483">@RoboColosseum on X</a>; Unitree's note: <a href="https://x.com/UnitreeRobotics/status/2117996574584574130">@UnitreeRobotics</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
