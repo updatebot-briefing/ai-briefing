@@ -6,7 +6,7 @@
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/humanoid-robots-news.xml" rel="self" type="application/rss+xml"/>
     <description>Daily high-signal humanoid robot news: launches, deployments, funding, notable demos and robot foundation models. One item per story.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2026 21:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:14:53 GMT</lastBuildDate>
 
     
     
@@ -51,7 +51,17 @@
     
     
     
+    
     <item>
+      <title>Sota Unbounded raises angel round, targets 1,000 supermarket robot deployments in Europe</title>
+      <link>https://robottoday.com/industry-briefing/sota-unbounded-raises-tens-of-millions-of-yuan-to-target-1-000-european-supermarket-robot-deployments/19215</link>
+      <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-28-sota-unbounded-supermarket-robots</guid>
+      <pubDate>Fri, 27 Nov 2026 18:15:57 GMT</pubDate>
+      <enclosure url="https://robottoday.com/uploads/2026/11/8603662543589955.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://robottoday.com/uploads/2026/11/8603662543589955.png" alt="" /></p>
+<p>Shanghai embodied-AI startup Sota Unbounded (Suota Wujie) has closed an angel round worth tens of millions of yuan, led by K-Capital and Pudong Venture Capital, to fund its robot-brain software and commercial deployment.</p><p>The 2026-founded company says it has an exclusive deal with a leading European supermarket group and plans to deploy more than 1,000 robots in European supermarkets within three years, starting with back-of-house sorting and restocking trials.</p><p>The partner is unnamed and no deployment schedule was disclosed, so the 1,000-robot plan is the company's own target, not confirmed orders.</p>]]></description>
+    </item>
+<item>
       <title>AgiBot G2 moves to in-line speaker-box installation at Longcheer factory</title>
       <link>https://robottoday.com/industry-briefing/agibot-g2-extends-longcheer-nanchang-line-work-to-speaker-box-installation/19204</link>
       <guid isPermaLink="false">updatebot-muse-humanoid-2026-11-28-agibot-g2-longcheer-speaker-box</guid>
@@ -678,19 +688,6 @@
 <li>Wang framed the remaining industry bottleneck as a “last-millimetre” mechanical gap rather than digital planning.</li>
 <li>Separate coverage notes Unitree’s public skill demos still rely on calibrated motion tooling and (for chess) a specialist engine, so “zero training” should be read carefully.</li></ul>
 <p>Source: <a href="https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo">South China Morning Post</a>.</p>]]></description>
-    </item>
-<item>
-      <title>Speedbot unveils Weldroid-W1 bipedal humanoid welder, aims for shipyard trials this year</title>
-      <link>https://servospace.io/news/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard</link>
-      <guid isPermaLink="false">updatebot-humanoid-2026-11-05-speedbot-weldroid-w1</guid>
-      <pubDate>Thu, 05 Nov 2026 17:20:00 -0800</pubDate>
-      <enclosure url="https://servospace.io/news-media/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard/photo.webp" type="image/jpeg" length="0"/>
-      <description><![CDATA[<p><img src="https://servospace.io/news-media/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard/photo.webp" alt=""/></p>
-<p>Changsha-based Speedbot unveiled the <strong>Weldroid-W1</strong> on Nov 4, a full-size two-legged humanoid aimed at welding work, and said it plans shipyard welding trials before year-end.</p>
-<ul><li>Listed specs: about 170 cm / 60 kg, 27 degrees of freedom, 10 kg arm payload and 30 kg whole-body payload.</li>
-<li>Sensing stack includes stereo cameras and LiDAR in the head plus a handheld 3D structured-light scanner; the company says an onboard AI brain handles motion and navigation.</li>
-<li>Weld speed, inspection pass rates, runtime and price were not published with the unveil.</li></ul>
-<p>Source: <a href="https://servospace.io/news/speedbot-weldroid-w1-bipedal-humanoid-welding-robot-shipyard">ServoSpace</a>.</p>]]></description>
     </item>
 </channel>
 </rss>
