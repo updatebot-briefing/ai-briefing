@@ -7,7 +7,16 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/agents.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Nov 2026 21:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:16:33 GMT</lastBuildDate>
+<item>
+<title>Musk: Grok Bot can't run at a negative gross margin; $2,000–$5,000 tier 'will implement'</title>
+<link>https://superchargeddaily.com/dispatch/grok-bot-higher-tiers-negative-margin.html</link>
+<guid isPermaLink="false">updatebot-muse-agents-2026-11-28-grok-bot-margin-tiers</guid>
+<pubDate>Fri, 27 Nov 2026 20:29:00 GMT</pubDate>
+<enclosure url="https://superchargeddaily.com/assets/dispatch/twenty-air-street-spacexsi-2026.jpg" type="image/jpeg" length="0"/>
+<description><![CDATA[<p><img src="https://superchargeddaily.com/assets/dispatch/twenty-air-street-spacexsi-2026.jpg" alt=""/></p>
+<p>On Nov 27, Elon Musk said Grok Bot “can’t scale a negative gross margin business” after a user complained usage limits “are still very bad.” When another user asked for a $2,000–$5,000-a-month tier, Musk replied: “Noted, will implement.”</p><p>That’s a pledge, not a launch: no price, date or allowance yet, and plans still top out at Ultra, $200 a month. It follows two efficiency boosts this month — about 7% on Nov 13 and 11% more usage on Nov 26. Read the <a href="https://superchargeddaily.com/dispatch/grok-bot-higher-tiers-negative-margin.html">full thread breakdown</a>.</p>]]></description>
+</item>
 <item>
 <title>AWS launches Amazon Quick desktop app, an always-on workplace agent</title>
 <link>https://brandcommasia.com/aws-launches-amazon-quick-desktop-ai-assistant/</link>
@@ -544,17 +553,6 @@
 <p>Hermes first maps what an attacker could reach and which inputs it trusts, then splits the code across parallel subagents, checks every candidate finding against the code, and traces whether it can actually be exploited.</p>
 <p>With test confirmation turned on, Hermes writes a small reproduction for each finding and runs it in a temporary copy of the repo. Each report records the evidence and the findings it ruled out, and exports to SARIF for existing security tools.</p>
 <p>You can run it from chat, the CLI, or a new Security page in Hermes Desktop. Cofounder <a href="https://x.com/Teknium/status/2119504222622474308">Teknium called it</a> a new official plugin to help analyze codebases for security bugs; it joins the <a href="https://hermes-agent.nousresearch.com/marketplace">Hermes Marketplace</a> of official plugins.</p>]]></description>
-</item>
-<item>
-<title>OpenAI dots can now use sign-in codes from your connected inbox to log in for you</title>
-<link>https://x.com/JamesZmSun/status/2119147164039618879</link>
-<guid isPermaLink="false">updatebot-agents-2026-11-08-dots-sign-in-code-autofill</guid>
-<pubDate>Mon, 09 Nov 2026 01:14:45 GMT</pubDate>
-<enclosure url="https://pbs.twimg.com/amplify_video_thumb/2119147052764729344/img/2fMsojRw7iNXdeJx.jpg" type="image/jpeg" length="0"/>
-<description><![CDATA[<img src="https://pbs.twimg.com/amplify_video_thumb/2119147052764729344/img/2fMsojRw7iNXdeJx.jpg" alt="dots sign-in code prompt"/>
-<p>OpenAI's James Sun, who works on browser use for Codex and ChatGPT, <a href="https://x.com/JamesZmSun/status/2119147164039618879">announced on Nov 7</a> that a dot can now use sign-in codes sent to your connected inbox to log in on your behalf.</p>
-<p>When a site sends a code, the dot asks first: you can let it use the code once or always allow it to fill codes in. Sun said "lots more sign-in improvements" are coming soon.</p>
-<p>OpenAI's <a href="https://help.openai.com/en/articles/20001529-dots-privacy-security-and-safety-faqs">dots security FAQ</a> still says you may need to provide a code or take over for some security checks, and <a href="https://bytefwd.com/openai-dots-connected-apps-availability/">ByteForward</a> notes this covers emailed codes, not every sign-in method. Early users quoted by <a href="https://cryptobriefing.com/openai-dots-agents-2fa-email-codes/">Crypto Briefing</a> report dots sometimes still pause before entering codes.</p>]]></description>
 </item>
 </channel>
 </rss>
