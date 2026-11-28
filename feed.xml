@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Nov 2026 21:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:04:31 GMT</lastBuildDate>
             
     
     
@@ -85,7 +85,17 @@
     
     
     
+    
     <item>
+      <title>UK Parliament demands Anthropic's unredacted METR safety report</title>
+      <link>https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-28-uk-parliament-metr-report</guid>
+      <pubDate>Sat, 28 Nov 2026 13:42:00 GMT</pubDate>
+      <enclosure url="https://the-decoder.com/wp-content/uploads/2026/11/ukflag_blue-1200x675.png" type="image/png" length="0"/>
+      <description><![CDATA[<p><img src="https://the-decoder.com/wp-content/uploads/2026/11/ukflag_blue-1200x675.png" alt=""/></p>
+<p>The UK Parliament has asked Anthropic for the full, unredacted version of METR's report on how fast AI is accelerating the company's own research, after Anthropic cut much of the evidence METR called “most informative” before publishing it on Nov 5.</p><p>Committee chair Liam Byrne wants the material and an explanation of the redactions by Dec 4. METR found AI speeding Anthropic's work about 1.9x faster, with a risk of further acceleration. Read <a href="https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/">The Decoder</a>.</p>]]></description>
+    </item>
+<item>
       <title>Musk: Google wants to rent more SpaceX compute</title>
       <link>https://stockanalysis.com/news/google-wants-more-spacex-compute/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-28-google-spacex-compute-rental</guid>
@@ -593,13 +603,6 @@
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-openai-chatgpt-wallet</guid>
       <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
       <description><![CDATA[<p>OpenAI introduced ChatGPT Wallet on Nov 13, calling it the first wallet that lets agents pay without access to users' actual card details. Every purchase needs a security check such as Face ID, and payments use network tokens, so merchants never see the real card number.</p><p>Built with American Express, Mastercard and Visa, it rolls out first in dots for US ChatGPT Pro subscribers aged 18 and over with eligible US-issued cards. Card rewards and dispute protections carry over, and OpenAI published a Commerce Partner Playbook to help businesses accept agent purchases.</p>]]></description>
-    </item>
-<item>
-      <title>Cursor traces poisoned Claude Code extension to a leaked Fireworks AI key; up to 5,000 users exposed</title>
-      <link>https://www.2-spyware.com/cursor-confirms-breach-behind-fake-claude-code-extension</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-cursor-claude-code-postmortem</guid>
-      <pubDate>Sat, 14 Nov 2026 21:03:54 GMT</pubDate>
-      <description><![CDATA[<p>Cursor published its full investigation on Nov 13 into the Oct 29 incident. An access key Cursor issued to Fireworks AI was exposed by Fireworks; the attacker copied data from a shared read-only bucket, found unredacted credentials in old coding-agent traces, and planted tampered copies of Anthropic's Claude Code extension, versions 2.1.312 and 2.1.313, in the cache behind Cursor's extension marketplace.</p><p>At most 5,000 users may have received the malicious build during an 11-hour window. The payload tried to install a persistent SSH backdoor, and Cursor warns uninstalling the extension alone may not be enough. Anthropic says its own systems were not compromised.</p>]]></description>
     </item>
 </channel>
 </rss>
