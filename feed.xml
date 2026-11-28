@@ -7,7 +7,7 @@
     <language>en-us</language>
     <ttl>60</ttl>
     <atom:link href="https://updatebot-briefing.github.io/ai-briefing/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 28 Nov 2026 21:03:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 21:03:58 GMT</lastBuildDate>
             
     
     
@@ -84,7 +84,17 @@
     
     
     
+    
     <item>
+      <title>Musk: Google wants to rent more SpaceX compute</title>
+      <link>https://stockanalysis.com/news/google-wants-more-spacex-compute/</link>
+      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-28-google-spacex-compute-rental</guid>
+      <pubDate>Sat, 28 Nov 2026 07:48:00 GMT</pubDate>
+      <enclosure url="https://api.stockanalysis.com/api/assets/photo/social/99f12794-6c52-4ff7-8923-fccf2bf59f98.jpg" type="image/jpeg" length="0"/>
+      <description><![CDATA[<p><img src="https://api.stockanalysis.com/api/assets/photo/social/99f12794-6c52-4ff7-8923-fccf2bf59f98.jpg" alt=""/></p>
+<p>Elon Musk said on X early Saturday that Google has “expressed interest in renting more compute” from SpaceX, adding that large training clusters are getting more expensive to rent while small ones get cheaper.</p><p>Google already pays SpaceX $920 million a month for about 110,000 Nvidia GPUs under a June deal running to June 2029. No expanded agreement has been announced. Read <a href="https://stockanalysis.com/news/google-wants-more-spacex-compute/">StockAnalysis</a>.</p>]]></description>
+    </item>
+<item>
       <title>Anthropic denies Claude is trained to sabotage users' work</title>
       <link>https://techcrunch.com/2026/11/28/anthropic-denies-that-claude-is-trained-to-sabotage-work/</link>
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-28-anthropic-claude-sabotage-denial</guid>
@@ -590,15 +600,6 @@
       <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-cursor-claude-code-postmortem</guid>
       <pubDate>Sat, 14 Nov 2026 21:03:54 GMT</pubDate>
       <description><![CDATA[<p>Cursor published its full investigation on Nov 13 into the Oct 29 incident. An access key Cursor issued to Fireworks AI was exposed by Fireworks; the attacker copied data from a shared read-only bucket, found unredacted credentials in old coding-agent traces, and planted tampered copies of Anthropic's Claude Code extension, versions 2.1.312 and 2.1.313, in the cache behind Cursor's extension marketplace.</p><p>At most 5,000 users may have received the malicious build during an 11-hour window. The payload tried to install a persistent SSH backdoor, and Cursor warns uninstalling the extension alone may not be enough. Anthropic says its own systems were not compromised.</p>]]></description>
-    </item>
-<item>
-      <title>Claude went down twice on Nov 13 as Microsoft's 365 outage broke its Outlook tools</title>
-      <link>https://vandatateam.com/blog/claude-microsoft-outages</link>
-      <guid isPermaLink="false">updatebot-muse-ainews-2026-11-14-claude-outages-nov13</guid>
-      <pubDate>Fri, 13 Nov 2026 15:38:00 GMT</pubDate>
-      <enclosure url="https://vandatateam.com/images/blog/claude-microsoft-outages/claude-microsoft-outages-cover-og.png" type="image/png" length="0"/>
-      <description><![CDATA[<p><img src="https://vandatateam.com/images/blog/claude-microsoft-outages/claude-microsoft-outages-cover-og.png" alt=""/></p>
-<p>Anthropic's status page lists two Claude incidents on Nov 13: a sign-in failure from 09:58 to 11:58 UTC that locked users out of claude.ai and Claude Code, then a wider outage from 13:09 to 15:38 UTC hitting claude.ai, the Claude API, Claude Code, connectors and Managed Agents. Some scheduled routines ran more than two hours late or were skipped.</p><p>Anthropic has not published a cause for either incident. Separately, the global Microsoft 365 outage that began Nov 12 broke Claude's Microsoft 365 connector and Claude for Outlook for about 24 hours.</p>]]></description>
     </item>
 </channel>
 </rss>
